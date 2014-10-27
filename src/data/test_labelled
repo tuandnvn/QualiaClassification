@@ -1,0 +1,14 @@
+wear	shoes		telic
+build	garden		agentive
+paint	picture		agentive
+paint	body		formal
+repair	roof	formal
+shoot	bird		formal
+shoot	bolt		telic
+transport	cargo	formal
+eat		calories	formal
+eat		lunch		telic
+drink	water		formal
+drink	juice		telic
+bake	cake		agentive
+bake	potato		formal

@@ -1,0 +1,226 @@
+wear	shoes		telic
+wear	clothes		telic
+wear 	coat		telic
+wear	hat			telic
+wear	wig			telic
+wear	makeup		telic
+wear 	helmet		telic
+wear	wig			telic
+wear	shirt		telic
+wear	crown		telic
+wear	uniform		telic
+wear	ring		telic
+wear	boot		telic
+wear	mask		telic
+wear	skirt		agentive
+build	garden		agentive
+build	company		agentive
+build	house		agentive
+build	city		agentive
+build	computer	agentive
+build	wall		agentive
+build	facility	agentive
+build	map			agentive
+build	system		agentive
+build	line		agentive
+build	castle		agentive
+build	chapel		agentive
+paint	picture		agentive
+paint	ceiling		agentive	formal
+paint	face		formal
+paint	surface		formal
+paint	body		formal
+paint	figure		agentive
+paint 	wall		formal	agentive
+paint 	town		formal	constitutive
+paint 	nail		formal		
+paint 	portrait	agentive
+paint 	eyebrow		formal
+repair	car			formal constitutive
+repair	computer	formal constitutive
+repair	battery		formal
+repair	equipment	formal
+repair	damage		formal
+repair	file		formal
+repair	hair		formal
+repair	bridge		formal constitutive
+repair	credit		formal
+repair	rupture		formal
+repair	roof	formal
+repair	buildings	formal	constitutive
+shoot	bird		formal
+shoot	bison		formal
+shoot	plane		formal
+shoot	prisoner		formal
+shoot	president		formal
+shoot	bolt		telic
+shoot	rocket		telic
+shoot	arrow		telic
+shoot 	gun			telic
+transport	cargo	formal
+transport	virus	formal
+transport	animal	formal
+transport	goods	formal
+transport	item	formal
+transport	waste	formal
+transport	material	formal
+transport	food	formal
+transport	water	formal
+transport	oil	formal
+eat		calories	formal
+eat		food		telic
+eat		fat			formal
+eat		fruit		formal telic
+eat		meat		formal telic
+eat		snack		telic
+eat		carbohydrate	formal
+eat		breakfast	telic
+eat		supper		telic
+eat		bread		telic
+eat		lunch		telic
+drink	water		formal
+drink	juice		telic
+drink	cup			telic formal
+drink	coffee		telic
+drink	beer		telic
+drink	pepsi		telic
+drink	milk		telic
+drink	wine		telic
+drink	alcohol		telic
+drink	tea			telic
+bake	cake		agentive
+bake	loaf		agentive
+bake	chicken		formal	agentive
+bake	potato		formal
+bake 	pumpkin		formal
+bake	brownie		agentive
+bake	salmon		formal agentive
+bake	dessert		agentive
+bake	cookies		agentive
+bake	pudding		agentive
+bake	custard		agentive
+cook	chicken		formal	agentive
+cook	beef		formal	agentive
+cook	dish		agentive
+cook	bamboo		formal
+cook	dinner		agentive
+cook	egg			formal agentive
+cook	rice		agentive
+cook	crab		formal agentive
+compute	score		agentive
+compute	cost		formal
+compute	chance		formal
+compute	vector		agentive
+compute	potential	formal
+compute	capacity	formal
+grow	hair		agentive	formal
+grow	plant		agentive
+grow 	maize		agentive
+grow	network		formal
+grow	pea			agentive
+grow	cell		agentive
+grow 	muscle		agentive	formal
+extract	content		formal	agentive
+extract	oil			formal	agentive
+extract	data		formal	agentive
+extract	number		agentive
+extract	energy		agentive
+extract	mineral		formal	agentive
+extract	water		formal
+purify	water		formal	agentive
+purify	blood		formal
+purify	air			formal
+purify	lymph		formal
+assemble	team	agentive
+assemble	part	formal
+assemble 	molecule	agentive
+assemble	evidence	agentive
+assemble	weapon		agentive
+assemble	unit		formal
+assemble	details		formal
+melt		oil		formal
+melt		fat		formal
+melt	chocolate		formal
+melt	surface		formal
+melt	butter		formal
+melt	fat			formal	
+melt	gold		agentive	formal
+compose	music		agentive
+compose	collection	agentive
+compose	list		agentive
+compose	essay		agentive
+compose	piece		agentive
+compose	article		agentive
+treat	allergy		agentive	formal
+treat	cancer		agentive	formal
+treat	patient		formal
+treat	victim		formal
+treat	illness		agentive	formal
+treat	dysfunction		agentive	formal
+treat	acne		agentive	formal
+treat	scar		agentive	formal
+burn	coal		telic	
+burn	fuel		telic
+burn	calories	telic
+burn	photo		formal
+burn	wood		formal	telic
+burn	victim		formal
+burn	candle		telic
+burn	match		telic
+ride	bicycle		telic	formal
+ride	horse		formal
+ride	motorcycle	telic	formal
+ride	train		telic	formal
+ride	bus			telic	formal
+write	novel		agentive
+write	paper		agentive
+write	essay		agentive
+write	story		agentive
+write	poem		agentive
+write	music		agentive
+write	mail		agentive
+write	software	agentive
+read	book		telic
+read	newspaper	telic
+read	copy		formal
+read	file		formal
+read	information		formal	telic
+read	number		formal
+read	diary		formal
+read	horoscope	formal
+read	subtitle	telic
+watch	movie		telic
+watch	video		telic
+watch	television		telic
+watch	sunrise		formal
+watch	fish		formal
+watch	wildlife	formal
+watch	screen		formal
+watch	football	telic
+find	technique	agentive
+find	pattern		agentive
+find 	job			formal
+find 	way			formal
+find 	food		formal
+find 	information	formal
+find	answer		agentive
+find	evidence	formal	agentive
+find 	solution	agentive
+hit		people		formal
+hit		car			formal
+hit		ground		formal
+hit		tree		formal
+hit		deer		formal
+hit		building	formal
+fire	missile		telic
+fire	gun			telic
+fire	rocket		telic
+fire	weapon		telic
+fire	bullet		telic
+fire	shot		formal
+fire	round		formal
+bomb	town		formal
+bomb	hospital	formal	agentive
+bomb	city		formal
+bomb	enemy		formal	agentive
+bomb	city		formal
