@@ -1,0 +1,26 @@
+1	James	james	NNP	_	3	nn	_
+2	L.	l.	NNP	_	3	nn	_
+3	Pate	pate	NNP	_	11	nsubjpass	_
+4	,	,	,	_	3	punct	_
+5	54-year-old	0-year-old	JJ	_	8	amod	_
+6	executive	executive	NN	_	8	nn	_
+7	vice	vice	NN	_	8	nn	_
+8	president	president	NN	_	3	appos	_
+9	,	,	,	_	3	punct	_
+10	was	be	VBD	_	11	auxpass	_
+11	named	name	VBN	_	0	root	_
+12	a	a	DT	_	13	det	_
+13	director	director	NN	syn=PRD	11	oprd	_
+14	of	of	IN	_	13	prep	_
+15	this	this	DT	_	17	det	_
+16	oil	oil	NN	_	17	nn	_
+17	concern	concern	NN	_	14	pobj	_
+18	,	,	,	_	11	punct	_
+19	expanding	expand	VBG	syn=ADV	11	advcl	_
+20	the	the	DT	_	21	det	_
+21	board	board	NN	_	19	dobj	_
+22	to	to	TO	syn=CLR	19	prep	_
+23	14	0	CD	_	24	num	_
+24	members	member	NNS	_	22	pobj	_
+25	.	.	.	_	11	punct	_
+

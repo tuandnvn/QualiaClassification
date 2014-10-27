@@ -1,0 +1,845 @@
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Welcome	welcome	VBP	_	0	root	_
+2	back	back	RB	syn=CLR	1	advmod	_
+3	to	to	TO	_	2	prep	_
+4	our	our	PRP$	_	5	poss	_
+5	show	show	NN	_	3	pobj	_
+6	!	!	.	_	1	punct	_
+7	/	/	SU	_	1	dep	_
+
+1	OK	ok	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	This	this	DT	_	2	nsubj	_
+2	is	be	VBZ	_	0	root	_
+3	Maria	maria	NNP	syn=PRD	2	attr	_
+4	,	,	,	_	2	punct	_
+5	/	/	SU	_	2	dep	_
+
+1	and	and	CC	_	5	cc	_
+2	I	I	PRP	_	5	nsubj	_
+3	do	do	VBP	_	5	aux	_
+4	n't	not	RB	_	5	neg	_
+5	know	know	VB	_	0	root	_
+6	your	your	PRP$	_	8	poss	_
+7	last	last	JJ	_	8	amod	_
+8	name	name	NN	_	5	dobj	_
+9	.	.	.	_	5	punct	_
+10	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Polk	polk	NNP	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	nmod	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Oh	oh	UH	_	3	intj	_
+2	that	that	DT	_	3	nsubj	_
+3	's	's	VBZ	_	0	root	_
+4	good	good	JJ	syn=PRD	3	acomp	_
+5	.	.	.	_	3	punct	_
+6	/	/	SU	_	3	dep	_
+
+1	From	from	IN	sem=DIR	5	prep	_
+2	Polkton	polkton	NNP	_	1	pobj	_
+3	,	,	,	_	5	punct	_
+4	Maria	maria	NNP	_	5	nn	_
+5	Polk	polk	NNP	_	0	root	_
+6	.	.	.	_	5	punct	_
+7	/	/	SU	_	5	dep	_
+
+1	OK	ok	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	And	and	CC	_	5	cc	_
+2	where	where	WRB	sem=LOC	5	advmod	_
+3	did	do	VBD	_	5	aux	_
+4	you	you	PRP	_	5	nsubj	_
+5	grow	grow	VB	_	0	root	_
+6	up	up	RP	_	5	prt	_
+7	?	?	.	_	5	punct	_
+8	/	/	SU	_	5	dep	_
+
+1	Were	be	VBD	_	3	auxpass	_
+2	you	you	PRP	_	3	nsubjpass	_
+3	born	bear	VBN	_	0	root	_
+4	in	in	IN	sem=LOC	3	prep	_
+5	this	this	DT	_	6	det	_
+6	area	area	NN	_	4	pobj	_
+7	here	here	RB	sem=LOC	6	advmod	_
+8	?	?	.	_	3	punct	_
+9	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	I	I	PRP	_	3	nsubjpass	_
+2	was	be	VBD	_	3	auxpass	_
+3	born	bear	VBN	_	0	root	_
+4	in	in	IN	sem=LOC	3	prep	_
+5	Cottonville	cottonville	NNP	_	4	pobj	_
+6	.	.	,	_	5	punct	_
+7	Right	right	RB	_	8	advmod	_
+8	outside	outside	RB	sem=LOC	5	advmod	_
+9	of	of	IN	_	8	prep	_
+10	Norwood	norwood	NNP	_	9	pobj	_
+11	in	in	IN	sem=LOC	5	prep	_
+12	Stanley	stanley	NNP	_	13	nn	_
+13	County	county	NNP	_	11	pobj	_
+14	.	.	.	_	3	punct	_
+15	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Oh	oh	UH	_	0	root	_
+2	,	,	,	_	1	punct	_
+3	OK	ok	UH	_	1	intj	_
+4	.	.	.	_	1	punct	_
+5	/	/	SU	_	1	dep	_
+
+1	When	when	WRB	sem=TMP	3	advmod	_
+2	you	you	PRP	_	3	nsubj	_
+3	were	be	VBD	sem=TMP	9	advcl	_
+4	little	little	JJ	syn=PRD	3	acomp	_
+5	,	,	,	_	9	punct	_
+6	did	do	VBD	_	9	aux	_
+7	your	your	PRP$	_	8	poss	_
+8	mom	mom	NN	_	9	nsubj	_
+9	read	read	VB	_	0	root	_
+10	you	you	PRP	_	9	iobj	_
+11	books	book	NNS	_	9	dobj	_
+12	,	,	,	_	9	punct	_
+13	/	/	SU	_	9	dep	_
+
+1	or	or	CC	_	4	cc	_
+2	did	do	VBD	_	4	aux	_
+3	somebody	somebody	NN	_	4	nsubj	_
+4	read	read	VB	_	0	root	_
+5	you	you	PRP	_	4	iobj	_
+6	books	book	NNS	_	4	dobj	_
+7	in	in	IN	sem=LOC	4	prep	_
+8	your	your	PRP$	_	9	poss	_
+9	house	house	NN	_	7	pobj	_
+10	?	?	.	_	4	punct	_
+11	/	/	SU	_	4	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	My	my	PRP$	_	2	poss	_
+2	mama	mama	NNP	_	3	nsubj	_
+3	read	read	VBD	_	0	root	_
+4	to	to	TO	syn=CLR	3	prep	_
+5	me	me	PRP	_	4	pobj	_
+6	and	and	CC	_	5	cc	_
+7	my	my	PRP$	_	8	poss	_
+8	sister	sister	NN	_	5	conj	_
+9	.	.	.	_	3	punct	_
+10	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Uh-huh	uh-huh	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	What	what	WP	_	2	det	_
+2	kind	kind	NN	syn=PRD	5	attr	_
+3	of	of	IN	_	2	prep	_
+4	books	book	NNS	_	3	pobj	_
+5	were	be	VBD	_	0	root	_
+6	your	your	PRP$	_	7	poss	_
+7	favorites	favorite	NNS	_	5	nsubj	_
+8	?	?	.	_	5	punct	_
+9	/	/	SU	_	5	dep	_
+
+1	Do	do	VBP	_	3	aux	_
+2	you	you	PRP	_	3	nsubj	_
+3	remember	remember	VB	_	0	root	_
+4	any	any	DT	_	3	dobj	_
+5	that	that	WDT	_	6	nsubj	4:ref
+6	were	be	VBD	_	4	rcmod	_
+7	maybe	maybe	RB	_	6	advmod	_
+8	a	a	DT	_	10	det	_
+9	real	real	RB	_	10	advmod	_
+10	favorite	favorite	JJ	syn=PRD	6	attr	_
+11	of	of	IN	_	10	prep	_
+12	yours	yours	PRP	_	11	pobj	_
+13	?	?	.	_	3	punct	_
+14	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Mm	mm	UH	_	6	intj	_
+2	,	,	,	_	6	punct	_
+3	I	I	PRP	_	6	nsubj	_
+4	kind	kind	NN	_	5	npadvmod	_
+5	of	of	IN	_	6	advmod	_
+6	liked	like	VBD	_	0	root	_
+7	them	them	PRP	_	6	dobj	_
+8	all	all	DT	_	7	appos	_
+9	.	.	.	_	6	punct	_
+10	/	/	SU	_	6	dep	_
+
+1	Um	um	UH	_	7	intj	_
+2	,	,	,	_	7	punct	_
+3	I	I	PRP	_	7	nsubj	_
+4	did	do	VBD	_	7	aux	_
+5	n't	not	RB	_	7	neg	_
+6	really	really	RB	_	7	advmod	_
+7	have	have	VB	_	0	root	_
+8	a	a	DT	_	9	det	_
+9	favorite	favorite	JJ	_	7	dobj	_
+10	.	.	.	_	7	punct	_
+11	/	/	SU	_	7	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	No	no	UH	_	0	root	_
+2	?	?	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	Any	any	DT	_	3	det	_
+2	particular	particular	JJ	_	3	amod	_
+3	types	type	NNS	_	0	root	_
+4	,	,	,	_	3	punct	_
+5	like	like	IN	_	3	prep	_
+6	ones	#crd#	NNS	_	5	pobj	_
+7	with	with	IN	_	6	prep	_
+8	pictures	picture	NNS	_	7	pobj	_
+9	or	or	CC	_	6	cc	_
+10	.	.	.	_	3	punct	_
+11	/-	/-	SU	_	3	nmod	_
+
+1	Can	can	MD	_	3	aux	_
+2	you	you	PRP	_	3	nsubj	_
+3	think	think	VB	_	0	root	_
+4	of	of	IN	syn=CLR	3	prep	_
+5	a	a	DT	_	6	det	_
+6	story	story	NN	_	4	pobj	_
+7	that	that	WDT	_	9	iobj	6:ref
+8	they	they	PRP	_	9	nsubj	_
+9	told	tell	VBD	_	6	rcmod	_
+10	you	you	PRP	_	9	dobj	_
+11	that	that	WDT	_	17	dobj	6:ref
+12	you	you	PRP	_	13	nsubj	_
+13	liked	like	VBD	_	6	rcmod	_
+14	for	for	IN	_	17	mark	_
+15	them	them	PRP	_	17	nsubj	_
+16	to	to	TO	_	17	aux	_
+17	read	read	VB	_	13	advcl	_
+18	over	over	RB	sem=MNR	17	advmod	_
+19	and	and	CC	_	18	cc	_
+20	over	over	RB	_	18	conj	_
+21	?	?	.	_	3	punct	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Um	um	UH	_	4	intj	_
+2	,	,	,	_	4	punct	_
+3	I	I	PRP	_	4	nsubj	_
+4	think	think	VBP	_	0	root	_
+5	my	my	PRP$	_	6	poss	_
+6	favorite	favorite	JJ	_	7	nsubj	_
+7	was	be	VBD	_	4	ccomp	_
+8	like	like	UH	_	7	intj	_
+9	,	,	,	_	7	punct	_
+10	"	"	''	_	7	punct	_
+11	Little	little	NNP	_	14	nn	_
+12	Red	red	NNP	_	14	nn	_
+13	Riding	riding	NNP	_	14	nn	_
+14	Hood	hood	NNP	syn=PRD	7	attr	_
+15	;	;	:	_	4	punct	_
+16	"	"	''	_	4	punct	_
+17	/	/	SU	_	4	dep	_
+
+1	I	I	PRP	_	2	nsubj	_
+2	loved	love	VBD	_	0	root	_
+3	that	that	DT	_	4	det	_
+4	book	book	NN	_	2	dobj	_
+5	.	.	.	_	2	punct	_
+6	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	"	"	''	_	5	punct	_
+2	Little	little	NNP	_	5	nn	_
+3	Red	red	NNP	_	5	nn	_
+4	Riding	riding	NNP	_	5	nn	_
+5	Hood	hood	NNP	_	0	root	_
+6	"	"	''	_	5	punct	_
+7	?	?	.	_	5	punct	_
+8	/	/	SU	_	5	nmod	_
+
+1	So	so	CC	_	9	cc	_
+2	when	when	WRB	sem=TMP	4	advmod	_
+3	you	you	PRP	_	4	nsubj	_
+4	read	read	VBD	sem=TMP	9	advcl	_
+5	to	to	TO	syn=CLR	4	prep	_
+6	yourself	yourself	PRP	_	5	pobj	_
+7	did	do	VBD	_	9	aux	_
+8	you	you	PRP	_	9	nsubj	_
+9	read	read	VB	_	0	root	_
+10	different	different	JJ	_	11	amod	_
+11	stories	story	NNS	_	9	dobj	_
+12	than	than	IN	_	11	prep	_
+13	the	the	DT	_	14	det	_
+14	ones	#crd#	NNS	_	12	pobj	_
+15	they	they	PRP	_	17	nsubj	_
+16	would	would	MD	_	17	aux	_
+17	read	read	VB	_	14	rcmod	_
+18	to	to	TO	syn=CLR	17	prep	_
+19	you	you	PRP	_	18	pobj	_
+20	?	?	.	_	9	punct	_
+21	/	/	SU	_	9	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Mmm	mmm	UH	_	5	intj	_
+2	,	,	,	_	5	punct	_
+3	basically	basically	RB	_	5	advmod	_
+4	,	,	,	_	5	punct	_
+5	something	something	NN	_	0	root	_
+6	different	different	JJ	_	5	amod	_
+7	.	.	.	_	5	punct	_
+8	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Did	do	VBD	_	3	aux	_
+2	you	you	PRP	_	3	nsubj	5:xsubj
+3	get	get	VB	_	0	root	_
+4	to	to	TO	_	5	aux	_
+5	go	go	VB	_	3	xcomp	_
+6	to	to	TO	sem=DIR	5	prep	_
+7	the	the	DT	_	8	det	_
+8	library	library	NN	_	6	pobj	_
+9	when	when	WRB	sem=TMP	11	advmod	_
+10	you	you	PRP	_	11	nsubj	_
+11	were	be	VBD	sem=TMP	3	advcl	_
+12	little	little	JJ	syn=PRD	11	acomp	_
+13	?	?	.	_	3	punct	_
+14	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Uh-huh	uh-huh	UH	_	0	root	_
+2	,	,	,	_	1	punct	_
+3	all	all	PDT	_	5	predet	_
+4	the	the	DT	_	5	det	_
+5	time	time	NN	sem=TMP	1	npadvmod	_
+6	.	.	.	_	1	punct	_
+7	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Yeah	yeah	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	So	so	CC	_	5	cc	_
+2	,	,	,	_	5	punct	_
+3	you	you	PRP	_	5	nsubj	_
+4	would	would	MD	_	5	aux	_
+5	check	check	VB	_	0	root	_
+6	books	book	NNS	_	5	dobj	_
+7	out	out	RP	_	5	prt	_
+8	?	?	.	_	5	punct	_
+9	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Uh-huh	uh-huh	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	Mostly	mostly	RB	_	4	advmod	_
+2	,	,	,	_	4	punct	_
+3	I	I	PRP	_	4	nsubj	6:xsubj;8:xsubj
+4	liked	like	VBD	_	0	root	_
+5	to	to	TO	_	6	aux	_
+6	spend	spend	VB	_	4	xcomp	_
+7	time	time	NN	_	6	dobj	_
+8	reading	read	VBG	syn=CLR	6	xcomp	_
+9	encyclopedias	encyclopedia	NNS	_	8	dobj	_
+10	--	--	:	_	4	punct	_
+11	<TURN>	<turn>	CODE	_	14	meta	_
+12	Oh	oh	UH	_	14	intj	_
+13	,	,	,	_	14	punct	_
+14	really	really	RB	_	4	parataxis	_
+15	?	?	.	_	14	punct	_
+16	/	/	SU	_	14	dep	_
+17	<TURN>	<turn>	CODE	_	14	meta	_
+18	--	--	:	_	4	punct	_
+19	when	when	WRB	sem=TMP	21	advmod	_
+20	I	I	PRP	_	21	nsubj	_
+21	was	be	VBD	sem=TMP	4	advcl	_
+22	little	little	JJ	syn=PRD	21	acomp	_
+23	.	.	.	_	4	punct	_
+24	/	/	SU	_	4	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	You	you	PRP	_	2	nsubj	4:xsubj
+2	like	like	VBP	_	0	root	_
+3	to	to	TO	_	4	aux	_
+4	read	read	VB	_	2	xcomp	_
+5	encyclopedias	encyclopedia	NNS	_	4	dobj	_
+6	.	.	.	_	2	punct	_
+7	/	/	SU	_	2	dep	_
+
+1	In	in	IN	sem=LOC	7	prep	_
+2	your	your	PRP$	_	3	poss	_
+3	family	family	NN	_	1	pobj	_
+4	,	,	,	_	7	punct	_
+5	do	do	VBP	_	7	aux	_
+6	you	you	PRP	_	7	nsubj	_
+7	remember	remember	VB	_	0	root	_
+8	if	if	IN	_	10	complm	_
+9	there	there	EX	_	10	expl	_
+10	was	be	VBD	_	7	ccomp	_
+11	any	any	DT	_	12	det	_
+12	storyteller	storyteller	NN	syn=PRD	10	attr	_
+13	?	?	.	_	7	punct	_
+14	/	/	SU	_	7	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Well	well	UH	_	7	intj	_
+2	,	,	,	_	7	punct	_
+3	my	my	PRP$	_	4	poss	_
+4	uncle	uncle	NN	_	7	nsubj	_
+5	was	be	VBD	_	7	aux	_
+6	always	always	RB	sem=TMP	7	advmod	_
+7	telling	tell	VBG	_	0	root	_
+8	stories	story	NNS	_	7	dobj	_
+9	/	/	SU	_	7	dep	_
+
+1	and	and	CC	_	6	cc	_
+2	,	,	,	_	6	punct	_
+3	uh	uh	UH	_	6	intj	_
+4	,	,	,	_	6	punct	_
+5	we	we	PRP	_	6	nsubj	_
+6	had	have	VBD	_	0	root	_
+7	this	this	DT	_	8	det	_
+8	house	house	NN	_	6	dobj	_
+9	across	across	IN	sem=LOC	8	prep	_
+10	the	the	DT	_	11	det	_
+11	street	street	NN	_	9	pobj	_
+12	from	from	IN	_	11	prep	_
+13	where	where	WRB	sem=LOC	15	advmod	_
+14	I	I	PRP	_	15	nsubj	_
+15	grew	grow	VBD	_	12	pcomp	_
+16	up	up	RP	_	15	prt	_
+17	that	that	WDT	_	18	nsubj	8:ref
+18	was	be	VBD	_	8	rcmod	_
+19	old	old	JJ	syn=PRD	18	acomp	_
+20	/	/	SU	_	6	dep	_
+
+1	and	and	CC	_	4	cc	_
+2	he	he	PRP	_	4	nsubj	_
+3	never	never	RB	sem=TMP	4	neg	_
+4	finished	finish	VBD	_	0	root	_
+5	it	it	PRP	_	4	dobj	_
+6	.	.	.	_	4	punct	_
+7	/	/	SU	_	4	dep	_
+
+1	He	he	PRP	_	2	nsubj	_
+2	started	start	VBD	_	0	root	_
+3	it	it	PRP	_	2	dobj	_
+4	/	/	SU	_	2	dep	_
+
+1	and	and	CC	_	3	cc	_
+2	he	he	PRP	_	3	nsubj	_
+3	told	tell	VBD	_	0	root	_
+4	stories	story	NNS	_	3	dobj	_
+5	that	that	IN	_	12	complm	_
+6	,	,	,	_	12	punct	_
+7	um	um	UH	_	12	intj	_
+8	,	,	,	_	12	punct	_
+9	um	um	UH	_	12	intj	_
+10	,	,	,	_	12	punct	_
+11	men	man	NNS	_	12	nsubj	_
+12	being	be	VBG	_	4	ccomp	_
+13	in	in	IN	sem=LOC	12	prep	_
+14	it	it	PRP	_	13	pobj	_
+15	that	that	DT	_	16	det	_
+16	house	house	NN	_	14	appos	_
+17	at	at	IN	sem=TMP	12	prep	_
+18	night	night	NN	_	17	pobj	_
+19	and	and	CC	_	12	cc	_
+20	stuff	stuff	NN	_	12	dep	_
+21	and	and	CC	_	12	cc	_
+22	for	for	IN	_	26	mark	_
+23	us	us	PRP	_	26	nsubj	_
+24	not	not	RB	_	26	neg	_
+25	to	to	TO	_	26	aux	_
+26	go	go	VB	_	12	conj	_
+27	outside	outside	RB	sem=DIR	26	advmod	_
+28	at	at	IN	sem=TMP	26	prep	_
+29	night	night	NN	_	28	pobj	_
+30	.	.	.	_	3	punct	_
+31	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Would	would	MD	_	3	aux	_
+2	he	he	PRP	_	3	nsubj	_
+3	scare	scare	VB	_	0	root	_
+4	you	you	PRP	_	3	dobj	_
+5	?	?	.	_	3	punct	_
+6	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Yeah	yeah	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	So	so	CC	_	12	cc	_
+2	<disfluency>	<disfluency>	CODE	_	3	meta	_
+3	we	we	PRP	_	12	meta	_
+4	</disfluency>	</disfluency>	CODE	_	3	meta	_
+5	,	,	,	_	12	punct	_
+6	at	at	IN	sem=TMP	12	prep	_
+7	a	a	DT	_	9	det	_
+8	certain	certain	JJ	_	9	amod	_
+9	time	time	NN	_	6	pobj	_
+10	,	,	,	_	12	punct	_
+11	we	we	PRP	_	12	nsubj	15:xsubj
+12	were	be	VBD	_	0	root	_
+13	scared	scared	JJ	syn=PRD	12	acomp	_
+14	to	to	TO	_	15	aux	_
+15	go	go	VB	_	13	xcomp	_
+16	over	over	RB	_	17	advmod	_
+17	there	there	RB	sem=DIR	15	advmod	_
+18	because	because	IN	_	22	mark	_
+19	we	we	PRP	_	22	nsubj	_
+20	'd	would	MD	_	22	aux	_
+21	always	always	RB	sem=TMP	22	advmod	_
+22	go	go	VB	sem=PRP	12	advcl	_
+23	outside	outside	RB	sem=DIR	22	advmod	_
+24	and	and	CC	_	22	cc	_
+25	look	look	VB	_	22	conj	_
+26	at	at	IN	sem=DIR	25	prep	_
+27	the	the	DT	_	28	det	_
+28	house	house	NN	_	26	pobj	_
+29	across	across	IN	sem=LOC	28	prep	_
+30	the	the	DT	_	31	det	_
+31	street	street	NN	_	29	pobj	_
+32	.	.	.	_	12	punct	_
+33	/	/	SU	_	12	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Um	um	UH	_	5	intj	_
+2	,	,	,	_	5	punct	_
+3	did	do	VBD	_	5	aux	_
+4	he	he	PRP	_	5	nsubj	_
+5	tell	tell	VB	_	0	root	_
+6	stories	story	NNS	_	5	dobj	_
+7	to	to	TO	syn=CLR,DTV	5	prep	_
+8	big	big	JJ	_	9	amod	_
+9	groups	group	NNS	_	7	pobj	_
+10	of	of	IN	_	9	prep	_
+11	people	people	NNS	_	10	pobj	_
+12	,	,	,	_	7	punct	_
+13	or	or	CC	_	7	cc	_
+14	just	just	RB	_	19	advmod	_
+15	one	#crd#	CD	_	19	hmod	_
+16	-	-	HYPH	_	19	hyph	_
+17	on	on	IN	_	19	hmod	_
+18	-	-	HYPH	_	19	hyph	_
+19	one	#crd#	CD	_	7	conj	_
+20	?	?	.	_	5	punct	_
+21	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Just	just	RB	_	2	advmod	_
+2	to	to	TO	_	0	root	_
+3	our	our	PRP$	_	4	poss	_
+4	cousins	cousin	NNS	_	2	pobj	_
+5	and	and	CC	_	4	cc	_
+6	all	all	DT	_	4	conj	_
+7	of	of	IN	_	6	prep	_
+8	us	us	PRP	_	7	pobj	_
+9	that	that	WDT	_	10	nsubj	6:ref
+10	hung	hang	VBD	_	6	rcmod	_
+11	around	around	IN	syn=CLR	10	prep	_
+12	each	each	DT	_	13	det	_
+13	other	other	JJ	_	11	pobj	_
+14	all	all	PDT	_	16	predet	_
+15	the	the	DT	_	16	det	_
+16	time	time	NN	sem=TMP	10	npadvmod	_
+17	.	.	.	_	2	punct	_
+18	/	/	SU	_	2	pcomp	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Uh-huh	uh-huh	JJ	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	advmod	_
+
+1	Now	now	UH	_	5	intj	_
+2	,	,	,	_	5	punct	_
+3	do	do	VBP	_	5	aux	_
+4	you	you	PRP	_	5	nsubj	_
+5	have	have	VB	_	0	root	_
+6	kids	kid	NNS	_	5	dobj	_
+7	at	at	IN	sem=LOC	5	prep	_
+8	your	your	PRP$	_	9	poss	_
+9	house	house	NN	_	7	pobj	_
+10	?	?	.	_	5	punct	_
+11	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	No	no	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	<disfluency>	<disfluency>	CODE	_	2	meta	_
+2	Only	only	RB	_	10	meta	_
+3	</disfluency>	</disfluency>	CODE	_	2	meta	_
+4	,	,	,	_	10	punct	_
+5	only	only	RB	_	6	advmod	_
+6	on	on	IN	sem=TMP	10	prep	_
+7	Sunday	sunday	NNP	_	6	pobj	_
+8	:	:	:	_	10	punct	_
+9	my	my	PRP$	_	10	poss	_
+10	niece	niece	NN	_	0	root	_
+11	and	and	CC	_	10	cc	_
+12	nephew	nephew	NN	_	10	conj	_
+13	and	and	CC	_	10	cc	_
+14	my	my	PRP$	_	15	poss	_
+15	cousins	cousin	NNS	_	10	conj	_
+16	.	.	.	_	10	punct	_
+17	/	/	SU	_	10	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Uh-huh	uh-huh	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	Do	do	VBP	_	3	aux	_
+2	you	you	PRP	_	3	nsubj	5:xsubj
+3	like	like	VB	_	0	root	_
+4	to	to	TO	_	5	aux	_
+5	read	read	VB	_	3	xcomp	_
+6	to	to	TO	syn=CLR	5	prep	_
+7	them	them	PRP	_	6	pobj	_
+8	?	?	.	_	3	punct	_
+9	/	/	SU	_	3	dep	_
+
+1	Do	do	VBP	_	3	aux	_
+2	they	they	PRP	_	3	nsubj	_
+3	bring	bring	VB	_	0	root	_
+4	their	their	PRP$	_	5	poss	_
+5	books	book	NNS	_	3	dobj	_
+6	over	over	RB	sem=DIR	3	advmod	_
+7	?	?	.	_	3	punct	_
+8	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	I	I	PRP	_	2	nsubj	_
+2	read	read	VBP	_	0	root	_
+3	to	to	TO	syn=CLR	2	prep	_
+4	my	my	PRP$	_	5	poss	_
+5	niece	niece	NN	_	3	pobj	_
+6	.	.	.	_	2	punct	_
+7	/	/	SU	_	2	dep	_
+
+1	She	she	PRP	_	2	nsubj	_
+2	likes	like	VBZ	_	0	root	_
+3	the	the	DT	_	5	det	_
+4	pop-out	pop-out	JJ	_	5	amod	_
+5	books	book	NNS	_	2	dobj	_
+6	.	.	.	_	2	punct	_
+7	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Uh-huh	uh-huh	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	How	how	WRB	_	2	advmod	_
+2	old	old	JJ	syn=PRD	3	acomp	_
+3	is	be	VBZ	_	0	root	_
+4	she	she	PRP	_	3	nsubj	_
+5	?	?	.	_	3	punct	_
+6	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	She	she	PRP	_	2	nsubj	_
+2	's	's	VBZ	_	0	root	_
+3	,	,	,	_	2	punct	_
+4	ah	ah	UH	_	2	intj	_
+5	six	#crd#	CD	syn=PRD	2	acomp	_
+6	.	.	.	_	2	punct	_
+7	/	/	SU	_	2	dep	_
+
+1	She	she	PRP	_	2	nsubj	_
+2	likes	like	VBZ	_	0	root	_
+3	the	the	DT	_	4	det	_
+4	pictures	picture	NNS	_	2	dobj	_
+5	that	that	WDT	_	6	nsubj	4:ref
+6	pop	pop	VBP	_	4	rcmod	_
+7	out	out	RP	_	6	prt	_
+8	at	at	IN	syn=CLR	6	prep	_
+9	you	you	PRP	_	8	pobj	_
+10	.	.	.	_	2	punct	_
+11	/	/	SU	_	2	dep	_
+
+1	She	she	PRP	_	2	nsubj	_
+2	likes	like	VBZ	_	0	root	_
+3	for	for	IN	_	6	mark	_
+4	me	me	PRP	_	6	nsubj	_
+5	to	to	TO	_	6	aux	_
+6	read	read	VB	_	2	advcl	_
+7	them	them	PRP	_	6	dobj	_
+8	to	to	TO	syn=CLR	6	prep	_
+9	her	her	PRP	_	8	pobj	_
+10	.	.	.	_	2	punct	_
+11	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Can	can	MD	_	3	aux	_
+2	she	she	PRP	_	3	nsubj	_
+3	read	read	VB	_	0	root	_
+4	to	to	TO	syn=CLR	3	prep	_
+5	herself	herself	PRP	_	4	pobj	_
+6	yet	yet	RB	sem=TMP	3	advmod	_
+7	?	?	.	_	3	punct	_
+8	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	Not	not	RB	_	2	neg	_
+2	yet	yet	RB	sem=TMP	0	root	_
+3	,	,	,	_	2	punct	_
+4	/	/	SU	_	2	advmod	_
+
+1	but	but	CC	_	3	cc	_
+2	she	she	PRP	_	3	nsubj	4:xsubj
+3	tries	try	VBZ	_	0	root	_
+4	to	to	TO	_	3	xcomp	_
+5	.	.	.	_	3	punct	_
+6	/	/	SU	_	3	dep	_
+
+1	Mostly	mostly	RB	_	5	advmod	_
+2	,	,	,	_	5	punct	_
+3	she	she	PRP	_	5	nsubj	_
+4	just	just	RB	_	5	advmod	_
+5	looks	look	VBZ	_	0	root	_
+6	at	at	IN	sem=DIR	5	prep	_
+7	the	the	DT	_	8	det	_
+8	pictures	picture	NNS	_	6	pobj	_
+9	.	.	.	_	5	punct	_
+10	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	<disfluency>	<disfluency>	CODE	_	2	meta	_
+2	Is	be	VBZ	_	8	meta	_
+3	she	she	PRP	_	2	nsubj	_
+4	</disfluency>	</disfluency>	CODE	_	2	meta	_
+5	,	,	,	_	8	punct	_
+6	what	what	WDT	_	7	det	_
+7	grade	grade	NN	_	10	pobj	_
+8	is	be	VBZ	_	0	root	_
+9	she	she	PRP	_	8	nsubj	_
+10	in	in	IN	syn=PRD	8	prep	_
+11	?	?	.	_	8	punct	_
+12	/	/	SU	_	8	dep	_
+
+1	Do	do	VBP	_	3	aux	_
+2	you	you	PRP	_	3	nsubj	_
+3	know	know	VB	_	0	root	_
+4	?	?	.	_	3	punct	_
+5	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	She	she	PRP	_	2	nsubj	_
+2	's	's	VBZ	_	0	root	_
+3	in	in	IN	syn=PRD	2	prep	_
+4	kindergarten	kindergarten	NN	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+6	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	She	she	PRP	_	2	nsubj	_
+2	's	's	VBZ	_	0	root	_
+3	in	in	IN	syn=PRD	2	prep	_
+4	kindergarten	kindergarten	NN	_	3	pobj	_
+5	?	?	.	_	2	punct	_
+6	/	/	SU	_	2	dep	_
+
+1	OK	ok	UH	_	0	root	_
+2	.	.	.	_	1	punct	_
+3	/	/	SU	_	1	dep	_
+
+1	That	that	DT	_	2	nsubj	_
+2	's	's	VBZ	_	0	root	_
+3	pretty	pretty	RB	_	4	advmod	_
+4	much	much	RB	_	5	advmod	_
+5	all	all	DT	syn=PRD	2	attr	_
+6	I	I	PRP	_	7	nsubj	9:xsubj
+7	need	need	VBP	_	5	rcmod	_
+8	to	to	TO	_	9	aux	_
+9	know	know	VB	_	7	xcomp	_
+10	,	,	,	_	9	punct	_
+11	about	about	IN	syn=CLR	9	prep	_
+12	how	how	WRB	sem=MNR	14	advmod	_
+13	you	you	PRP	_	14	nsubj	_
+14	liked	like	VBD	_	11	pcomp	_
+15	reading	reading	NN	_	14	dobj	_
+16	and	and	CC	_	15	cc	_
+17	things	thing	NNS	_	15	conj	_
+18	when	when	WRB	sem=TMP	20	advmod	_
+19	you	you	PRP	_	20	nsubj	_
+20	were	be	VBD	sem=TMP	14	advcl	_
+21	little	little	JJ	syn=PRD	20	acomp	_
+22	.	.	.	_	2	punct	_
+23	/	/	SU	_	2	dep	_
+
+1	Is	be	VBZ	_	0	root	_
+2	there	there	EX	_	1	expl	_
+3	anything	anything	NN	syn=PRD	1	attr	_
+4	else	else	JJ	_	3	amod	_
+5	you	you	PRP	_	7	nsubj	9:xsubj
+6	'd	would	MD	_	7	aux	_
+7	like	like	VB	_	3	rcmod	_
+8	to	to	TO	_	9	aux	_
+9	say	say	VB	_	7	xcomp	_
+10	about	about	IN	syn=CLR	9	prep	_
+11	this	this	DT	_	10	pobj	_
+12	,	,	,	_	3	punct	_
+13	that	that	WDT	_	14	nsubj	3:ref
+14	comes	come	VBZ	_	3	rcmod	_
+15	to	to	TO	syn=CLR	14	prep	_
+16	your	your	PRP$	_	17	poss	_
+17	mind	mind	NN	_	15	pobj	_
+18	?	?	.	_	1	punct	_
+19	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	No	no	UH	_	5	intj	_
+2	,	,	,	_	5	punct	_
+3	not	not	RB	_	5	neg	_
+4	so	so	RB	_	5	advmod	_
+5	much	much	JJ	_	0	root	_
+6	.	.	.	_	5	punct	_
+7	/	/	SU	_	5	dep	_
+

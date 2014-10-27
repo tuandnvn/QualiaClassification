@@ -1,0 +1,23 @@
+1	Lord	lord	NNP	_	2	nn	_
+2	Chilver	chilver	NNP	_	13	nsubjpass	_
+3	,	,	,	_	2	punct	_
+4	63-year-old	0-year-old	JJ	_	5	amod	_
+5	chairman	chairman	NN	_	2	appos	_
+6	of	of	IN	_	5	prep	_
+7	English	english	NNP	_	10	nn	_
+8	China	china	NNP	_	10	nn	_
+9	Clays	clays	NNP	_	10	nn	_
+10	PLC	plc	NNP	_	6	pobj	_
+11	,	,	,	_	2	punct	_
+12	was	be	VBD	_	13	auxpass	_
+13	named	name	VBN	_	0	root	_
+14	a	a	DT	_	16	det	_
+15	nonexecutive	nonexecutive	JJ	_	16	amod	_
+16	director	director	NN	syn=PRD	13	oprd	_
+17	of	of	IN	_	16	prep	_
+18	this	this	DT	_	21	det	_
+19	British	british	JJ	_	21	amod	_
+20	chemical	chemical	NN	_	21	nn	_
+21	company	company	NN	_	17	pobj	_
+22	.	.	.	_	13	punct	_
+

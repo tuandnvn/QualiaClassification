@@ -1,0 +1,35 @@
+1	Due	due	JJ	_	2	amod	_
+2	to	to	TO	sem=PRP	21	prep	_
+3	an	an	DT	_	5	det	_
+4	editing	editing	NN	_	5	nn	_
+5	error	error	NN	_	2	pobj	_
+6	,	,	,	_	21	punct	_
+7	a	a	DT	_	8	det	_
+8	letter	letter	NN	_	21	nsubj	_
+9	to	to	TO	_	8	prep	_
+10	the	the	DT	_	11	det	_
+11	editor	editor	NN	_	9	pobj	_
+12	in	in	IN	sem=LOC	8	prep	_
+13	yesterday	yesterday	NN	_	15	poss	_
+14	's	's	POS	_	13	possessive	_
+15	edition	edition	NN	_	12	pobj	_
+16	from	from	IN	_	8	prep	_
+17	Frederick	frederick	NNP	_	19	nn	_
+18	H.	h.	NNP	_	19	nn	_
+19	Hallett	hallett	NNP	_	16	pobj	_
+20	mistakenly	mistakenly	RB	_	21	advmod	_
+21	identified	identify	VBD	_	0	root	_
+22	the	the	DT	_	23	det	_
+23	NRDC	nrdc	NNP	_	21	dobj	_
+24	.	.	.	_	21	punct	_
+
+1	It	it	PRP	_	3	nsubj	_
+2	should	should	MD	_	3	aux	_
+3	be	be	VB	_	0	root	_
+4	the	the	DT	_	8	det	_
+5	Natural	natural	NNP	_	8	nn	_
+6	Resources	resource	NNPS	_	8	nn	_
+7	Defense	defense	NNP	_	8	nn	_
+8	Council	council	NNP	syn=PRD	3	attr	_
+9	.	.	.	_	3	punct	_
+

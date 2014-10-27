@@ -1,0 +1,1151 @@
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	okay	okay	UH	_	10	intj	_
+2	Ellen	ellen	NNP	sem=VOC	10	npadvmod	_
+3	what	what	WDT	_	4	det	_
+4	kind	kind	NN	_	10	dep	_
+5	of	of	IN	_	4	prep	_
+6	a	a	DT	_	7	det	_
+7	car	car	NN	_	5	pobj	_
+8	do	do	VBP	_	10	aux	_
+9	you	you	PRP	_	10	nsubj	_
+10	think	think	VB	_	0	root	_
+11	you	you	PRP	_	13	nsubj	15:xsubj
+12	're	be	VBP	_	13	aux	_
+13	going	go	VBG	_	10	ccomp	_
+14	to	to	TO	_	15	aux	_
+15	buy	buy	VB	_	13	xcomp	_
+16	/	/	SU	_	10	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	well	well	UH	_	9	intj	_
+2	as	as	IN	_	9	prep	_
+3	a	a	DT	_	4	det	_
+4	matter	matter	NN	_	2	pobj	_
+5	of	of	IN	_	4	prep	_
+6	fact	fact	NN	_	5	pobj	_
+7	I	I	PRP	_	9	nsubj	_
+8	was	be	VBD	_	9	aux	_
+9	thinking	think	VBG	_	0	root	_
+10	about	about	IN	syn=CLR	9	prep	_
+11	that	that	IN	_	10	pobj	_
+12	the	the	DT	_	14	det	_
+13	other	other	JJ	_	14	amod	_
+14	day	day	NN	sem=TMP	9	npadvmod	_
+15	/	/	SU	_	9	dep	_
+
+1	and	and	CC	_	7	cc	_
+2	uh	uh	UH	_	7	intj	_
+3	I	I	PRP	_	7	nsubj	_
+4	really	really	RB	_	7	advmod	_
+5	do	do	VBP	_	7	aux	_
+6	n't	not	RB	_	7	neg	_
+7	know	know	VB	_	0	root	_
+8	the	the	DT	_	9	det	_
+9	answer	answer	NN	_	7	dobj	_
+10	um	um	UH	_	7	intj	_
+11	/	/	SU	_	7	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	I	I	PRP	_	5	nsubj	8:xsubj
+2	would	would	MD	_	5	aux	_
+3	sort	sort	NN	_	4	npadvmod	_
+4	of	of	IN	_	5	advmod	_
+5	like	like	VB	_	0	root	_
+6	to	to	TO	_	8	aux	_
+7	uh	uh	UH	_	8	intj	_
+8	think	think	VB	_	5	xcomp	_
+9	about	about	IN	syn=CLR	8	prep	_
+10	something	something	NN	_	9	pobj	_
+11	in	in	IN	_	10	prep	_
+12	the	the	DT	_	13	det	_
+13	way	way	NN	_	11	pobj	_
+14	of	of	IN	_	13	prep	_
+15	uh	uh	UH	_	14	intj	_
+16	uh	uh	UH	_	14	intj	_
+17	sort	sort	NN	_	18	npadvmod	_
+18	of	of	IN	_	21	advmod	_
+19	a	a	DT	_	21	det	_
+20	sporty	sporty	JJ	_	21	amod	_
+21	car	car	NN	_	14	pobj	_
+22	but	but	CC	_	21	cc	_
+23	<disfluency>	<disfluency>	CODE	_	25	meta	_
+24	not	not	RB	_	25	neg	_
+25	any	any	DT	_	33	meta	_
+26	</disfluency>	</disfluency>	CODE	_	25	meta	_
+27	not	not	RB	_	33	neg	_
+28	you	you	PRP	_	29	nsubj	_
+29	know	know	VBP	_	33	parataxis	_
+30	a	a	DT	_	33	det	_
+31	luxury	luxury	NN	_	32	nn	_
+32	type	type	NN	_	33	nn	_
+33	sporty	sporty	NN	_	21	conj	_
+34	one	#crd#	CD	_	33	num	_
+35	but	but	CC	_	33	cc	_
+36	um	um	UH	_	33	intj	_
+37	--	--	:	_	33	punct	_
+38	<TURN>	<turn>	CODE	_	39	meta	_
+39	yeah	yeah	UH	_	33	intj	_
+40	/	/	SU	_	39	dep	_
+41	<TURN>	<turn>	CODE	_	39	meta	_
+42	--	--	:	_	33	punct	_
+43	something	something	NN	_	33	conj	_
+44	that	that	WDT	_	46	nsubj	43:ref
+45	still	still	RB	sem=TMP	46	advmod	_
+46	has	have	VBZ	_	43	rcmod	_
+47	a	a	DT	_	48	det	_
+48	lots	lot	NNS	_	46	dobj	_
+49	of	of	IN	_	48	prep	_
+50	amenities	amenity	NNS	_	49	pobj	_
+51	and	and	CC	_	50	cc	_
+52	you	you	PRP	_	53	nsubj	_
+53	know	know	VBP	_	54	parataxis	_
+54	gadgets	gadget	NNS	_	50	conj	_
+55	and	and	CC	_	54	cc	_
+56	things	thing	NNS	_	54	conj	_
+57	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	oh	oh	UH	_	4	intj	_
+2	you	you	PRP	_	4	nsubj	_
+3	do	do	VBP	_	4	aux	_
+4	want	want	VB	_	0	root	_
+5	a	a	DT	_	6	det	_
+6	lot	lot	NN	_	4	dobj	_
+7	of	of	IN	_	6	prep	_
+8	that	that	DT	_	9	det	_
+9	stuff	stuff	NN	_	7	pobj	_
+10	/	/	SU	_	4	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	9	intj	_
+2	well	well	UH	_	9	intj	_
+3	yeah	yeah	UH	_	9	intj	_
+4	<disfluency>	<disfluency>	CODE	_	6	meta	_
+5	I	I	PRP	_	6	nsubj	_
+6	like	like	VBP	_	9	meta	_
+7	</disfluency>	</disfluency>	CODE	_	6	meta	_
+8	I	I	PRP	_	9	nsubj	_
+9	like	like	VBP	_	0	root	_
+10	some	some	DT	_	9	dobj	_
+11	of	of	IN	_	10	prep	_
+12	those	those	DT	_	13	det	_
+13	things	thing	NNS	_	11	pobj	_
+14	/	/	SU	_	9	dep	_
+
+1	they	they	PRP	_	2	nsubj	_
+2	come	come	VBP	_	0	root	_
+3	in	in	RP	_	2	prt	_
+4	really	really	RB	_	5	advmod	_
+5	handy	handy	JJ	syn=PRD	2	acomp	_
+6	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	what	what	WP	_	2	det	_
+2	kind	kind	NN	_	10	dobj	_
+3	of	of	IN	_	2	prep	_
+4	uh	uh	UH	_	3	intj	_
+5	things	thing	NNS	_	3	pobj	_
+6	are	be	VBP	_	8	aux	_
+7	you	you	PRP	_	8	nsubj	10:xsubj
+8	going	go	VBG	_	0	root	_
+9	to	to	TO	_	10	aux	_
+10	consider	consider	VB	_	8	xcomp	_
+11	/	/	SU	_	8	dep	_
+
+1	you	you	PRP	_	2	nsubj	_
+2	know	know	VBP	_	6	parataxis	_
+3	what	what	WP	_	6	dobj	_
+4	uh	uh	UH	_	6	intj	_
+5	you	you	PRP	_	6	nsubj	_
+6	said	say	VBD	syn=NOM	0	root	_
+7	/	/	SU	_	6	dep	_
+
+1	something	something	NN	_	0	root	_
+2	<disfluency>	<disfluency>	CODE	_	3	meta	_
+3	about	about	IN	_	1	meta	_
+4	the	the	DT	_	3	pobj	_
+5	</disfluency>	</disfluency>	CODE	_	3	meta	_
+6	about	about	IN	_	1	prep	_
+7	the	the	DT	_	6	pobj	_
+8	/-	/-	SU	_	1	nmod	_
+
+1	well	well	UH	_	5	intj	_
+2	what	what	WP	syn=PRD	5	oprd	_
+3	do	do	VBP	_	5	aux	_
+4	you	you	PRP	_	5	nsubj	_
+5	call	call	VB	_	0	root	_
+6	them	them	PRP	_	5	dobj	_
+7	/	/	SU	_	5	dep	_
+
+1	you	you	PRP	_	2	nsubj	_
+2	said	say	VBD	_	0	root	_
+3	amenities	amenity	NNS	_	2	dobj	_
+4	--	--	:	_	3	punct	_
+5	<TURN>	<turn>	CODE	_	6	meta	_
+6	amenities	amenity	NNS	_	3	parataxis	_
+7	/	/	SU	_	6	dep	_
+8	<TURN>	<turn>	CODE	_	6	meta	_
+9	--	--	:	_	3	punct	_
+10	that	that	WDT	_	12	dobj	3:ref
+11	they	they	PRP	_	12	nsubj	_
+12	have	have	VBP	_	3	rcmod	_
+13	/	/	SU	_	2	dep	_
+
+1	but	but	CC	_	3	cc	_
+2	what	what	WP	_	3	dep	_
+3	about	about	IN	_	0	root	_
+4	um	um	UH	_	3	intj	_
+5	their	their	PRP$	_	6	poss	_
+6	reputation	reputation	NN	_	3	pobj	_
+7	of	of	IN	_	6	prep	_
+8	the	the	DT	_	9	det	_
+9	company	company	NN	_	7	pobj	_
+10	or	or	CC	_	6	cc	_
+11	the	the	DT	_	12	det	_
+12	price	price	NN	_	6	conj	_
+13	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	um	um	UH	_	6	intj	_
+2	well	well	UH	_	6	intj	_
+3	of	of	IN	_	6	prep	_
+4	course	course	NN	_	3	pobj	_
+5	I	I	PRP	_	6	nsubj	_
+6	guess	guess	VBP	_	0	root	_
+7	uh	uh	UH	_	9	intj	_
+8	price	price	NN	_	9	nsubj	_
+9	is	be	VBZ	_	6	ccomp	_
+10	always	always	RB	sem=TMP	9	advmod	_
+11	the	the	DT	_	13	det	_
+12	big	big	JJ	_	13	amod	_
+13	consideration	consideration	NN	syn=PRD	9	attr	_
+14	/	/	SU	_	6	dep	_
+
+1	but	but	CC	_	2	cc	_
+2	-/	-/	SU	_	0	root	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	it	it	PRP	_	2	nsubj	_
+2	is	be	VBZ	_	0	root	_
+3	for	for	IN	_	2	prep	_
+4	me	me	PRP	_	3	pobj	_
+5	/	/	SU	_	2	dep	_
+
+1	other	other	JJ	_	2	amod	_
+2	people	people	NNS	_	5	nsubj	7:xsubj
+3	do	do	VBP	_	5	aux	_
+4	n't	not	RB	_	5	neg	_
+5	seem	seem	VB	_	0	root	_
+6	to	to	TO	_	7	aux	_
+7	have	have	VB	_	5	xcomp	_
+8	the	the	DT	_	10	det	_
+9	same	same	JJ	_	10	amod	_
+10	problem	problem	NN	_	7	dobj	_
+11	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	well	well	UH	_	7	intj	_
+2	<disfluency>	<disfluency>	CODE	_	4	meta	_
+3	that	that	DT	_	4	nsubj	_
+4	's	's	VBZ	_	7	meta	_
+5	</disfluency>	</disfluency>	CODE	_	4	meta	_
+6	that	that	DT	_	7	nsubj	_
+7	's	's	VBZ	_	0	root	_
+8	a	a	DT	_	10	det	_
+9	big	big	JJ	_	10	amod	_
+10	one	#crd#	NN	syn=PRD	7	attr	_
+11	in	in	IN	sem=LOC	7	prep	_
+12	my	my	PRP$	_	13	poss	_
+13	book	book	NN	_	11	pobj	_
+14	/	/	SU	_	7	dep	_
+
+1	but	but	CC	_	11	cc	_
+2	uh	uh	UH	_	11	intj	_
+3	um	um	UH	_	11	intj	_
+4	--	--	:	_	11	punct	_
+5	<TURN>	<turn>	CODE	_	6	meta	_
+6	yeah	yeah	UH	_	11	intj	_
+7	/	/	SU	_	6	dep	_
+8	<TURN>	<turn>	CODE	_	6	meta	_
+9	--	--	:	_	11	punct	_
+10	I	I	PRP	_	11	nsubj	_
+11	have	have	VBP	_	0	root	_
+12	preferences	preference	NNS	_	11	dobj	_
+13	<disfluency>	<disfluency>	CODE	_	14	meta	_
+14	for	for	IN	_	12	meta	_
+15	</disfluency>	</disfluency>	CODE	_	14	meta	_
+16	uh	uh	UH	_	12	intj	_
+17	for	for	IN	_	12	prep	_
+18	some	some	DT	_	20	det	_
+19	um	um	UH	_	20	intj	_
+20	makers	maker	NNS	_	17	pobj	_
+21	over	over	IN	_	20	prep	_
+22	others	other	NNS	_	21	pobj	_
+23	um	um	UH	_	11	intj	_
+24	/	/	SU	_	11	dep	_
+
+1	and	and	CC	_	6	cc	_
+2	I	I	PRP	_	6	nsubj	8:xsubj
+3	would	would	MD	_	6	aux	_
+4	sort	sort	NN	_	5	npadvmod	_
+5	of	of	IN	_	6	advmod	_
+6	like	like	VB	_	0	root	_
+7	to	to	TO	_	8	aux	_
+8	buy	buy	VB	_	6	xcomp	_
+9	American	american	NNP	_	8	dobj	_
+10	/	/	SU	_	6	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	but	but	CC	_	5	cc	_
+2	you	you	PRP	_	3	nsubj	_
+3	know	know	VBP	_	5	parataxis	_
+4	I	I	PRP	_	5	nsubj	_
+5	'm	be	VBP	_	0	root	_
+6	not	not	RB	_	5	neg	_
+7	so	so	RB	_	8	advmod	_
+8	totally	totally	RB	_	9	advmod	_
+9	hung	hung	JJ	syn=PRD	5	acomp	_
+10	up	up	RP	_	9	prt	_
+11	on	on	IN	_	9	prep	_
+12	that	that	DT	_	11	pobj	_
+13	that	that	IN	_	17	complm	_
+14	I	I	PRP	_	17	nsubj	_
+15	would	would	MD	_	17	aux	_
+16	n't	not	RB	_	17	neg	_
+17	buy	buy	VB	_	9	ccomp	_
+18	something	something	NN	_	17	dobj	_
+19	else	else	RB	_	18	advmod	_
+20	/	/	SU	_	5	dep	_
+
+1	how	how	WRB	_	2	advmod	_
+2	about	about	IN	_	0	root	_
+3	you	you	PRP	_	2	pobj	_
+4	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	well	well	UH	_	8	intj	_
+2	um	um	UH	_	8	intj	_
+3	the	the	DT	_	5	det	_
+4	last	last	JJ	_	5	amod	_
+5	car	car	NN	_	8	nsubj	_
+6	we	we	PRP	_	7	nsubj	_
+7	bought	buy	VBD	_	5	rcmod	_
+8	was	be	VBD	_	0	root	_
+9	American	american	JJ	syn=PRD	8	acomp	_
+10	<disfluency>	<disfluency>	CODE	_	11	meta	_
+11	because	because	IN	_	8	meta	_
+12	of	of	IN	_	11	pcomp	_
+13	</disfluency>	</disfluency>	CODE	_	11	meta	_
+14	because	because	IN	sem=PRP	8	prep	_
+15	of	of	IN	_	14	pcomp	_
+16	that	that	DT	_	17	det	_
+17	reason	reason	NN	_	14	pobj	_
+18	/	/	SU	_	8	dep	_
+
+1	but	but	CC	_	4	cc	_
+2	have	have	VBP	_	4	aux	_
+3	not	not	RB	_	4	neg	_
+4	been	be	VBN	_	0	root	_
+5	entirely	entirely	RB	_	6	advmod	_
+6	happy	happy	JJ	syn=PRD	4	acomp	_
+7	with	with	IN	_	6	prep	_
+8	um	um	UH	_	7	intj	_
+9	several	several	JJ	_	10	amod	_
+10	things	thing	NNS	_	7	pobj	_
+11	about	about	IN	_	10	prep	_
+12	the	the	DT	_	13	det	_
+13	car	car	NN	_	11	pobj	_
+14	/	/	SU	_	4	dep	_
+
+1	it	it	PRP	_	4	nsubj	_
+2	does	do	VBZ	_	4	aux	_
+3	n't	not	RB	_	4	neg	_
+4	seem	seem	VB	_	0	root	_
+5	like	like	IN	_	8	mark	_
+6	the	the	DT	_	7	det	_
+7	quality	quality	NN	_	8	nsubj	_
+8	is	be	VBZ	_	4	advcl	_
+9	quite	quite	RB	_	11	advmod	_
+10	as	as	RB	_	11	advmod	_
+11	high	high	JJ	syn=PRD	8	acomp	_
+12	as	as	IN	_	14	mark	_
+13	I	I	PRP	_	14	nsubj	_
+14	expected	expect	VBD	_	11	advcl	_
+15	it	it	PRP	_	17	nsubj	_
+16	to	to	TO	_	17	aux	_
+17	be	be	VB	_	14	ccomp	_
+18	--	--	:	_	8	punct	_
+19	<TURN>	<turn>	CODE	_	21	meta	_
+20	oh	oh	UH	_	21	intj	_
+21	really	really	RB	_	8	parataxis	_
+22	/	/	SU	_	21	dep	_
+23	<TURN>	<turn>	CODE	_	21	meta	_
+24	--	--	:	_	8	punct	_
+25	because	because	IN	_	27	mark	_
+26	several	several	JJ	_	27	amod	_
+27	things	thing	NNS	sem=PRP	8	advcl	_
+28	minor	minor	JJ	_	29	amod	_
+29	things	thing	NNS	_	27	appos	_
+30	sort	sort	NN	_	31	npadvmod	_
+31	of	of	IN	_	27	advmod	_
+32	-/	-/	SU	_	4	dep	_
+
+1	but	but	CC	_	4	cc	_
+2	still	still	RB	sem=TMP	4	advmod	_
+3	they	they	PRP	_	4	nsubj	_
+4	cost	cost	VBD	_	0	root	_
+5	us	us	PRP	_	4	iobj	_
+6	money	money	NN	_	4	dobj	_
+7	um	um	UH	_	6	intj	_
+8	that	that	WDT	_	19	dobj	6:ref
+9	we	we	PRP	_	12	nsubj	_
+10	did	do	VBD	_	12	aux	_
+11	n't	not	RB	_	12	neg	_
+12	feel	feel	VB	_	6	rcmod	_
+13	like	like	IN	_	17	mark	_
+14	we	we	PRP	_	17	nsubj	19:xsubj
+15	should	should	MD	_	17	aux	_
+16	have	have	VB	_	17	aux	_
+17	had	have	VBN	_	12	advcl	_
+18	to	to	TO	_	19	aux	_
+19	pay	pay	VB	_	17	xcomp	_
+20	on	on	IN	syn=CLR	19	prep	_
+21	a	a	DT	_	22	det	_
+22	car	car	NN	_	20	pobj	_
+23	<disfluency>	<disfluency>	CODE	_	24	meta	_
+24	that	that	WDT	_	22	meta	_
+25	</disfluency>	</disfluency>	CODE	_	24	meta	_
+26	that	that	WDT	_	27	nsubj	22:ref
+27	was	be	VBD	_	22	rcmod	_
+28	that	that	RB	_	29	advmod	_
+29	new	new	JJ	syn=PRD	27	acomp	_
+30	/	/	SU	_	4	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	um-hum	um-hum	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	you	you	PRP	_	2	nsubj	_
+2	know	know	VBP	_	4	parataxis	_
+3	we	we	PRP	_	4	nsubj	_
+4	bought	buy	VBD	_	0	root	_
+5	the	the	DT	_	6	det	_
+6	car	car	NN	_	4	dobj	_
+7	new	new	JJ	syn=PRD	4	oprd	_
+8	/	/	SU	_	4	dep	_
+
+1	and	and	CC	_	11	cc	_
+2	after	after	IN	sem=TMP	11	prep	_
+3	um	um	UH	_	2	intj	_
+4	well	well	UH	_	2	intj	_
+5	well	well	UH	_	2	intj	_
+6	well	well	UH	_	2	intj	_
+7	under	under	IN	_	8	quantmod	_
+8	two	#crd#	CD	_	9	num	_
+9	years	year	NNS	_	2	pobj	_
+10	we	we	PRP	_	11	nsubj	13:xsubj
+11	had	have	VBD	_	0	root	_
+12	to	to	TO	_	13	aux	_
+13	replace	replace	VB	_	11	xcomp	_
+14	the	the	DT	_	15	det	_
+15	clutch	clutch	NN	_	13	dobj	_
+16	/	/	SU	_	11	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	oh	oh	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	and	and	CC	_	4	cc	_
+2	they	they	PRP	_	4	nsubj	_
+3	just	just	RB	_	4	advmod	_
+4	said	say	VBD	_	0	root	_
+5	well	well	UH	_	9	intj	_
+6	you	you	PRP	_	7	nsubj	_
+7	know	know	VBP	_	9	parataxis	_
+8	clutches	clutch	NNS	_	9	nsubj	_
+9	are	be	VBP	_	4	ccomp	_
+10	disposable	disposable	JJ	syn=PRD	9	acomp	_
+11	/	/	SU	_	4	dep	_
+
+1	and	and	CC	_	3	cc	_
+2	I	I	PRP	_	3	nsubj	_
+3	said	say	VBD	_	0	root	_
+4	since	since	IN	_	3	prep	_
+5	when	when	WRB	_	4	pobj	_
+6	/	/	SU	_	3	dep	_
+
+1	brake	brake	NN	_	2	nn	_
+2	pads	pad	NNS	_	3	nsubj	_
+3	are	be	VBP	_	0	root	_
+4	disposable	disposable	JJ	syn=PRD	3	acomp	_
+5	you	you	PRP	_	6	nsubj	_
+6	know	know	VBP	_	3	parataxis	_
+7	/	/	SU	_	3	dep	_
+
+1	we	we	PRP	_	2	nsubj	_
+2	know	know	VBP	_	0	root	_
+3	that	that	DT	_	2	dobj	_
+4	/	/	SU	_	2	dep	_
+
+1	but	but	CC	_	4	cc	_
+2	I	I	PRP	_	4	nsubj	_
+3	never	never	RB	sem=TMP	4	neg	_
+4	thought	think	VBD	_	0	root	_
+5	a	a	DT	_	6	det	_
+6	clutch	clutch	NN	_	7	nsubj	_
+7	was	be	VBD	_	4	ccomp	_
+8	disposable	disposable	JJ	syn=PRD	7	acomp	_
+9	/	/	SU	_	4	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	0	root	_
+2	yeah	yeah	UH	_	1	intj	_
+3	yeah	yeah	UH	_	1	intj	_
+4	/	/	SU	_	1	dep	_
+
+1	I	I	PRP	_	5	nsubj	_
+2	would	would	MD	_	5	aux	_
+3	n't	not	RB	_	5	neg	_
+4	have	have	VB	_	5	aux	_
+5	thought	think	VBN	_	0	root	_
+6	so	so	RB	syn=PRD	5	advmod	_
+7	either	either	RB	_	5	advmod	_
+8	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	8	intj	_
+2	so	so	CC	_	8	cc	_
+3	<disfluency>	<disfluency>	CODE	_	5	meta	_
+4	that	that	DT	_	5	nsubj	_
+5	was	be	VBD	_	8	meta	_
+6	</disfluency>	</disfluency>	CODE	_	5	meta	_
+7	that	that	DT	_	8	nsubj	_
+8	was	be	VBD	_	0	root	_
+9	kind	kind	NN	_	10	npadvmod	_
+10	of	of	IN	_	12	advmod	_
+11	a	a	DT	_	12	det	_
+12	shock	shock	NN	syn=PRD	8	attr	_
+13	/	/	SU	_	8	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	oh	oh	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	oh	oh	UH	_	7	intj	_
+2	yeah	yeah	UH	_	1	intj	_
+3	<disfluency>	<disfluency>	CODE	_	4	meta	_
+4	I	I	PRP	_	7	meta	_
+5	</disfluency>	</disfluency>	CODE	_	4	meta	_
+6	I	I	PRP	_	7	nsubj	_
+7	guess	guess	VBP	_	0	root	_
+8	there	there	EX	_	9	expl	_
+9	's	's	VBZ	_	7	ccomp	_
+10	a	a	DT	_	11	det	_
+11	lot	lot	NN	syn=PRD	9	attr	_
+12	<disfluency>	<disfluency>	CODE	_	13	meta	_
+13	to	to	TO	_	11	meta	_
+14	</disfluency>	</disfluency>	CODE	_	13	meta	_
+15	to	to	TO	_	16	aux	_
+16	think	think	VB	_	11	infmod	_
+17	about	about	IN	syn=CLR	16	prep	_
+18	when	when	WRB	sem=TMP	21	advmod	_
+19	you	you	PRP	_	21	nsubj	23:xsubj
+20	're	be	VBP	_	21	aux	_
+21	trying	try	VBG	sem=TMP	9	advcl	_
+22	to	to	TO	_	23	aux	_
+23	make	make	VB	_	21	xcomp	_
+24	that	that	DT	_	25	det	_
+25	decision	decision	NN	_	23	dobj	_
+26	/	/	SU	_	7	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	10	intj	_
+2	you	you	PRP	_	3	nsubj	_
+3	know	know	VBP	_	10	parataxis	_
+4	<disfluency>	<disfluency>	CODE	_	6	meta	_
+5	the	the	DT	_	6	det	_
+6	less	less	JJS	_	10	meta	_
+7	</disfluency>	</disfluency>	CODE	_	6	meta	_
+8	actually	actually	RB	_	10	advmod	_
+9	the	the	DT	_	10	det	_
+10	less	less	JJR	_	0	root	_
+11	you	you	PRP	_	12	nsubj	_
+12	spend	spend	VBP	_	10	rcmod	_
+13	on	on	IN	syn=CLR	12	prep	_
+14	a	a	DT	_	15	det	_
+15	car	car	NN	_	13	pobj	_
+16	-/	-/	SU	_	10	dep	_
+
+1	it	it	PRP	_	2	nsubj	_
+2	seems	seem	VBZ	_	0	root	_
+3	like	like	IN	_	30	mark	_
+4	luxury	luxury	NN	_	5	nn	_
+5	cars	car	NNS	syn=TPC	30	dep	_
+6	they	they	PRP	_	8	nsubjpass	_
+7	're	be	VBP	_	8	auxpass	_
+8	called	call	VBN	_	5	parataxis	_
+9	luxury	luxury	NN	_	10	nn	_
+10	cars	car	NNS	syn=PRD	8	oprd	_
+11	even	even	RB	_	14	advmod	_
+12	though	though	IN	_	14	mark	_
+13	they	they	PRP	_	14	nsubj	_
+14	're	be	VBP	syn=ADV	8	advcl	_
+15	much	much	RB	_	16	advmod	_
+16	more	more	RBR	_	17	advmod	_
+17	expensive	expensive	JJ	syn=PRD	14	acomp	_
+18	<disfluency>	<disfluency>	CODE	_	19	meta	_
+19	like	like	IN	_	5	meta	_
+20	</disfluency>	</disfluency>	CODE	_	19	meta	_
+21	like	like	IN	_	5	prep	_
+22	uh	uh	UH	_	21	intj	_
+23	um	um	UH	_	21	intj	_
+24	a	a	DT	_	26	det	_
+25	Mercedes	mercedes	NNP	_	26	nn	_
+26	Benz	benz	NNP	_	21	pobj	_
+27	they	they	PRP	_	30	nsubj	_
+28	do	do	VBP	_	30	aux	_
+29	n't	not	RB	_	30	neg	_
+30	have	have	VB	_	2	advcl	_
+31	the	the	DT	_	32	det	_
+32	history	history	NN	_	30	dobj	_
+33	of	of	IN	_	32	prep	_
+34	breaking	break	VBG	syn=NOM	33	pobj	_
+35	down	down	RP	_	34	prt	_
+36	or	or	CC	_	30	cc	_
+37	things	thing	NNS	_	48	nsubjpass	_
+38	like	like	IN	_	37	prep	_
+39	that	that	DT	_	38	pobj	_
+40	that	that	WDT	_	42	nsubj	37:ref
+41	would	would	MD	_	42	aux	_
+42	go	go	VB	_	37	rcmod	_
+43	wrong	wrong	JJ	syn=PRD	42	acomp	_
+44	would	would	MD	_	48	aux	_
+45	definitely	definitely	RB	_	48	advmod	_
+46	not	not	RB	_	48	neg	_
+47	be	be	VB	_	48	auxpass	_
+48	considered	consider	VBN	_	30	conj	_
+49	disposable	disposable	JJ	syn=PRD	48	oprd	_
+50	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	right	right	RB	_	0	root	_
+2	/	/	SU	_	1	advmod	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	you	you	PRP	_	4	nsubj	_
+2	would	would	MD	_	4	aux	_
+3	never	never	RB	sem=TMP	4	neg	_
+4	think	think	VB	_	0	root	_
+5	of	of	IN	syn=CLR	4	prep	_
+6	having	have	VBG	syn=NOM	5	pcomp	_
+7	to	to	TO	_	8	aux	_
+8	replace	replace	VB	_	6	xcomp	_
+9	the	the	DT	_	10	det	_
+10	clutch	clutch	NN	_	8	dobj	_
+11	in	in	IN	sem=LOC	10	prep	_
+12	a	a	DT	_	13	det	_
+13	Mercedes	mercedes	NNP	_	11	pobj	_
+14	/	/	SU	_	4	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	no	no	UH	_	5	intj	_
+2	but	but	CC	_	5	cc	_
+3	then	then	RB	sem=TMP	5	advmod	_
+4	um	um	UH	_	5	intj	_
+5	-/	-/	SU	_	0	root	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	especially	especially	RB	_	3	advmod	_
+2	not	not	RB	_	3	neg	_
+3	after	after	IN	sem=TMP	0	root	_
+4	two	#crd#	CD	_	5	num	_
+5	years	year	NNS	_	3	pobj	_
+6	/	/	SU	_	3	pcomp	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	no	no	UH	_	8	intj	_
+2	but	but	CC	_	8	cc	_
+3	on	on	IN	_	8	prep	_
+4	the	the	DT	_	6	det	_
+5	other	other	JJ	_	6	amod	_
+6	hand	hand	NN	_	3	pobj	_
+7	I	I	PRP	_	8	nsubj	_
+8	guess	guess	VBP	_	0	root	_
+9	too	too	RB	_	8	advmod	_
+10	uh	uh	UH	_	8	intj	_
+11	whenever	whenever	WRB	sem=TMP	14	advmod	_
+12	you	you	PRP	_	14	nsubj	16:xsubj
+13	do	do	VBP	_	14	aux	_
+14	have	have	VB	sem=TMP	26	advcl	_
+15	to	to	TO	_	16	aux	_
+16	have	have	VB	_	14	xcomp	_
+17	some	some	DT	_	19	det	_
+18	major	major	JJ	_	19	amod	_
+19	work	work	NN	_	20	nsubj	_
+20	done	do	VBN	_	16	ccomp	_
+21	on	on	IN	syn=CLR	20	prep	_
+22	one	#crd#	CD	_	21	pobj	_
+23	of	of	IN	_	22	prep	_
+24	those	those	DT	_	23	pobj	_
+25	it	it	PRP	_	26	nsubj	_
+26	costs	cost	VBZ	_	8	ccomp	_
+27	a	a	DT	_	28	det	_
+28	fortune	fortune	NN	_	26	dobj	_
+29	/	/	SU	_	8	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	really	really	RB	_	0	root	_
+2	/	/	SU	_	1	advmod	_
+
+1	oh	oh	UH	_	5	intj	_
+2	I	I	PRP	_	5	nsubj	_
+3	do	do	VBP	_	5	aux	_
+4	n't	not	RB	_	5	neg	_
+5	know	know	VB	_	0	root	_
+6	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	5	intj	_
+2	I	I	PRP	_	5	nsubj	_
+3	've	have	VBP	_	5	aux	_
+4	uh	uh	UH	_	5	intj	_
+5	worked	work	VBN	_	0	root	_
+6	with	with	IN	syn=CLR	5	prep	_
+7	a	a	DT	_	8	det	_
+8	couple	couple	NN	_	6	pobj	_
+9	of	of	IN	_	8	prep	_
+10	people	people	NNS	_	9	pobj	_
+11	who	who	WP	_	13	nsubj	10:ref
+12	have	have	VBP	_	13	aux	_
+13	owned	own	VBN	_	10	rcmod	_
+14	uh	uh	UH	_	13	intj	_
+15	various	various	JJ	_	16	amod	_
+16	years	year	NNS	_	18	nn	_
+17	uh	uh	UH	_	18	intj	_
+18	Mercedes	mercedes	NNP	_	13	dobj	_
+19	/	/	SU	_	5	dep	_
+
+1	and	and	CC	_	11	cc	_
+2	--	--	:	_	11	punct	_
+3	<TURN>	<turn>	CODE	_	5	meta	_
+4	I	I	PRP	_	5	nsubj	_
+5	think	think	VBP	_	11	parataxis	_
+6	that	that	DT	_	7	nsubj	_
+7	's	's	VBZ	_	5	ccomp	_
+8	-/	-/	SU	_	5	dep	_
+9	<TURN>	<turn>	CODE	_	5	meta	_
+10	I	I	PRP	_	11	nsubj	_
+11	think	think	VBP	_	0	root	_
+12	they	they	PRP	_	13	nsubj	_
+13	have	have	VBP	_	11	ccomp	_
+14	a	a	DT	_	18	det	_
+15	really	really	RB	_	16	advmod	_
+16	good	good	JJ	_	18	amod	_
+17	um	um	UH	_	18	intj	_
+18	quality	quality	NN	_	13	dobj	_
+19	/	/	SU	_	11	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	um-hum	um-hum	UH	_	6	intj	_
+2	my	my	PRP$	_	4	poss	_
+3	uh	uh	UH	_	4	intj	_
+4	daughter	daughter	NN	_	6	nsubj	_
+5	has	have	VBZ	_	6	aux	_
+6	owned	own	VBN	_	0	root	_
+7	two	#crd#	CD	_	9	num	_
+8	different	different	JJ	_	9	amod	_
+9	ones	#crd#	NNS	_	6	dobj	_
+10	/	/	SU	_	6	dep	_
+
+1	and	and	CC	_	7	cc	_
+2	uh	uh	UH	_	7	intj	_
+3	you	you	PRP	_	4	nsubj	_
+4	know	know	VBP	_	7	parataxis	_
+5	we	we	PRP	_	7	nsubj	_
+6	've	have	VBP	_	7	aux	_
+7	had	have	VBN	_	0	root	_
+8	some	some	DT	_	9	det	_
+9	work	work	NN	_	10	nsubj	_
+10	done	do	VBN	_	7	ccomp	_
+11	on	on	IN	syn=CLR	10	prep	_
+12	them	them	PRP	_	11	pobj	_
+13	/	/	SU	_	7	dep	_
+
+1	but	but	CC	_	3	cc	_
+2	it	it	PRP	_	3	nsubj	_
+3	's	's	VBZ	_	0	root	_
+4	not	not	RB	_	3	neg	_
+5	too	too	RB	_	6	advmod	_
+6	bad	bad	JJ	syn=PRD	3	acomp	_
+7	/	/	SU	_	3	dep	_
+
+1	and	and	CC	_	16	cc	_
+2	<disfluency>	<disfluency>	CODE	_	4	meta	_
+3	the	the	DT	_	4	det	_
+4	reason	reason	NN	_	16	meta	_
+5	</disfluency>	</disfluency>	CODE	_	4	meta	_
+6	one	#crd#	CD	_	16	nsubj	_
+7	of	of	IN	_	6	prep	_
+8	the	the	DT	_	9	det	_
+9	reasons	reason	NNS	_	7	pobj	_
+10	we	we	PRP	_	12	nsubj	_
+11	um	um	UH	_	12	intj	_
+12	bought	buy	VBD	_	9	rcmod	_
+13	the	the	DT	_	15	det	_
+14	first	#ord#	JJ	_	15	amod	_
+15	one	#crd#	NN	_	12	dobj	_
+16	was	be	VBD	_	0	root	_
+17	because	because	IN	_	22	mark	_
+18	a	a	DT	_	19	det	_
+19	friend	friend	NN	_	22	nsubj	_
+20	of	of	IN	_	19	prep	_
+21	ours	ours	NNS	_	20	pobj	_
+22	had	have	VBD	sem=PRP|syn=PRD	16	advcl	_
+23	a	a	DT	_	24	det	_
+24	Toyota	toyota	NNP	_	22	dobj	_
+25	that	that	WDT	_	29	dobj	24:ref
+26	he	he	PRP	_	29	nsubj	_
+27	just	just	RB	_	29	advmod	_
+28	really	really	RB	_	29	advmod	_
+29	drove	drive	VBD	_	24	rcmod	_
+30	for	for	IN	sem=TMP	29	prep	_
+31	years	year	NNS	_	30	pobj	_
+32	and	and	CC	_	31	cc	_
+33	years	year	NNS	_	31	conj	_
+34	and	and	CC	_	33	cc	_
+35	years	year	NNS	_	33	conj	_
+36	/	/	SU	_	16	dep	_
+
+1	and	and	CC	_	3	cc	_
+2	he	he	PRP	_	3	nsubj	_
+3	lived	live	VBD	_	0	root	_
+4	way	way	RB	_	5	advmod	_
+5	out	out	RB	sem=LOC	3	advmod	_
+6	in	in	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	country	country	NN	_	6	pobj	_
+9	/	/	SU	_	3	dep	_
+
+1	so	so	CC	_	3	cc	_
+2	he	he	PRP	_	3	nsubj	_
+3	put	put	VBD	_	0	root	_
+4	a	a	DT	_	5	det	_
+5	lot	lot	NN	_	3	dobj	_
+6	of	of	IN	_	5	prep	_
+7	miles	mile	NNS	_	6	pobj	_
+8	on	on	IN	syn=CLR	3	prep	_
+9	it	it	PRP	_	8	pobj	_
+10	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	um-hum	um-hum	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	and	and	CC	_	3	cc	_
+2	you	you	PRP	_	3	nsubj	_
+3	knew	know	VBD	_	0	root	_
+4	it	it	PRP	_	7	nsubj	_
+5	had	have	VBD	_	7	aux	_
+6	had	have	VBD	_	7	aux	_
+7	been	be	VBN	_	3	ccomp	_
+8	through	through	IN	syn=PRD	7	prep	_
+9	a	a	DT	_	11	det	_
+10	whole	whole	JJ	_	11	amod	_
+11	lot	lot	NN	_	8	pobj	_
+12	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	um-hum	um-hum	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	and	and	CC	_	9	cc	_
+2	yet	yet	CC	_	9	cc	_
+3	you	you	PRP	_	4	nsubj	_
+4	know	know	VBP	_	9	parataxis	_
+5	<disfluency>	<disfluency>	CODE	_	6	meta	_
+6	it	it	PRP	_	9	meta	_
+7	</disfluency>	</disfluency>	CODE	_	6	meta	_
+8	it	it	PRP	_	9	nsubj	_
+9	held	hold	VBD	_	0	root	_
+10	up	up	RP	_	9	prt	_
+11	pretty	pretty	RB	_	12	advmod	_
+12	doggone	doggone	RB	_	13	advmod	_
+13	good	good	RB	sem=MNR	9	advmod	_
+14	/	/	SU	_	9	dep	_
+
+1	so	so	CC	_	2	cc	_
+2	-/	-/	SU	_	0	root	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	I	I	PRP	_	2	nsubj	_
+2	thought	think	VBD	_	0	root	_
+3	they	they	PRP	_	4	nsubj	_
+4	would	would	MD	_	2	ccomp	_
+5	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	they	they	PRP	_	2	nsubj	4:xsubj
+2	seem	seem	VBP	_	0	root	_
+3	to	to	TO	_	4	aux	_
+4	be	be	VB	_	2	xcomp	_
+5	really	really	RB	_	6	advmod	_
+6	durable	durable	JJ	syn=PRD	4	acomp	_
+7	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	so	so	CC	_	5	cc	_
+2	I	I	PRP	_	5	nsubj	_
+3	do	do	VBP	_	5	aux	_
+4	n't	not	RB	_	5	neg	_
+5	know	know	VB	_	0	root	_
+6	/	/	SU	_	5	dep	_
+
+1	<disfluency>	<disfluency>	CODE	_	3	meta	_
+2	I	I	PRP	_	3	nsubj	_
+3	'm	be	VBP	_	6	meta	_
+4	</disfluency>	</disfluency>	CODE	_	3	meta	_
+5	I	I	PRP	_	6	nsubj	10:xsubj
+6	'm	be	VBP	_	0	root	_
+7	not	not	RB	_	6	neg	_
+8	ready	ready	JJ	syn=PRD	6	acomp	_
+9	to	to	TO	_	10	aux	_
+10	buy	buy	VB	_	8	xcomp	_
+11	a	a	DT	_	13	det	_
+12	new	new	JJ	_	13	amod	_
+13	car	car	NN	_	10	dobj	_
+14	yet	yet	RB	sem=TMP	10	advmod	_
+15	/	/	SU	_	6	dep	_
+
+1	but	but	CC	_	5	cc	_
+2	I	I	PRP	_	5	nsubj	_
+3	do	do	VBP	_	5	aux	_
+4	n't	not	RB	_	5	neg	_
+5	know	know	VB	_	0	root	_
+6	<disfluency>	<disfluency>	CODE	_	7	meta	_
+7	if	if	IN	_	5	meta	_
+8	</disfluency>	</disfluency>	CODE	_	7	meta	_
+9	if	if	IN	_	15	mark	_
+10	the	the	DT	_	12	det	_
+11	next	next	JJ	_	12	amod	_
+12	time	time	NN	sem=TMP	15	npadvmod	_
+13	I	I	PRP	_	15	nsubj	17:xsubj;22:xsubj
+14	'm	be	VBP	_	15	aux	_
+15	going	go	VBG	_	5	advcl	_
+16	to	to	TO	_	17	aux	_
+17	try	try	VB	_	15	xcomp	_
+18	<disfluency>	<disfluency>	CODE	_	19	meta	_
+19	to	to	TO	_	17	meta	_
+20	</disfluency>	</disfluency>	CODE	_	19	meta	_
+21	to	to	TO	_	22	aux	_
+22	stay	stay	VB	_	17	xcomp	_
+23	with	with	IN	syn=CLR	22	prep	_
+24	buying	buy	VBG	syn=NOM	23	pcomp	_
+25	something	something	NN	_	24	dobj	_
+26	American	american	JJ	_	25	amod	_
+27	or	or	CC	_	15	cc	_
+28	if	if	IN	_	31	mark	_
+29	I	I	PRP	_	31	nsubj	33:xsubj
+30	'm	be	VBP	_	31	aux	_
+31	going	go	VBG	_	15	conj	_
+32	to	to	TO	_	33	aux	_
+33	go	go	VB	_	31	xcomp	_
+34	for	for	IN	syn=CLR	33	prep	_
+35	a	a	DT	_	36	det	_
+36	little	little	JJ	syn=ADV	37	npadvmod	_
+37	more	more	JJR	_	38	amod	_
+38	what	what	WP	_	43	nsubj	_
+39	I	I	PRP	_	41	nsubj	_
+40	would	would	MD	_	41	aux	_
+41	consider	consider	VB	syn=NOM	34	pcomp	_
+42	to	to	TO	_	43	aux	_
+43	be	be	VB	_	41	ccomp	_
+44	a	a	DT	_	46	det	_
+45	long-term	long-term	JJ	_	46	amod	_
+46	investment	investment	NN	syn=PRD	43	attr	_
+47	/	/	SU	_	5	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	well	well	UH	_	4	intj	_
+2	and	and	CC	_	4	cc	_
+3	I	I	PRP	_	4	nsubj	_
+4	guess	guess	VBP	_	0	root	_
+5	you	you	PRP	_	6	nsubj	_
+6	know	know	VBP	_	4	parataxis	_
+7	you	you	PRP	_	9	nsubj	11:xsubj
+8	always	always	RB	sem=TMP	9	advmod	_
+9	have	have	VBP	_	4	ccomp	_
+10	to	to	TO	_	11	aux	_
+11	think	think	VB	_	9	xcomp	_
+12	about	about	IN	syn=CLR	11	prep	_
+13	things	thing	NNS	_	12	pobj	_
+14	like	like	IN	_	13	prep	_
+15	your	your	PRP$	_	17	poss	_
+16	gas	gas	NN	_	17	nn	_
+17	mileage	mileage	NN	_	14	pobj	_
+18	and	and	CC	_	13	cc	_
+19	stuff	stuff	NN	_	13	conj	_
+20	like	like	IN	_	19	prep	_
+21	that	that	DT	_	20	pobj	_
+22	you	you	PRP	_	23	nsubj	_
+23	know	know	VBP	_	11	parataxis	_
+24	/	/	SU	_	4	dep	_
+
+1	you	you	PRP	_	0	root	_
+2	-/	-/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	oh	oh	UH	_	3	intj	_
+2	it	it	PRP	_	3	nsubj	_
+3	's	's	VBZ	_	0	root	_
+4	easy	easy	JJ	syn=PRD	3	acomp	_
+5	to	to	TO	_	6	aux	_
+6	get	get	VB	_	3	xcomp	_
+7	gas	gas	NN	_	8	nn	_
+8	mileage	mileage	NN	_	6	dobj	_
+9	in	in	IN	sem=LOC	6	prep	_
+10	this	this	DT	_	11	det	_
+11	car	car	NN	_	9	pobj	_
+12	/	/	SU	_	3	dep	_
+
+1	it	it	PRP	_	2	nsubj	_
+2	gets	get	VBZ	_	0	root	_
+3	excellent	excellent	JJ	_	5	amod	_
+4	gas	gas	NN	_	5	nn	_
+5	mileage	mileage	NN	_	2	dobj	_
+6	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	yeah	yeah	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	yeah	yeah	UH	_	3	intj	_
+2	that	that	DT	_	3	nsubj	_
+3	's	's	VBZ	_	0	root	_
+4	one	#crd#	CD	syn=PRD	3	attr	_
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	9	det	_
+7	big	big	JJ	_	9	amod	_
+8	throwing	throw	VBG	_	9	amod	_
+9	cards	card	NNS	_	5	pobj	_
+10	for	for	IN	_	4	prep	_
+11	some	some	DT	_	10	pobj	_
+12	of	of	IN	_	11	prep	_
+13	the	the	DT	_	15	det	_
+14	foreign	foreign	JJ	_	15	amod	_
+15	ones	#crd#	NNS	_	12	pobj	_
+16	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	um-hum	um-hum	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	well	well	UH	_	3	intj	_
+2	we	we	PRP	_	3	nsubj	_
+3	talked	talk	VBD	_	0	root	_
+4	long	long	RB	_	5	advmod	_
+5	enough	enough	RB	sem=TMP	3	advmod	_
+6	/	/	SU	_	3	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	I	I	PRP	_	2	nsubj	_
+2	think	think	VBP	_	0	root	_
+3	so	so	RB	syn=PRD	2	advmod	_
+4	/	/	SU	_	2	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	okay	okay	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	well	well	UH	_	2	intj	_
+2	enjoyed	enjoy	VBD	_	0	root	_
+3	it	it	PRP	_	2	dobj	_
+4	/	/	SU	_	2	dep	_
+
+1	bye-bye	bye-bye	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+
+1	<TURN>	<turn>	CODE	_	0	root	_
+
+1	all	all	RB	_	2	advmod	_
+2	righty	righty	RB	_	0	root	_
+3	/	/	SU	_	2	advmod	_
+
+1	thanks	thanks	NNS	_	0	root	_
+2	/	/	SU	_	1	nmod	_
+
+1	bye-bye	bye-bye	UH	_	0	root	_
+2	/	/	SU	_	1	dep	_
+

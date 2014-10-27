@@ -404,7 +404,7 @@ predType.amount_changed = predType._CF_enumeration.addEnumeration(unicode_value=
 predType.wear = predType._CF_enumeration.addEnumeration(unicode_value=u'wear', tag=u'wear')
 predType.continue_ = predType._CF_enumeration.addEnumeration(unicode_value=u'continue', tag=u'continue_')
 predType.avoid = predType._CF_enumeration.addEnumeration(unicode_value=u'avoid', tag=u'avoid')
-predType.begin = predType._CF_enumeration.addEnumeration(unicode_value=u'begin', tag=u'begin')
+predType.start = predType._CF_enumeration.addEnumeration(unicode_value=u'start', tag=u'start')
 predType.assess = predType._CF_enumeration.addEnumeration(unicode_value=u'assess', tag=u'assess')
 predType.appear = predType._CF_enumeration.addEnumeration(unicode_value=u'appear', tag=u'appear')
 predType.weather = predType._CF_enumeration.addEnumeration(unicode_value=u'weather', tag=u'weather')

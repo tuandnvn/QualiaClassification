@@ -1,0 +1,66 @@
+1	IRAQ	iraq	NNP	_	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	POVERTY	poverty	NN	_	0	root	_
+
+1	(	(	-LRB-	_	2	punct	_
+2	Washington	washington	NNP	sem=LOC	0	root	_
+3	)	)	-RRB-	_	2	punct	_
+
+1	<LU_ANNOTATE>	<lu_annotate>	CODE	_	0	root	_
+
+1	Rep.	rep.	NNP	_	3	nn	_
+2	Tony	tony	NNP	_	3	nn	_
+3	Hall	hall	NNP	_	9	nsubj	_
+4	,	,	,	_	3	punct	_
+5	D	d	NNP	_	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	Ohio	ohio	NNP	sem=LOC	3	appos	_
+8	,	,	,	_	9	punct	_
+9	urges	urge	VBZ	_	0	root	_
+10	the	the	DT	_	12	det	_
+11	United	united	NNP	_	12	nn	_
+12	Nations	nations	NNP	_	9	dobj	14:xsubj
+13	to	to	TO	_	14	aux	_
+14	allow	allow	VB	_	9	xcomp	_
+15	a	a	DT	_	17	det	_
+16	freer	freer	JJ	_	17	amod	_
+17	flow	flow	NN	_	14	dobj	_
+18	of	of	IN	_	17	prep	_
+19	food	food	NN	_	18	pobj	_
+20	and	and	CC	_	19	cc	_
+21	medicine	medicine	NN	_	19	conj	_
+22	into	into	IN	sem=DIR	17	prep	_
+23	Iraq	iraq	NNP	_	22	pobj	_
+24	.	.	.	_	9	punct	_
+
+1	Hall	hall	NNP	_	12	nsubj	_
+2	,	,	,	_	1	punct	_
+3	who	who	WP	_	5	nsubj	1:ref
+4	recently	recently	RB	sem=TMP	5	advmod	_
+5	returned	return	VBD	_	1	rcmod	_
+6	from	from	IN	syn=CLR	5	prep	_
+7	a	a	DT	_	8	det	_
+8	trip	trip	NN	_	6	pobj	_
+9	to	to	TO	sem=DIR	8	prep	_
+10	Iraq	iraq	NNP	_	9	pobj	_
+11	,	,	,	_	12	punct	_
+12	said	say	VBD	_	0	root	_
+13	U.	u.	NNP	_	14	nn	_
+14	N.	n.	NNP	_	16	nn	_
+15	economic	economic	JJ	_	16	amod	_
+16	sanctions	sanction	NNS	_	18	nsubj	_
+17	have	have	VBP	_	18	aux	_
+18	hurt	hurt	VBN	_	12	ccomp	_
+19	millions	#crd#	NNS	_	18	dobj	_
+20	of	of	IN	_	19	prep	_
+21	civilians	civilian	NNS	_	20	pobj	_
+22	there	there	RB	sem=LOC	18	advmod	_
+23	.	.	.	_	12	punct	_
+
+1	By	by	IN	_	0	root	_
+2	AUSTIN	austin	NNP	_	3	nn	_
+3	ZALKIN	zalkin	NNP	_	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	</LU_ANNOTATE_WC=_41>	</lu_annotate_wc=_0>	CODE	_	0	root	_
+

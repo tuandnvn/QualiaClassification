@@ -1,0 +1,310 @@
+1	<DOC_docid="artb_004"_sysid="ahd">	<doc_docid="artb_0"_sysid="ahd">	CODE	_	0	root	_
+
+1	<hl>	<hl>	CODE	_	0	root	_
+
+1	<seg_id=1>	<seg_id=0>	CODE	_	0	root	_
+
+1	Inauguration	inauguration	NN	_	0	root	_
+2	of	of	IN	_	1	prep	_
+3	free	free	JJ	_	4	amod	_
+4	zone	zone	NN	_	2	pobj	_
+5	in	in	IN	sem=LOC	4	prep	_
+6	Dubai	dubai	NNP	_	5	pobj	_
+7	for	for	IN	_	1	prep	_
+8	e-commerce	e-commerce	NN	_	7	pobj	_
+
+1	</seg>	</seg>	CODE	_	0	root	_
+
+1	</hl>	</hl>	CODE	_	0	root	_
+
+1	<p>	<p>	CODE	_	0	root	_
+
+1	<seg_id=2>	<seg_id=0>	CODE	_	0	root	_
+
+1	Dubai	dubai	NNP	sem=LOC	6	npadvmod	_
+2	10	0	CD	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	28	0	CD	sem=TMP	6	npadvmod	_
+5	(	(	-LRB-	_	6	punct	_
+6	FP	fp	NNP	_	0	root	_
+7	)	)	-RRB-	_	6	punct	_
+8	-	-	.	_	6	punct	_
+
+1	Dubai	dubai	NNP	_	10	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Crown	crown	NN	_	4	nn	_
+4	Prince	prince	NN	_	10	nn	_
+5	Sheikh	sheikh	NNP	_	10	nn	_
+6	Mohamed	mohamed	NNP	_	10	nn	_
+7	Bin	bin	NNP	_	10	nn	_
+8	Rashid	rashid	NNP	_	10	nn	_
+9	Al	al	NNP	_	10	nn	_
+10	Maktoum	maktoum	NNP	_	11	nsubj	_
+11	inaugurated	inaugurate	VBD	_	0	root	_
+12	a	a	DT	_	14	det	_
+13	free	free	JJ	_	14	amod	_
+14	zone	zone	NN	_	11	dobj	_
+15	for	for	IN	_	14	prep	_
+16	e-commerce	e-commerce	JJ	_	15	pobj	_
+17	today	today	NN	sem=TMP	11	npadvmod	_
+18	,	,	,	_	11	punct	_
+19	called	call	VBN	_	14	partmod	_
+20	Dubai	dubai	NNP	_	22	nn	_
+21	Internet	internet	NNP	_	22	nn	_
+22	City	city	NNP	syn=PRD	19	oprd	_
+23	.	.	.	_	11	punct	_
+
+1	</seg>	</seg>	CODE	_	0	root	_
+
+1	</p>	</p>	CODE	_	0	root	_
+
+1	<p>	<p>	CODE	_	0	root	_
+
+1	<seg_id=3>	<seg_id=0>	CODE	_	0	root	_
+
+1	The	the	DT	_	3	det	_
+2	preliminary	preliminary	JJ	_	3	amod	_
+3	stages	stage	NNS	_	20	nsubjpass	_
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	project	project	NN	_	4	pobj	_
+7	,	,	,	_	6	punct	_
+8	the	the	DT	_	10	det	_
+9	only	only	JJ	_	10	amod	_
+10	one	#crd#	CD	_	6	appos	_
+11	of	of	IN	_	10	prep	_
+12	its	its	PRP$	_	13	poss	_
+13	kind	kind	NN	_	11	pobj	_
+14	according	accord	VBG	_	10	prep	_
+15	to	to	TO	_	14	prep	_
+16	its	its	PRP$	_	17	poss	_
+17	designers	designer	NNS	_	15	pobj	_
+18	,	,	,	_	20	punct	_
+19	are	be	VBP	_	20	auxpass	_
+20	estimated	estimate	VBN	_	0	root	_
+21	at	at	IN	syn=CLR	20	prep	_
+22	$	$	$	_	24	nmod	_
+23	200	0	CD	_	24	number	_
+24	million	#crd#	CD	_	21	pobj	_
+25	.	.	.	_	20	punct	_
+
+1	</seg>	</seg>	CODE	_	0	root	_
+
+1	</p>	</p>	CODE	_	0	root	_
+
+1	<LU_ANNOTATE>	<lu_annotate>	CODE	_	0	root	_
+
+1	<p>	<p>	CODE	_	0	root	_
+
+1	<seg_id=4>	<seg_id=0>	CODE	_	0	root	_
+
+1	Sheikh	sheikh	NNP	_	2	nn	_
+2	Mohamed	mohamed	NNP	_	16	nsubj	_
+3	,	,	,	_	2	punct	_
+4	who	who	WP	_	5	nsubj	2:ref
+5	is	be	VBZ	_	2	rcmod	_
+6	also	also	RB	_	5	advmod	_
+7	the	the	DT	_	9	det	_
+8	Defense	defense	NNP	_	9	nn	_
+9	Minister	minister	NNP	syn=PRD	5	attr	_
+10	of	of	IN	_	9	prep	_
+11	the	the	DT	_	14	det	_
+12	United	united	NNP	_	14	nn	_
+13	Arab	arab	NNP	_	14	nn	_
+14	Emirates	emirates	NNP	_	10	pobj	_
+15	,	,	,	_	16	punct	_
+16	announced	announce	VBD	_	0	root	_
+17	at	at	IN	syn=CLR	16	prep	_
+18	the	the	DT	_	20	det	_
+19	inauguration	inauguration	NN	_	20	nn	_
+20	ceremony	ceremony	NN	_	17	pobj	_
+21	that	that	IN	_	24	complm	_
+22	"	"	''	_	24	punct	_
+23	we	we	PRP	_	24	nsubj	26:xsubj
+24	want	want	VBP	_	16	ccomp	_
+25	to	to	TO	_	26	aux	_
+26	make	make	VB	_	24	xcomp	_
+27	Dubai	dubai	NNP	_	31	nsubj	_
+28	a	a	DT	_	31	det	_
+29	new	new	JJ	_	31	amod	_
+30	trading	trading	NN	_	31	nn	_
+31	center	center	NN	syn=PRD	26	ccomp	_
+32	.	.	.	_	16	punct	_
+33	"	"	''	_	16	punct	_
+
+1	</seg>	</seg>	CODE	_	0	root	_
+
+1	</p>	</p>	CODE	_	0	root	_
+
+1	<p>	<p>	CODE	_	0	root	_
+
+1	<seg_id=5>	<seg_id=0>	CODE	_	0	root	_
+
+1	The	the	DT	_	2	det	_
+2	minister	minister	NN	_	11	nsubj	_
+3	,	,	,	_	2	punct	_
+4	who	who	WP	_	5	nsubj	2:ref
+5	has	have	VBZ	_	2	rcmod	_
+6	his	his	PRP$	_	8	poss	_
+7	own	own	JJ	_	8	amod	_
+8	website	website	NN	_	5	dobj	_
+9	,	,	,	_	11	punct	_
+10	also	also	RB	_	11	advmod	_
+11	said	say	VBD	_	0	root	_
+12	:	:	:	_	11	punct	_
+13	"	"	``	_	11	punct	_
+14	I	I	PRP	_	15	nsubj	_
+15	want	want	VBP	_	11	ccomp	_
+16	Dubai	dubai	NNP	_	18	nsubj	_
+17	to	to	TO	_	18	aux	_
+18	be	be	VB	_	15	ccomp	_
+19	the	the	DT	_	21	det	_
+20	best	good	JJS	_	21	amod	_
+21	place	place	NN	syn=PRD	18	attr	_
+22	in	in	IN	sem=LOC	21	prep	_
+23	the	the	DT	_	24	det	_
+24	world	world	NN	_	22	pobj	_
+25	for	for	IN	_	21	prep	_
+26	state	state	NN	_	32	hmod	_
+27	-	-	HYPH	_	32	hyph	_
+28	of	of	IN	_	32	hmod	_
+29	-	-	HYPH	_	32	hyph	_
+30	the	the	DT	_	32	hmod	_
+31	-	-	HYPH	_	32	hyph	_
+32	art	art	NN	_	34	nn	_
+33	technology	technology	NN	_	34	nn	_
+34	companies	company	NNS	_	25	pobj	_
+35	.	.	.	_	11	punct	_
+36	"	"	''	_	11	punct	_
+
+1	</seg>	</seg>	CODE	_	0	root	_
+
+1	</p>	</p>	CODE	_	0	root	_
+
+1	<p>	<p>	CODE	_	0	root	_
+
+1	<seg_id=6>	<seg_id=0>	CODE	_	0	root	_
+
+1	He	he	PRP	_	2	nsubj	_
+2	said	say	VBD	_	0	root	_
+3	companies	company	NNS	_	8	nsubj	11:xsubj
+4	engaged	engage	VBN	_	3	partmod	_
+5	in	in	IN	syn=CLR	4	prep	_
+6	e-commerce	e-commerce	NN	_	5	pobj	_
+7	would	would	MD	_	8	aux	_
+8	be	be	VB	_	2	ccomp	_
+9	able	able	JJ	syn=PRD	8	acomp	_
+10	to	to	TO	_	11	aux	_
+11	set	set	VB	_	9	xcomp	_
+12	up	up	RP	_	11	prt	_
+13	offices	office	NNS	_	11	dobj	_
+14	,	,	,	_	11	punct	_
+15	employ	employ	VB	_	11	dep	_
+16	staff	staff	NN	_	15	dobj	_
+17	and	and	CC	_	15	cc	_
+18	own	own	VB	_	15	conj	_
+19	equipment	equipment	NN	_	18	dobj	_
+20	in	in	IN	sem=LOC	18	prep	_
+21	the	the	DT	_	23	det	_
+22	open	open	JJ	_	23	amod	_
+23	zone	zone	NN	_	20	pobj	_
+24	,	,	,	_	20	punct	_
+25	including	include	VBG	_	3	prep	_
+26	fully	fully	RB	_	28	advmod	_
+27	-	-	:	_	28	punct	_
+28	owned	own	VBN	_	30	amod	_
+29	foreign	foreign	JJ	_	30	amod	_
+30	companies	company	NNS	_	25	pobj	_
+31	.	.	.	_	2	punct	_
+
+1	</seg>	</seg>	CODE	_	0	root	_
+
+1	</p>	</p>	CODE	_	0	root	_
+
+1	</LU_ANNOTATE_WC=_78>	</lu_annotate_wc=_0>	CODE	_	0	root	_
+
+1	<p>	<p>	CODE	_	0	root	_
+
+1	<seg_id=7>	<seg_id=0>	CODE	_	0	root	_
+
+1	The	the	DT	_	4	det	_
+2	e-commerce	e-commerce	NN	_	4	nn	_
+3	free	free	JJ	_	4	amod	_
+4	zone	zone	NN	_	6	nsubjpass	_
+5	is	be	VBZ	_	6	auxpass	_
+6	situated	situate	VBN	_	0	root	_
+7	in	in	IN	sem=LOC	6	prep	_
+8	north	north	JJ	_	9	amod	_
+9	Dubai	dubai	NNP	_	7	pobj	_
+10	,	,	,	_	9	punct	_
+11	near	near	IN	sem=LOC	9	prep	_
+12	the	the	DT	_	15	det	_
+13	industrial	industrial	JJ	_	15	amod	_
+14	free	free	JJ	_	15	amod	_
+15	zone	zone	NN	_	11	pobj	_
+16	in	in	IN	sem=LOC	15	prep	_
+17	Jebel	jebel	NNP	_	18	nn	_
+18	Ali	ali	NNP	_	16	pobj	_
+19	,	,	,	_	15	punct	_
+20	the	the	DT	_	22	det	_
+21	top	top	JJ	_	22	amod	_
+22	regional	regional	JJ	_	15	appos	27:rnr
+23	and	and	CC	_	22	cc	_
+24	tenth	#ord#	JJ	_	27	amod	_
+25	international	international	JJ	_	27	amod	_
+26	leading	leading	JJ	_	27	amod	_
+27	area	area	NN	_	22	conj	_
+28	in	in	IN	sem=LOC	22	prep	_
+29	container	container	NN	_	30	nn	_
+30	transit	transit	NN	_	28	pobj	_
+31	.	.	.	_	6	punct	_
+
+1	</seg>	</seg>	CODE	_	0	root	_
+
+1	</p>	</p>	CODE	_	0	root	_
+
+1	<p>	<p>	CODE	_	0	root	_
+
+1	<seg_id=8>	<seg_id=0>	CODE	_	0	root	_
+
+1	The	the	DT	_	2	det	_
+2	inauguration	inauguration	NN	_	7	nsubj	_
+3	of	of	IN	_	2	prep	_
+4	Dubai	dubai	NNP	_	6	nn	_
+5	Internet	internet	NNP	_	6	nn	_
+6	City	city	NNP	_	3	pobj	_
+7	coincides	coincide	VBZ	_	0	root	_
+8	with	with	IN	syn=CLR	7	prep	_
+9	the	the	DT	_	10	det	_
+10	opening	opening	NN	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	an	an	DT	_	15	det	_
+13	annual	annual	JJ	_	15	amod	_
+14	IT	it	NNP	_	15	nn	_
+15	show	show	NN	_	11	pobj	_
+16	in	in	IN	sem=LOC	15	prep	_
+17	Dubai	dubai	NNP	_	16	pobj	_
+18	,	,	,	_	15	punct	_
+19	the	the	DT	_	23	det	_
+20	Gulf	gulf	NNP	_	23	nn	_
+21	Information	information	NNP	_	22	nn	_
+22	Technology	technology	NNP	_	23	nn	_
+23	Exhibition	exhibition	NNP	_	15	appos	_
+24	(	(	-LRB-	_	23	punct	_
+25	Gitex	gitex	NNP	_	23	appos	_
+26	)	)	-RRB-	_	23	punct	_
+27	,	,	,	_	15	punct	_
+28	the	the	DT	_	29	det	_
+29	biggest	big	JJS	_	15	appos	_
+30	in	in	IN	sem=LOC	29	prep	_
+31	the	the	DT	_	33	det	_
+32	Middle	middle	NNP	_	33	nn	_
+33	East	east	NNP	_	30	pobj	_
+34	.	.	.	_	7	punct	_
+
+1	</seg>	</seg>	CODE	_	0	root	_
+
+1	</p>	</p>	CODE	_	0	root	_
+
+1	</DOC>	</doc>	CODE	_	0	root	_
+

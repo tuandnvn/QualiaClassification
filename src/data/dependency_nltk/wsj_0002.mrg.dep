@@ -1,0 +1,27 @@
+1	Rudolph	rudolph	NNP	_	2	nn	_
+2	Agnew	agnew	NNP	_	17	nsubjpass	_
+3	,	,	,	_	2	punct	_
+4	55	0	CD	_	5	num	_
+5	years	year	NNS	_	6	npadvmod	_
+6	old	old	JJ	_	2	amod	_
+7	and	and	CC	_	6	cc	_
+8	former	former	JJ	_	9	amod	_
+9	chairman	chairman	NN	_	6	conj	_
+10	of	of	IN	_	9	prep	_
+11	Consolidated	consolidated	NNP	_	14	nn	_
+12	Gold	gold	NNP	_	14	nn	_
+13	Fields	fields	NNP	_	14	nn	_
+14	PLC	plc	NNP	_	10	pobj	_
+15	,	,	,	_	2	punct	_
+16	was	be	VBD	_	17	auxpass	_
+17	named	name	VBN	_	0	root	_
+18	a	a	DT	_	20	det	_
+19	nonexecutive	nonexecutive	JJ	_	20	amod	_
+20	director	director	NN	syn=PRD	17	oprd	_
+21	of	of	IN	_	20	prep	_
+22	this	this	DT	_	25	det	_
+23	British	british	JJ	_	25	amod	_
+24	industrial	industrial	JJ	_	25	amod	_
+25	conglomerate	conglomerate	NN	_	21	pobj	_
+26	.	.	.	_	17	punct	_
+

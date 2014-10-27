@@ -1,0 +1,47 @@
+1	@	@	IN	_	0	root	_
+
+1	Money	money	NNP	_	5	nn	_
+2	Market	market	NNP	_	5	nn	_
+3	Deposits-a	deposits-a	NNP	_	5	nn	_
+4	6.21	0	CD	_	5	num	_
+5	%	%	NN	_	0	root	_
+
+1	a	a	LS	_	4	meta	_
+2	-	-	:	_	1	punct	_
+3	Average	average	JJ	_	4	amod	_
+4	rate	rate	NN	_	0	root	_
+5	paid	pay	VBN	_	4	partmod	_
+6	yesterday	yesterday	NN	sem=TMP	5	npadvmod	_
+7	by	by	IN	_	5	agent	_
+8	100	0	CD	_	10	num	_
+9	large	large	JJ	_	10	amod	_
+10	banks	bank	NNS	_	7	pobj	_
+11	and	and	CC	_	10	cc	_
+12	thrifts	thrift	NNS	_	10	conj	_
+13	in	in	IN	sem=LOC	5	prep	_
+14	the	the	DT	_	18	det	_
+15	10	0	CD	_	18	num	_
+16	largest	large	JJS	_	18	amod	_
+17	metropolitan	metropolitan	JJ	_	18	amod	_
+18	areas	area	NNS	_	13	pobj	_
+19	as	as	IN	_	20	mark	_
+20	compiled	compile	VBN	_	4	advcl	_
+21	by	by	IN	_	20	agent	_
+22	Bank	bank	NNP	_	24	nn	_
+23	Rate	rate	NNP	_	24	nn	_
+24	Monitor	monitor	NNP	_	21	pobj	_
+25	.	.	.	_	4	punct	_
+
+1	b	b	LS	_	5	meta	_
+2	-	-	:	_	1	punct	_
+3	Current	current	JJ	_	5	amod	_
+4	annual	annual	JJ	_	5	amod	_
+5	yield	yield	NN	_	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	Guaranteed	guarantee	VBN	_	2	amod	_
+2	minimum	minimum	NN	_	0	root	_
+3	6	0	CD	_	4	num	_
+4	%	%	NN	_	2	appos	_
+5	.	.	.	_	2	punct	_
+
