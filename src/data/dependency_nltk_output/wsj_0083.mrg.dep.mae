@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+While worry grows about big Japanese investments in the U.S. , Japan 's big trading companies are rapidly increasing their stake in America 's smaller business . 
+For Japan , the controversial trend improves access to American markets and technology . 
+But for small American companies , it also provides a growing source of capital and even marketing help . 
+Take the deal with Candela Laser Corp. , a Wayland , Mass. , manufacturer of high-tech medical devices , which three years ago set its sights on Japan as an export market . 
+Partly to help clear the myriad obstacles facing any overseas company trying to penetrate Japan , tiny Candela turned to Mitsui & Co. , one of Japan 's largest trading companies , for investment . 
+In a joint-venture deal , Mitsui guided Candela through Tokyo 's bureaucratic maze . 
+It eventually secured Ministry of Health import approval for two Candela laser products -- one that breaks up kidney stones and another that treats skin lesions . 
+At last count , Candela had sold $ 4 million of its medical devices in Japan . 
+The deal also gave Mitsui access to a high-tech medical product . 
+`` They view this as a growth area so they went about it with a systematic approach , '' says Richard Olsen , a Candela vice president . 
+Indeed , for many Japanese trading companies , the favorite U.S. small business is one whose research and development can be milked for future Japanese use . 
+The Japanese companies bankroll many small U.S. companies with promising products or ideas , frequently putting their money behind projects that commercial banks wo n't touch . 
+Japanese companies have financed small and medium-sized U.S. firms for years , but in recent months , the pace has taken off . 
+In the first half of 1989 alone , Japanese corporations invested $ 214 million in minority positions in U.S. companies , a 61 % rise from the figure for all of 1987 , reports Venture Economics Inc . 
+The Needham , Mass. , concern tracks investments in new businesses . 
+In addition , of course , some of the Japanese investments involved outright purchase of small U.S. firms . 
+Heightened Japanese interest in American small business parallels an acceleration of investments giving Japanese companies control of large , highly visible U.S. corporations , such as Columbia Pictures Entertainment Inc . 
+Only this week , it was announced that Mitsubishi Estate Co. had acquired a 51 % stake in Rockefeller Group , which owns New York 's prestigious Rockefeller Center . 
+While the small deals are far less conspicuous , they add to Japanese penetration of the U.S. market . 
+As the deals also improve Japanese access to American technology and market knowledge , they feed American anxieties in this area , too . 
+Even a low-tech product like plate glass can catch a trading company 's fancy if there 's a strategic fit . 
+Free State Glass Industries of Warrenton , Va. , a small fabricator of architectural glass , was foundering under its original management . 
+Last year , Mitsubishi International Corp. , the New York-based arm of Mitsubishi Corp. , bought controlling interest in the glass company in a joint venture with Ronald Bodner , a glass industry executive and Mitsubishi consultant . 
+The deal is chiefly designed to give Mitsubishi a window on the U.S. glass industry , says Ichiro Wakui , an executive in Mitsubishi 's general merchandise department in New York . 
+`` It 's not just a simple investment in a small company , '' Mr. Wakui says . 
+`` We want to see the glass market from the inside , not the outside . '' 
+Mitsubishi 's investment in Free State is `` very small ... less than $ 4 million , '' Mr. Wakui says . 
+Mr. Bodner declines to comment on the arrangement . 
+Trading companies such as Mitsubishi , Mitsui , C. Itoh & Co. and Nissho-Iwai Corp. , which make many of the Japanese investments in small U.S. concerns , have no U.S. counterpart . 
+These vertically integrated combines , some of which got their start in Japan 's feudal period , deal globally in commodities , construction and manufacturing . 
+They operate ships and banks . 
+`` All the `` sogo-shosha '' are looking for new business , '' says Arthur Klauser , adviser to the president of Mitsui , U.S.A. , using the Japanese term for the largest of the global trading houses . 
+Adds Takeshi Kondo , senior vice president of C. Itoh America Inc. : `` We have a great interest in making investments , particularly in new ventures . '' 
+A host of electronics firms in California 's Silicon Valley were financed with trading-company venture capital . 
+Profit , at least in the short term , is usually a secondary goal . 
+`` Strategic objectives , not financial return , drive many of the deals , '' says a Venture Economics spokesman . 
+In investing on the basis of future transactions , a role often performed by merchant banks , trading companies can cut through the logjam that small-company owners often face with their local commercial banks . 
+`` It 's the classic problem of the small businessman , '' says Malcolm Davies , managing director of Trading Alliance Corp. of New York . 
+`` People are queuing at the door to take his product but he does n't have the working capital to make the thing and commercial banks are very unsympathetic . 
+They want assets , they want a balance sheet , which has no relation to the business a company can generate . '' 
+Adds Mitsui 's Mr. Klauser : `` Unlike corporations in this country , trading companies are n't so much interested in a high return on investment as they are on increasing trade flows . 
+To the extent they can do this , they 're quite content to get a return on investment of 1 % to 2 % . '' 
+Mr. Klauser says Mitsui has 75 U.S. subsidiaries in which it holds 35 % interest or more and the trading company hopes to double the number of its U.S. affiliates in 1990 . 
+Sales by these subsidiaries in the fiscal year ending last March were more than $ 17 billion . 
+A 1 % to 2 % return on $ 17 billion `` ai n't hay , '' Mr. Klauser says . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="107" end="117" text="increasing" comment="" pos="VBG" />
+<SELECTOR id="s1" start="200" end="208" text="improves" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="297" end="305" text="provides" comment="" pos="VBZ" />
+<SELECTOR id="s3" start="361" end="365" text="Take" comment="" pos="VB" />
+<SELECTOR id="s4" start="488" end="491" text="set" comment="" pos="VBP" />
+<SELECTOR id="s5" start="550" end="555" text="clear" comment="" pos="VB" />
+<SELECTOR id="s6" start="577" end="583" text="facing" comment="" pos="VBG" />
+<SELECTOR id="s7" start="615" end="624" text="penetrate" comment="" pos="VB" />
+<SELECTOR id="s8" start="766" end="772" text="guided" comment="" pos="VBD" />
+<SELECTOR id="s9" start="833" end="840" text="secured" comment="" pos="VBD" />
+<SELECTOR id="s10" start="919" end="925" text="breaks" comment="" pos="VBZ" />
+<SELECTOR id="s11" start="960" end="966" text="treats" comment="" pos="VBZ" />
+<SELECTOR id="s12" start="1011" end="1015" text="sold" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1077" end="1081" text="gave" comment="" pos="VBD" />
+<SELECTOR id="s14" start="1138" end="1142" text="view" comment="" pos="VBP" />
+<SELECTOR id="s15" start="1393" end="1399" text="milked" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1450" end="1458" text="bankroll" comment="" pos="VBP" />
+<SELECTOR id="s17" start="1531" end="1538" text="putting" comment="" pos="VBG" />
+<SELECTOR id="s18" start="1596" end="1601" text="touch" comment="" pos="VB" />
+<SELECTOR id="s19" start="1629" end="1637" text="financed" comment="" pos="VBN" />
+<SELECTOR id="s20" start="1789" end="1797" text="invested" comment="" pos="VBD" />
+<SELECTOR id="s21" start="1963" end="1969" text="tracks" comment="" pos="VBZ" />
+<SELECTOR id="s22" start="2062" end="2070" text="involved" comment="" pos="VBD" />
+<SELECTOR id="s23" start="2168" end="2177" text="parallels" comment="" pos="VBZ" />
+<SELECTOR id="s24" start="2209" end="2215" text="giving" comment="" pos="VBG" />
+<SELECTOR id="s25" start="2360" end="2369" text="announced" comment="" pos="VBN" />
+<SELECTOR id="s26" start="2401" end="2409" text="acquired" comment="" pos="VBN" />
+<SELECTOR id="s27" start="2452" end="2456" text="owns" comment="" pos="VBZ" />
+<SELECTOR id="s28" start="2625" end="2632" text="improve" comment="" pos="VBP" />
+<SELECTOR id="s29" start="2700" end="2704" text="feed" comment="" pos="VBP" />
+<SELECTOR id="s30" start="2791" end="2796" text="catch" comment="" pos="VB" />
+<SELECTOR id="s31" start="3086" end="3092" text="bought" comment="" pos="VBD" />
+<SELECTOR id="s32" start="3251" end="3259" text="designed" comment="" pos="VBN" />
+<SELECTOR id="s33" start="3263" end="3267" text="give" comment="" pos="VB" />
+<SELECTOR id="s34" start="3507" end="3510" text="see" comment="" pos="VB" />
+<SELECTOR id="s35" start="3818" end="3822" text="make" comment="" pos="VBP" />
+<SELECTOR id="s36" start="3881" end="3885" text="have" comment="" pos="VBP" />
+<SELECTOR id="s37" start="3962" end="3965" text="got" comment="" pos="VBD" />
+<SELECTOR id="s38" start="4076" end="4083" text="operate" comment="" pos="VBP" />
+<SELECTOR id="s39" start="4234" end="4239" text="using" comment="" pos="VBG" />
+<SELECTOR id="s40" start="4381" end="4385" text="have" comment="" pos="VBP" />
+<SELECTOR id="s41" start="4406" end="4412" text="making" comment="" pos="VBG" />
+<SELECTOR id="s42" start="4527" end="4535" text="financed" comment="" pos="VBN" />
+<SELECTOR id="s43" start="4694" end="4699" text="drive" comment="" pos="VBP" />
+<SELECTOR id="s44" start="4932" end="4936" text="face" comment="" pos="VBP" />
+<SELECTOR id="s45" start="5151" end="5155" text="take" comment="" pos="VB" />
+<SELECTOR id="s46" start="5184" end="5188" text="have" comment="" pos="VB" />
+<SELECTOR id="s47" start="5212" end="5216" text="make" comment="" pos="VB" />
+<SELECTOR id="s48" start="5279" end="5283" text="want" comment="" pos="VBP" />
+<SELECTOR id="s49" start="5298" end="5302" text="want" comment="" pos="VBP" />
+<SELECTOR id="s50" start="5327" end="5330" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s51" start="5549" end="5559" text="increasing" comment="" pos="VBG" />
+<SELECTOR id="s52" start="5598" end="5600" text="do" comment="" pos="VB" />
+<SELECTOR id="s53" start="5634" end="5637" text="get" comment="" pos="VB" />
+<SELECTOR id="s54" start="5705" end="5708" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s55" start="5742" end="5747" text="holds" comment="" pos="VBZ" />
+<SELECTOR id="s56" start="5803" end="5809" text="double" comment="" pos="VB" />
+<NOUN id="n0" start="124" end="129" text="stake" comment="" />
+<NOUN id="n1" start="209" end="215" text="access" comment="" />
+<NOUN id="n2" start="316" end="322" text="source" comment="" />
+<NOUN id="n3" start="370" end="374" text="deal" comment="" />
+<NOUN id="n4" start="496" end="502" text="sights" comment="" />
+<NOUN id="n5" start="567" end="576" text="obstacles" comment="" />
+<NOUN id="n6" start="597" end="604" text="company" comment="" />
+<NOUN id="n7" start="625" end="630" text="Japan" comment="" />
+<NOUN id="n8" start="773" end="780" text="Candela" comment="" />
+<NOUN id="n9" start="867" end="875" text="approval" comment="" />
+<NOUN id="n10" start="936" end="942" text="stones" comment="" />
+<NOUN id="n11" start="972" end="979" text="lesions" comment="" />
+<NOUN id="n12" start="1020" end="1027" text="million" comment="" />
+<NOUN id="n13" start="1082" end="1088" text="Mitsui" comment="" />
+<NOUN id="n14" start="1089" end="1095" text="access" comment="" />
+<NOUN id="n15" start="1143" end="1147" text="this" comment="" />
+<NOUN id="n16" start="1361" end="1369" text="research" comment="" />
+<NOUN id="n17" start="1475" end="1484" text="companies" comment="" />
+<NOUN id="n18" start="1545" end="1550" text="money" comment="" />
+<NOUN id="n19" start="1567" end="1571" text="that" comment="" />
+<NOUN id="n20" start="1666" end="1671" text="firms" comment="" />
+<NOUN id="n21" start="1804" end="1811" text="million" comment="" />
+<NOUN id="n22" start="1970" end="1981" text="investments" comment="" />
+<NOUN id="n23" start="2080" end="2088" text="purchase" comment="" />
+<NOUN id="n24" start="2181" end="2193" text="acceleration" comment="" />
+<NOUN id="n25" start="2225" end="2234" text="companies" comment="" />
+<NOUN id="n26" start="2235" end="2242" text="control" comment="" />
+<NOUN id="n27" start="2353" end="2355" text="it" comment="" />
+<NOUN id="n28" start="2417" end="2422" text="stake" comment="" />
+<NOUN id="n29" start="2493" end="2499" text="Center" comment="" />
+<NOUN id="n30" start="2642" end="2648" text="access" comment="" />
+<NOUN id="n31" start="2714" end="2723" text="anxieties" comment="" />
+<NOUN id="n32" start="2818" end="2823" text="fancy" comment="" />
+<NOUN id="n33" start="3105" end="3113" text="interest" comment="" />
+<NOUN id="n34" start="3235" end="3239" text="deal" comment="" />
+<NOUN id="n35" start="3268" end="3278" text="Mitsubishi" comment="" />
+<NOUN id="n36" start="3281" end="3287" text="window" comment="" />
+<NOUN id="n37" start="3521" end="3527" text="market" comment="" />
+<NOUN id="n38" start="3823" end="3827" text="many" comment="" />
+<NOUN id="n39" start="3894" end="3905" text="counterpart" comment="" />
+<NOUN id="n40" start="3972" end="3977" text="start" comment="" />
+<NOUN id="n41" start="4084" end="4089" text="ships" comment="" />
+<NOUN id="n42" start="4253" end="4257" text="term" comment="" />
+<NOUN id="n43" start="4394" end="4402" text="interest" comment="" />
+<NOUN id="n44" start="4413" end="4424" text="investments" comment="" />
+<NOUN id="n45" start="4464" end="4468" text="host" comment="" />
+<NOUN id="n46" start="4700" end="4704" text="many" comment="" />
+<NOUN id="n47" start="4900" end="4904" text="that" comment="" />
+<NOUN id="n48" start="5160" end="5167" text="product" comment="" />
+<NOUN id="n49" start="5201" end="5208" text="capital" comment="" />
+<NOUN id="n50" start="5221" end="5226" text="thing" comment="" />
+<NOUN id="n51" start="5284" end="5290" text="assets" comment="" />
+<NOUN id="n52" start="5313" end="5318" text="sheet" comment="" />
+<NOUN id="n53" start="5334" end="5342" text="relation" comment="" />
+<NOUN id="n54" start="5566" end="5571" text="flows" comment="" />
+<NOUN id="n55" start="5601" end="5605" text="this" comment="" />
+<NOUN id="n56" start="5640" end="5646" text="return" comment="" />
+<NOUN id="n57" start="5717" end="5729" text="subsidiaries" comment="" />
+<NOUN id="n58" start="5753" end="5761" text="interest" comment="" />
+<NOUN id="n59" start="5814" end="5820" text="number" comment="" />
+<QLINK id="q0" fromID="s0" fromText="increasing" toID="n0" toText="stake" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="improves" toID="n1" toText="access" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="provides" toID="n2" toText="source" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="Take" toID="n3" toText="deal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="set" toID="n4" toText="sights" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="clear" toID="n5" toText="obstacles" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="facing" toID="n6" toText="company" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="penetrate" toID="n7" toText="Japan" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="guided" toID="n8" toText="Candela" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="secured" toID="n9" toText="approval" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="breaks" toID="n10" toText="stones" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="treats" toID="n11" toText="lesions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="sold" toID="n12" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="gave" toID="n13" toText="Mitsui" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q14" fromID="s13" fromText="gave" toID="n14" toText="access" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="view" toID="n15" toText="this" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="milked" toID="n16" toText="research" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q17" fromID="s16" fromText="bankroll" toID="n17" toText="companies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="putting" toID="n18" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="touch" toID="n19" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="financed" toID="n20" toText="firms" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="invested" toID="n21" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="tracks" toID="n22" toText="investments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="involved" toID="n23" toText="purchase" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="parallels" toID="n24" toText="acceleration" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="giving" toID="n25" toText="companies" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q26" fromID="s24" fromText="giving" toID="n26" toText="control" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s25" fromText="announced" toID="n27" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q28" fromID="s26" fromText="acquired" toID="n28" toText="stake" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s27" fromText="owns" toID="n29" toText="Center" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s28" fromText="improve" toID="n30" toText="access" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s29" fromText="feed" toID="n31" toText="anxieties" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s30" fromText="catch" toID="n32" toText="fancy" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s31" fromText="bought" toID="n33" toText="interest" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s32" fromText="designed" toID="n34" toText="deal" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q35" fromID="s33" fromText="give" toID="n35" toText="Mitsubishi" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q36" fromID="s33" fromText="give" toID="n36" toText="window" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s34" fromText="see" toID="n37" toText="market" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s35" fromText="make" toID="n38" toText="many" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s36" fromText="have" toID="n39" toText="counterpart" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s37" fromText="got" toID="n40" toText="start" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q41" fromID="s38" fromText="operate" toID="n41" toText="ships" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s39" fromText="using" toID="n42" toText="term" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s40" fromText="have" toID="n43" toText="interest" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q44" fromID="s41" fromText="making" toID="n44" toText="investments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q45" fromID="s42" fromText="financed" toID="n45" toText="host" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q46" fromID="s43" fromText="drive" toID="n46" toText="many" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q47" fromID="s44" fromText="face" toID="n47" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q48" fromID="s45" fromText="take" toID="n48" toText="product" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q49" fromID="s46" fromText="have" toID="n49" toText="capital" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q50" fromID="s47" fromText="make" toID="n50" toText="thing" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q51" fromID="s48" fromText="want" toID="n51" toText="assets" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q52" fromID="s49" fromText="want" toID="n52" toText="sheet" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q53" fromID="s50" fromText="has" toID="n53" toText="relation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q54" fromID="s51" fromText="increasing" toID="n54" toText="flows" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q55" fromID="s52" fromText="do" toID="n55" toText="this" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q56" fromID="s53" fromText="get" toID="n56" toText="return" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q57" fromID="s54" fromText="has" toID="n57" toText="subsidiaries" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q58" fromID="s55" fromText="holds" toID="n58" toText="interest" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q59" fromID="s56" fromText="double" toID="n59" toText="number" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

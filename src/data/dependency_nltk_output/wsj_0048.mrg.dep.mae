@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Rekindled hope that two New England states will allow broader interstate banking boosted Nasdaq 's bank stocks , but the over-the-counter market was up only slightly in lackluster trading . 
+The Nasdaq composite index added 1.01 to 456.64 on paltry volume of 118.6 million shares . 
+In terms of volume , it was an inauspicious beginning for November . 
+Yesterday 's share turnover was well below the year 's daily average of 133.8 million . 
+In October , the busiest month of the year so far , daily volume averaged roughly 145 million shares . 
+The Nasdaq 100 index of the biggest nonfinancial stocks gained 1.39 to 446.62 . 
+The index of the 100 largest Nasdaq financial stocks rose modestly as well , gaining 1.28 to 449.04 . 
+But the broader Nasdaq bank index , which tracks thrift issues , jumped 3.23 to 436.01 . 
+The bank stocks got a boost when Connecticut Bank & Trust and Bank of New England said they no longer oppose pending legislation that would permit banks from other regions to merge with Connecticut and Massachusetts banks . 
+The two banks merged in 1985 . 
+Bank of New England 's shares are traded on the New York Stock Exchange . 
+The stocks of banking concerns based in Massachusetts were n't helped much by the announcement , traders said , because many of those concerns have financial problems tied to their real-estate loan portfolios , making them unattractive takeover targets . 
+But speculators , anticipating that Connecticut will approve a law permitting such interstate banking soon , immediately bid up shares of Connecticut banks on the news . 
+`` A lot of the stocks that have been under water finally saw a reason to uptick , '' said George Jennison , head trader of banking issues in Shearson Lehman Hutton 's OTC department . 
+The biggest beneficiary was Northeast Bancorp , which surged 7 3\/4 to 69 . 
+The Stamford , Conn. , concern has agreed to a buy-out by Bank of New York in a transaction with an indicated value of about $ 100 a share that expires next August . 
+Ed Macheski , a Wilton , Conn. , money manager who follows bank stocks , said the announcement effectively gives the deal `` the green light . '' 
+Mr. Jennison said Northeast Bancorp also fared well because takeover stocks have returned to favor among investors . 
+Another OTC bank stock involved in a buy-out deal , First Constitution Financial , was higher . 
+It rose 7\/8 to 18 1\/4 . 
+First Constitution has signed a merger agreement with WFRR L.P. and GHKM Corp. , under which all of its common shares will be acquired for $ 25 each , or $ 273.5 million . 
+Among other Connecticut banks whose shares trade in the OTC market , Society for Savings Bancorp , based in Hartford , saw its stock rise 1 3\/4 to 18 1\/4 . 
+Centerbank added 5\/8 to 8 3\/4 ; shares of NESB , a New London-based bank holding company , rose 5\/8 to 5 7\/8 . 
+Among other banking issues , Pennview Savings Association leapt more than 44 % with a gain of 6 5\/8 to 21 5\/8 . 
+The Pennsylvania bank agreed to be acquired in a merger with Univest Corp. of Pennsylvania for $ 25.50 a share . 
+Valley Federal Savings & Loan , a California thrift issue , gained 1 to 4 1\/4 after reporting a third-quarter loss of $ 70.7 million after an $ 89.9 million pretax charge mostly related to its mobile home financing unit . 
+Dan E. Nelms , Valley Federal 's president and chief executive officer , said the one-time charge substantially eliminates future losses associated with the unit . 
+He said the company 's core business remains strong . 
+He also said that after the charges , and `` assuming no dramatic fluctuation in interest rates , the company expects to achieve near-record earnings in 1990 . '' 
+Weisfield 's surged 6 3\/4 to 55 1\/2 and Ratners Group 's American depositary receipts , or ADRs , gained 5\/8 to 12 1\/4 . 
+The two concerns said they entered into a definitive merger agreement under which Ratners will begin a tender offer for all of Weisfield 's common shares for $ 57.50 each . 
+Also on the takeover front , Jaguar 's ADRs rose 1\/4 to 13 7\/8 on turnover of 4.4 million . 
+Since the British auto maker became a takeover target last month , its ADRs have jumped about 78 % . 
+After troubled Heritage Media proposed acquiring POP Radio in a stock swap , POP Radio 's shares tumbled 4 to 14 3\/4 . 
+Heritage Media , which already owns about 51 % of POP Radio , proposed paying POP Radio shareholders with shares of a new class of Heritage Media preferred stock that would be convertible into four shares of Heritage Media 's common . 
+Rally 's lost 1 3\/4 to 21 3\/4 . 
+The restaurant operator said it has redeemed its rights issued Monday under its shareholder rights plan . 
+The fast-food company said its decision was based on discussions with a shareholder group , Giant Group Ltd. , `` in an effort to resolve certain disputes with the company . '' 
+Giant Group is led by three Rally 's directors , Burt Sugarman , James M. Trotter III and William E. Trotter II , who earlier this month indicated they had a 42.5 % stake in Rally 's and planned to seek a majority of seats on Rally 's nine-member board . 
+SCI Systems slipped 7\/8 to 10 on volume of 858,000 shares . 
+The Huntsville , Ala. , electronic products maker said it expects to post a `` significant '' loss for its fiscal first quarter ended Sept. 30 . 
+In the year-earlier period , SCI had net income of $ 4.8 million , or 23 cents a share , on revenue of $ 225.6 million . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="49" end="54" text="allow" comment="" pos="VB" />
+<SELECTOR id="s1" start="82" end="89" text="boosted" comment="" pos="VBD" />
+<SELECTOR id="s2" start="219" end="224" text="added" comment="" pos="VBD" />
+<SELECTOR id="s3" start="508" end="516" text="averaged" comment="" pos="VBD" />
+<SELECTOR id="s4" start="603" end="609" text="gained" comment="" pos="VBD" />
+<SELECTOR id="s5" start="705" end="712" text="gaining" comment="" pos="VBG" />
+<SELECTOR id="s6" start="773" end="779" text="tracks" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="837" end="840" text="got" comment="" pos="VBD" />
+<SELECTOR id="s8" start="923" end="929" text="oppose" comment="" pos="VBP" />
+<SELECTOR id="s9" start="1112" end="1118" text="traded" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1216" end="1222" text="helped" comment="" pos="VBN" />
+<SELECTOR id="s11" start="1296" end="1300" text="have" comment="" pos="VBP" />
+<SELECTOR id="s12" start="1462" end="1469" text="approve" comment="" pos="VB" />
+<SELECTOR id="s13" start="1476" end="1486" text="permitting" comment="" pos="VBG" />
+<SELECTOR id="s14" start="1530" end="1533" text="bid" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1638" end="1641" text="saw" comment="" pos="VBD" />
+<SELECTOR id="s16" start="2061" end="2068" text="follows" comment="" pos="VBZ" />
+<SELECTOR id="s17" start="2117" end="2122" text="gives" comment="" pos="VBZ" />
+<SELECTOR id="s18" start="2422" end="2428" text="signed" comment="" pos="VBN" />
+<SELECTOR id="s19" start="2525" end="2533" text="acquired" comment="" pos="VBN" />
+<SELECTOR id="s20" start="2742" end="2747" text="added" comment="" pos="VBD" />
+<SELECTOR id="s21" start="3161" end="3170" text="reporting" comment="" pos="VBG" />
+<SELECTOR id="s22" start="3412" end="3422" text="eliminates" comment="" pos="VBZ" />
+<SELECTOR id="s23" start="3565" end="3573" text="assuming" comment="" pos="VBG" />
+<SELECTOR id="s24" start="3641" end="3648" text="achieve" comment="" pos="VB" />
+<SELECTOR id="s25" start="3784" end="3790" text="gained" comment="" pos="VBD" />
+<SELECTOR id="s26" start="3905" end="3910" text="begin" comment="" pos="VB" />
+<SELECTOR id="s27" start="4220" end="4229" text="acquiring" comment="" pos="VBG" />
+<SELECTOR id="s28" start="4333" end="4337" text="owns" comment="" pos="VBZ" />
+<SELECTOR id="s29" start="4373" end="4379" text="paying" comment="" pos="VBG" />
+<SELECTOR id="s30" start="4547" end="4551" text="lost" comment="" pos="VBN" />
+<SELECTOR id="s31" start="4609" end="4617" text="redeemed" comment="" pos="VBN" />
+<SELECTOR id="s32" start="4724" end="4729" text="based" comment="" pos="VBN" />
+<SELECTOR id="s33" start="4810" end="4817" text="resolve" comment="" pos="VB" />
+<SELECTOR id="s34" start="4873" end="4876" text="led" comment="" pos="VBN" />
+<SELECTOR id="s35" start="5010" end="5013" text="had" comment="" pos="VBD" />
+<SELECTOR id="s36" start="5056" end="5060" text="seek" comment="" pos="VB" />
+<SELECTOR id="s37" start="5245" end="5249" text="post" comment="" pos="VB" />
+<SELECTOR id="s38" start="5355" end="5358" text="had" comment="" pos="VBD" />
+<NOUN id="n0" start="74" end="81" text="banking" comment="" />
+<NOUN id="n1" start="105" end="111" text="stocks" comment="" />
+<NOUN id="n2" start="225" end="229" text="1.01" comment="" />
+<NOUN id="n3" start="537" end="543" text="shares" comment="" />
+<NOUN id="n4" start="610" end="614" text="1.39" comment="" />
+<NOUN id="n5" start="713" end="717" text="1.28" comment="" />
+<NOUN id="n6" start="787" end="793" text="issues" comment="" />
+<NOUN id="n7" start="843" end="848" text="boost" comment="" />
+<NOUN id="n8" start="938" end="949" text="legislation" comment="" />
+<NOUN id="n9" start="1101" end="1107" text="shares" comment="" />
+<NOUN id="n10" start="1157" end="1163" text="stocks" comment="" />
+<NOUN id="n11" start="1311" end="1319" text="problems" comment="" />
+<NOUN id="n12" start="1472" end="1475" text="law" comment="" />
+<NOUN id="n13" start="1503" end="1510" text="banking" comment="" />
+<NOUN id="n14" start="1537" end="1543" text="shares" comment="" />
+<NOUN id="n15" start="1644" end="1650" text="reason" comment="" />
+<NOUN id="n16" start="2074" end="2080" text="stocks" comment="" />
+<NOUN id="n17" start="2127" end="2131" text="deal" comment="" />
+<NOUN id="n18" start="2145" end="2150" text="light" comment="" />
+<NOUN id="n19" start="2438" end="2447" text="agreement" comment="" />
+<NOUN id="n20" start="2492" end="2495" text="all" comment="" />
+<NOUN id="n21" start="2748" end="2752" text="5\/8" comment="" />
+<NOUN id="n22" start="3187" end="3191" text="loss" comment="" />
+<NOUN id="n23" start="3430" end="3436" text="losses" comment="" />
+<NOUN id="n24" start="3586" end="3597" text="fluctuation" comment="" />
+<NOUN id="n25" start="3661" end="3669" text="earnings" comment="" />
+<NOUN id="n26" start="3791" end="3795" text="5\/8" comment="" />
+<NOUN id="n27" start="3920" end="3925" text="offer" comment="" />
+<NOUN id="n28" start="4234" end="4239" text="Radio" comment="" />
+<NOUN id="n29" start="4347" end="4348" text="%" comment="" />
+<NOUN id="n30" start="4390" end="4402" text="shareholders" comment="" />
+<NOUN id="n31" start="4554" end="4558" text="3\/4" comment="" />
+<NOUN id="n32" start="4622" end="4628" text="rights" comment="" />
+<NOUN id="n33" start="4711" end="4719" text="decision" comment="" />
+<NOUN id="n34" start="4826" end="4834" text="disputes" comment="" />
+<NOUN id="n35" start="4864" end="4869" text="Group" comment="" />
+<NOUN id="n36" start="5023" end="5028" text="stake" comment="" />
+<NOUN id="n37" start="5063" end="5071" text="majority" comment="" />
+<NOUN id="n38" start="5270" end="5274" text="loss" comment="" />
+<NOUN id="n39" start="5363" end="5369" text="income" comment="" />
+<QLINK id="q0" fromID="s0" fromText="allow" toID="n0" toText="banking" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="boosted" toID="n1" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="added" toID="n2" toText="1.01" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="averaged" toID="n3" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="gained" toID="n4" toText="1.39" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="gaining" toID="n5" toText="1.28" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="tracks" toID="n6" toText="issues" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="got" toID="n7" toText="boost" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="oppose" toID="n8" toText="legislation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="traded" toID="n9" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="helped" toID="n10" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s11" fromText="have" toID="n11" toText="problems" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="approve" toID="n12" toText="law" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="permitting" toID="n13" toText="banking" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="bid" toID="n14" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="saw" toID="n15" toText="reason" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="follows" toID="n16" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="gives" toID="n17" toText="deal" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q18" fromID="s17" fromText="gives" toID="n18" toText="light" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="signed" toID="n19" toText="agreement" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="acquired" toID="n20" toText="all" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q21" fromID="s20" fromText="added" toID="n21" toText="5\/8" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="reporting" toID="n22" toText="loss" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="eliminates" toID="n23" toText="losses" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="assuming" toID="n24" toText="fluctuation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="achieve" toID="n25" toText="earnings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s25" fromText="gained" toID="n26" toText="5\/8" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s26" fromText="begin" toID="n27" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="acquiring" toID="n28" toText="Radio" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s28" fromText="owns" toID="n29" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s29" fromText="paying" toID="n30" toText="shareholders" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="lost" toID="n31" toText="3\/4" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s31" fromText="redeemed" toID="n32" toText="rights" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s32" fromText="based" toID="n33" toText="decision" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q34" fromID="s33" fromText="resolve" toID="n34" toText="disputes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s34" fromText="led" toID="n35" toText="Group" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q36" fromID="s35" fromText="had" toID="n36" toText="stake" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s36" fromText="seek" toID="n37" toText="majority" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s37" fromText="post" toID="n38" toText="loss" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s38" fromText="had" toID="n39" toText="income" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

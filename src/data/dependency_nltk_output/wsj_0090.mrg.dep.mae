@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Investors unsettled by the stock market 's gyrations can take some comfort in the predictable arrival of quarterly dividend checks . 
+That has been particularly true this year with many companies raising their payouts more than 10 % . 
+But do n't breathe too easy : Those dividend increases may signal trouble ahead for stock prices , some analysts warn . 
+In the past , they say , the strongest dividend growth has often come at times when the stock-market party was almost over . 
+That can be a trap for unwary investors , says Richard Bernstein , senior quantitative analyst at Merrill Lynch & Co . 
+Strong dividend growth , he says , is `` the black widow of valuation '' -- a reference to the female spiders that attract males and then kill them after mating . 
+Stephen Boesel , president of T. Rowe Price Growth and Income Fund , explains that companies raise their payouts most robustly only after the economy and corporate profits have been growing for some time . 
+`` Invariably , those strong periods in the economy give way to recessionary environments , '' he says . 
+`` And recessionary environments are n't hospitable to the stock market . '' 
+Indeed , analysts say that payouts have sometimes risen most sharply when prices were already on their way down from cyclical peaks . 
+In 1976 , for example , dividends on the stocks in Standard & Poor 's 500-stock index soared 10 % , following much slower growth the year before . 
+The S&P index started sliding in price in September 1976 , and fell 12 % in 1977 -- despite a 15 % expansion in dividends that year . 
+That pattern has n't always held , but recent strong growth in dividends makes some market watchers anxious . 
+Payouts on the S&P 500 stocks rose 10 % in 1988 , according to Standard & Poor 's Corp. , and Wall Street estimates for 1989 growth are generally between 9 % and 14 % . 
+Many people believe the growth in dividends will slow next year , although a minority see double-digit gains continuing . 
+Meanwhile , many market watchers say recent dividend trends raise another warning flag : While dividends have risen smartly , their expansion has n't kept pace with even stronger advances in stock prices . 
+As a result , the market 's dividend yield -- dividends as a percentage of price -- has slid to a level that is fairly low and unenticing by historical standards . 
+Put another way , the decline in the yield suggests stocks have gotten pretty rich in price relative to the dividends they pay , some market analysts say . 
+They are keeping a close watch on the yield on the S&P 500 . 
+The figure is currently about 3.3 % , up from 3.2 % before the recent market slide . 
+Some analysts say investors should run for the exits if a sustained market rebound pushes the yield below 3 % . 
+A drop below that 3 % benchmark `` has always been a strong warning sign that stocks are fully valued , '' says Mr. Boesel of T. Rowe Price . 
+In fact , `` the market has always tanked . 
+Always . 
+There 's never been an exception , '' says Gerald W. Perritt , a Chicago investment adviser and money manager , based on a review of six decades of stock-market data . 
+The last time the S&P 500 yield dropped below 3 % was in the summer of 1987 . 
+Stockholders who took the hint and sold shares escaped the October debacle . 
+There have been only seven other times -- in 1929 , 1933 , 1961 , 1965 , 1968 , 1971 and 1972 -- when the yield on the S&P 500 dropped below 3 % for at least two consecutive months , Mr. Perritt found . 
+And in each case , he says , a sharp drop in stock prices began within a year . 
+Still , some market analysts say the current 3.3 % reading is n't as troublesome as it might have been in years past . 
+`` It 's not a very meaningful indicator currently because corporations are not behaving in a traditional manner , '' says James H. Coxon , head of stock investments for Cigna Corp. , the Philadelphia-based insurer . 
+In particular , Mr. Coxon says , businesses are paying out a smaller percentage of their profits and cash flow in the form of dividends than they have historically . 
+So , while stock prices may look fairly high relative to dividends , they are not excessive relative to the underlying corporate strength . 
+Rather than increasing dividends , some companies have used cash to buy back some of their shares , notes Steven G. Einhorn , co-chairman of the investment policy committee at Goldman , Sachs & Co . 
+He factors that into the market yield to get an adjusted yield of about 3.6 % . 
+That is just a tad below the average of the past 40 years or so , he says . 
+What will happen to dividend growth next year ? 
+Common wisdom suggests a single-digit rate of growth , reflecting a weakening in the economy and corporate profits . 
+PaineWebber Inc. , for instance , is forecasting growth in S&P 500 dividends of just under 5 % in 1990 , down from an estimated 11 % this year . 
+In other years in which there have been moderate economic slowdowns -- the environment the firm expects in 1990 -- the change in dividends ranged from a gain of 4 % to a decline of 1 % , according to PaineWebber analyst Thomas Doerflinger . 
+The minority argument , meanwhile , is that businesses have the financial wherewithal this time around to declare sharply higher dividends even if their earnings weaken . 
+Dividend growth on the order of 12 % is expected by both Mr. Coxon of Cigna and Mr. Einhorn of Goldman Sachs . 
+Those dividend bulls argue that corporations are in the unusual position of having plenty of cash left over after paying dividends and making capital expenditures . 
+One indicator investors might want to watch is the monthly tally from Standard & Poor 's of the number of public companies adjusting their dividends . 
+A total of 139 companies raised dividends in October , basically unchanged from 138 a year ago , S&P said Wednesday . 
+That followed four straight months in which the number of increases trailed the year-earlier pace . 
+While the S&P tally does n't measure the magnitude of dividend changes , a further slippage in the number of dividend increases could be a harbinger of slower dividend growth next year . 
+In any case , opinion is mixed on how much of a boost the overall stock market would get even if dividend growth continues at double-digit levels . 
+Mr. Einhorn of Goldman Sachs estimates the stock market will deliver a 12 % to 15 % total return from appreciation and dividends over the next 12 months -- vs. a `` cash rate of return '' of perhaps 7 % or 8 % if dividend growth is weak . 
+But Mr. Boesel of T. Rowe Price , who also expects 12 % growth in dividends next year , does n't think it will help the overall market all that much . 
+`` Having the dividend increases is a supportive element in the market outlook , but I do n't think it 's a main consideration , '' he says . 
+With slower economic growth and flat corporate earnings likely next year , `` I would n't look for the market to have much upside from current levels . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="58" end="62" text="take" comment="" pos="VB" />
+<SELECTOR id="s1" start="197" end="204" text="raising" comment="" pos="VBG" />
+<SELECTOR id="s2" start="296" end="302" text="signal" comment="" pos="VB" />
+<SELECTOR id="s3" start="719" end="726" text="attract" comment="" pos="VBP" />
+<SELECTOR id="s4" start="742" end="746" text="kill" comment="" pos="VBP" />
+<SELECTOR id="s5" start="861" end="866" text="raise" comment="" pos="VBP" />
+<SELECTOR id="s6" start="1027" end="1031" text="give" comment="" pos="VBP" />
+<SELECTOR id="s7" start="2041" end="2046" text="raise" comment="" pos="VBP" />
+<SELECTOR id="s8" start="2131" end="2135" text="kept" comment="" pos="VBD" />
+<SELECTOR id="s9" start="2519" end="2526" text="keeping" comment="" pos="VBG" />
+<SELECTOR id="s10" start="2741" end="2747" text="pushes" comment="" pos="VBZ" />
+<SELECTOR id="s11" start="2866" end="2872" text="valued" comment="" pos="VBN" />
+<SELECTOR id="s12" start="3234" end="3238" text="took" comment="" pos="VBD" />
+<SELECTOR id="s13" start="3252" end="3256" text="sold" comment="" pos="VBD" />
+<SELECTOR id="s14" start="3264" end="3271" text="escaped" comment="" pos="VBD" />
+<SELECTOR id="s15" start="3966" end="3972" text="paying" comment="" pos="VBG" />
+<SELECTOR id="s16" start="4238" end="4248" text="increasing" comment="" pos="VBG" />
+<SELECTOR id="s17" start="4281" end="4285" text="used" comment="" pos="VBN" />
+<SELECTOR id="s18" start="4294" end="4297" text="buy" comment="" pos="VB" />
+<SELECTOR id="s19" start="4429" end="4436" text="factors" comment="" pos="VBZ" />
+<SELECTOR id="s20" start="4467" end="4470" text="get" comment="" pos="VB" />
+<SELECTOR id="s21" start="4647" end="4655" text="suggests" comment="" pos="VBZ" />
+<SELECTOR id="s22" start="4688" end="4698" text="reflecting" comment="" pos="VBG" />
+<SELECTOR id="s23" start="4788" end="4799" text="forecasting" comment="" pos="VBG" />
+<SELECTOR id="s24" start="5194" end="5198" text="have" comment="" pos="VBP" />
+<SELECTOR id="s25" start="5245" end="5252" text="declare" comment="" pos="VB" />
+<SELECTOR id="s26" start="5351" end="5359" text="expected" comment="" pos="VBN" />
+<SELECTOR id="s27" start="5499" end="5505" text="having" comment="" pos="VBG" />
+<SELECTOR id="s28" start="5537" end="5543" text="paying" comment="" pos="VBG" />
+<SELECTOR id="s29" start="5558" end="5564" text="making" comment="" pos="VBG" />
+<SELECTOR id="s30" start="5712" end="5721" text="adjusting" comment="" pos="VBG" />
+<SELECTOR id="s31" start="5766" end="5772" text="raised" comment="" pos="VBD" />
+<SELECTOR id="s32" start="5865" end="5873" text="followed" comment="" pos="VBD" />
+<SELECTOR id="s33" start="5928" end="5935" text="trailed" comment="" pos="VBD" />
+<SELECTOR id="s34" start="5990" end="5997" text="measure" comment="" pos="VB" />
+<SELECTOR id="s35" start="6234" end="6237" text="get" comment="" pos="VB" />
+<SELECTOR id="s36" start="6359" end="6366" text="deliver" comment="" pos="VB" />
+<SELECTOR id="s37" start="6581" end="6588" text="expects" comment="" pos="VBZ" />
+<SELECTOR id="s38" start="6649" end="6653" text="help" comment="" pos="VB" />
+<SELECTOR id="s39" start="6693" end="6699" text="Having" comment="" pos="VBG" />
+<SELECTOR id="s40" start="6946" end="6950" text="have" comment="" pos="VB" />
+<NOUN id="n0" start="68" end="75" text="comfort" comment="" />
+<NOUN id="n1" start="211" end="218" text="payouts" comment="" />
+<NOUN id="n2" start="303" end="310" text="trouble" comment="" />
+<NOUN id="n3" start="727" end="732" text="males" comment="" />
+<NOUN id="n4" start="747" end="751" text="them" comment="" />
+<NOUN id="n5" start="873" end="880" text="payouts" comment="" />
+<NOUN id="n6" start="1032" end="1035" text="way" comment="" />
+<NOUN id="n7" start="2063" end="2067" text="flag" comment="" />
+<NOUN id="n8" start="2136" end="2140" text="pace" comment="" />
+<NOUN id="n9" start="2535" end="2540" text="watch" comment="" />
+<NOUN id="n10" start="2752" end="2757" text="yield" comment="" />
+<NOUN id="n11" start="2849" end="2855" text="stocks" comment="" />
+<NOUN id="n12" start="3243" end="3247" text="hint" comment="" />
+<NOUN id="n13" start="3257" end="3263" text="shares" comment="" />
+<NOUN id="n14" start="3284" end="3291" text="debacle" comment="" />
+<NOUN id="n15" start="3987" end="3997" text="percentage" comment="" />
+<NOUN id="n16" start="4249" end="4258" text="dividends" comment="" />
+<NOUN id="n17" start="4286" end="4290" text="cash" comment="" />
+<NOUN id="n18" start="4303" end="4307" text="some" comment="" />
+<NOUN id="n19" start="4437" end="4441" text="that" comment="" />
+<NOUN id="n20" start="4483" end="4488" text="yield" comment="" />
+<NOUN id="n21" start="4671" end="4675" text="rate" comment="" />
+<NOUN id="n22" start="4701" end="4710" text="weakening" comment="" />
+<NOUN id="n23" start="4800" end="4806" text="growth" comment="" />
+<NOUN id="n24" start="5213" end="5224" text="wherewithal" comment="" />
+<NOUN id="n25" start="5268" end="5277" text="dividends" comment="" />
+<NOUN id="n26" start="5320" end="5326" text="growth" comment="" />
+<NOUN id="n27" start="5506" end="5512" text="plenty" comment="" />
+<NOUN id="n28" start="5544" end="5553" text="dividends" comment="" />
+<NOUN id="n29" start="5573" end="5585" text="expenditures" comment="" />
+<NOUN id="n30" start="5728" end="5737" text="dividends" comment="" />
+<NOUN id="n31" start="5773" end="5782" text="dividends" comment="" />
+<NOUN id="n32" start="5888" end="5894" text="months" comment="" />
+<NOUN id="n33" start="5953" end="5957" text="pace" comment="" />
+<NOUN id="n34" start="6002" end="6011" text="magnitude" comment="" />
+<NOUN id="n35" start="6187" end="6191" text="much" comment="" />
+<NOUN id="n36" start="6388" end="6394" text="return" comment="" />
+<NOUN id="n37" start="6594" end="6600" text="growth" comment="" />
+<NOUN id="n38" start="6666" end="6672" text="market" comment="" />
+<NOUN id="n39" start="6713" end="6722" text="increases" comment="" />
+<NOUN id="n40" start="6951" end="6955" text="much" comment="" />
+<QLINK id="q0" fromID="s0" fromText="take" toID="n0" toText="comfort" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="raising" toID="n1" toText="payouts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="signal" toID="n2" toText="trouble" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="attract" toID="n3" toText="males" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="kill" toID="n4" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="raise" toID="n5" toText="payouts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="give" toID="n6" toText="way" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="raise" toID="n7" toText="flag" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="kept" toID="n8" toText="pace" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="keeping" toID="n9" toText="watch" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="pushes" toID="n10" toText="yield" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="valued" toID="n11" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s12" fromText="took" toID="n12" toText="hint" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="sold" toID="n13" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="escaped" toID="n14" toText="debacle" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="paying" toID="n15" toText="percentage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="increasing" toID="n16" toText="dividends" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="used" toID="n17" toText="cash" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="buy" toID="n18" toText="some" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="factors" toID="n19" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="get" toID="n20" toText="yield" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="suggests" toID="n21" toText="rate" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="reflecting" toID="n22" toText="weakening" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="forecasting" toID="n23" toText="growth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="have" toID="n24" toText="wherewithal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="declare" toID="n25" toText="dividends" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="expected" toID="n26" toText="growth" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q27" fromID="s27" fromText="having" toID="n27" toText="plenty" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="paying" toID="n28" toText="dividends" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="making" toID="n29" toText="expenditures" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="adjusting" toID="n30" toText="dividends" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="raised" toID="n31" toText="dividends" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="followed" toID="n32" toText="months" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="trailed" toID="n33" toText="pace" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="measure" toID="n34" toText="magnitude" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="get" toID="n35" toText="much" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="deliver" toID="n36" toText="return" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s37" fromText="expects" toID="n37" toText="growth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="help" toID="n38" toText="market" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="Having" toID="n39" toText="increases" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="have" toID="n40" toText="much" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

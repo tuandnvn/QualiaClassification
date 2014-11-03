@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+PAPERS : 
+Backe Group Inc. agreed to acquire Atlantic Publications Inc. , which has 30 community papers and annual sales of $ 7 million . 
+Terms were n't disclosed . 
+Backe is a closely held media firm run by former CBS Inc. President John Backe . 
+TV : 
+Price Communications Corp. completed the sale of four of its TV stations to NTG Inc. for $ 120 million in cash and notes , retaining a 10 % equity stake in the new concern . 
+NTG was formed by Osborn Communications Corp. and Desai Capital . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="38" end="45" text="acquire" comment="" pos="VB" />
+<SELECTOR id="s1" start="81" end="84" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="155" end="164" text="disclosed" comment="" pos="VBN" />
+<SELECTOR id="s3" start="283" end="292" text="completed" comment="" pos="VBD" />
+<SELECTOR id="s4" start="379" end="388" text="retaining" comment="" pos="VBG" />
+<SELECTOR id="s5" start="439" end="445" text="formed" comment="" pos="VBN" />
+<NOUN id="n0" start="68" end="72" text="Inc." comment="" />
+<NOUN id="n1" start="98" end="104" text="papers" comment="" />
+<NOUN id="n2" start="140" end="145" text="Terms" comment="" />
+<NOUN id="n3" start="297" end="301" text="sale" comment="" />
+<NOUN id="n4" start="403" end="408" text="stake" comment="" />
+<NOUN id="n5" start="431" end="434" text="NTG" comment="" />
+<QLINK id="q0" fromID="s0" fromText="acquire" toID="n0" toText="Inc." comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="has" toID="n1" toText="papers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="disclosed" toID="n2" toText="Terms" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="completed" toID="n3" toText="sale" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="retaining" toID="n4" toText="stake" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="formed" toID="n5" toText="NTG" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+January 5 , 1997 
+Name Address City , ST Zip 
+Dear Bill : 
+This is the time of year when our thoughts turn to ways to do things differently , things that will make our lives better and improve the quality of our life . 
+As you begin that process this year , I would like to ask you to consider helping young people in Marion County toward more positive youth development by becoming a supporter of the Marion County Commission on Youth , Inc. 
+MCCOY Inc. , originally founded as a government agency but re-organized in 1993 as an independent not-for-profit , is a county - wide youth services coordinating , planning , and convening agency . 
+Its purpose is to encourage collaboration and cooperation between the various agencies , programs , and systems that serve our community 's youth . 
+In addition to that behind-the-scenes role , MCCOY has taken an out-front role in developing a Summer Bus Pass , neighborhood youth councils , and the We Value Youth information line . 
+It is our goal that every young person in Marion County have access to the programs and services that can best assist them in their growth toward a positive adulthood . 
+I am hopeful that you as an individual and Meridian Insurance as a corporation might consider becoming sustaining supporters of MCCOY . 
+I have enclosed a packet of information about MCCOY and its work as well as an application with various options for supporting the youth of our community . 
+I obviously ca n't tell the whole story of MCCOY in a single letter but I hope this provides an overview of the scope of our work . 
+I will call you in a few weeks to discuss your level of interest . 
+Please consider joining together with your fellow citizens in support of the work of the Marion County Commission on Youth . 
+Sincerely , John Brandon Executive Director 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="119" end="121" text="do" comment="" pos="VB" />
+<SELECTOR id="s1" start="186" end="193" text="improve" comment="" pos="VB" />
+<SELECTOR id="s2" start="228" end="233" text="begin" comment="" pos="VBP" />
+<SELECTOR id="s3" start="275" end="278" text="ask" comment="" pos="VB" />
+<SELECTOR id="s4" start="295" end="302" text="helping" comment="" pos="VBG" />
+<SELECTOR id="s5" start="375" end="383" text="becoming" comment="" pos="VBG" />
+<SELECTOR id="s6" start="662" end="671" text="encourage" comment="" pos="VB" />
+<SELECTOR id="s7" start="761" end="766" text="serve" comment="" pos="VBP" />
+<SELECTOR id="s8" start="848" end="853" text="taken" comment="" pos="VBN" />
+<SELECTOR id="s9" start="875" end="885" text="developing" comment="" pos="VBG" />
+<SELECTOR id="s10" start="947" end="952" text="Value" comment="" pos="VBP" />
+<SELECTOR id="s11" start="1035" end="1039" text="have" comment="" pos="VB" />
+<SELECTOR id="s12" start="1090" end="1096" text="assist" comment="" pos="VB" />
+<SELECTOR id="s13" start="1293" end="1301" text="enclosed" comment="" pos="VBN" />
+<SELECTOR id="s14" start="1402" end="1412" text="supporting" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1462" end="1466" text="tell" comment="" pos="VB" />
+<SELECTOR id="s16" start="1527" end="1535" text="provides" comment="" pos="VBZ" />
+<SELECTOR id="s17" start="1583" end="1587" text="call" comment="" pos="VB" />
+<SELECTOR id="s18" start="1610" end="1617" text="discuss" comment="" pos="VB" />
+<NOUN id="n0" start="122" end="128" text="things" comment="" />
+<NOUN id="n1" start="198" end="205" text="quality" comment="" />
+<NOUN id="n2" start="239" end="246" text="process" comment="" />
+<NOUN id="n3" start="279" end="282" text="you" comment="" />
+<NOUN id="n4" start="309" end="315" text="people" comment="" />
+<NOUN id="n5" start="386" end="395" text="supporter" comment="" />
+<NOUN id="n6" start="672" end="685" text="collaboration" comment="" />
+<NOUN id="n7" start="784" end="789" text="youth" comment="" />
+<NOUN id="n8" start="867" end="871" text="role" comment="" />
+<NOUN id="n9" start="899" end="903" text="Pass" comment="" />
+<NOUN id="n10" start="953" end="958" text="Youth" comment="" />
+<NOUN id="n11" start="1040" end="1046" text="access" comment="" />
+<NOUN id="n12" start="1097" end="1101" text="them" comment="" />
+<NOUN id="n13" start="1304" end="1310" text="packet" comment="" />
+<NOUN id="n14" start="1417" end="1422" text="youth" comment="" />
+<NOUN id="n15" start="1477" end="1482" text="story" comment="" />
+<NOUN id="n16" start="1539" end="1547" text="overview" comment="" />
+<NOUN id="n17" start="1588" end="1591" text="you" comment="" />
+<NOUN id="n18" start="1623" end="1628" text="level" comment="" />
+<QLINK id="q0" fromID="s0" fromText="do" toID="n0" toText="things" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="improve" toID="n1" toText="quality" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="begin" toID="n2" toText="process" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="ask" toID="n3" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="helping" toID="n4" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="becoming" toID="n5" toText="supporter" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="encourage" toID="n6" toText="collaboration" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="serve" toID="n7" toText="youth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="taken" toID="n8" toText="role" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="developing" toID="n9" toText="Pass" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="Value" toID="n10" toText="Youth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="have" toID="n11" toText="access" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="assist" toID="n12" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="enclosed" toID="n13" toText="packet" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="supporting" toID="n14" toText="youth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="tell" toID="n15" toText="story" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="provides" toID="n16" toText="overview" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="call" toID="n17" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="discuss" toID="n18" toText="level" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

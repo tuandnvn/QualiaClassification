@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+SHAREDATA Inc. said it will amend a registration statement filed with the Securities and Exchange Commission to delete a plan to sell 500,000 newly issued common shares . 
+The Chandler , Ariz. , company said it will resubmit the registration to cover only the 2.3 million warrants , each exercisable for the purchase of one common share . 
+Currently , ShareData has about 4.1 million common shares outstanding . 
+ShareData develops and markets low-cost software , peripheral equipment and accessories for computers . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="29" end="34" text="amend" comment="" pos="VB" />
+<SELECTOR id="s1" start="113" end="119" text="delete" comment="" pos="VB" />
+<SELECTOR id="s2" start="130" end="134" text="sell" comment="" pos="VB" />
+<SELECTOR id="s3" start="217" end="225" text="resubmit" comment="" pos="VB" />
+<SELECTOR id="s4" start="246" end="251" text="cover" comment="" pos="VB" />
+<SELECTOR id="s5" start="363" end="366" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s6" start="437" end="444" text="markets" comment="" pos="VBZ" />
+<NOUN id="n0" start="50" end="59" text="statement" comment="" />
+<NOUN id="n1" start="122" end="126" text="plan" comment="" />
+<NOUN id="n2" start="163" end="169" text="shares" comment="" />
+<NOUN id="n3" start="230" end="242" text="registration" comment="" />
+<NOUN id="n4" start="273" end="281" text="warrants" comment="" />
+<NOUN id="n5" start="392" end="398" text="shares" comment="" />
+<NOUN id="n6" start="454" end="462" text="software" comment="" />
+<QLINK id="q0" fromID="s0" fromText="amend" toID="n0" toText="statement" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="delete" toID="n1" toText="plan" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="sell" toID="n2" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="resubmit" toID="n3" toText="registration" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="cover" toID="n4" toText="warrants" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="has" toID="n5" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="markets" toID="n6" toText="software" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

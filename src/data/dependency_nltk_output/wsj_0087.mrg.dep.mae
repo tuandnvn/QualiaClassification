@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Five things you can do for $ 15,000 or less : 
+1 . Buy a new Chevrolet . 
+2 . Take a Hawaiian vacation . 
+3 . Send your child to a university . 
+4 . Buy a diamond necklace . 
+5 . Make a lasting difference in the regulatory life of an American savings-and-loan association through the Foster Corporate Parents Plan . 
+Americans today spend $ 15,000 like pocket change -- they do n't think much about it . 
+But for an ailing savings-and-loan association -- teetering on insolvency -- it can lead to safety from imminent demise and to a future full of promise . 
+Your $ 15,000 will help keep a needy savings and loan solvent -- and out of the federal budget deficit . 
+As a Foster Corporate Parent , you 'll be helping a neighborhood S&L in areas crucial to its survival . 
+Like healthy regulatory capital . 
+A steady deposit base . 
+Performing loans . 
+At the same time , you 'll give your Foster Savings Institution the gift of hope and freedom from the federal regulators who want to close its doors -- for good . 
+As a Foster Corporate Parent , you will experience the same joy felt by Robert Bass , Lewis Ranieri , William Simon and others , who find ways to help troubled savings institutions and their employees help themselves . 
+That builds confidence , self sufficiency , not to mention critical regulatory net worth . 
+Do n't wait -- a savings institution needs your help now ! 
+Every day you delay , a savings institution 's health -- and the federal budget deficit -- grows worse . 
+Think about the good you can do for just $ 15,000 a month , about the cost of a mid-size Chevrolet or two semesters at a state university . 
+Then send your support to a savings institution that has taken a bad rap in the press and on its bottom line . 
+Every $ 15,000 you send will go a long way to boost sagging net worth and employee morale -- and keep your Foster Savings Institution off the federal budget deficit ! 
+Mr. Baris is a lawyer in New York . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="52" end="55" text="Buy" comment="" pos="VB" />
+<SELECTOR id="s1" start="79" end="83" text="Take" comment="" pos="VB" />
+<SELECTOR id="s2" start="111" end="115" text="Send" comment="" pos="VB" />
+<SELECTOR id="s3" start="150" end="153" text="Buy" comment="" pos="VB" />
+<SELECTOR id="s4" start="180" end="184" text="Make" comment="" pos="VB" />
+<SELECTOR id="s5" start="334" end="339" text="spend" comment="" pos="VBP" />
+<SELECTOR id="s6" start="383" end="388" text="think" comment="" pos="VB" />
+<SELECTOR id="s7" start="709" end="716" text="helping" comment="" pos="VBG" />
+<SELECTOR id="s8" start="879" end="883" text="give" comment="" pos="VB" />
+<SELECTOR id="s9" start="985" end="990" text="close" comment="" pos="VB" />
+<SELECTOR id="s10" start="1056" end="1066" text="experience" comment="" pos="VB" />
+<SELECTOR id="s11" start="1149" end="1153" text="find" comment="" pos="VBP" />
+<SELECTOR id="s12" start="1217" end="1221" text="help" comment="" pos="VB" />
+<SELECTOR id="s13" start="1241" end="1247" text="builds" comment="" pos="VBZ" />
+<SELECTOR id="s14" start="1365" end="1370" text="needs" comment="" pos="VBZ" />
+<SELECTOR id="s15" start="1640" end="1644" text="send" comment="" pos="VB" />
+<SELECTOR id="s16" start="1692" end="1697" text="taken" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1776" end="1778" text="go" comment="" pos="VB" />
+<SELECTOR id="s18" start="1793" end="1798" text="boost" comment="" pos="VB" />
+<NOUN id="n0" start="62" end="71" text="Chevrolet" comment="" />
+<NOUN id="n1" start="95" end="103" text="vacation" comment="" />
+<NOUN id="n2" start="121" end="126" text="child" comment="" />
+<NOUN id="n3" start="164" end="172" text="necklace" comment="" />
+<NOUN id="n4" start="195" end="205" text="difference" comment="" />
+<NOUN id="n5" start="342" end="348" text="15,000" comment="" />
+<NOUN id="n6" start="389" end="393" text="much" comment="" />
+<NOUN id="n7" start="732" end="735" text="S&L" comment="" />
+<NOUN id="n8" start="904" end="915" text="Institution" comment="" />
+<NOUN id="n9" start="920" end="924" text="gift" comment="" />
+<NOUN id="n10" start="995" end="1000" text="doors" comment="" />
+<NOUN id="n11" start="1076" end="1079" text="joy" comment="" />
+<NOUN id="n12" start="1154" end="1158" text="ways" comment="" />
+<NOUN id="n13" start="1222" end="1232" text="themselves" comment="" />
+<NOUN id="n14" start="1248" end="1258" text="confidence" comment="" />
+<NOUN id="n15" start="1376" end="1380" text="help" comment="" />
+<NOUN id="n16" start="1650" end="1657" text="support" comment="" />
+<NOUN id="n17" start="1704" end="1707" text="rap" comment="" />
+<NOUN id="n18" start="1786" end="1789" text="way" comment="" />
+<NOUN id="n19" start="1811" end="1816" text="worth" comment="" />
+<QLINK id="q0" fromID="s0" fromText="Buy" toID="n0" toText="Chevrolet" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="Take" toID="n1" toText="vacation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="Send" toID="n2" toText="child" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="Buy" toID="n3" toText="necklace" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="Make" toID="n4" toText="difference" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="spend" toID="n5" toText="15,000" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="think" toID="n6" toText="much" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="helping" toID="n7" toText="S&L" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="give" toID="n8" toText="Institution" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q9" fromID="s8" fromText="give" toID="n9" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="close" toID="n10" toText="doors" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s10" fromText="experience" toID="n11" toText="joy" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="find" toID="n12" toText="ways" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="help" toID="n13" toText="themselves" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="builds" toID="n14" toText="confidence" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="needs" toID="n15" toText="help" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="send" toID="n16" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="taken" toID="n17" toText="rap" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="go" toID="n18" toText="way" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="boost" toID="n19" toText="worth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+November 27 , 1995 
+Dear Friend : 
+What kind of people benefit by your contribution to Pleasant Run Children 's Homes ? 
+Little ones , like Baby Jessica , caught in the struggle between adoptive and birth parents . 
+Older kids , like Tracy and Kerry , left homeless after a recent murder-suicide in Indianapolis claimed Mom and Dad . 
+Young adults , like Mary T. , a jobless mother of three , trying desperately to keep her kids out of trouble in a crime - ridden neighborhood . 
+Real people ! 
+There are thousands more . 
+Families are being torn apart , and too often , children are the victims . 
+Kids like Tommie J. , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H. , a recovering alcoholic , rebuilding a relationships with his family so they can live together again . 
+Pleasant Run Children 's Homes began serving children nearly 130 years ago . 
+Then the task was to help children who lost parents in the Civil War . 
+Today , we serve children and families with a multitude of problems : emotional , physical , psychological and sexual abuse . 
+Some come from families where , through therapy , there is hope for reunification . 
+For others , " families " are the counselors are housemates at the group homes where they live . 
+The biggest tragedy is that the problems do n't go away ; they only grow . 
+In 1994 Pleasant Run served 346 children and 125 families . 
+In 1995 we will serve over 850 children and 340 families . 
+In 1996 , these figures will triple . 
+The children and families who come to Pleasant Run are given the opportunity to become happy , loving , and productive members of our society . 
+They welcome the chance to belong , to become self - sufficient , to regain their self-esteem and confidence . 
+Often it is a long , hard struggle , but the results are well worth it . 
+For Pleasant Run to continue to serve abused and neglected children and their families , we need your support . 
+The Funding sources are shrinking , but the needs grow explosively . 
+Please " help good kids get better " by sending us a contribution today . 
+Your gift will give children and families hope for improved tomorrows . 
+Sincerely , Mary Roth 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="313" end="320" text="claimed" comment="" pos="VBD" />
+<SELECTOR id="s1" start="416" end="420" text="keep" comment="" pos="VB" />
+<SELECTOR id="s2" start="543" end="547" text="torn" comment="" pos="VBN" />
+<SELECTOR id="s3" start="733" end="736" text="get" comment="" pos="VB" />
+<SELECTOR id="s4" start="820" end="830" text="rebuilding" comment="" pos="VBG" />
+<SELECTOR id="s5" start="935" end="942" text="serving" comment="" pos="VBG" />
+<SELECTOR id="s6" start="997" end="1001" text="help" comment="" pos="VB" />
+<SELECTOR id="s7" start="1015" end="1019" text="lost" comment="" pos="VBD" />
+<SELECTOR id="s8" start="1059" end="1064" text="serve" comment="" pos="VBP" />
+<SELECTOR id="s9" start="1455" end="1461" text="served" comment="" pos="VBD" />
+<SELECTOR id="s10" start="1511" end="1516" text="serve" comment="" pos="VB" />
+<SELECTOR id="s11" start="1649" end="1654" text="given" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1744" end="1751" text="welcome" comment="" pos="VBP" />
+<SELECTOR id="s13" start="1808" end="1814" text="regain" comment="" pos="VB" />
+<SELECTOR id="s14" start="1957" end="1962" text="serve" comment="" pos="VB" />
+<SELECTOR id="s15" start="2017" end="2021" text="need" comment="" pos="VBP" />
+<SELECTOR id="s16" start="2148" end="2155" text="sending" comment="" pos="VBG" />
+<SELECTOR id="s17" start="2198" end="2202" text="give" comment="" pos="VB" />
+<NOUN id="n0" start="321" end="324" text="Mom" comment="" />
+<NOUN id="n1" start="425" end="429" text="kids" comment="" />
+<NOUN id="n2" start="524" end="532" text="Families" comment="" />
+<NOUN id="n3" start="737" end="741" text="help" comment="" />
+<NOUN id="n4" start="833" end="846" text="relationships" comment="" />
+<NOUN id="n5" start="943" end="951" text="children" comment="" />
+<NOUN id="n6" start="1002" end="1010" text="children" comment="" />
+<NOUN id="n7" start="1020" end="1027" text="parents" comment="" />
+<NOUN id="n8" start="1065" end="1073" text="children" comment="" />
+<NOUN id="n9" start="1466" end="1474" text="children" comment="" />
+<NOUN id="n10" start="1526" end="1534" text="children" comment="" />
+<NOUN id="n11" start="1598" end="1606" text="children" comment="" />
+<NOUN id="n12" start="1659" end="1670" text="opportunity" comment="" />
+<NOUN id="n13" start="1756" end="1762" text="chance" comment="" />
+<NOUN id="n14" start="1821" end="1832" text="self-esteem" comment="" />
+<NOUN id="n15" start="1984" end="1992" text="children" comment="" />
+<NOUN id="n16" start="2027" end="2034" text="support" comment="" />
+<NOUN id="n17" start="2156" end="2158" text="us" comment="" />
+<NOUN id="n18" start="2161" end="2173" text="contribution" comment="" />
+<NOUN id="n19" start="2203" end="2211" text="children" comment="" />
+<NOUN id="n20" start="2225" end="2229" text="hope" comment="" />
+<QLINK id="q0" fromID="s0" fromText="claimed" toID="n0" toText="Mom" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="keep" toID="n1" toText="kids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="torn" toID="n2" toText="Families" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="get" toID="n3" toText="help" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="rebuilding" toID="n4" toText="relationships" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="serving" toID="n5" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="help" toID="n6" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="lost" toID="n7" toText="parents" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="serve" toID="n8" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="served" toID="n9" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="serve" toID="n10" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="given" toID="n11" toText="children" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s11" fromText="given" toID="n12" toText="opportunity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="welcome" toID="n13" toText="chance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="regain" toID="n14" toText="self-esteem" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="serve" toID="n15" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="need" toID="n16" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="sending" toID="n17" toText="us" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q18" fromID="s16" fromText="sending" toID="n18" toText="contribution" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s17" fromText="give" toID="n19" toText="children" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q20" fromID="s17" fromText="give" toID="n20" toText="hope" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

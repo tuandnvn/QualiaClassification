@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+August 4 , 1999 
+Name Address City , ST Zip 
+The goal of MCCOY , Inc. has been to make a difference . 
+In 1998 , MCCOY , Inc. led two efforts that , we believe , will help our community continue to take the steps necessary to help all young people grow up and develop well . 
+Participants in the Youth Outcomes Educational Initiative identified three goals for all our youth to obtain : economic self-sufficiency , healthy family , social relationships , and involvement in the community . 
+A short time later , the Community Youth Mapping Project sent 55 young people out into the community to identify the resources they need to grow up well : caring adults , safe places to go , and positive things to do . 
+One group of adults and one group of youth , through two very different processes , have arrived at the same conclusion ; our community still has much to do if we are to help ALL of your youth successfully develop into the responsible , productive adults who will our community in the future . 
+As a provider of youth services , MCCOY , Inc. is here to support your valuable efforts to develop young people . 
+Recently , through a lot of hard work and alliances with organizations like yours , some steps have been taken in our community that will help young people continue to be involved in positive activities . 
+One , IndyGo in April adopted a much - needed policy that all young people under the age of 19 may ride on their buses at half the normal fare all year long . 
+Two , funding was made available this summer for youth organizations and churches to conduct positive youth programming on Saturday evenings . 
+Through the youth mapping process , it was confirmed that the positive opportunities for youth on weekend evenings were lacking . 
+That need is being met . 
+As it has been an exciting year for all of us , MCCOY , Inc. can not do its part without the support of organizations like yours . 
+Annually , we ask several of our youth serving organizations to join us in our effort to help young people grow up well in Indianapolis . 
+Enclosed is a donation card that will enable you to make Indianapolis a great place for ALL of us to live . 
+If you have any questions or concerns at any time , please do not hesitate to call me at 921-1288 . 
+Sincerely , John F. Brandon , President MCCOY , Inc. 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="83" end="87" text="make" comment="" pos="VB" />
+<SELECTOR id="s1" start="127" end="130" text="led" comment="" pos="VBD" />
+<SELECTOR id="s2" start="199" end="203" text="take" comment="" pos="VB" />
+<SELECTOR id="s3" start="335" end="345" text="identified" comment="" pos="VBD" />
+<SELECTOR id="s4" start="549" end="553" text="sent" comment="" pos="VBD" />
+<SELECTOR id="s5" start="596" end="604" text="identify" comment="" pos="VB" />
+<SELECTOR id="s6" start="854" end="857" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="1065" end="1072" text="support" comment="" pos="VB" />
+<SELECTOR id="s8" start="1098" end="1105" text="develop" comment="" pos="VB" />
+<SELECTOR id="s9" start="1227" end="1232" text="taken" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1350" end="1357" text="adopted" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1506" end="1510" text="made" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1573" end="1580" text="conduct" comment="" pos="VB" />
+<SELECTOR id="s13" start="1675" end="1684" text="confirmed" comment="" pos="VBN" />
+<SELECTOR id="s14" start="1782" end="1785" text="met" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1858" end="1860" text="do" comment="" pos="VB" />
+<SELECTOR id="s16" start="1935" end="1938" text="ask" comment="" pos="VBP" />
+<SELECTOR id="s17" start="1985" end="1989" text="join" comment="" pos="VB" />
+<SELECTOR id="s18" start="2060" end="2068" text="Enclosed" comment="" pos="VBN" />
+<SELECTOR id="s19" start="2176" end="2180" text="have" comment="" pos="VBP" />
+<SELECTOR id="s20" start="2247" end="2251" text="call" comment="" pos="VB" />
+<NOUN id="n0" start="90" end="100" text="difference" comment="" />
+<NOUN id="n1" start="135" end="142" text="efforts" comment="" />
+<NOUN id="n2" start="208" end="213" text="steps" comment="" />
+<NOUN id="n3" start="352" end="357" text="goals" comment="" />
+<NOUN id="n4" start="563" end="569" text="people" comment="" />
+<NOUN id="n5" start="609" end="618" text="resources" comment="" />
+<NOUN id="n6" start="858" end="862" text="much" comment="" />
+<NOUN id="n7" start="1087" end="1094" text="efforts" comment="" />
+<NOUN id="n8" start="1112" end="1118" text="people" comment="" />
+<NOUN id="n9" start="1211" end="1216" text="steps" comment="" />
+<NOUN id="n10" start="1374" end="1380" text="policy" comment="" />
+<NOUN id="n11" start="1494" end="1501" text="funding" comment="" />
+<NOUN id="n12" start="1596" end="1607" text="programming" comment="" />
+<NOUN id="n13" start="1668" end="1670" text="it" comment="" />
+<NOUN id="n14" start="1768" end="1772" text="need" comment="" />
+<NOUN id="n15" start="1865" end="1869" text="part" comment="" />
+<NOUN id="n16" start="1939" end="1946" text="several" comment="" />
+<NOUN id="n17" start="1990" end="1992" text="us" comment="" />
+<NOUN id="n18" start="2083" end="2087" text="card" comment="" />
+<NOUN id="n19" start="2185" end="2194" text="questions" comment="" />
+<NOUN id="n20" start="2252" end="2254" text="me" comment="" />
+<QLINK id="q0" fromID="s0" fromText="make" toID="n0" toText="difference" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="led" toID="n1" toText="efforts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="take" toID="n2" toText="steps" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="identified" toID="n3" toText="goals" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="sent" toID="n4" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="identify" toID="n5" toText="resources" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="has" toID="n6" toText="much" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="support" toID="n7" toText="efforts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="develop" toID="n8" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="taken" toID="n9" toText="steps" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="adopted" toID="n10" toText="policy" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="made" toID="n11" toText="funding" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s12" fromText="conduct" toID="n12" toText="programming" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="confirmed" toID="n13" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q14" fromID="s14" fromText="met" toID="n14" toText="need" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q15" fromID="s15" fromText="do" toID="n15" toText="part" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="ask" toID="n16" toText="several" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="join" toID="n17" toText="us" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="Enclosed" toID="n18" toText="card" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q19" fromID="s19" fromText="have" toID="n19" toText="questions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="call" toID="n20" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

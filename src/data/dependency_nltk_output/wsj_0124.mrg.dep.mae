@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+William C. Walbrecher Jr. , an executive at San Francisco-based 1st Nationwide Bank , was named president and chief executive officer of Citadel Holding Corp. and its principal operating unit , Fidelity Federal Bank . 
+The appointment takes effect Nov. 13 . 
+He succeeds James A. Taylor , who stepped down as chairman , president and chief executive in March for health reasons . 
+Edward L. Kane succeeded Mr. Taylor as chairman . 
+Separately , Citadel posted a third-quarter net loss of $ 2.3 million , or 68 cents a share , versus net income of $ 5.3 million , or $ 1.61 a share , a year earlier . 
+The latest results include some unusual write-downs , which had an after-tax impact of $ 4.9 million . 
+Those included costs associated with the potential Valley Federal Savings and Loan Association acquisition , which was terminated on Sept. 27 , 1989 . 
+In addition , operating results were hit by an increase in loan and real estate loss reserves . 
+In American Stock Exchange composite trading , Citadel shares closed yesterday at $ 45.75 , down 25 cents . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="91" end="96" text="named" comment="" pos="VBN" />
+<SELECTOR id="s1" start="236" end="241" text="takes" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="263" end="271" text="succeeds" comment="" pos="VBZ" />
+<SELECTOR id="s3" start="397" end="406" text="succeeded" comment="" pos="VBD" />
+<SELECTOR id="s4" start="454" end="460" text="posted" comment="" pos="VBD" />
+<SELECTOR id="s5" start="621" end="628" text="include" comment="" pos="VBP" />
+<SELECTOR id="s6" start="662" end="665" text="had" comment="" pos="VBD" />
+<SELECTOR id="s7" start="712" end="720" text="included" comment="" pos="VBD" />
+<SELECTOR id="s8" start="825" end="835" text="terminated" comment="" pos="VBN" />
+<SELECTOR id="s9" start="895" end="898" text="hit" comment="" pos="VBN" />
+<NOUN id="n0" start="23" end="26" text="Jr." comment="" />
+<NOUN id="n1" start="242" end="248" text="effect" comment="" />
+<NOUN id="n2" start="281" end="287" text="Taylor" comment="" />
+<NOUN id="n3" start="411" end="417" text="Taylor" comment="" />
+<NOUN id="n4" start="481" end="485" text="loss" comment="" />
+<NOUN id="n5" start="642" end="653" text="write-downs" comment="" />
+<NOUN id="n6" start="679" end="685" text="impact" comment="" />
+<NOUN id="n7" start="721" end="726" text="costs" comment="" />
+<NOUN id="n8" start="815" end="820" text="which" comment="" />
+<NOUN id="n9" start="882" end="889" text="results" comment="" />
+<QLINK id="q0" fromID="s0" fromText="named" toID="n0" toText="Jr." comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="takes" toID="n1" toText="effect" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="succeeds" toID="n2" toText="Taylor" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="succeeded" toID="n3" toText="Taylor" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="posted" toID="n4" toText="loss" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="include" toID="n5" toText="write-downs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="had" toID="n6" toText="impact" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="included" toID="n7" toText="costs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="terminated" toID="n8" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="hit" toID="n9" toText="results" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

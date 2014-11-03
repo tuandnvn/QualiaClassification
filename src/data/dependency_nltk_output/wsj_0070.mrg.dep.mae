@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Rally 's Inc. said it has redeemed its rights outstanding issued Monday in its shareholder rights plan . 
+The company said holders of stock of record Nov. 10 will receive 1\/10th of one cent a share as the redemption payment . 
+The fast-food company said its decision was based upon discussions with a shareholder group , Giant Group Ltd. , `` in an effort to resolve certain disputes with the company . '' 
+Giant Group is led by three Rally 's directors , Burt Sugarman , James M. Trotter III and William E. Trotter II , who last month indicated they hold a 42.5 % stake in Rally 's and plan to seek a majority of seats on Rally 's nine-member board . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="27" end="35" text="redeemed" comment="" pos="VBN" />
+<SELECTOR id="s1" start="164" end="171" text="receive" comment="" pos="VB" />
+<SELECTOR id="s2" start="273" end="278" text="based" comment="" pos="VBN" />
+<SELECTOR id="s3" start="361" end="368" text="resolve" comment="" pos="VB" />
+<SELECTOR id="s4" start="424" end="427" text="led" comment="" pos="VBN" />
+<SELECTOR id="s5" start="553" end="557" text="hold" comment="" pos="VBP" />
+<SELECTOR id="s6" start="597" end="601" text="seek" comment="" pos="VB" />
+<NOUN id="n0" start="40" end="46" text="rights" comment="" />
+<NOUN id="n1" start="172" end="179" text="1\/10th" comment="" />
+<NOUN id="n2" start="260" end="268" text="decision" comment="" />
+<NOUN id="n3" start="377" end="385" text="disputes" comment="" />
+<NOUN id="n4" start="415" end="420" text="Group" comment="" />
+<NOUN id="n5" start="567" end="572" text="stake" comment="" />
+<NOUN id="n6" start="604" end="612" text="majority" comment="" />
+<QLINK id="q0" fromID="s0" fromText="redeemed" toID="n0" toText="rights" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="receive" toID="n1" toText="1\/10th" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="based" toID="n2" toText="decision" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="resolve" toID="n3" toText="disputes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="led" toID="n4" toText="Group" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="hold" toID="n5" toText="stake" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="seek" toID="n6" toText="majority" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

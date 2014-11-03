@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Since chalk first touched slate , schoolchildren have wanted to know : What 's on the test ? 
+These days , students can often find the answer in test-coaching workbooks and worksheets their teachers give them in the weeks prior to taking standardized achievement tests . 
+The mathematics section of the widely used California Achievement Test asks fifth graders : `` What is another name for the Roman numeral IX ? '' 
+It also asks them to add two-sevenths and three-sevenths . 
+Worksheets in a test-practice kit called Learning Materials , sold to schools across the country by Macmillan\/McGraw-Hill School Publishing Co. , contain the same questions . 
+In many other instances , there is almost no difference between the real test and Learning Materials . 
+What 's more , the test and Learning Materials are both produced by the same company , Macmillan\/McGraw-Hill , a joint venture of McGraw-Hill Inc. and Macmillan 's parent , Britain 's Maxwell Communication Corp . 
+Close parallels between tests and practice tests are common , some educators and researchers say . 
+Test-preparation booklets , software and worksheets are a booming publishing subindustry . 
+But some practice products are so similar to the tests themselves that critics say they represent a form of school-sponsored cheating . 
+`` If I took { these preparation booklets } into my classroom , I 'd have a hard time justifying to my students and parents that it was n't cheating , '' says John Kaminski , a Traverse City , Mich. , teacher who has studied test coaching . 
+He and other critics say such coaching aids can defeat the purpose of standardized tests , which is to gauge learning progress . 
+`` It 's as if France decided to give only French history questions to students in a European history class , and when everybody aces the test , they say their kids are good in European history , '' says John Cannell , an Albuquerque , N.M. , psychiatrist and founder of an educational research organization , Friends for Education , which has studied standardized testing . 
+Standardized achievement tests are given about 10 million times a year across the country to students generally from kindergarten through eighth grade . 
+The most widely used of these tests are Macmillan\/McGraw 's CAT and Comprehensive Test of Basic Skills ; the Iowa Test of Basic Skills , by Houghton Mifflin Co. ; and Harcourt Brace Jovanovich Inc. 's Metropolitan Achievement Test and Stanford Achievement Test . 
+Sales figures of the test-prep materials are n't known , but their reach into schools is significant . 
+In Arizona , California , Florida , Louisiana , Maryland , New Jersey , South Carolina and Texas , educators say they are common classroom tools . 
+Macmillan\/McGraw says `` well over 10 million '' of its Scoring High test-preparation books have been sold since their introduction 10 years ago , with most sales in the last five years . 
+About 20,000 sets of Learning Materials teachers ' binders have also been sold in the past four years . 
+The materials in each set reach about 90 students . 
+Scoring High and Learning Materials are the best-selling preparation tests . 
+Michael Kean , director of marketing for CTB Macmillan\/McGraw , the Macmillan\/McGraw division that publishes Learning Materials , says it is n't aimed at improving test scores . 
+He also asserted that exact questions were n't replicated . 
+When referred to the questions that matched , he said it was coincidental . 
+Mr. Kaminski , the schoolteacher , and William Mehrens , a Michigan State University education professor , concluded in a study last June that CAT test versions of Scoring High and Learning Materials should n't be used in the classroom because of their similarity to the actual test . 
+They devised a 69-point scale -- awarding one point for each subskill measured on the CAT test -- to rate the closeness of test preparatives to the fifth-grade CAT . 
+Because many of these subskills -- the symmetry of geometrical figures , metric measurement of volume , or pie and bar graphs , for example -- are only a small part of the total fifth-grade curriculum , Mr. Kaminski says , the preparation kits would n't replicate too many , if their real intent was general instruction or even general familiarization with test procedures . 
+But Learning Materials matched on 66.5 of 69 subskills . 
+Scoring High matched on 64.5 . 
+In CAT sections where students ' knowledge of two-letter consonant sounds is tested , the authors noted that Scoring High concentrated on the same sounds that the test does -- to the exclusion of other sounds that fifth graders should know . 
+Learning Materials for the fifth-grade contains at least a dozen examples of exact matches or close parallels to test items . 
+Rick Brownell , senior editor of Scoring High , says that Messrs. Kaminski and Mehrens are ignoring `` the need students have for becoming familiar with tests and testing format . '' 
+He said authors of Scoring High `` scrupulously avoid '' replicating exact questions , but he does n't deny that some items are similar . 
+When Scoring High first came out in 1979 , it was a publication of Random House . 
+McGraw-Hill was outraged . 
+In a 1985 advisory to educators , McGraw-Hill said Scoring High should n't be used because it represented a `` parallel form '' of the CAT and CTBS tests . 
+But in 1988 , McGraw-Hill purchased the Random House unit that publishes Scoring High , which later became part of Macmillan\/McGraw . 
+Messrs. Brownell and Kean say they are unaware of any efforts by McGraw-Hill to modify or discontinue Scoring High . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="19" end="26" text="touched" comment="" pos="VBD" />
+<SELECTOR id="s1" start="127" end="131" text="find" comment="" pos="VB" />
+<SELECTOR id="s2" start="200" end="204" text="give" comment="" pos="VBP" />
+<SELECTOR id="s3" start="232" end="238" text="taking" comment="" pos="VBG" />
+<SELECTOR id="s4" start="344" end="348" text="asks" comment="" pos="VBZ" />
+<SELECTOR id="s5" start="428" end="432" text="asks" comment="" pos="VBZ" />
+<SELECTOR id="s6" start="441" end="444" text="add" comment="" pos="VB" />
+<SELECTOR id="s7" start="627" end="634" text="contain" comment="" pos="VBP" />
+<SELECTOR id="s8" start="817" end="825" text="produced" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1256" end="1265" text="represent" comment="" pos="VBP" />
+<SELECTOR id="s10" start="1313" end="1317" text="took" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1374" end="1378" text="have" comment="" pos="VB" />
+<SELECTOR id="s12" start="1522" end="1529" text="studied" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1595" end="1601" text="defeat" comment="" pos="VB" />
+<SELECTOR id="s14" start="1650" end="1655" text="gauge" comment="" pos="VB" />
+<SELECTOR id="s15" start="1710" end="1714" text="give" comment="" pos="VB" />
+<SELECTOR id="s16" start="1806" end="1810" text="aces" comment="" pos="VBZ" />
+<SELECTOR id="s17" start="2021" end="2028" text="studied" comment="" pos="VBN" />
+<SELECTOR id="s18" start="2088" end="2093" text="given" comment="" pos="VBN" />
+<SELECTOR id="s19" start="2827" end="2831" text="sold" comment="" pos="VBN" />
+<SELECTOR id="s20" start="2988" end="2992" text="sold" comment="" pos="VBN" />
+<SELECTOR id="s21" start="3045" end="3050" text="reach" comment="" pos="VBP" />
+<SELECTOR id="s22" start="3251" end="3260" text="publishes" comment="" pos="VBZ" />
+<SELECTOR id="s23" start="3297" end="3302" text="aimed" comment="" pos="VBN" />
+<SELECTOR id="s24" start="3306" end="3315" text="improving" comment="" pos="VBG" />
+<SELECTOR id="s25" start="3378" end="3388" text="replicated" comment="" pos="VBN" />
+<SELECTOR id="s26" start="3683" end="3687" text="used" comment="" pos="VBN" />
+<SELECTOR id="s27" start="3760" end="3767" text="devised" comment="" pos="VBD" />
+<SELECTOR id="s28" start="3788" end="3796" text="awarding" comment="" pos="VBG" />
+<SELECTOR id="s29" start="3856" end="3860" text="rate" comment="" pos="VB" />
+<SELECTOR id="s30" start="4176" end="4185" text="replicate" comment="" pos="VB" />
+<SELECTOR id="s31" start="4465" end="4471" text="tested" comment="" pos="VBN" />
+<SELECTOR id="s32" start="4623" end="4627" text="know" comment="" pos="VB" />
+<SELECTOR id="s33" start="4670" end="4678" text="contains" comment="" pos="VBZ" />
+<SELECTOR id="s34" start="4849" end="4857" text="ignoring" comment="" pos="VBG" />
+<SELECTOR id="s35" start="4999" end="5010" text="replicating" comment="" pos="VBG" />
+<SELECTOR id="s36" start="5270" end="5274" text="used" comment="" pos="VBN" />
+<SELECTOR id="s37" start="5286" end="5297" text="represented" comment="" pos="VBD" />
+<SELECTOR id="s38" start="5375" end="5384" text="purchased" comment="" pos="VBD" />
+<SELECTOR id="s39" start="5412" end="5421" text="publishes" comment="" pos="VBZ" />
+<SELECTOR id="s40" start="5575" end="5586" text="discontinue" comment="" pos="VB" />
+<NOUN id="n0" start="27" end="32" text="slate" comment="" />
+<NOUN id="n1" start="136" end="142" text="answer" comment="" />
+<NOUN id="n2" start="205" end="209" text="them" comment="" />
+<NOUN id="n3" start="264" end="269" text="tests" comment="" />
+<NOUN id="n4" start="355" end="362" text="graders" comment="" />
+<NOUN id="n5" start="433" end="437" text="them" comment="" />
+<NOUN id="n6" start="445" end="457" text="two-sevenths" comment="" />
+<NOUN id="n7" start="644" end="653" text="questions" comment="" />
+<NOUN id="n8" start="780" end="784" text="test" comment="" />
+<NOUN id="n9" start="1268" end="1272" text="form" comment="" />
+<NOUN id="n10" start="1338" end="1346" text="booklets" comment="" />
+<NOUN id="n11" start="1386" end="1390" text="time" comment="" />
+<NOUN id="n12" start="1535" end="1543" text="coaching" comment="" />
+<NOUN id="n13" start="1606" end="1613" text="purpose" comment="" />
+<NOUN id="n14" start="1665" end="1673" text="progress" comment="" />
+<NOUN id="n15" start="1735" end="1744" text="questions" comment="" />
+<NOUN id="n16" start="1815" end="1819" text="test" comment="" />
+<NOUN id="n17" start="2042" end="2049" text="testing" comment="" />
+<NOUN id="n18" start="2078" end="2083" text="tests" comment="" />
+<NOUN id="n19" start="2763" end="2770" text="million" comment="" />
+<NOUN id="n20" start="2927" end="2931" text="sets" comment="" />
+<NOUN id="n21" start="3060" end="3068" text="students" comment="" />
+<NOUN id="n22" start="3270" end="3279" text="Materials" comment="" />
+<NOUN id="n23" start="3287" end="3289" text="it" comment="" />
+<NOUN id="n24" start="3321" end="3327" text="scores" comment="" />
+<NOUN id="n25" start="3359" end="3368" text="questions" comment="" />
+<NOUN id="n26" start="3621" end="3629" text="versions" comment="" />
+<NOUN id="n27" start="3779" end="3784" text="scale" comment="" />
+<NOUN id="n28" start="3801" end="3806" text="point" comment="" />
+<NOUN id="n29" start="3865" end="3874" text="closeness" comment="" />
+<NOUN id="n30" start="4190" end="4194" text="many" comment="" />
+<NOUN id="n31" start="4421" end="4430" text="knowledge" comment="" />
+<NOUN id="n32" start="4597" end="4601" text="that" comment="" />
+<NOUN id="n33" start="4696" end="4704" text="examples" comment="" />
+<NOUN id="n34" start="4865" end="4869" text="need" comment="" />
+<NOUN id="n35" start="5017" end="5026" text="questions" comment="" />
+<NOUN id="n36" start="5251" end="5255" text="High" comment="" />
+<NOUN id="n37" start="5312" end="5316" text="form" comment="" />
+<NOUN id="n38" start="5402" end="5406" text="unit" comment="" />
+<NOUN id="n39" start="5430" end="5434" text="High" comment="" />
+<NOUN id="n40" start="5595" end="5599" text="High" comment="" />
+<QLINK id="q0" fromID="s0" fromText="touched" toID="n0" toText="slate" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="find" toID="n1" toText="answer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="give" toID="n2" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="taking" toID="n3" toText="tests" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="asks" toID="n4" toText="graders" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="asks" toID="n5" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="add" toID="n6" toText="two-sevenths" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="contain" toID="n7" toText="questions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="produced" toID="n8" toText="test" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="represent" toID="n9" toText="form" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="took" toID="n10" toText="booklets" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="have" toID="n11" toText="time" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="studied" toID="n12" toText="coaching" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="defeat" toID="n13" toText="purpose" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="gauge" toID="n14" toText="progress" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="give" toID="n15" toText="questions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="aces" toID="n16" toText="test" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="studied" toID="n17" toText="testing" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="given" toID="n18" toText="tests" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q19" fromID="s19" fromText="sold" toID="n19" toText="million" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q20" fromID="s20" fromText="sold" toID="n20" toText="sets" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q21" fromID="s21" fromText="reach" toID="n21" toText="students" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="publishes" toID="n22" toText="Materials" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="aimed" toID="n23" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q24" fromID="s24" fromText="improving" toID="n24" toText="scores" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="replicated" toID="n25" toText="questions" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q26" fromID="s26" fromText="used" toID="n26" toText="versions" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q27" fromID="s27" fromText="devised" toID="n27" toText="scale" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="awarding" toID="n28" toText="point" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="rate" toID="n29" toText="closeness" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="replicate" toID="n30" toText="many" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="tested" toID="n31" toText="knowledge" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q32" fromID="s32" fromText="know" toID="n32" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="contains" toID="n33" toText="examples" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="ignoring" toID="n34" toText="need" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="replicating" toID="n35" toText="questions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="used" toID="n36" toText="High" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q37" fromID="s37" fromText="represented" toID="n37" toText="form" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="purchased" toID="n38" toText="unit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="publishes" toID="n39" toText="High" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="discontinue" toID="n40" toText="High" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

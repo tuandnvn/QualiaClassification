@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+November 15 , 1994 
+Dear , 
+Think of your greatest accomplishments . 
+Think of the joy and success they bring to you and your loved ones . 
+Michael Sims felt that way at age 39 -- the day he earned a job . 
+Michael was born with cerebral palsy . 
+Upon entering the work force , he discovered few job opportunities that seemed to match his abilities . 
+For several years he performed packaging and clerical work . 
+His most recent job lasted only a year before cut-backs eliminated his position . 
+For 18 long months Michael could not find a job . 
+He resorted to public assistance dollars to survive . 
+Finally , Michael called Goodwill . 
+At Goodwill , Michael 's counselors felt that his personable demeanor could be a major attribute and identified for him a possible job-match where his people skills could shine . 
+After three interviews , Michael proved that he was the right person for the job . 
+As the Clubhouse Monitor at Bent Tree Apartments , he now provides customer service for 50 to 60 tenants each night . 
+At last , he has found success in a job that he loves . 
+Now his goals are set on moving up in the company . 
+Every year , thousands of people come to Goodwill . 
+Like Michael , they share two common characteristics . 
+They face some barrier to employment and they want to work . 
+With support from people like you , they can overcome their barriers and earn success and the self-sufficiency that comes with it . 
+And then the pay-off begins for the entire community . 
+Individual successes at Goodwill mean fewer persons receiving public support and more paying taxes . 
+Last year , participants in Goodwill programs earned -- and paid taxes on -- wages of nearly $ 3.5 million . 
+Their successes at work also saved taxpayers more than three - quarters of a million dollars in public assistance . 
+The savings are counted in more ways than dollars and cents , however . 
+The families of the new wage earners may feel the accomplishment in terms of a house to live in , money to purchase food -- without food stamps -- and the beginning of a family focused on success , not hopelessness . 
+Wo n't you help make all of these successes possible ? 
+Please send the largest contribution you can comfortably make . 
+Your gift will help give new meaning to the word success -- for people who have seldom had reason to use the word . 
+Sincerely , James M. McClelland President 
+P.S. 
+Your gift will make a difference . 
+For every dollar of public support Goodwill received last year , we returned $ 1.59 to the community in the form of earned wages and reduced public assistance payments . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="192" end="198" text="earned" comment="" pos="VBD" />
+<SELECTOR id="s1" start="220" end="224" text="born" comment="" pos="VBN" />
+<SELECTOR id="s2" start="253" end="261" text="entering" comment="" pos="VBG" />
+<SELECTOR id="s3" start="282" end="292" text="discovered" comment="" pos="VBD" />
+<SELECTOR id="s4" start="330" end="335" text="match" comment="" pos="VB" />
+<SELECTOR id="s5" start="374" end="383" text="performed" comment="" pos="VBD" />
+<SELECTOR id="s6" start="471" end="481" text="eliminated" comment="" pos="VBD" />
+<SELECTOR id="s7" start="535" end="539" text="find" comment="" pos="VB" />
+<SELECTOR id="s8" start="622" end="628" text="called" comment="" pos="VBD" />
+<SELECTOR id="s9" start="742" end="752" text="identified" comment="" pos="VBD" />
+<SELECTOR id="s10" start="963" end="971" text="provides" comment="" pos="VBZ" />
+<SELECTOR id="s11" start="1041" end="1046" text="found" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1072" end="1077" text="loves" comment="" pos="VBZ" />
+<SELECTOR id="s13" start="1099" end="1102" text="set" comment="" pos="VBN" />
+<SELECTOR id="s14" start="1207" end="1212" text="share" comment="" pos="VBP" />
+<SELECTOR id="s15" start="1248" end="1252" text="face" comment="" pos="VBP" />
+<SELECTOR id="s16" start="1350" end="1358" text="overcome" comment="" pos="VB" />
+<SELECTOR id="s17" start="1378" end="1382" text="earn" comment="" pos="VB" />
+<SELECTOR id="s18" start="1546" end="1555" text="receiving" comment="" pos="VBG" />
+<SELECTOR id="s19" start="1580" end="1586" text="paying" comment="" pos="VBG" />
+<SELECTOR id="s20" start="1656" end="1660" text="paid" comment="" pos="VBD" />
+<SELECTOR id="s21" start="1735" end="1740" text="saved" comment="" pos="VBD" />
+<SELECTOR id="s22" start="1839" end="1846" text="counted" comment="" pos="VBN" />
+<SELECTOR id="s23" start="1937" end="1941" text="feel" comment="" pos="VB" />
+<SELECTOR id="s24" start="2003" end="2011" text="purchase" comment="" pos="VB" />
+<SELECTOR id="s25" start="2177" end="2181" text="send" comment="" pos="VB" />
+<SELECTOR id="s26" start="2255" end="2259" text="give" comment="" pos="VB" />
+<SELECTOR id="s27" start="2322" end="2325" text="had" comment="" pos="VBD" />
+<SELECTOR id="s28" start="2336" end="2339" text="use" comment="" pos="VB" />
+<SELECTOR id="s29" start="2416" end="2420" text="make" comment="" pos="VB" />
+<SELECTOR id="s30" start="2505" end="2513" text="returned" comment="" pos="VBD" />
+<NOUN id="n0" start="201" end="204" text="job" comment="" />
+<NOUN id="n1" start="208" end="215" text="Michael" comment="" />
+<NOUN id="n2" start="271" end="276" text="force" comment="" />
+<NOUN id="n3" start="301" end="314" text="opportunities" comment="" />
+<NOUN id="n4" start="340" end="349" text="abilities" comment="" />
+<NOUN id="n5" start="407" end="411" text="work" comment="" />
+<NOUN id="n6" start="486" end="494" text="position" comment="" />
+<NOUN id="n7" start="542" end="545" text="job" comment="" />
+<NOUN id="n8" start="629" end="637" text="Goodwill" comment="" />
+<NOUN id="n9" start="772" end="781" text="job-match" comment="" />
+<NOUN id="n10" start="981" end="988" text="service" comment="" />
+<NOUN id="n11" start="1047" end="1054" text="success" comment="" />
+<NOUN id="n12" start="1064" end="1068" text="that" comment="" />
+<NOUN id="n13" start="1089" end="1094" text="goals" comment="" />
+<NOUN id="n14" start="1224" end="1239" text="characteristics" comment="" />
+<NOUN id="n15" start="1258" end="1265" text="barrier" comment="" />
+<NOUN id="n16" start="1365" end="1373" text="barriers" comment="" />
+<NOUN id="n17" start="1383" end="1390" text="success" comment="" />
+<NOUN id="n18" start="1563" end="1570" text="support" comment="" />
+<NOUN id="n19" start="1587" end="1592" text="taxes" comment="" />
+<NOUN id="n20" start="1661" end="1666" text="taxes" comment="" />
+<NOUN id="n21" start="1741" end="1750" text="taxpayers" comment="" />
+<NOUN id="n22" start="1791" end="1798" text="dollars" comment="" />
+<NOUN id="n23" start="1827" end="1834" text="savings" comment="" />
+<NOUN id="n24" start="1946" end="1960" text="accomplishment" comment="" />
+<NOUN id="n25" start="2012" end="2016" text="food" comment="" />
+<NOUN id="n26" start="2194" end="2206" text="contribution" comment="" />
+<NOUN id="n27" start="2264" end="2271" text="meaning" comment="" />
+<NOUN id="n28" start="2326" end="2332" text="reason" comment="" />
+<NOUN id="n29" start="2344" end="2348" text="word" comment="" />
+<NOUN id="n30" start="2423" end="2433" text="difference" comment="" />
+<NOUN id="n31" start="2516" end="2520" text="1.59" comment="" />
+<QLINK id="q0" fromID="s0" fromText="earned" toID="n0" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="born" toID="n1" toText="Michael" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="entering" toID="n2" toText="force" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="discovered" toID="n3" toText="opportunities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="match" toID="n4" toText="abilities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="performed" toID="n5" toText="work" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="eliminated" toID="n6" toText="position" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="find" toID="n7" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="called" toID="n8" toText="Goodwill" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="identified" toID="n9" toText="job-match" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="provides" toID="n10" toText="service" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="found" toID="n11" toText="success" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="loves" toID="n12" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="set" toID="n13" toText="goals" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q14" fromID="s14" fromText="share" toID="n14" toText="characteristics" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="face" toID="n15" toText="barrier" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="overcome" toID="n16" toText="barriers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="earn" toID="n17" toText="success" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="receiving" toID="n18" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="paying" toID="n19" toText="taxes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="paid" toID="n20" toText="taxes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="saved" toID="n21" toText="taxpayers" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q22" fromID="s21" fromText="saved" toID="n22" toText="dollars" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="counted" toID="n23" toText="savings" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q24" fromID="s23" fromText="feel" toID="n24" toText="accomplishment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="purchase" toID="n25" toText="food" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s25" fromText="send" toID="n26" toText="contribution" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s26" fromText="give" toID="n27" toText="meaning" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="had" toID="n28" toText="reason" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s28" fromText="use" toID="n29" toText="word" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s29" fromText="make" toID="n30" toText="difference" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="returned" toID="n31" toText="1.59" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

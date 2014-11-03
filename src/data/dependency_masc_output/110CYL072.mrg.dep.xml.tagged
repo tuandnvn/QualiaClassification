@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Some of the strongest critics of our welfare system are the people who have become dependent on it . 
+Their complaint : the system discourages working because unemployment provides benefits that many entry-level jobs do n't include . 
+That 's where you -- and Goodwill -- come in . 
+We help people train for and find jobs that make it possible for them to get off of welfare . 
+Last year , Goodwill placed 511 people in jobs , more than double the number we placed in 1993 . 
+While the debate on welfare reform is gathering like a storm at sea , the people who need jobs are floundering . 
+We need your support to continue getting people off of public assistance . 
+Welfare is not the answer . 
+And welfare reform is an uncertain solution with an unknown starting date . 
+Goodwill works . 
+Right now . 
+Please give the largest gift you can to Goodwill today . 
+Sincerely , Jack Dustman Chairman 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="132" end="143" text="discourages" comment="" pos="VBZ" />
+<SELECTOR id="s1" start="173" end="181" text="provides" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="225" end="232" text="include" comment="" pos="VB" />
+<SELECTOR id="s3" start="313" end="317" text="find" comment="" pos="VB" />
+<SELECTOR id="s4" start="400" end="406" text="placed" comment="" pos="VBD" />
+<SELECTOR id="s5" start="562" end="566" text="need" comment="" pos="VBP" />
+<SELECTOR id="s6" start="594" end="598" text="need" comment="" pos="VBP" />
+<SELECTOR id="s7" start="624" end="631" text="getting" comment="" pos="VBG" />
+<SELECTOR id="s8" start="811" end="815" text="give" comment="" pos="VB" />
+<NOUN id="n0" start="144" end="151" text="working" comment="" />
+<NOUN id="n1" start="182" end="190" text="benefits" comment="" />
+<NOUN id="n2" start="191" end="195" text="that" comment="" />
+<NOUN id="n3" start="318" end="322" text="jobs" comment="" />
+<NOUN id="n4" start="411" end="417" text="people" comment="" />
+<NOUN id="n5" start="567" end="571" text="jobs" comment="" />
+<NOUN id="n6" start="604" end="611" text="support" comment="" />
+<NOUN id="n7" start="632" end="638" text="people" comment="" />
+<NOUN id="n8" start="828" end="832" text="gift" comment="" />
+<QLINK id="q0" fromID="s0" fromText="discourages" toID="n0" toText="working" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="provides" toID="n1" toText="benefits" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="include" toID="n2" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="find" toID="n3" toText="jobs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="placed" toID="n4" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="need" toID="n5" toText="jobs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="need" toID="n6" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="getting" toID="n7" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="give" toID="n8" toText="gift" comment="" qType="FORMAL" qType2="TELIC" gramRel="dobj" />
+</TAGS>
+</PartML>

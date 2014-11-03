@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+MMM F_NAME L_NAME TITLE COMPANY ADDRESS CITY , ST ZIP 
+March 4 , 1999 
+Dear LTR_NAME : 
+CCI has come a long way in the last five years . 
+We 've worked hard to structrue the organization so that we 're ready to move boldly into the next century , and I believe that we have an exciting and successful future ahead of us . 
+One of the areas we 've decided to focus on is development . 
+It 's clear that if we do n't increase our base of private funding , we wo n't have the kind of control we need to ensure the continued success of our centers and the very important services they offer . 
+In 1998 , CCI served 31,484 individuals right in their own backyards . 
+Where else would that many people turn if CCI were n't there to help ? 
+The community initiatives committee is working with our development office to put together a long-range fundraising plan that will ultimately bring more money into our centers . 
+This in turn will help us to increase and even improve the services we offer . 
+With this in mind , I am asking each one of you to make a personal contribution of $ 50 , $ 100 or even $ 1,000 to show that you believe in the work that we do and are willing to support it with both your time and your finances . 
+This way when we go out to ask for community support and are asked about our board giving level , we can show our in-house commitment through 100 % board participation . 
+I also encourage you to seek additional support through your company , church , or service organization . 
+I know that our staff and committee members will be happy to go with you to talk to these group if you need their help . 
+We 're at an exciting juncture and it wo n't be long until we start seeing solid results from our efforts . 
+Your financial support of the development process is just one step in making CCI a stronger , more efficient and ultimately more effective federation of service providers . 
+Please , make your contribution today . 
+Sincerely , J. Chris Graffeo Chair 
+P.S. 
+If you have any questions , feel free to call Valery De Long at CCI , 638-3360 x23 . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="161" end="170" text="structrue" comment="" pos="VB" />
+<SELECTOR id="s1" start="270" end="274" text="have" comment="" pos="VBP" />
+<SELECTOR id="s2" start="416" end="424" text="increase" comment="" pos="VB" />
+<SELECTOR id="s3" start="465" end="469" text="have" comment="" pos="VB" />
+<SELECTOR id="s4" start="501" end="507" text="ensure" comment="" pos="VB" />
+<SELECTOR id="s5" start="605" end="611" text="served" comment="" pos="VBD" />
+<SELECTOR id="s6" start="813" end="816" text="put" comment="" pos="VB" />
+<SELECTOR id="s7" start="877" end="882" text="bring" comment="" pos="VB" />
+<SELECTOR id="s8" start="961" end="968" text="improve" comment="" pos="VB" />
+<SELECTOR id="s9" start="1019" end="1025" text="asking" comment="" pos="VBG" />
+<SELECTOR id="s10" start="1045" end="1049" text="make" comment="" pos="VB" />
+<SELECTOR id="s11" start="1151" end="1153" text="do" comment="" pos="VBP" />
+<SELECTOR id="s12" start="1173" end="1180" text="support" comment="" pos="VB" />
+<SELECTOR id="s13" start="1330" end="1334" text="show" comment="" pos="VB" />
+<SELECTOR id="s14" start="1403" end="1412" text="encourage" comment="" pos="VBP" />
+<SELECTOR id="s15" start="1420" end="1424" text="seek" comment="" pos="VB" />
+<SELECTOR id="s16" start="1606" end="1610" text="need" comment="" pos="VBP" />
+<SELECTOR id="s17" start="1693" end="1699" text="seeing" comment="" pos="VBG" />
+<SELECTOR id="s18" start="1917" end="1921" text="make" comment="" pos="VB" />
+<SELECTOR id="s19" start="1998" end="2002" text="have" comment="" pos="VBP" />
+<SELECTOR id="s20" start="2032" end="2036" text="call" comment="" pos="VB" />
+<NOUN id="n0" start="175" end="187" text="organization" comment="" />
+<NOUN id="n1" start="302" end="308" text="future" comment="" />
+<NOUN id="n2" start="429" end="433" text="base" comment="" />
+<NOUN id="n3" start="474" end="478" text="kind" comment="" />
+<NOUN id="n4" start="522" end="529" text="success" comment="" />
+<NOUN id="n5" start="619" end="630" text="individuals" comment="" />
+<NOUN id="n6" start="851" end="855" text="plan" comment="" />
+<NOUN id="n7" start="888" end="893" text="money" comment="" />
+<NOUN id="n8" start="973" end="981" text="services" comment="" />
+<NOUN id="n9" start="1031" end="1034" text="one" comment="" />
+<NOUN id="n10" start="1061" end="1073" text="contribution" comment="" />
+<NOUN id="n11" start="1143" end="1147" text="that" comment="" />
+<NOUN id="n12" start="1181" end="1183" text="it" comment="" />
+<NOUN id="n13" start="1348" end="1358" text="commitment" comment="" />
+<NOUN id="n14" start="1413" end="1416" text="you" comment="" />
+<NOUN id="n15" start="1436" end="1443" text="support" comment="" />
+<NOUN id="n16" start="1617" end="1621" text="help" comment="" />
+<NOUN id="n17" start="1706" end="1713" text="results" comment="" />
+<NOUN id="n18" start="1927" end="1939" text="contribution" comment="" />
+<NOUN id="n19" start="2007" end="2016" text="questions" comment="" />
+<NOUN id="n20" start="2047" end="2051" text="Long" comment="" />
+<QLINK id="q0" fromID="s0" fromText="structrue" toID="n0" toText="organization" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="have" toID="n1" toText="future" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="increase" toID="n2" toText="base" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="have" toID="n3" toText="kind" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="ensure" toID="n4" toText="success" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="served" toID="n5" toText="individuals" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="put" toID="n6" toText="plan" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="bring" toID="n7" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="improve" toID="n8" toText="services" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="asking" toID="n9" toText="one" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="make" toID="n10" toText="contribution" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="do" toID="n11" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="support" toID="n12" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="show" toID="n13" toText="commitment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="encourage" toID="n14" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="seek" toID="n15" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="need" toID="n16" toText="help" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="seeing" toID="n17" toText="results" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="make" toID="n18" toText="contribution" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="have" toID="n19" toText="questions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="call" toID="n20" toText="Long" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The United Kingdom High Court declared illegal a variety of interest-rate swap transactions and options deals between a London borough council and commercial banks . 
+The ruling could lead to the cancellation of huge bank debts the London Borough of Hammersmith and Fulham ran up after losing heavily on swap transactions . 
+As many as 70 U.K. and international banks stand to lose several hundred million pounds should the decision be upheld and set a precedent for other municipalities . 
+An appeal is expected . 
+In response to the ruling , gilt futures swiftly plunged more than a point yesterday before recovering much of the loss by the end of the session . 
+Gilts , or British government bonds , which also fell sharply initially , retraced some of the losses to end about 3\/8 point lower . 
+The council , which is alleged to have engaged in over 600 deals valued at over # 6 billion ( $ 9.5 billion ) , lost millions of pounds from soured swap deals . 
+At one point , Hammersmith is reported to have accounted for as much as 10 % of the sterling market in interest-rate swap dealings . 
+When two parties engage in an interest-rate swap , they are betting against each other on future rates . 
+Thus , an institution obligated to make fixed-rate interest payments on debt swaps the payments with another making floating-rate payments . 
+In most of the British transactions , the municipalities agreed to make floating-rate payments to banks , which would make fixed-rate payments . 
+As interest rates rose , municipalities owed the banks more than the banks were paying them . 
+The court hearing began in early October at the request of Anthony Hazell , district auditor for Hammersmith , who argued that local councils are n't vested with constitutional authority to engage in such capital-markets activities . 
+The council backed the audit commission 's stand that the swap transactions are illegal . 
+Although the Hammersmith and Fulham council was by far the most active local authority engaging in such capital-markets transactions , the court decision could set a precedent for similar transactions by 77 other local councils . 
+`` While this court ruling was only on Hammersmith , it will obviously be very persuasive in other cases of a similar nature , '' a solicitor representing one of the banks said . 
+Already , 10 local councils have refused to honor fees and payments to banks incurred during various swaps dealings . 
+Other financial institutions involved include Barclays Bank PLC , Midland Bank PLC , Security Pacific Corp. , Chemical Banking Corp. 's Chemical Bank , Citicorp 's Citibank and Mitsubishi Finance International . 
+If the banks exhaust all avenues of appeal , it is possible that they would seek to have the illegality ruling work both ways , some market sources said . 
+Banks could seek to recover payments to local authorities in instances where the banks made net payments to councils . 
+Officials from the various banks involved are expected to meet during the next few days to consider other arrangements with local authorities that could be questionable . 
+The banks have 28 days to file an appeal against the ruling and are expected to do so shortly . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="378" end="382" text="lose" comment="" pos="VB" />
+<SELECTOR id="s1" start="437" end="443" text="upheld" comment="" pos="VBN" />
+<SELECTOR id="s2" start="448" end="451" text="set" comment="" pos="VB" />
+<SELECTOR id="s3" start="505" end="513" text="expected" comment="" pos="VBN" />
+<SELECTOR id="s4" start="609" end="619" text="recovering" comment="" pos="VBG" />
+<SELECTOR id="s5" start="740" end="748" text="retraced" comment="" pos="VBD" />
+<SELECTOR id="s6" start="824" end="831" text="alleged" comment="" pos="VBN" />
+<SELECTOR id="s7" start="913" end="917" text="lost" comment="" pos="VBD" />
+<SELECTOR id="s8" start="993" end="1001" text="reported" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1238" end="1242" text="make" comment="" pos="VB" />
+<SELECTOR id="s10" start="1280" end="1285" text="swaps" comment="" pos="NNS" />
+<SELECTOR id="s11" start="1312" end="1318" text="making" comment="" pos="VBG" />
+<SELECTOR id="s12" start="1412" end="1416" text="make" comment="" pos="VB" />
+<SELECTOR id="s13" start="1463" end="1467" text="make" comment="" pos="VB" />
+<SELECTOR id="s14" start="1531" end="1535" text="owed" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1571" end="1577" text="paying" comment="" pos="VBG" />
+<SELECTOR id="s16" start="1736" end="1742" text="vested" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1833" end="1839" text="backed" comment="" pos="VBD" />
+<SELECTOR id="s18" start="1956" end="1959" text="was" comment="" pos="VBD" />
+<SELECTOR id="s19" start="2072" end="2075" text="set" comment="" pos="VB" />
+<SELECTOR id="s20" start="2285" end="2297" text="representing" comment="" pos="VBG" />
+<SELECTOR id="s21" start="2367" end="2372" text="honor" comment="" pos="VB" />
+<SELECTOR id="s22" start="2480" end="2487" text="include" comment="" pos="VBP" />
+<SELECTOR id="s23" start="2668" end="2675" text="exhaust" comment="" pos="VBP" />
+<SELECTOR id="s24" start="2766" end="2770" text="work" comment="" pos="VB" />
+<SELECTOR id="s25" start="2831" end="2838" text="recover" comment="" pos="VB" />
+<SELECTOR id="s26" start="2898" end="2902" text="made" comment="" pos="VBD" />
+<SELECTOR id="s27" start="2977" end="2985" text="expected" comment="" pos="VBN" />
+<SELECTOR id="s28" start="3022" end="3030" text="consider" comment="" pos="VB" />
+<SELECTOR id="s29" start="3113" end="3117" text="have" comment="" pos="VBP" />
+<SELECTOR id="s30" start="3129" end="3133" text="file" comment="" pos="VB" />
+<NOUN id="n0" start="407" end="413" text="pounds" comment="" />
+<NOUN id="n1" start="425" end="433" text="decision" comment="" />
+<NOUN id="n2" start="454" end="463" text="precedent" comment="" />
+<NOUN id="n3" start="495" end="501" text="appeal" comment="" />
+<NOUN id="n4" start="620" end="624" text="much" comment="" />
+<NOUN id="n5" start="749" end="753" text="some" comment="" />
+<NOUN id="n6" start="815" end="820" text="which" comment="" />
+<NOUN id="n7" start="918" end="926" text="millions" comment="" />
+<NOUN id="n8" start="978" end="989" text="Hammersmith" comment="" />
+<NOUN id="n9" start="1263" end="1271" text="payments" comment="" />
+<NOUN id="n10" start="1290" end="1298" text="payments" comment="" />
+<NOUN id="n11" start="1333" end="1341" text="payments" comment="" />
+<NOUN id="n12" start="1431" end="1439" text="payments" comment="" />
+<NOUN id="n13" start="1479" end="1487" text="payments" comment="" />
+<NOUN id="n14" start="1540" end="1545" text="banks" comment="" />
+<NOUN id="n15" start="1546" end="1550" text="more" comment="" />
+<NOUN id="n16" start="1578" end="1582" text="them" comment="" />
+<NOUN id="n17" start="1719" end="1727" text="councils" comment="" />
+<NOUN id="n18" start="1864" end="1869" text="stand" comment="" />
+<NOUN id="n19" start="1989" end="1998" text="authority" comment="" />
+<NOUN id="n20" start="2078" end="2087" text="precedent" comment="" />
+<NOUN id="n21" start="2298" end="2301" text="one" comment="" />
+<NOUN id="n22" start="2373" end="2377" text="fees" comment="" />
+<NOUN id="n23" start="2502" end="2505" text="PLC" comment="" />
+<NOUN id="n24" start="2680" end="2687" text="avenues" comment="" />
+<NOUN id="n25" start="2776" end="2780" text="ways" comment="" />
+<NOUN id="n26" start="2839" end="2847" text="payments" comment="" />
+<NOUN id="n27" start="2907" end="2915" text="payments" comment="" />
+<NOUN id="n28" start="2931" end="2940" text="Officials" comment="" />
+<NOUN id="n29" start="3037" end="3049" text="arrangements" comment="" />
+<NOUN id="n30" start="3121" end="3125" text="days" comment="" />
+<NOUN id="n31" start="3137" end="3143" text="appeal" comment="" />
+<QLINK id="q0" fromID="s0" fromText="lose" toID="n0" toText="pounds" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="upheld" toID="n1" toText="decision" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="set" toID="n2" toText="precedent" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="expected" toID="n3" toText="appeal" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="recovering" toID="n4" toText="much" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="retraced" toID="n5" toText="some" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="alleged" toID="n6" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s7" fromText="lost" toID="n7" toText="millions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="reported" toID="n8" toText="Hammersmith" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="make" toID="n9" toText="payments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="swaps" toID="n10" toText="payments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="making" toID="n11" toText="payments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="make" toID="n12" toText="payments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="make" toID="n13" toText="payments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="owed" toID="n14" toText="banks" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q15" fromID="s14" fromText="owed" toID="n15" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="paying" toID="n16" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="vested" toID="n17" toText="councils" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q18" fromID="s17" fromText="backed" toID="n18" toText="stand" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="was" toID="n19" toText="authority" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="set" toID="n20" toText="precedent" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="representing" toID="n21" toText="one" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="honor" toID="n22" toText="fees" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="include" toID="n23" toText="PLC" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="exhaust" toID="n24" toText="avenues" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="work" toID="n25" toText="ways" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s25" fromText="recover" toID="n26" toText="payments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s26" fromText="made" toID="n27" toText="payments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="expected" toID="n28" toText="Officials" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q29" fromID="s28" fromText="consider" toID="n29" toText="arrangements" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s29" fromText="have" toID="n30" toText="days" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="file" toID="n31" toText="appeal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

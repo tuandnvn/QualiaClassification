@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+When it 's time for their biannual powwow , the nation 's manufacturing titans typically jet off to the sunny confines of resort towns like Boca Raton and Hot Springs . 
+Not this year . 
+The National Association of Manufacturers settled on the Hoosier capital of Indianapolis for its fall board meeting . 
+And the city decided to treat its guests more like royalty or rock stars than factory owners . 
+The idea , of course : to prove to 125 corporate decision makers that the buckle on the Rust Belt is n't so rusty after all , that it 's a good place for a company to expand . 
+On the receiving end of the message were officials from giants like Du Pont and Maytag , along with lesser knowns like Trojan Steel and the Valley Queen Cheese Factory . 
+For starters , the executives joined Mayor William H. Hudnut III for an evening of the Indianapolis Symphony Orchestra and a guest pianist-comedian Victor Borge . 
+Champagne and dessert followed . 
+The next morning , with a police escort , busloads of executives and their wives raced to the Indianapolis Motor Speedway , unimpeded by traffic or red lights . 
+The governor could n't make it , so the lieutenant governor welcomed the special guests . 
+A buffet breakfast was held in the museum , where food and drinks are banned to everyday visitors . 
+Then , in the guests ' honor , the speedway hauled out four drivers , crews and even the official Indianapolis 500 announcer for a 10-lap exhibition race . 
+After the race , Fortune 500 executives drooled like schoolboys over the cars and drivers . 
+No dummies , the drivers pointed out they still had space on their machines for another sponsor 's name or two . 
+Back downtown , the execs squeezed in a few meetings at the hotel before boarding the buses again . 
+This time , it was for dinner and dancing -- a block away . 
+Under the stars and moons of the renovated Indiana Roof ballroom , nine of the hottest chefs in town fed them Indiana duckling mousseline , lobster consomme , veal mignon and chocolate terrine with a raspberry sauce . 
+Knowing a tasty -- and free -- meal when they eat one , the executives gave the chefs a standing ovation . 
+More than a few CEOs say the red-carpet treatment tempts them to return to a heartland city for future meetings . 
+But for now , they 're looking forward to their winter meeting -- Boca in February . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="331" end="336" text="treat" comment="" pos="VB" />
+<SELECTOR id="s1" start="781" end="787" text="joined" comment="" pos="VBD" />
+<SELECTOR id="s2" start="1134" end="1138" text="make" comment="" pos="VB" />
+<SELECTOR id="s3" start="1171" end="1179" text="welcomed" comment="" pos="VBD" />
+<SELECTOR id="s4" start="1225" end="1229" text="held" comment="" pos="VBN" />
+<SELECTOR id="s5" start="1272" end="1278" text="banned" comment="" pos="VBN" />
+<SELECTOR id="s6" start="1347" end="1353" text="hauled" comment="" pos="VBD" />
+<SELECTOR id="s7" start="1601" end="1604" text="had" comment="" pos="VBD" />
+<SELECTOR id="s8" start="1693" end="1701" text="squeezed" comment="" pos="VBD" />
+<SELECTOR id="s9" start="1740" end="1748" text="boarding" comment="" pos="VBG" />
+<SELECTOR id="s10" start="1930" end="1933" text="fed" comment="" pos="VBD" />
+<SELECTOR id="s11" start="2048" end="2055" text="Knowing" comment="" pos="VBG" />
+<SELECTOR id="s12" start="2094" end="2097" text="eat" comment="" pos="VBP" />
+<SELECTOR id="s13" start="2119" end="2123" text="gave" comment="" pos="VBD" />
+<NOUN id="n0" start="341" end="347" text="guests" comment="" />
+<NOUN id="n1" start="812" end="815" text="III" comment="" />
+<NOUN id="n2" start="1139" end="1141" text="it" comment="" />
+<NOUN id="n3" start="1192" end="1198" text="guests" comment="" />
+<NOUN id="n4" start="1211" end="1220" text="breakfast" comment="" />
+<NOUN id="n5" start="1252" end="1256" text="food" comment="" />
+<NOUN id="n6" start="1363" end="1370" text="drivers" comment="" />
+<NOUN id="n7" start="1605" end="1610" text="space" comment="" />
+<NOUN id="n8" start="1711" end="1719" text="meetings" comment="" />
+<NOUN id="n9" start="1753" end="1758" text="buses" comment="" />
+<NOUN id="n10" start="1934" end="1938" text="them" comment="" />
+<NOUN id="n11" start="1956" end="1966" text="mousseline" comment="" />
+<NOUN id="n12" start="2079" end="2083" text="meal" comment="" />
+<NOUN id="n13" start="2098" end="2101" text="one" comment="" />
+<NOUN id="n14" start="2128" end="2133" text="chefs" comment="" />
+<NOUN id="n15" start="2145" end="2152" text="ovation" comment="" />
+<QLINK id="q0" fromID="s0" fromText="treat" toID="n0" toText="guests" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="joined" toID="n1" toText="III" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="make" toID="n2" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="welcomed" toID="n3" toText="guests" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="held" toID="n4" toText="breakfast" comment="" qType="TELIC" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="banned" toID="n5" toText="food" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="hauled" toID="n6" toText="drivers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="had" toID="n7" toText="space" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="squeezed" toID="n8" toText="meetings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="boarding" toID="n9" toText="buses" comment="" qType="TELIC" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="fed" toID="n10" toText="them" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q11" fromID="s10" fromText="fed" toID="n11" toText="mousseline" comment="" qType="TELIC" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="Knowing" toID="n12" toText="meal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="eat" toID="n13" toText="one" comment="" qType="TELIC" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="gave" toID="n14" toText="chefs" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q15" fromID="s13" fromText="gave" toID="n15" toText="ovation" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

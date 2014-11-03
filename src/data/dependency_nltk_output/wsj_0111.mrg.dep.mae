@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Robert L. Bernstein , chairman and president of Random House Inc. , announced his resignation from the publishing house he has run for 23 years . 
+A successor was n't named , which fueled speculation that Mr. Bernstein may have clashed with S.I. Newhouse Jr. , whose family company , Advance Publications Inc. , owns Random House . 
+Abrupt departures are n't unheard of within the Newhouse empire . 
+In an interview , Mr. Bernstein said his departure `` evolved out of discussions with Si Newhouse and that 's the decision I reached . '' 
+He declined to elaborate , other than to say , `` It just seemed the right thing to do at this minute . 
+Sometimes you just go with your gut . '' 
+Mr. Bernstein said he will stay until Dec. 31 and work with his successor , who is to be named soon . 
+Mr. Newhouse , meanwhile , insisted that he is n't unhappy with Mr. Bernstein or the performance of Random House , the largest trade publishing house in the U.S. . 
+The company said the publisher 's annual sales volume increased to $ 800 million from $ 40 million during Mr. Bernstein 's tenure . 
+`` Bob has handled the extraordinary growth of the company quite brilliantly , '' said Mr. Newhouse . 
+`` The company is doing well , it 's stable , it 's got good people . 
+Bob has an agenda and this seemed like the natural time . '' 
+Publishing officials believe that while Random House has enjoyed spectacular growth and has smoothly integrated many acquisitions in recent years , some of the bigger ones have n't been absorbed so easily . 
+Crown Publishing Group , acquired last year , is said to be turning in disappointing results . 
+As a private company , Random House does n't report its earnings . 
+Mr. Bernstein , who succeeded Bennett Cerf , has been only the second president of Random House since it was founded in 1925 . 
+Speculation on his successor centers on a number of division heads at the house . 
+Possible candidates include Susan Petersen , president of Ballantine\/Del Rey\/Fawcett , Random House 's huge and successful paperback division . 
+Some say Anthony Cheetham , head of a recently acquired British company , Century Hutchinson , could be chosen . 
+There is also speculation that Mr. Newhouse could bring in a powerhouse businessman or another Newhouse family member to run the business side , in combination with a publishing executive like Robert Gottlieb , who left Random House 's Alfred A. Knopf to run the New Yorker , also owned by the Newhouse family . 
+Not included on the most-likely-successor list are Joni Evans , recruited two years ago to be publisher of adult trade books for Random House , and Sonny Mehta , president of the prestigious Alfred A. Knopf unit . 
+When Ms. Evans took her job , several important divisions that had reported to her predecessor were n't included partly because she did n't wish to be a full-time administrator . 
+Mr. Mehta is widely viewed as a brilliant editor but a less-than-brilliant administrator and his own departure was rumored recently . 
+Mr. Bernstein , a tall , energetic man who is widely respected as a publishing executive , has spent much of his time in recent years on human rights issues . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="69" end="78" text="announced" comment="" pos="VBD" />
+<SELECTOR id="s1" start="168" end="173" text="named" comment="" pos="VBN" />
+<SELECTOR id="s2" start="182" end="188" text="fueled" comment="" pos="VBD" />
+<SELECTOR id="s3" start="313" end="317" text="owns" comment="" pos="VBZ" />
+<SELECTOR id="s4" start="598" end="604" text="seemed" comment="" pos="VBD" />
+<SELECTOR id="s5" start="1099" end="1106" text="handled" comment="" pos="VBN" />
+<SELECTOR id="s6" start="1243" end="1246" text="got" comment="" pos="VBN" />
+<SELECTOR id="s7" start="1266" end="1269" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s8" start="1381" end="1388" text="enjoyed" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1425" end="1435" text="integrated" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1510" end="1518" text="absorbed" comment="" pos="VBN" />
+<SELECTOR id="s11" start="1581" end="1585" text="said" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1592" end="1599" text="turning" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1673" end="1679" text="report" comment="" pos="VB" />
+<SELECTOR id="s14" start="1716" end="1725" text="succeeded" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1805" end="1812" text="founded" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1927" end="1934" text="include" comment="" pos="VBP" />
+<SELECTOR id="s17" start="2158" end="2164" text="chosen" comment="" pos="VBN" />
+<SELECTOR id="s18" start="2218" end="2223" text="bring" comment="" pos="VB" />
+<SELECTOR id="s19" start="2289" end="2292" text="run" comment="" pos="VB" />
+<SELECTOR id="s20" start="2383" end="2387" text="left" comment="" pos="VBD" />
+<SELECTOR id="s21" start="2423" end="2426" text="run" comment="" pos="VB" />
+<SELECTOR id="s22" start="2711" end="2715" text="took" comment="" pos="VBD" />
+<SELECTOR id="s23" start="2800" end="2808" text="included" comment="" pos="VBN" />
+<SELECTOR id="s24" start="2896" end="2902" text="viewed" comment="" pos="VBN" />
+<SELECTOR id="s25" start="2991" end="2998" text="rumored" comment="" pos="VBN" />
+<SELECTOR id="s26" start="3064" end="3073" text="respected" comment="" pos="VBN" />
+<SELECTOR id="s27" start="3106" end="3111" text="spent" comment="" pos="VBN" />
+<NOUN id="n0" start="83" end="94" text="resignation" comment="" />
+<NOUN id="n1" start="150" end="159" text="successor" comment="" />
+<NOUN id="n2" start="189" end="200" text="speculation" comment="" />
+<NOUN id="n3" start="325" end="330" text="House" comment="" />
+<NOUN id="n4" start="615" end="620" text="thing" comment="" />
+<NOUN id="n5" start="1125" end="1131" text="growth" comment="" />
+<NOUN id="n6" start="1237" end="1239" text="it" comment="" />
+<NOUN id="n7" start="1252" end="1258" text="people" comment="" />
+<NOUN id="n8" start="1273" end="1279" text="agenda" comment="" />
+<NOUN id="n9" start="1401" end="1407" text="growth" comment="" />
+<NOUN id="n10" start="1441" end="1453" text="acquisitions" comment="" />
+<NOUN id="n11" start="1472" end="1476" text="some" comment="" />
+<NOUN id="n12" start="1549" end="1554" text="Group" comment="" />
+<NOUN id="n13" start="1617" end="1624" text="results" comment="" />
+<NOUN id="n14" start="1684" end="1692" text="earnings" comment="" />
+<NOUN id="n15" start="1734" end="1738" text="Cerf" comment="" />
+<NOUN id="n16" start="1798" end="1800" text="it" comment="" />
+<NOUN id="n17" start="1941" end="1949" text="Petersen" comment="" />
+<NOUN id="n18" start="2071" end="2079" text="Cheetham" comment="" />
+<NOUN id="n19" start="2240" end="2251" text="businessman" comment="" />
+<NOUN id="n20" start="2306" end="2310" text="side" comment="" />
+<NOUN id="n21" start="2414" end="2419" text="Knopf" comment="" />
+<NOUN id="n22" start="2435" end="2441" text="Yorker" comment="" />
+<NOUN id="n23" start="2720" end="2723" text="job" comment="" />
+<NOUN id="n24" start="2744" end="2753" text="divisions" comment="" />
+<NOUN id="n25" start="2880" end="2885" text="Mehta" comment="" />
+<NOUN id="n26" start="2977" end="2986" text="departure" comment="" />
+<NOUN id="n27" start="3050" end="3053" text="who" comment="" />
+<NOUN id="n28" start="3112" end="3116" text="much" comment="" />
+<QLINK id="q0" fromID="s0" fromText="announced" toID="n0" toText="resignation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="named" toID="n1" toText="successor" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="fueled" toID="n2" toText="speculation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="owns" toID="n3" toText="House" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="seemed" toID="n4" toText="thing" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="handled" toID="n5" toText="growth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="got" toID="n6" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s6" fromText="got" toID="n7" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s7" fromText="has" toID="n8" toText="agenda" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s8" fromText="enjoyed" toID="n9" toText="growth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="integrated" toID="n10" toText="acquisitions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s10" fromText="absorbed" toID="n11" toText="some" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s11" fromText="said" toID="n12" toText="Group" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s12" fromText="turning" toID="n13" toText="results" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="report" toID="n14" toText="earnings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="succeeded" toID="n15" toText="Cerf" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="founded" toID="n16" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q17" fromID="s16" fromText="include" toID="n17" toText="Petersen" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="chosen" toID="n18" toText="Cheetham" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q19" fromID="s18" fromText="bring" toID="n19" toText="businessman" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="run" toID="n20" toText="side" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="left" toID="n21" toText="Knopf" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="run" toID="n22" toText="Yorker" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="took" toID="n23" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="included" toID="n24" toText="divisions" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q25" fromID="s24" fromText="viewed" toID="n25" toText="Mehta" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q26" fromID="s25" fromText="rumored" toID="n26" toText="departure" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q27" fromID="s26" fromText="respected" toID="n27" toText="who" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q28" fromID="s27" fromText="spent" toID="n28" toText="much" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

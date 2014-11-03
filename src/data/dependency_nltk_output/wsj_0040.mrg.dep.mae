@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Boeing Co. said it is discussing plans with three of its regular Japanese suppliers to possibly help build a larger version of its popular 767 twin-jet . 
+The discussions are still in preliminary stages , and the specific details have n't been worked out between the Seattle aerospace company and Kawasaki Heavy Industries Ltd. , Mitsubishi Heavy Industries Ltd. and Fuji Heavy Industries Ltd . 
+The three Japanese companies build the body sections of the 767 , accounting for a combined 15 % of the aircraft . 
+Japanese press reports have speculated that the Japanese contribution could rise to between 20 % and 25 % under the new program . 
+If Boeing goes ahead with the larger 767 , the plane could hit the market in the mid-1990s . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="23" end="33" text="discussing" comment="" pos="VBG" />
+<SELECTOR id="s1" start="102" end="107" text="build" comment="" pos="VB" />
+<SELECTOR id="s2" start="245" end="251" text="worked" comment="" pos="VBN" />
+<SELECTOR id="s3" start="426" end="431" text="build" comment="" pos="VBP" />
+<SELECTOR id="s4" start="703" end="706" text="hit" comment="" pos="VB" />
+<NOUN id="n0" start="34" end="39" text="plans" comment="" />
+<NOUN id="n1" start="117" end="124" text="version" comment="" />
+<NOUN id="n2" start="223" end="230" text="details" comment="" />
+<NOUN id="n3" start="441" end="449" text="sections" comment="" />
+<NOUN id="n4" start="711" end="717" text="market" comment="" />
+<QLINK id="q0" fromID="s0" fromText="discussing" toID="n0" toText="plans" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="build" toID="n1" toText="version" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="worked" toID="n2" toText="details" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="build" toID="n3" toText="sections" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="hit" toID="n4" toText="market" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

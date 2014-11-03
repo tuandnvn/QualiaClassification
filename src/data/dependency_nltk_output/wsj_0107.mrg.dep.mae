@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The House passed legislation designed to make it easier for the Transportation Department to block airline leveraged buy-outs . 
+The final vote came after the House rejected Republican efforts to weaken the bill and approved two amendments sought by organized labor . 
+The Bush administration has threatened to veto such a bill because of what it views as an undesirable intrusion into the affairs of industry , but the 300-113 vote suggests that supporters have the potential to override a veto . 
+The broader question is where the Senate stands on the issue . 
+While the Senate Commerce Committee has approved legislation similar to the House bill on airline leveraged buy-outs , the measure has n't yet come to the full floor . 
+Although the legislation would apply to acquisitions involving any major airline , it is aimed at giving the Transportation Department the chance to review in advance transactions financed by large amounts of debt . 
+`` The purpose of the bill is to put the brakes on airline acquisitions that would so load a carrier up with debt that it would impede safety or a carrier 's ability to compete , '' Rep. John Paul Hammerschmidt , ( R. , Ark . ) said . 
+The bill , as it was approved by the House Public Works and Transportation Committee , would give the Transportation Department up to 50 days to review any purchase of 15 % or more of the stock in an airline . 
+The department would be required to block the buy-out if the acquisition is likely to financially weaken a carrier so that safety would be impaired ; its ability to compete would be sharply diminished ; it would be put into foreign control ; or if the transaction would result in the sale of airline-related assets -- unless selling such assets had an overriding public benefit . 
+The House approved an amendment offered by Rep. Peter DeFazio ( D. , Ore. ) that would , in addition to the previous criteria , also require the department to block the acquisition of an airline if the added debt incurred were likely to result in a reduction in the number of the carrier 's employees , or their wages or benefits . 
+Rep. James Traficant ( D. , Ohio ) , said the amendment , which passed 271-147 , would `` let the American worker know that we consider them occasionally . '' 
+But Rep. Hammerschmidt said that the provision , which he dubbed a `` special interest '' amendment , was likely to make the bill even more controversial . 
+On Tuesday , the House approved a labor-backed amendment that would require the Transportation Department to reject airline acquisitions if the person seeking to purchase a carrier had run two or more airlines previously that have filed for protection from creditors under Chapter 11 of the federal Bankruptcy Code . 
+The provision , called the `` two-time-losers '' amendment by its supporters , apparently was aimed at preventing Texas Air Corp. Chairman Frank Lorenzo from attempting to take over another airline . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="11" end="17" text="passed" comment="" pos="VBD" />
+<SELECTOR id="s1" start="94" end="99" text="block" comment="" pos="VB" />
+<SELECTOR id="s2" start="166" end="174" text="rejected" comment="" pos="VBD" />
+<SELECTOR id="s3" start="197" end="203" text="weaken" comment="" pos="VB" />
+<SELECTOR id="s4" start="217" end="225" text="approved" comment="" pos="VBD" />
+<SELECTOR id="s5" start="312" end="316" text="veto" comment="" pos="VB" />
+<SELECTOR id="s6" start="348" end="353" text="views" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="459" end="463" text="have" comment="" pos="VBP" />
+<SELECTOR id="s8" start="481" end="489" text="override" comment="" pos="VB" />
+<SELECTOR id="s9" start="604" end="612" text="approved" comment="" pos="VBN" />
+<SELECTOR id="s10" start="786" end="795" text="involving" comment="" pos="VBG" />
+<SELECTOR id="s11" start="822" end="827" text="aimed" comment="" pos="VBN" />
+<SELECTOR id="s12" start="831" end="837" text="giving" comment="" pos="VBG" />
+<SELECTOR id="s13" start="882" end="888" text="review" comment="" pos="VB" />
+<SELECTOR id="s14" start="983" end="986" text="put" comment="" pos="VB" />
+<SELECTOR id="s15" start="1036" end="1040" text="load" comment="" pos="VB" />
+<SELECTOR id="s16" start="1078" end="1084" text="impede" comment="" pos="VB" />
+<SELECTOR id="s17" start="1207" end="1215" text="approved" comment="" pos="VBN" />
+<SELECTOR id="s18" start="1279" end="1283" text="give" comment="" pos="VB" />
+<SELECTOR id="s19" start="1331" end="1337" text="review" comment="" pos="VB" />
+<SELECTOR id="s20" start="1421" end="1429" text="required" comment="" pos="VBN" />
+<SELECTOR id="s21" start="1433" end="1438" text="block" comment="" pos="VB" />
+<SELECTOR id="s22" start="1495" end="1501" text="weaken" comment="" pos="VB" />
+<SELECTOR id="s23" start="1536" end="1544" text="impaired" comment="" pos="VBN" />
+<SELECTOR id="s24" start="1587" end="1597" text="diminished" comment="" pos="VBN" />
+<SELECTOR id="s25" start="1612" end="1615" text="put" comment="" pos="VBN" />
+<SELECTOR id="s26" start="1722" end="1729" text="selling" comment="" pos="VBG" />
+<SELECTOR id="s27" start="1742" end="1745" text="had" comment="" pos="VBD" />
+<SELECTOR id="s28" start="1788" end="1796" text="approved" comment="" pos="VBD" />
+<SELECTOR id="s29" start="1937" end="1942" text="block" comment="" pos="VB" />
+<SELECTOR id="s30" start="2238" end="2246" text="consider" comment="" pos="VBP" />
+<SELECTOR id="s31" start="2451" end="2459" text="approved" comment="" pos="VBD" />
+<SELECTOR id="s32" start="2537" end="2543" text="reject" comment="" pos="VB" />
+<SELECTOR id="s33" start="2590" end="2598" text="purchase" comment="" pos="VB" />
+<SELECTOR id="s34" start="2613" end="2616" text="run" comment="" pos="VBN" />
+<SELECTOR id="s35" start="2840" end="2845" text="aimed" comment="" pos="VBN" />
+<SELECTOR id="s36" start="2849" end="2859" text="preventing" comment="" pos="VBG" />
+<SELECTOR id="s37" start="2918" end="2922" text="take" comment="" pos="VB" />
+<NOUN id="n0" start="18" end="29" text="legislation" comment="" />
+<NOUN id="n1" start="118" end="126" text="buy-outs" comment="" />
+<NOUN id="n2" start="186" end="193" text="efforts" comment="" />
+<NOUN id="n3" start="208" end="212" text="bill" comment="" />
+<NOUN id="n4" start="230" end="240" text="amendments" comment="" />
+<NOUN id="n5" start="324" end="328" text="bill" comment="" />
+<NOUN id="n6" start="340" end="344" text="what" comment="" />
+<NOUN id="n7" start="468" end="477" text="potential" comment="" />
+<NOUN id="n8" start="492" end="496" text="veto" comment="" />
+<NOUN id="n9" start="613" end="624" text="legislation" comment="" />
+<NOUN id="n10" start="806" end="813" text="airline" comment="" />
+<NOUN id="n11" start="816" end="818" text="it" comment="" />
+<NOUN id="n12" start="857" end="867" text="Department" comment="" />
+<NOUN id="n13" start="872" end="878" text="chance" comment="" />
+<NOUN id="n14" start="900" end="912" text="transactions" comment="" />
+<NOUN id="n15" start="991" end="997" text="brakes" comment="" />
+<NOUN id="n16" start="1043" end="1050" text="carrier" comment="" />
+<NOUN id="n17" start="1085" end="1091" text="safety" comment="" />
+<NOUN id="n18" start="1200" end="1202" text="it" comment="" />
+<NOUN id="n19" start="1303" end="1313" text="Department" comment="" />
+<NOUN id="n20" start="1323" end="1327" text="days" comment="" />
+<NOUN id="n21" start="1342" end="1350" text="purchase" comment="" />
+<NOUN id="n22" start="1401" end="1411" text="department" comment="" />
+<NOUN id="n23" start="1443" end="1450" text="buy-out" comment="" />
+<NOUN id="n24" start="1504" end="1511" text="carrier" comment="" />
+<NOUN id="n25" start="1520" end="1526" text="safety" comment="" />
+<NOUN id="n26" start="1551" end="1558" text="ability" comment="" />
+<NOUN id="n27" start="1600" end="1602" text="it" comment="" />
+<NOUN id="n28" start="1735" end="1741" text="assets" comment="" />
+<NOUN id="n29" start="1767" end="1774" text="benefit" comment="" />
+<NOUN id="n30" start="1800" end="1809" text="amendment" comment="" />
+<NOUN id="n31" start="1947" end="1958" text="acquisition" comment="" />
+<NOUN id="n32" start="2247" end="2251" text="them" comment="" />
+<NOUN id="n33" start="2475" end="2484" text="amendment" comment="" />
+<NOUN id="n34" start="2552" end="2564" text="acquisitions" comment="" />
+<NOUN id="n35" start="2601" end="2608" text="carrier" comment="" />
+<NOUN id="n36" start="2629" end="2637" text="airlines" comment="" />
+<NOUN id="n37" start="2750" end="2759" text="provision" comment="" />
+<NOUN id="n38" start="2891" end="2898" text="Lorenzo" comment="" />
+<NOUN id="n39" start="2936" end="2943" text="airline" comment="" />
+<QLINK id="q0" fromID="s0" fromText="passed" toID="n0" toText="legislation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="block" toID="n1" toText="buy-outs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="rejected" toID="n2" toText="efforts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="weaken" toID="n3" toText="bill" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="approved" toID="n4" toText="amendments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="veto" toID="n5" toText="bill" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="views" toID="n6" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="have" toID="n7" toText="potential" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="override" toID="n8" toText="veto" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="approved" toID="n9" toText="legislation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="involving" toID="n10" toText="airline" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="aimed" toID="n11" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s12" fromText="giving" toID="n12" toText="Department" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q13" fromID="s12" fromText="giving" toID="n13" toText="chance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="review" toID="n14" toText="transactions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="put" toID="n15" toText="brakes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="load" toID="n16" toText="carrier" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="impede" toID="n17" toText="safety" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="approved" toID="n18" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q19" fromID="s18" fromText="give" toID="n19" toText="Department" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q20" fromID="s18" fromText="give" toID="n20" toText="days" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s19" fromText="review" toID="n21" toText="purchase" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s20" fromText="required" toID="n22" toText="department" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q23" fromID="s21" fromText="block" toID="n23" toText="buy-out" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s22" fromText="weaken" toID="n24" toText="carrier" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s23" fromText="impaired" toID="n25" toText="safety" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q26" fromID="s24" fromText="diminished" toID="n26" toText="ability" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q27" fromID="s25" fromText="put" toID="n27" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q28" fromID="s26" fromText="selling" toID="n28" toText="assets" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s27" fromText="had" toID="n29" toText="benefit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s28" fromText="approved" toID="n30" toText="amendment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s29" fromText="block" toID="n31" toText="acquisition" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s30" fromText="consider" toID="n32" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s31" fromText="approved" toID="n33" toText="amendment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s32" fromText="reject" toID="n34" toText="acquisitions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s33" fromText="purchase" toID="n35" toText="carrier" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s34" fromText="run" toID="n36" toText="airlines" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s35" fromText="aimed" toID="n37" toText="provision" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q38" fromID="s36" fromText="preventing" toID="n38" toText="Lorenzo" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s37" fromText="take" toID="n39" toText="airline" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

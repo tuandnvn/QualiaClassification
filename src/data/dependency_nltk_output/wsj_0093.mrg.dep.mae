@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+It was Richard Nixon 's first visit to China in 1972 that set in motion the historic rapprochement between Beijing and Washington . 
+But the former U.S. president 's sixth visit to China , during which he spoke at length with Chinese leaders , was nowhere near as successful at easing strains that have recently afflicted the Sino-U.S. relationship . 
+Mr. Nixon , the most prominent American to come to China since Beijing 's bloody suppression of pro-democracy demonstrators in June , harped on international outrage over the massacre . 
+The Chinese , in turn , took aim at American `` interference '' in China 's domestic affairs . 
+One official newspaper , Legal Daily , even directly criticized Mr. Nixon , who is normally referred to here as an `` old friend . '' 
+The paper accused him of being a leading proponent of `` peaceful evolution , '' a catch phrase to describe what China believes is the policy of Western countries to seduce socialist nations into the capitalist sphere . 
+The tension was evident on Wednesday evening during Mr. Nixon 's final banquet toast , normally an opportunity for reciting platitudes about eternal friendship . 
+Instead , Mr. Nixon reminded his host , Chinese President Yang Shangkun , that Americans have n't forgiven China 's leaders for the military assault of June 3-4 that killed hundreds , and perhaps thousands , of demonstrators . 
+`` Many in the United States , including many friends of China , believe the crackdown was excessive and unjustified , '' Mr. Nixon told Mr. Yang , who was directly involved in ordering the attack . 
+`` The events of April through June damaged the respect and confidence which most Americans previously had for the leaders of China . '' 
+The Chinese responded in an equally undiplomatic fashion . 
+In talks with Mr. Nixon , Chinese leaders expressed no regret for the killings , and even suggested that the U.S. was prominently involved in the demonstrations this spring . 
+In a meeting Tuesday , supreme leader , Deng Xiaoping , told Mr. Nixon , `` Frankly speaking , the U.S. was involved too deeply in the turmoil and counterrevolutionary rebellion which occurred in Beijing not long ago . 
+China was the real victim and it is unjust to reprove China for it . '' 
+Despite the harsh exchanges , the U.S. and China still seem to be looking for a way to mend relations , which have deteriorated into what Mr. Nixon referred to as `` the greatest crisis in Chinese-American relations '' since his initial visit to China 17 years ago . 
+In his return toast to Mr. Nixon , Mr. Yang said the relationship had reached a `` stalemate . '' 
+Relations between China and the U.S. have been tense since June 7 , when Chinese dissident Fang Lizhi and his wife , Li Shuxian , took refuge in the U.S. Embassy in Beijing . 
+Shortly afterwards , Mr. Bush imposed a series of anti-China sanctions , including suspension of most high-level talks , which could be codified in U.S. congressional legislation in the coming weeks . 
+Mr. Nixon is traveling in China as a private citizen , but he has made clear that he is an unofficial envoy for the Bush administration . 
+Mr. Nixon met Mr. Bush and his national security adviser , Brent Scowcroft , before coming to China on Saturday . 
+And he plans to brief the president at the end of the week , U.S. sources said . 
+Mr. Nixon was to leave China today . 
+According to an American member of the Nixon party , the former president raised a number of controversial issues in his 20 hours of talks with top-level Chinese officials . 
+These included China 's economic policies , human rights and the question of Mr. Fang . 
+Mr. Nixon also proposed that China restore its participation in the Fulbright Program , a U.S. government-funded academic exchange . 
+China pulled out of the program in July . 
+In his talks , the former president urged China 's leaders to acknowledge that their nation is part of the world community and welcome the infusion of outside contacts and ideas . 
+`` Ideas are going over borders , and there 's no SDI ideological weapon that can shoot them down , '' he told a group of Americans at the U.S. Embassy on Wednesday . 
+There are no signs , however , of China 's yielding on key issues . 
+But in one minor matter , Mr. Nixon appears to have gained a concession . 
+In a meeting with Premier Li Peng on Monday , Mr. Nixon said that he hoped he would n't encounter guards with machine guns during his visit to the U.S. Embassy . 
+Sure enough , when he arrived at the embassy two days later , the machine-gun-toting guards were gone -- for the first time in five months . 
+A few blocks away , at the U.S. ambassador 's residence , the guards encircling the compound also had discarded their Uzi-model arms for the first time since early June . 
+But the guards there retained their pistols , and a large contingent of plainclothes police remained nearby in unmarked cars . 
+Moreover , police and soldiers continue to harass Americans , who have filed several protests with the Foreign Ministry in the past week . 
+Several times , Chinese guards have pointed their automatic rifles at young children of U.S. diplomats and clicked the trigger . 
+The rifles were n't loaded . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="59" end="62" text="set" comment="" pos="VBD" />
+<SELECTOR id="s1" start="279" end="285" text="easing" comment="" pos="VBG" />
+<SELECTOR id="s2" start="313" end="322" text="afflicted" comment="" pos="VBN" />
+<SELECTOR id="s3" start="564" end="568" text="took" comment="" pos="VBD" />
+<SELECTOR id="s4" start="689" end="699" text="criticized" comment="" pos="VBD" />
+<SELECTOR id="s5" start="781" end="788" text="accused" comment="" pos="VBD" />
+<SELECTOR id="s6" start="937" end="943" text="seduce" comment="" pos="VB" />
+<SELECTOR id="s7" start="1107" end="1115" text="reciting" comment="" pos="VBG" />
+<SELECTOR id="s8" start="1175" end="1183" text="reminded" comment="" pos="VBD" />
+<SELECTOR id="s9" start="1253" end="1261" text="forgiven" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1321" end="1327" text="killed" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1515" end="1519" text="told" comment="" pos="VBD" />
+<SELECTOR id="s12" start="1548" end="1556" text="involved" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1560" end="1568" text="ordering" comment="" pos="VBG" />
+<SELECTOR id="s14" start="1619" end="1626" text="damaged" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1686" end="1689" text="had" comment="" pos="VBD" />
+<SELECTOR id="s16" start="1823" end="1832" text="expressed" comment="" pos="VBD" />
+<SELECTOR id="s17" start="1911" end="1919" text="involved" comment="" pos="VBN" />
+<SELECTOR id="s18" start="2013" end="2017" text="told" comment="" pos="VBD" />
+<SELECTOR id="s19" start="2065" end="2073" text="involved" comment="" pos="VBN" />
+<SELECTOR id="s20" start="2223" end="2230" text="reprove" comment="" pos="VB" />
+<SELECTOR id="s21" start="2337" end="2341" text="mend" comment="" pos="VB" />
+<SELECTOR id="s22" start="2588" end="2595" text="reached" comment="" pos="VBN" />
+<SELECTOR id="s23" start="2747" end="2751" text="took" comment="" pos="VBD" />
+<SELECTOR id="s24" start="2823" end="2830" text="imposed" comment="" pos="VBD" />
+<SELECTOR id="s25" start="2929" end="2937" text="codified" comment="" pos="VBN" />
+<SELECTOR id="s26" start="3144" end="3147" text="met" comment="" pos="VBD" />
+<SELECTOR id="s27" start="3265" end="3270" text="brief" comment="" pos="VB" />
+<SELECTOR id="s28" start="3348" end="3353" text="leave" comment="" pos="VB" />
+<SELECTOR id="s29" start="3443" end="3449" text="raised" comment="" pos="VBD" />
+<SELECTOR id="s30" start="3550" end="3558" text="included" comment="" pos="VBD" />
+<SELECTOR id="s31" start="3668" end="3675" text="restore" comment="" pos="VB" />
+<SELECTOR id="s32" start="3846" end="3851" text="urged" comment="" pos="VBD" />
+<SELECTOR id="s33" start="3937" end="3944" text="welcome" comment="" pos="VB" />
+<SELECTOR id="s34" start="4073" end="4078" text="shoot" comment="" pos="VB" />
+<SELECTOR id="s35" start="4097" end="4101" text="told" comment="" pos="VBD" />
+<SELECTOR id="s36" start="4280" end="4286" text="gained" comment="" pos="VBN" />
+<SELECTOR id="s37" start="4391" end="4400" text="encounter" comment="" pos="VB" />
+<SELECTOR id="s38" start="4677" end="4687" text="encircling" comment="" pos="VBG" />
+<SELECTOR id="s39" start="4710" end="4719" text="discarded" comment="" pos="VBN" />
+<SELECTOR id="s40" start="4801" end="4809" text="retained" comment="" pos="VBN" />
+<SELECTOR id="s41" start="4951" end="4957" text="harass" comment="" pos="VB" />
+<SELECTOR id="s42" start="4979" end="4984" text="filed" comment="" pos="VBN" />
+<SELECTOR id="s43" start="5084" end="5091" text="pointed" comment="" pos="VBN" />
+<SELECTOR id="s44" start="5155" end="5162" text="clicked" comment="" pos="VBD" />
+<SELECTOR id="s45" start="5198" end="5204" text="loaded" comment="" pos="VBN" />
+<NOUN id="n0" start="86" end="99" text="rapprochement" comment="" />
+<NOUN id="n1" start="286" end="293" text="strains" comment="" />
+<NOUN id="n2" start="337" end="349" text="relationship" comment="" />
+<NOUN id="n3" start="569" end="572" text="aim" comment="" />
+<NOUN id="n4" start="704" end="709" text="Nixon" comment="" />
+<NOUN id="n5" start="789" end="792" text="him" comment="" />
+<NOUN id="n6" start="954" end="961" text="nations" comment="" />
+<NOUN id="n7" start="1116" end="1126" text="platitudes" comment="" />
+<NOUN id="n8" start="1188" end="1192" text="host" comment="" />
+<NOUN id="n9" start="1271" end="1278" text="leaders" comment="" />
+<NOUN id="n10" start="1328" end="1336" text="hundreds" comment="" />
+<NOUN id="n11" start="1524" end="1528" text="Yang" comment="" />
+<NOUN id="n12" start="1531" end="1534" text="who" comment="" />
+<NOUN id="n13" start="1573" end="1579" text="attack" comment="" />
+<NOUN id="n14" start="1631" end="1638" text="respect" comment="" />
+<NOUN id="n15" start="1654" end="1659" text="which" comment="" />
+<NOUN id="n16" start="1836" end="1842" text="regret" comment="" />
+<NOUN id="n17" start="1890" end="1894" text="U.S." comment="" />
+<NOUN id="n18" start="2022" end="2027" text="Nixon" comment="" />
+<NOUN id="n19" start="2056" end="2060" text="U.S." comment="" />
+<NOUN id="n20" start="2231" end="2236" text="China" comment="" />
+<NOUN id="n21" start="2342" end="2351" text="relations" comment="" />
+<NOUN id="n22" start="2601" end="2610" text="stalemate" comment="" />
+<NOUN id="n23" start="2752" end="2758" text="refuge" comment="" />
+<NOUN id="n24" start="2833" end="2839" text="series" comment="" />
+<NOUN id="n25" start="2914" end="2919" text="which" comment="" />
+<NOUN id="n26" start="3152" end="3156" text="Bush" comment="" />
+<NOUN id="n27" start="3275" end="3284" text="president" comment="" />
+<NOUN id="n28" start="3354" end="3359" text="China" comment="" />
+<NOUN id="n29" start="3452" end="3458" text="number" comment="" />
+<NOUN id="n30" start="3577" end="3585" text="policies" comment="" />
+<NOUN id="n31" start="3680" end="3693" text="participation" comment="" />
+<NOUN id="n32" start="3861" end="3868" text="leaders" comment="" />
+<NOUN id="n33" start="3949" end="3957" text="infusion" comment="" />
+<NOUN id="n34" start="4079" end="4083" text="them" comment="" />
+<NOUN id="n35" start="4104" end="4109" text="group" comment="" />
+<NOUN id="n36" start="4289" end="4299" text="concession" comment="" />
+<NOUN id="n37" start="4401" end="4407" text="guards" comment="" />
+<NOUN id="n38" start="4692" end="4700" text="compound" comment="" />
+<NOUN id="n39" start="4736" end="4740" text="arms" comment="" />
+<NOUN id="n40" start="4816" end="4823" text="pistols" comment="" />
+<NOUN id="n41" start="4958" end="4967" text="Americans" comment="" />
+<NOUN id="n42" start="4993" end="5001" text="protests" comment="" />
+<NOUN id="n43" start="5108" end="5114" text="rifles" comment="" />
+<NOUN id="n44" start="5167" end="5174" text="trigger" comment="" />
+<NOUN id="n45" start="5182" end="5188" text="rifles" comment="" />
+<QLINK id="q0" fromID="s0" fromText="set" toID="n0" toText="rapprochement" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="easing" toID="n1" toText="strains" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="afflicted" toID="n2" toText="relationship" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="took" toID="n3" toText="aim" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="criticized" toID="n4" toText="Nixon" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="accused" toID="n5" toText="him" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="seduce" toID="n6" toText="nations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="reciting" toID="n7" toText="platitudes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="reminded" toID="n8" toText="host" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="forgiven" toID="n9" toText="leaders" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="killed" toID="n10" toText="hundreds" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="told" toID="n11" toText="Yang" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="involved" toID="n12" toText="who" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s13" fromText="ordering" toID="n13" toText="attack" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="damaged" toID="n14" toText="respect" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="had" toID="n15" toText="which" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="expressed" toID="n16" toText="regret" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="involved" toID="n17" toText="U.S." comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q18" fromID="s18" fromText="told" toID="n18" toText="Nixon" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="involved" toID="n19" toText="U.S." comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q20" fromID="s20" fromText="reprove" toID="n20" toText="China" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="mend" toID="n21" toText="relations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="reached" toID="n22" toText="stalemate" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="took" toID="n23" toText="refuge" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="imposed" toID="n24" toText="series" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="codified" toID="n25" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q26" fromID="s26" fromText="met" toID="n26" toText="Bush" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="brief" toID="n27" toText="president" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="leave" toID="n28" toText="China" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="raised" toID="n29" toText="number" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="included" toID="n30" toText="policies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="restore" toID="n31" toText="participation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="urged" toID="n32" toText="leaders" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="welcome" toID="n33" toText="infusion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="shoot" toID="n34" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="told" toID="n35" toText="group" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="gained" toID="n36" toText="concession" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s37" fromText="encounter" toID="n37" toText="guards" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="encircling" toID="n38" toText="compound" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="discarded" toID="n39" toText="arms" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="retained" toID="n40" toText="pistols" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q41" fromID="s41" fromText="harass" toID="n41" toText="Americans" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s42" fromText="filed" toID="n42" toText="protests" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s43" fromText="pointed" toID="n43" toText="rifles" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q44" fromID="s44" fromText="clicked" toID="n44" toText="trigger" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q45" fromID="s45" fromText="loaded" toID="n45" toText="rifles" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

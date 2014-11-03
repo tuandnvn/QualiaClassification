@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Your Oct. 6 article `` Japan 's Financial Firms Lure Science Graduates '' states , `` Industrial companies are accusing financial institutions of jeopardizing Japan 's economy by raising the salary stakes for new employees . '' 
+The Japanese industrial companies should know better . 
+They are barking up the wrong tree , because it is basically their fault they ca n't attract new employees . 
+Takuma Yamamoto , president of Fujitsu Ltd. , believes `` the ` money worship ' among young people ... caused the problem . '' 
+He is just passing the buck to young people . 
+What 's wrong with asking for more money ? 
+Money is not everything , but it is necessary , and business is not volunteer work . 
+It is not unethical to choose a higher-salaried job . 
+Unfortunately , Japanese manufacturers have neither good working conditions nor good compensation packages . 
+I get the impression that some Japanese managers believe working harder for less money is beautiful . 
+I visited a lot of major Japanese manufacturers , but I never felt I would want to be employed by any of them . 
+Many of them recently have been spending a lot of money on public relations and advertising to improve their images , but they should realize that the most important thing is real change , not changing people 's perceptions . 
+If the Japanese companies are seriously considering their survival , they could do at least three things to improve the situation : raise salaries higher than those of financial institutions ; improve working conditions ( better offices and more vacations , for example ) ; accept and hire more labor from outside Japan . 
+Hiroshi Asada 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="49" end="53" text="Lure" comment="" pos="VBP" />
+<SELECTOR id="s1" start="112" end="120" text="accusing" comment="" pos="VBG" />
+<SELECTOR id="s2" start="147" end="159" text="jeopardizing" comment="" pos="VBG" />
+<SELECTOR id="s3" start="180" end="187" text="raising" comment="" pos="VBG" />
+<SELECTOR id="s4" start="371" end="378" text="attract" comment="" pos="VB" />
+<SELECTOR id="s5" start="499" end="505" text="caused" comment="" pos="VBD" />
+<SELECTOR id="s6" start="535" end="542" text="passing" comment="" pos="VBG" />
+<SELECTOR id="s7" start="724" end="730" text="choose" comment="" pos="VB" />
+<SELECTOR id="s8" start="795" end="799" text="have" comment="" pos="VBP" />
+<SELECTOR id="s9" start="868" end="871" text="get" comment="" pos="VBP" />
+<SELECTOR id="s10" start="971" end="978" text="visited" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1114" end="1122" text="spending" comment="" pos="VBG" />
+<SELECTOR id="s12" start="1177" end="1184" text="improve" comment="" pos="VB" />
+<SELECTOR id="s13" start="1275" end="1283" text="changing" comment="" pos="VBG" />
+<SELECTOR id="s14" start="1349" end="1360" text="considering" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1389" end="1391" text="do" comment="" pos="VB" />
+<SELECTOR id="s16" start="1417" end="1424" text="improve" comment="" pos="VB" />
+<SELECTOR id="s17" start="1502" end="1509" text="improve" comment="" pos="VB" />
+<SELECTOR id="s18" start="1594" end="1598" text="hire" comment="" pos="VB" />
+<NOUN id="n0" start="62" end="71" text="Graduates" comment="" />
+<NOUN id="n1" start="131" end="143" text="institutions" comment="" />
+<NOUN id="n2" start="169" end="176" text="economy" comment="" />
+<NOUN id="n3" start="199" end="205" text="stakes" comment="" />
+<NOUN id="n4" start="383" end="392" text="employees" comment="" />
+<NOUN id="n5" start="510" end="517" text="problem" comment="" />
+<NOUN id="n6" start="547" end="551" text="buck" comment="" />
+<NOUN id="n7" start="749" end="752" text="job" comment="" />
+<NOUN id="n8" start="821" end="831" text="conditions" comment="" />
+<NOUN id="n9" start="876" end="886" text="impression" comment="" />
+<NOUN id="n10" start="981" end="984" text="lot" comment="" />
+<NOUN id="n11" start="1125" end="1128" text="lot" comment="" />
+<NOUN id="n12" start="1191" end="1197" text="images" comment="" />
+<NOUN id="n13" start="1294" end="1305" text="perceptions" comment="" />
+<NOUN id="n14" start="1367" end="1375" text="survival" comment="" />
+<NOUN id="n15" start="1407" end="1413" text="things" comment="" />
+<NOUN id="n16" start="1429" end="1438" text="situation" comment="" />
+<NOUN id="n17" start="1518" end="1528" text="conditions" comment="" />
+<NOUN id="n18" start="1604" end="1609" text="labor" comment="" />
+<QLINK id="q0" fromID="s0" fromText="Lure" toID="n0" toText="Graduates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="accusing" toID="n1" toText="institutions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="jeopardizing" toID="n2" toText="economy" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="raising" toID="n3" toText="stakes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="attract" toID="n4" toText="employees" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="caused" toID="n5" toText="problem" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="passing" toID="n6" toText="buck" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="choose" toID="n7" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="have" toID="n8" toText="conditions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="get" toID="n9" toText="impression" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="visited" toID="n10" toText="lot" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="spending" toID="n11" toText="lot" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="improve" toID="n12" toText="images" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="changing" toID="n13" toText="perceptions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="considering" toID="n14" toText="survival" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="do" toID="n15" toText="things" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="improve" toID="n16" toText="situation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="improve" toID="n17" toText="conditions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="hire" toID="n18" toText="labor" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

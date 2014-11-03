@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+A licensing company representing the University of Pennsylvania added Johnson & Johnson to its lawsuit challenging a university faculty member over rights to Retin-A acne medicine . 
+University Patents Inc. , based in Westport , Conn. , said it seeks Johnson & Johnson 's profits from sales of Retin-A , estimated at $ 50 million , a similar amount of punitive damages and the right to license Retin-A elsewhere . 
+In May , University Patents filed a suit in federal court in Philadelphia against Albert M. Kligman , a researcher and professor at the University of Pennsylvania School of Medicine who developed Retin-A in the 1960s to combat acne . 
+Dr. Kligman patented the medicine while employed by the University , but later licensed the Retin-A to a division of Johnson & Johnson . 
+In New Brunswick , N.J. , a Johnson & Johnson spokesman declined comment . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="21" end="33" text="representing" comment="" pos="VBG" />
+<SELECTOR id="s1" start="65" end="70" text="added" comment="" pos="VBD" />
+<SELECTOR id="s2" start="104" end="115" text="challenging" comment="" pos="VBG" />
+<SELECTOR id="s3" start="246" end="251" text="seeks" comment="" pos="VBZ" />
+<SELECTOR id="s4" start="387" end="394" text="license" comment="" pos="VB" />
+<SELECTOR id="s5" start="444" end="449" text="filed" comment="" pos="VBD" />
+<SELECTOR id="s6" start="602" end="611" text="developed" comment="" pos="VBD" />
+<SELECTOR id="s7" start="636" end="642" text="combat" comment="" pos="VB" />
+<SELECTOR id="s8" start="663" end="671" text="patented" comment="" pos="VBD" />
+<SELECTOR id="s9" start="730" end="738" text="licensed" comment="" pos="VBD" />
+<SELECTOR id="s10" start="845" end="853" text="declined" comment="" pos="VBD" />
+<NOUN id="n0" start="38" end="48" text="University" comment="" />
+<NOUN id="n1" start="71" end="78" text="Johnson" comment="" />
+<NOUN id="n2" start="137" end="143" text="member" comment="" />
+<NOUN id="n3" start="273" end="280" text="profits" comment="" />
+<NOUN id="n4" start="395" end="402" text="Retin-A" comment="" />
+<NOUN id="n5" start="452" end="456" text="suit" comment="" />
+<NOUN id="n6" start="612" end="619" text="Retin-A" comment="" />
+<NOUN id="n7" start="643" end="647" text="acne" comment="" />
+<NOUN id="n8" start="676" end="684" text="medicine" comment="" />
+<NOUN id="n9" start="743" end="750" text="Retin-A" comment="" />
+<NOUN id="n10" start="854" end="861" text="comment" comment="" />
+<QLINK id="q0" fromID="s0" fromText="representing" toID="n0" toText="University" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="added" toID="n1" toText="Johnson" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="challenging" toID="n2" toText="member" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="seeks" toID="n3" toText="profits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="license" toID="n4" toText="Retin-A" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="filed" toID="n5" toText="suit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="developed" toID="n6" toText="Retin-A" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="combat" toID="n7" toText="acne" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="patented" toID="n8" toText="medicine" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="licensed" toID="n9" toText="Retin-A" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="declined" toID="n10" toText="comment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

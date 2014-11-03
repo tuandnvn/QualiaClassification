@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+A House-Senate conference approved major portions of a package for more than $ 500 million in economic aid for Poland that relies heavily on $ 240 million in credit and loan guarantees in fiscal 1990 in hopes of stimulating future trade and investment . 
+For the Agency for International Development , appropriators approved $ 200 million in secondary loan guarantees under an expanded trade credit insurance program , and total loan guarantees for the Overseas Private Investment Corp. are increased by $ 40 million over fiscal 1989 as part of the same Poland package . 
+The conference approved at least $ 55 million in direct cash and development assistance as well , and though no decision was made , both sides are committed to adding more than $ 200 million in economic support funds and environmental initiatives sought by the Bush administration . 
+The agreement on Poland contrasts with the major differences remaining over the underlying foreign aid bill , which has already provoked veto threats by the White House and is sharply confined under this year 's budget . 
+These fiscal pressures are also a factor in shaping the Poland package , and while more ambitious authorizing legislation is still pending , the appropriations bill in conference will be more decisive on U.S. aid to Eastern Europe . 
+To accommodate the additional cash assistance , the House Appropriations Committee last week was required to reallocate an estimated $ 140 million from the Pentagon . 
+And though the size of the loan guarantees approved yesterday is significant , recent experience with a similar program in Central America indicates that it could take several years before the new Polish government can fully use the aid effectively . 
+The action on Poland came as the conference separately approved $ 220 million for international population planning activities , an 11 % increase over fiscal 1989 . 
+The House and Senate are divided over whether the United Nations Population Fund will receive any portion of these appropriations , but the size of the increase is itself significant . 
+In a second area of common concern , the world environment , an additional $ 15 million will be provided in development assistance to fund a series of initiatives , related both to global warming and the plight of the African elephant . 
+The sweeping nature of the bill draws a variety of special interest amendments , running from an import exemption for a California airplane museum to a small but intriguing struggle among sugar producing nations over the fate of Panama 's quota of exports to the profitable U.S. market . 
+Panama was stripped of this right because of U.S. differences with the Noriega regime , but the Central American country would have received a quota of 30,537 metric tons over a 21-month period ending Sept. 30 , 1990 . 
+About a quarter of this share has already been reallocated , according to the industry , but the remaining 23,403 tons are still a lucrative target for growers because the current U.S. price of 18 cents a pound runs as much as a nickel a pound above the world rate . 
+The potential sales are nearly $ 9.3 million , and House Majority Whip William Gray ( D. , Pa . ) began the bidding this year by proposing language that the quota be allocated to English-speaking countries of the Caribbean , such as Jamaica and Barbados . 
+Rep. Jerry Lewis , a conservative Californian , added a provision of his own intended to assist Bolivia , and the Senate then broadened the list further by including all countries in the U.S. Caribbean Basin initiate as well as the Philippines - backed by the powerful Hawaii Democrat Sen. Daniel Inouye . 
+Jamaica , wary of upsetting its Caribbean Basin allies , has apparently instructed its lobbyist to abandon the provision initially drafted by Mr. Gray , but the greater question is whether Mr. Inouye , who has strong ties to the sugar industry , is able to insert a claim by the Philippines . 
+In separate floor action , the House waived budget restrictions and gave quick approval to $ 3.18 billion in supplemental appropriations for law enforcement and anti-drug programs in fiscal 1990 . 
+The funding is attached to an estimated $ 27.1 billion transportation bill that goes next to the Senate and carries with it a proposed permanent smoking ban on virtually all U.S. domestic airline flights . 
+The leadership hopes to move the compromise measure promptly to the White House , but in recent days , the Senate has been as likely to bounce bills back to the House . 
+The most recent example was a nearly $ 17.3 billion fiscal 1990 bill funding the State , Justice and Commerce departments . 
+And after losing a battle Tuesday night with the Senate Foreign Relations Committee , appropriators from both houses are expected to be forced back to conference . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="27" end="35" text="approved" comment="" pos="VBD" />
+<SELECTOR id="s1" start="213" end="224" text="stimulating" comment="" pos="VBG" />
+<SELECTOR id="s2" start="317" end="325" text="approved" comment="" pos="VBD" />
+<SELECTOR id="s3" start="492" end="501" text="increased" comment="" pos="VBN" />
+<SELECTOR id="s4" start="588" end="596" text="approved" comment="" pos="VBD" />
+<SELECTOR id="s5" start="698" end="702" text="made" comment="" pos="VBN" />
+<SELECTOR id="s6" start="733" end="739" text="adding" comment="" pos="VBG" />
+<SELECTOR id="s7" start="985" end="993" text="provoked" comment="" pos="VBN" />
+<SELECTOR id="s8" start="1123" end="1130" text="shaping" comment="" pos="VBG" />
+<SELECTOR id="s9" start="1316" end="1327" text="accommodate" comment="" pos="VB" />
+<SELECTOR id="s10" start="1410" end="1418" text="required" comment="" pos="VBN" />
+<SELECTOR id="s11" start="1422" end="1432" text="reallocate" comment="" pos="VB" />
+<SELECTOR id="s12" start="1644" end="1648" text="take" comment="" pos="VB" />
+<SELECTOR id="s13" start="1706" end="1709" text="use" comment="" pos="VB" />
+<SELECTOR id="s14" start="1788" end="1796" text="approved" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1985" end="1992" text="receive" comment="" pos="VB" />
+<SELECTOR id="s16" start="2181" end="2189" text="provided" comment="" pos="VBN" />
+<SELECTOR id="s17" start="2219" end="2223" text="fund" comment="" pos="VB" />
+<SELECTOR id="s18" start="2355" end="2360" text="draws" comment="" pos="VBZ" />
+<SELECTOR id="s19" start="2623" end="2631" text="stripped" comment="" pos="VBN" />
+<SELECTOR id="s20" start="2744" end="2752" text="received" comment="" pos="VBN" />
+<SELECTOR id="s21" start="2879" end="2890" text="reallocated" comment="" pos="VBN" />
+<SELECTOR id="s22" start="3198" end="3203" text="began" comment="" pos="VBD" />
+<SELECTOR id="s23" start="3229" end="3238" text="proposing" comment="" pos="VBG" />
+<SELECTOR id="s24" start="3266" end="3275" text="allocated" comment="" pos="VBN" />
+<SELECTOR id="s25" start="3405" end="3410" text="added" comment="" pos="VBD" />
+<SELECTOR id="s26" start="3446" end="3452" text="assist" comment="" pos="VB" />
+<SELECTOR id="s27" start="3483" end="3492" text="broadened" comment="" pos="VBD" />
+<SELECTOR id="s28" start="3513" end="3522" text="including" comment="" pos="VBG" />
+<SELECTOR id="s29" start="3682" end="3691" text="upsetting" comment="" pos="VBG" />
+<SELECTOR id="s30" start="3763" end="3770" text="abandon" comment="" pos="VB" />
+<SELECTOR id="s31" start="3870" end="3873" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s32" start="3921" end="3927" text="insert" comment="" pos="VB" />
+<SELECTOR id="s33" start="3995" end="4001" text="waived" comment="" pos="VBD" />
+<SELECTOR id="s34" start="4026" end="4030" text="gave" comment="" pos="VBD" />
+<SELECTOR id="s35" start="4171" end="4179" text="attached" comment="" pos="VBN" />
+<SELECTOR id="s36" start="4264" end="4271" text="carries" comment="" pos="VBZ" />
+<SELECTOR id="s37" start="4387" end="4391" text="move" comment="" pos="VB" />
+<SELECTOR id="s38" start="4499" end="4505" text="bounce" comment="" pos="VB" />
+<SELECTOR id="s39" start="4602" end="4609" text="funding" comment="" pos="VBG" />
+<SELECTOR id="s40" start="4668" end="4674" text="losing" comment="" pos="VBG" />
+<SELECTOR id="s41" start="4779" end="4787" text="expected" comment="" pos="VBN" />
+<NOUN id="n0" start="42" end="50" text="portions" comment="" />
+<NOUN id="n1" start="232" end="237" text="trade" comment="" />
+<NOUN id="n2" start="332" end="339" text="million" comment="" />
+<NOUN id="n3" start="435" end="445" text="guarantees" comment="" />
+<NOUN id="n4" start="611" end="618" text="million" comment="" />
+<NOUN id="n5" start="685" end="693" text="decision" comment="" />
+<NOUN id="n6" start="756" end="763" text="million" comment="" />
+<NOUN id="n7" start="999" end="1006" text="threats" comment="" />
+<NOUN id="n8" start="1142" end="1149" text="package" comment="" />
+<NOUN id="n9" start="1348" end="1358" text="assistance" comment="" />
+<NOUN id="n10" start="1386" end="1395" text="Committee" comment="" />
+<NOUN id="n11" start="1452" end="1459" text="million" comment="" />
+<NOUN id="n12" start="1657" end="1662" text="years" comment="" />
+<NOUN id="n13" start="1714" end="1717" text="aid" comment="" />
+<NOUN id="n14" start="1803" end="1810" text="million" comment="" />
+<NOUN id="n15" start="1997" end="2004" text="portion" comment="" />
+<NOUN id="n16" start="2165" end="2172" text="million" comment="" />
+<NOUN id="n17" start="2226" end="2232" text="series" comment="" />
+<NOUN id="n18" start="2363" end="2370" text="variety" comment="" />
+<NOUN id="n19" start="2612" end="2618" text="Panama" comment="" />
+<NOUN id="n20" start="2755" end="2760" text="quota" comment="" />
+<NOUN id="n21" start="2840" end="2847" text="quarter" comment="" />
+<NOUN id="n22" start="3208" end="3215" text="bidding" comment="" />
+<NOUN id="n23" start="3239" end="3247" text="language" comment="" />
+<NOUN id="n24" start="3257" end="3262" text="quota" comment="" />
+<NOUN id="n25" start="3413" end="3422" text="provision" comment="" />
+<NOUN id="n26" start="3453" end="3460" text="Bolivia" comment="" />
+<NOUN id="n27" start="3497" end="3501" text="list" comment="" />
+<NOUN id="n28" start="3527" end="3536" text="countries" comment="" />
+<NOUN id="n29" start="3712" end="3718" text="allies" comment="" />
+<NOUN id="n30" start="3775" end="3784" text="provision" comment="" />
+<NOUN id="n31" start="3881" end="3885" text="ties" comment="" />
+<NOUN id="n32" start="3930" end="3935" text="claim" comment="" />
+<NOUN id="n33" start="4009" end="4021" text="restrictions" comment="" />
+<NOUN id="n34" start="4037" end="4045" text="approval" comment="" />
+<NOUN id="n35" start="4160" end="4167" text="funding" comment="" />
+<NOUN id="n36" start="4309" end="4312" text="ban" comment="" />
+<NOUN id="n37" start="4407" end="4414" text="measure" comment="" />
+<NOUN id="n38" start="4506" end="4511" text="bills" comment="" />
+<NOUN id="n39" start="4614" end="4619" text="State" comment="" />
+<NOUN id="n40" start="4677" end="4683" text="battle" comment="" />
+<NOUN id="n41" start="4744" end="4757" text="appropriators" comment="" />
+<QLINK id="q0" fromID="s0" fromText="approved" toID="n0" toText="portions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="stimulating" toID="n1" toText="trade" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="approved" toID="n2" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="increased" toID="n3" toText="guarantees" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="approved" toID="n4" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="made" toID="n5" toText="decision" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="adding" toID="n6" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="provoked" toID="n7" toText="threats" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="shaping" toID="n8" toText="package" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="accommodate" toID="n9" toText="assistance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="required" toID="n10" toText="Committee" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s11" fromText="reallocate" toID="n11" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="take" toID="n12" toText="years" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="use" toID="n13" toText="aid" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="approved" toID="n14" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="receive" toID="n15" toText="portion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="provided" toID="n16" toText="million" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q17" fromID="s17" fromText="fund" toID="n17" toText="series" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="draws" toID="n18" toText="variety" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="stripped" toID="n19" toText="Panama" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q20" fromID="s20" fromText="received" toID="n20" toText="quota" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="reallocated" toID="n21" toText="quarter" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q22" fromID="s22" fromText="began" toID="n22" toText="bidding" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="proposing" toID="n23" toText="language" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="allocated" toID="n24" toText="quota" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q25" fromID="s25" fromText="added" toID="n25" toText="provision" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="assist" toID="n26" toText="Bolivia" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="broadened" toID="n27" toText="list" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="including" toID="n28" toText="countries" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="upsetting" toID="n29" toText="allies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="abandon" toID="n30" toText="provision" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="has" toID="n31" toText="ties" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="insert" toID="n32" toText="claim" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="waived" toID="n33" toText="restrictions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="gave" toID="n34" toText="approval" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="attached" toID="n35" toText="funding" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q36" fromID="s36" fromText="carries" toID="n36" toText="ban" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s37" fromText="move" toID="n37" toText="measure" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="bounce" toID="n38" toText="bills" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="funding" toID="n39" toText="State" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="losing" toID="n40" toText="battle" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q41" fromID="s41" fromText="expected" toID="n41" toText="appropriators" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

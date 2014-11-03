@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Integra-A Hotel & Restaurant Co. said its planned rights offering to raise about $ 9 million was declared effective and the company will begin mailing materials to shareholders at the end of this week . 
+Under the offer , shareholders will receive one right for each 105 common shares owned . 
+Each right entitles the shareholder to buy $ 100 face amount of 13.5 % bonds due 1993 and warrants to buy 23.5 common shares at 30 cents a share . 
+The rights , which expire Nov. 21 , can be exercised for $ 100 each . 
+Integra , which owns and operates hotels , said that Hallwood Group Inc. has agreed to exercise any rights that are n't exercised by other shareholders . 
+Hallwood , a Cleveland merchant bank , owns about 11 % of Integra . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="98" end="106" text="declared" comment="" pos="VBN" />
+<SELECTOR id="s1" start="70" end="75" text="raise" comment="" pos="VB" />
+<SELECTOR id="s2" start="144" end="151" text="mailing" comment="" pos="VBG" />
+<SELECTOR id="s3" start="241" end="248" text="receive" comment="" pos="VB" />
+<SELECTOR id="s4" start="334" end="337" text="buy" comment="" pos="VB" />
+<SELECTOR id="s5" start="397" end="400" text="buy" comment="" pos="VB" />
+<SELECTOR id="s6" start="486" end="495" text="exercised" comment="" pos="VBN" />
+<SELECTOR id="s7" start="539" end="547" text="operates" comment="" pos="VBZ" />
+<SELECTOR id="s8" start="601" end="609" text="exercise" comment="" pos="VB" />
+<SELECTOR id="s9" start="634" end="643" text="exercised" comment="" pos="VBN" />
+<SELECTOR id="s10" start="708" end="712" text="owns" comment="" pos="VBZ" />
+<NOUN id="n0" start="58" end="66" text="offering" comment="" />
+<NOUN id="n1" start="86" end="93" text="million" comment="" />
+<NOUN id="n2" start="152" end="161" text="materials" comment="" />
+<NOUN id="n3" start="249" end="252" text="one" comment="" />
+<NOUN id="n4" start="340" end="343" text="100" comment="" />
+<NOUN id="n5" start="413" end="419" text="shares" comment="" />
+<NOUN id="n6" start="447" end="453" text="rights" comment="" />
+<NOUN id="n7" start="548" end="554" text="hotels" comment="" />
+<NOUN id="n8" start="614" end="620" text="rights" comment="" />
+<NOUN id="n9" start="621" end="625" text="that" comment="" />
+<NOUN id="n10" start="722" end="723" text="%" comment="" />
+<QLINK id="q0" fromID="s0" fromText="declared" toID="n0" toText="offering" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="raise" toID="n1" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="mailing" toID="n2" toText="materials" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="receive" toID="n3" toText="one" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="buy" toID="n4" toText="100" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="buy" toID="n5" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="exercised" toID="n6" toText="rights" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s7" fromText="operates" toID="n7" toText="hotels" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="exercise" toID="n8" toText="rights" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="exercised" toID="n9" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="owns" toID="n10" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

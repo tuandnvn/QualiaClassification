@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+There is a much - quoted saying , attributed to the epidemiologist Geoffrey Rose : “ A large number of people exposed to a small risk may generate many more cases than a small number exposed to a very high risk . ” 
+This is true for many individual risk factors such as salt intake ( linked to high blood pressure and cardiovascular disease ) and speeding on the highway ( linked to injuries and accidents ) . 
+Does it apply to many other global health risks ? 
+The study by Anthony Rodgers and colleagues suggests that it does . 
+To develop effective health policies , one must understand the existing health risks and disease burdens . 
+On a worldwide scale , this is a tough challenge . 
+The Global Burden of Disease Database , maintained by the World Health Organization ( WHO ) , collects data from countries around the world on risk factors such as tobacco , malnutrition , childhood abuse , unsafe sex , childbirth , and cholesterol levels , as well as on disease burdens , for example depression , blindness , and diarrhea . 
+A large group of scientists from all over the world has developed a framework to analyze these data . 
+To compare different risks or burdens , they calculate disability - adjusted life-years , or DALYs — the number of healthy life years lost because of a particular disease or risk factor . 
+Rodgers and colleagues used data from the WHO database for 26 risk factors and from 14 epidemiological subregions of the world to calculate the proportion of risk-factor - attributable disease burden in different population subgroups defined by age , sex , and exposure level . 
+For being underweight in childhood , for example — the leading risk factor for global loss of healthy life — they found that only 35 % of the disease burden occurred in severely underweight children , the rest occurred in those only moderately underweight . 
+The relative risks for the moderately underweight are much lower , but the number of children in that category is so large that the total attributable burden amounted to almost two-thirds of the total global burden of disease for that risk factor . 
+The analysis confirms — and extends to a global level — previous research showing that many major health risks are important across the range of exposure levels , not just among individuals exposed to high levels of risk . 
+It also points to risk factors that are particularly prevalent among specific populations and age groups , and for which highly targeted interventions could be effective . 
+Despite numerous caveats and limitations of studies like this one , such analyses are essential aids in guiding the distribution of limited funds to lower the burden of life years lost to premature death and disability . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="139" end="147" text="generate" comment="" pos="VB" />
+<SELECTOR id="s1" start="535" end="542" text="develop" comment="" pos="VB" />
+<SELECTOR id="s2" start="580" end="590" text="understand" comment="" pos="VB" />
+<SELECTOR id="s3" start="786" end="794" text="collects" comment="" pos="VBZ" />
+<SELECTOR id="s4" start="1091" end="1100" text="developed" comment="" pos="VBN" />
+<SELECTOR id="s5" start="1116" end="1123" text="analyze" comment="" pos="VB" />
+<SELECTOR id="s6" start="1141" end="1148" text="compare" comment="" pos="VB" />
+<SELECTOR id="s7" start="1183" end="1192" text="calculate" comment="" pos="VBP" />
+<SELECTOR id="s8" start="1350" end="1354" text="used" comment="" pos="VBD" />
+<SELECTOR id="s9" start="1457" end="1466" text="calculate" comment="" pos="VB" />
+<SELECTOR id="s10" start="2143" end="2150" text="extends" comment="" pos="VBZ" />
+<SELECTOR id="s11" start="2616" end="2623" text="guiding" comment="" pos="VBG" />
+<SELECTOR id="s12" start="2661" end="2666" text="lower" comment="" pos="VB" />
+<NOUN id="n0" start="158" end="163" text="cases" comment="" />
+<NOUN id="n1" start="560" end="568" text="policies" comment="" />
+<NOUN id="n2" start="611" end="616" text="risks" comment="" />
+<NOUN id="n3" start="795" end="799" text="data" comment="" />
+<NOUN id="n4" start="1103" end="1112" text="framework" comment="" />
+<NOUN id="n5" start="1130" end="1134" text="data" comment="" />
+<NOUN id="n6" start="1159" end="1164" text="risks" comment="" />
+<NOUN id="n7" start="1215" end="1225" text="life-years" comment="" />
+<NOUN id="n8" start="1355" end="1359" text="data" comment="" />
+<NOUN id="n9" start="1471" end="1481" text="proportion" comment="" />
+<NOUN id="n10" start="2180" end="2188" text="research" comment="" />
+<NOUN id="n11" start="2628" end="2640" text="distribution" comment="" />
+<NOUN id="n12" start="2671" end="2677" text="burden" comment="" />
+<QLINK id="q0" fromID="s0" fromText="generate" toID="n0" toText="cases" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="develop" toID="n1" toText="policies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="understand" toID="n2" toText="risks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="collects" toID="n3" toText="data" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="developed" toID="n4" toText="framework" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="analyze" toID="n5" toText="data" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="compare" toID="n6" toText="risks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="calculate" toID="n7" toText="life-years" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="used" toID="n8" toText="data" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="calculate" toID="n9" toText="proportion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="extends" toID="n10" toText="research" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="guiding" toID="n11" toText="distribution" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="lower" toID="n12" toText="burden" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

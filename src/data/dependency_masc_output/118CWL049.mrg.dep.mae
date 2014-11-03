@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+August 6 , 1998 
+Dear Friend : 
+Adolescence . 
+It is a pivotal time in the life of a young girl - when small changes in her behavior , or the choices she makes , can affect her future . 
+It 's hard enough for her to make good decisions when she 's surrounded by support . 
+It 's even harder when she is n't . 
+Big Sisters helps fill that void by matching caring , responsible adult volunteers with at-risk girls , ages 8 - 14 . 
+A Big Sister is a mentor , a friend and a role model , helping a young girl to develop the self-confidence and life skills necessary to become a responsible , productive and successful adult . 
+Your $ 1,000 contribution can put a mentor in a child 's life - and hope in a child 's future . 
+The results of an 18 - month study completed by Public / Private Ventures showed that children participating in one - to - one Big Sister and Big Brother matches for just one year , reduced first time drug use by 46 % ; lowered school absenteeism by 52 % ; cut aggressive behavior by 33 % ; enhanced school performance ; and improved relations with family and friends . 
+This is positive proof that Big Sisters one - to - one mentoring program helps change lives . 
+Today , we are offering you the opportunity to help change a life . 
+By contributing $ 1,000 you can support one match for one year . 
+This money maintains the infrastructure that fosters and supports the development of effective relationships . 
+This includes a volunteer screening process , orientation , training and ongoing supervision and support by a professional staff . 
+As a Matchmaker you will receive a description of " your match " and be identified as a Matchmaker on a plaque in the Big Sisters office , in the agency newsletter and annual report . 
+Today Big Sisters serves over 1,000 girls in central Indiana . 
+But for each girl served , more are left unserved . 
+Over 235 girls are currently waiting for a Big Sister . 
+Imagine the difference the community could make if each congregation pledged its support of one Big Sisters match ! 
+I encourage you to Join me in presenting this matchmaker challenge to your congregation . 
+Sincerely , Dr. Linda McCoy Pastor , THE GARDEN A Blossom of St. Luke 's United Methodist Church 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="167" end="173" text="affect" comment="" pos="VB" />
+<SELECTOR id="s1" start="217" end="221" text="make" comment="" pos="VB" />
+<SELECTOR id="s2" start="249" end="259" text="surrounded" comment="" pos="VBN" />
+<SELECTOR id="s3" start="329" end="333" text="fill" comment="" pos="VB" />
+<SELECTOR id="s4" start="509" end="516" text="develop" comment="" pos="VB" />
+<SELECTOR id="s5" start="654" end="657" text="put" comment="" pos="VB" />
+<SELECTOR id="s6" start="903" end="910" text="reduced" comment="" pos="VBD" />
+<SELECTOR id="s7" start="941" end="948" text="lowered" comment="" pos="VBD" />
+<SELECTOR id="s8" start="978" end="981" text="cut" comment="" pos="VB" />
+<SELECTOR id="s9" start="1012" end="1020" text="enhanced" comment="" pos="VBD" />
+<SELECTOR id="s10" start="1046" end="1054" text="improved" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1171" end="1177" text="change" comment="" pos="VB" />
+<SELECTOR id="s12" start="1202" end="1210" text="offering" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1239" end="1245" text="change" comment="" pos="VB" />
+<SELECTOR id="s14" start="1259" end="1271" text="contributing" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1288" end="1295" text="support" comment="" pos="VB" />
+<SELECTOR id="s16" start="1333" end="1342" text="maintains" comment="" pos="VBZ" />
+<SELECTOR id="s17" start="1379" end="1387" text="supports" comment="" pos="VBZ" />
+<SELECTOR id="s18" start="1591" end="1598" text="receive" comment="" pos="VB" />
+<SELECTOR id="s19" start="1769" end="1775" text="serves" comment="" pos="VBZ" />
+<SELECTOR id="s20" start="1851" end="1855" text="left" comment="" pos="VBN" />
+<SELECTOR id="s21" start="1925" end="1932" text="Imagine" comment="" pos="VB" />
+<SELECTOR id="s22" start="1994" end="2001" text="pledged" comment="" pos="VBD" />
+<SELECTOR id="s23" start="2044" end="2053" text="encourage" comment="" pos="VBP" />
+<SELECTOR id="s24" start="2061" end="2065" text="Join" comment="" pos="VB" />
+<SELECTOR id="s25" start="2072" end="2082" text="presenting" comment="" pos="VBG" />
+<NOUN id="n0" start="178" end="184" text="future" comment="" />
+<NOUN id="n1" start="227" end="236" text="decisions" comment="" />
+<NOUN id="n2" start="242" end="245" text="she" comment="" />
+<NOUN id="n3" start="339" end="343" text="void" comment="" />
+<NOUN id="n4" start="521" end="536" text="self-confidence" comment="" />
+<NOUN id="n5" start="660" end="666" text="mentor" comment="" />
+<NOUN id="n6" start="927" end="930" text="use" comment="" />
+<NOUN id="n7" start="956" end="967" text="absenteeism" comment="" />
+<NOUN id="n8" start="993" end="1001" text="behavior" comment="" />
+<NOUN id="n9" start="1028" end="1039" text="performance" comment="" />
+<NOUN id="n10" start="1055" end="1064" text="relations" comment="" />
+<NOUN id="n11" start="1178" end="1183" text="lives" comment="" />
+<NOUN id="n12" start="1211" end="1214" text="you" comment="" />
+<NOUN id="n13" start="1219" end="1230" text="opportunity" comment="" />
+<NOUN id="n14" start="1248" end="1252" text="life" comment="" />
+<NOUN id="n15" start="1274" end="1279" text="1,000" comment="" />
+<NOUN id="n16" start="1300" end="1305" text="match" comment="" />
+<NOUN id="n17" start="1347" end="1361" text="infrastructure" comment="" />
+<NOUN id="n18" start="1392" end="1403" text="development" comment="" />
+<NOUN id="n19" start="1601" end="1612" text="description" comment="" />
+<NOUN id="n20" start="1787" end="1792" text="girls" comment="" />
+<NOUN id="n21" start="1842" end="1846" text="more" comment="" />
+<NOUN id="n22" start="1937" end="1947" text="difference" comment="" />
+<NOUN id="n23" start="2006" end="2013" text="support" comment="" />
+<NOUN id="n24" start="2054" end="2057" text="you" comment="" />
+<NOUN id="n25" start="2066" end="2068" text="me" comment="" />
+<NOUN id="n26" start="2099" end="2108" text="challenge" comment="" />
+<QLINK id="q0" fromID="s0" fromText="affect" toID="n0" toText="future" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="make" toID="n1" toText="decisions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="surrounded" toID="n2" toText="she" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="fill" toID="n3" toText="void" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="develop" toID="n4" toText="self-confidence" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="put" toID="n5" toText="mentor" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="reduced" toID="n6" toText="use" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="lowered" toID="n7" toText="absenteeism" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="cut" toID="n8" toText="behavior" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="enhanced" toID="n9" toText="performance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="improved" toID="n10" toText="relations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="change" toID="n11" toText="lives" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="offering" toID="n12" toText="you" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q13" fromID="s12" fromText="offering" toID="n13" toText="opportunity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="change" toID="n14" toText="life" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="contributing" toID="n15" toText="1,000" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="support" toID="n16" toText="match" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="maintains" toID="n17" toText="infrastructure" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="supports" toID="n18" toText="development" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="receive" toID="n19" toText="description" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="serves" toID="n20" toText="girls" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="left" toID="n21" toText="more" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q22" fromID="s21" fromText="Imagine" toID="n22" toText="difference" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="pledged" toID="n23" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="encourage" toID="n24" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="Join" toID="n25" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s25" fromText="presenting" toID="n26" toText="challenge" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

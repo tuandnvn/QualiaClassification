@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The following were among yesterday 's offerings and pricings in the U.S. and non-U.S. capital markets , with terms and syndicate manager , as compiled by Dow Jones Capital Markets Report : 
+International Business Machines Corp. -- 
+$ 750 million of 8 3\/8 % debentures due Nov. 1 , 2019 , priced at 99 to yield 8.467 % . 
+The 30-year non-callable issue was priced at a spread of 57 basis points above the Treasury 's 8 1\/8 % bellwether long bond . 
+Rated triple-A by both Moody 's Investors Service Inc. and Standard & Poor 's Corp. , the issue will be sold through underwriters led by Salomon Brothers Inc . 
+The size of the issue was increased from an originally planned $ 500 million . 
+Detroit -- 
+$ 130 million of general obligation distributable state aid bonds due 1991-2000 and 2009 , tentatively priced by a Chemical Securities Inc. group to yield from 6.20 % in 1991 to 7.272 % in 2009 . 
+There is $ 81.8 million of 7.20 % term bonds due 2009 priced at 99 1\/4 to yield 7.272 % . 
+Serial bonds are priced to yield from 6.20 % in 1991 to 7 % in 2000 . 
+The bonds are insured and triple-A-rated . 
+Santa Ana Community Redevelopment Agency , Calif. -- 
+$ 107 million of tax allocation bonds , 1989 Series A-D , due 1991-1999 , 2009 and 2019 , tentatively priced by a Donaldson Lufkin & Jenrette Securities Corp. group to yield from 6.40 % in 1991 to 7.458 % in 2019 . 
+The 7 3\/8 % term bonds due 2009 are priced at 99 1\/2 to yield 7.422 % , and 7 3\/8 % term bonds due 2019 are priced at 99 to yield 7.458 % . 
+Serial bonds are priced at par to yield from 6.40 % in 1991 to 7.15 % in 1999 . 
+The bonds are rated single-A by S&P , according to the lead underwriter . 
+Maryland Community Development Administration , Department of Housing and Community Development -- 
+$ 80.8 million of single-family program bonds , 1989 fourth and fifth series , tentatively priced by a Merrill Lynch Capital Markets group to yield from 6.25 % in 1992 for fourth series bonds to 7.74 % in 2029 for fifth series bonds . 
+There is $ 30.9 million of fourth series bonds , the interest on which is not subject to the federal alternative minimum tax . 
+They mature 1992-1999 , 2009 and 2017 . 
+Fourth series serial bonds are priced at par to yield from 6.25 % in 1992 to 7 % in 1999 . 
+The 7.40 % term bonds due 2009 are priced to yield 7.45 % , and 7.40 % term bonds due 2017 are priced to yield 7.50 % . 
+There is $ 49.9 million of fifth series bonds , which are subject to the federal alternative minimum tax . 
+They mature in 2005 , 2009 and 2029 . 
+Bonds due in 2005 have a 7 1\/2 % coupon and are priced at par . 
+The 7 5\/8 % bonds due 2009 are priced to yield 7.65 % , and 7 5\/8 % bonds due 2029 are priced at 98 1\/2 to yield 7.74 % . 
+The underwriters expect a double-A rating from Moody 's . 
+Heiwado Co . ( Japan ) -- 
+$ 100 million of Eurobonds due Nov. 16 , 1993 , with equity-purchase warrants , indicating a 3 7\/8 % coupon at par , via Daiwa Europe Ltd . 
+Each $ 5,000 bond carries one warrant , exercisable from Nov. 30 , 1989 , through Nov. 2 , 1993 , to buy shares at an expected premium of 2 1\/2 % to the closing price when terms are fixed Tuesday . 
+Fees 2 1\/4 . 
+Svenska Intecknings Garanti Aktiebolaget ( Sweden ) -- 
+20 billion yen of 6 % Eurobonds due Nov. 21 , 1994 , priced at 101 3\/4 to yield 6.03 % less full fees , via Mitsui Finance International . 
+Guaranteed by Svenska Handelsbanken . 
+Fees 1 7\/8 . 
+Takashima & Co . ( Japan ) -- 
+50 million Swiss francs of privately placed convertible notes due March 31 , 1994 , with a fixed 0.25 % coupon at par via Yamaichi Bank ( Switzerland ) . 
+Put option March 31 , 1992 , at a fixed 107 7\/8 to yield 3.43 % . 
+Each 50,000 Swiss franc note is convertible from Nov. 30 , 1989 , to March 16 , 1994 at a 5 % premium over the closing share price Monday , when terms are scheduled to be fixed . 
+Fees 1 3\/4 . 
+Mitsubishi Pencil Co . ( Japan ) -- 
+60 million Swiss francs of privately placed convertible notes due Dec. 31 , 1993 , with a fixed 0.25 % coupon at par via Union Bank of Switzerland . 
+Put option on Dec. 31 , 1991 , at a fixed 106 7\/8 to yield 3.42 % . 
+Each 50,000 Swiss franc note is convertible from Dec. 5 , 1989 , to Dec. 31 , 1993 , at a 5 % premium over the closing share price Tuesday , when terms are scheduled to be fixed . 
+Fees 1 5\/8 . 
+Koizumi Sangyo Corp . ( Japan ) -- 
+20 million Swiss francs of 6 1\/2 % privately placed notes due Nov. 29 , 1996 , priced at 99 1\/2 via Dai-Ichi Kangyo Bank ( Schweiz ) . 
+Guarantee by Dai-Ichi Kangyo Bank Ltd . 
+Fees 1 3\/4 . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="306" end="311" text="yield" comment="" pos="VB" />
+<SELECTOR id="s1" start="358" end="364" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s2" start="555" end="559" text="sold" comment="" pos="VBN" />
+<SELECTOR id="s3" start="638" end="647" text="increased" comment="" pos="VBN" />
+<SELECTOR id="s4" start="976" end="981" text="yield" comment="" pos="VB" />
+<SELECTOR id="s5" start="1010" end="1016" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s6" start="1415" end="1421" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s7" start="1436" end="1441" text="yield" comment="" pos="VB" />
+<SELECTOR id="s8" start="1489" end="1495" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1505" end="1510" text="yield" comment="" pos="VB" />
+<SELECTOR id="s10" start="1539" end="1545" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s11" start="1617" end="1622" text="rated" comment="" pos="VBN" />
+<SELECTOR id="s12" start="2214" end="2220" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s13" start="2310" end="2316" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s14" start="2320" end="2325" text="yield" comment="" pos="VB" />
+<SELECTOR id="s15" start="2370" end="2376" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s16" start="2380" end="2385" text="yield" comment="" pos="VB" />
+<SELECTOR id="s17" start="2561" end="2565" text="have" comment="" pos="VBP" />
+<SELECTOR id="s18" start="2641" end="2647" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s19" start="2651" end="2656" text="yield" comment="" pos="VB" />
+<SELECTOR id="s20" start="2698" end="2704" text="priced" comment="" pos="VBN" />
+<SELECTOR id="s21" start="2719" end="2724" text="yield" comment="" pos="VB" />
+<SELECTOR id="s22" start="2752" end="2758" text="expect" comment="" pos="VBP" />
+<SELECTOR id="s23" start="2901" end="2911" text="indicating" comment="" pos="VBG" />
+<SELECTOR id="s24" start="2981" end="2988" text="carries" comment="" pos="VBZ" />
+<SELECTOR id="s25" start="3064" end="3067" text="buy" comment="" pos="VB" />
+<SELECTOR id="s26" start="3146" end="3151" text="fixed" comment="" pos="VBN" />
+<SELECTOR id="s27" start="3309" end="3314" text="yield" comment="" pos="VB" />
+<SELECTOR id="s28" start="3667" end="3672" text="yield" comment="" pos="VB" />
+<SELECTOR id="s29" start="3838" end="3847" text="scheduled" comment="" pos="VBN" />
+<SELECTOR id="s30" start="4119" end="4124" text="yield" comment="" pos="VB" />
+<SELECTOR id="s31" start="4291" end="4300" text="scheduled" comment="" pos="VBN" />
+<NOUN id="n0" start="318" end="319" text="%" comment="" />
+<NOUN id="n1" start="348" end="353" text="issue" comment="" />
+<NOUN id="n2" start="541" end="546" text="issue" comment="" />
+<NOUN id="n3" start="616" end="620" text="size" comment="" />
+<NOUN id="n4" start="988" end="989" text="%" comment="" />
+<NOUN id="n5" start="1000" end="1005" text="bonds" comment="" />
+<NOUN id="n6" start="1396" end="1401" text="bonds" comment="" />
+<NOUN id="n7" start="1448" end="1449" text="%" comment="" />
+<NOUN id="n8" start="1470" end="1475" text="bonds" comment="" />
+<NOUN id="n9" start="1517" end="1518" text="%" comment="" />
+<NOUN id="n10" start="1529" end="1534" text="bonds" comment="" />
+<NOUN id="n11" start="1607" end="1612" text="bonds" comment="" />
+<NOUN id="n12" start="2204" end="2209" text="bonds" comment="" />
+<NOUN id="n13" start="2291" end="2296" text="bonds" comment="" />
+<NOUN id="n14" start="2331" end="2332" text="%" comment="" />
+<NOUN id="n15" start="2351" end="2356" text="bonds" comment="" />
+<NOUN id="n16" start="2391" end="2392" text="%" comment="" />
+<NOUN id="n17" start="2577" end="2583" text="coupon" comment="" />
+<NOUN id="n18" start="2622" end="2627" text="bonds" comment="" />
+<NOUN id="n19" start="2662" end="2663" text="%" comment="" />
+<NOUN id="n20" start="2679" end="2684" text="bonds" comment="" />
+<NOUN id="n21" start="2730" end="2731" text="%" comment="" />
+<NOUN id="n22" start="2770" end="2776" text="rating" comment="" />
+<NOUN id="n23" start="2923" end="2929" text="coupon" comment="" />
+<NOUN id="n24" start="2993" end="3000" text="warrant" comment="" />
+<NOUN id="n25" start="3068" end="3074" text="shares" comment="" />
+<NOUN id="n26" start="3136" end="3141" text="terms" comment="" />
+<NOUN id="n27" start="3320" end="3321" text="%" comment="" />
+<NOUN id="n28" start="3678" end="3679" text="%" comment="" />
+<NOUN id="n29" start="3828" end="3833" text="terms" comment="" />
+<NOUN id="n30" start="4130" end="4131" text="%" comment="" />
+<NOUN id="n31" start="4281" end="4286" text="terms" comment="" />
+<QLINK id="q0" fromID="s0" fromText="yield" toID="n0" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="priced" toID="n1" toText="issue" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="sold" toID="n2" toText="issue" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="increased" toID="n3" toText="size" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="yield" toID="n4" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="priced" toID="n5" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="priced" toID="n6" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s7" fromText="yield" toID="n7" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="priced" toID="n8" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="yield" toID="n9" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="priced" toID="n10" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s11" fromText="rated" toID="n11" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s12" fromText="priced" toID="n12" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s13" fromText="priced" toID="n13" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q14" fromID="s14" fromText="yield" toID="n14" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="priced" toID="n15" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q16" fromID="s16" fromText="yield" toID="n16" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="have" toID="n17" toText="coupon" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="priced" toID="n18" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q19" fromID="s19" fromText="yield" toID="n19" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="priced" toID="n20" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q21" fromID="s21" fromText="yield" toID="n21" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="expect" toID="n22" toText="rating" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="indicating" toID="n23" toText="coupon" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="carries" toID="n24" toText="warrant" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="buy" toID="n25" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="fixed" toID="n26" toText="terms" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q27" fromID="s27" fromText="yield" toID="n27" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="yield" toID="n28" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="scheduled" toID="n29" toText="terms" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q30" fromID="s30" fromText="yield" toID="n30" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="scheduled" toID="n31" toText="terms" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Fujitsu Ltd. 's top executive took the unusual step of publicly apologizing for his company 's making bids of just one yen for several local government projects , while computer rival NEC Corp. made a written apology for indulging in the same practice . 
+Meanwhile , business and government leaders rebuked the computer makers , and fretted about the broader statement the companies ' actions make about Japanese cutthroat pricing . 
+Fujitsu said it bid the equivalent of less than a U.S. penny on three separate municipal contracts during the past two years . 
+The company also disclosed that during that period it offered 10,000 yen , or about $ 70 , for another contract . 
+But Fujitsu , Japan 's No. 1 computer maker , is n't alone . 
+NEC , one of its largest domestic competitors , said it bid one yen in two separate public auctions since 1987 . 
+In both cases , NEC lost the contract to Fujitsu , which made the same bid and won a tie-breaking lottery . 
+All the contracts were for computer-system-design contracts and involved no hardware or software . 
+The Ministry of International Trade and Industry summoned executives from the companies to `` make sure they understood '' the concern about such practices , according to a government spokesman . 
+`` These cases lead to the loss of the firms ' social and international credibility , '' a ministry statement said . 
+Japan 's Fair Trade Commission has said it is considering investigating the bids for possible antitrust-law violations . 
+`` We would like to apologize for having caused huge trouble , '' Fujitsu President Takuma Yamamoto , read from a prepared statement as he stood before a packed news conference at his company 's downtown headquarters . 
+The bids , he added , were `` contrary to common sense . '' 
+NEC released a statement saying , `` We feel sorry for having caused trouble to society , '' a form of apology common in Japan for companies caught in embarrassing situations . 
+Japanese companies have long had a reputation for sacrificing short-term profits to make a sale that may have long-term benefits . 
+But the growing controversy comes as many practices historically accepted as normal here -- such as politicians accepting substantial gifts from businessmen or having extramarital affairs -- are coming under close ethical scrutiny . 
+The fire is also fueled by growing international interest in Japanese behavior . 
+So far there have been no public overseas complaints about the issue . 
+But in one of the auctions in question , International Business Machines Corp. made a bid substantially higher than the Fujitsu offer , according to the municipality . 
+The low-ball bids touch on issues central to the increasingly tense trade debate . 
+Foreigners complain that they have limited access to government procurement in Japan , in part because Japanese companies unfairly undercut them . 
+The U.S. government in recent years has accused Japanese companies of excessively slashing prices on semiconductors and supercomputers -- products Fujitsu and NEC make . 
+Asked whether the bidding flap would hurt U.S.-Japan relations , Mr. Yamamoto said , `` this will be a minus factor . '' 
+The `` one-yen '' controversy first came to a head last week when the city of Hiroshima announced that Fujitsu won a contract to design a computer system to map its waterworks . 
+The city had expected to pay about 11 million yen ( $ 77,000 ) , but Fujitsu essentially offered to do it for free . 
+Then Wednesday , Fujitsu said it made a similar bid to win a library contract in Nagano prefecture two weeks earlier . 
+It also said that in July , it bid 10,000 yen to design a system for the Saitama prefectural library , and two years ago , it bid one yen to plan the telecommunications system for Wakayama prefecture . 
+The company said it has offered to withdraw its bids in Hiroshima and Nagano . 
+The municipalities said they have n't decided whether to try to force the company to go through with the contracts . 
+Fujitsu and NEC said they were still investigating , and that knowledge of more such bids could emerge . 
+Mr. Yamamoto insisted that headquarters had n't approved the bids , and that he did n't know about most of the cases until Wednesday . 
+Other major Japanese computer companies contacted yesterday said they have never made such bids . 
+`` One yen is not ethical , '' Michio Sasaki , an official at Keidanren , the Japan Federation of Economic Organizations , said . 
+`` Profit may be low , but at least costs should be covered . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="31" end="35" text="took" comment="" pos="VBD" />
+<SELECTOR id="s1" start="96" end="102" text="making" comment="" pos="VBG" />
+<SELECTOR id="s2" start="195" end="199" text="made" comment="" pos="VBD" />
+<SELECTOR id="s3" start="300" end="307" text="rebuked" comment="" pos="VBD" />
+<SELECTOR id="s4" start="451" end="454" text="bid" comment="" pos="VBD" />
+<SELECTOR id="s5" start="617" end="624" text="offered" comment="" pos="VBD" />
+<SELECTOR id="s6" start="796" end="799" text="bid" comment="" pos="VBD" />
+<SELECTOR id="s7" start="874" end="878" text="lost" comment="" pos="VBD" />
+<SELECTOR id="s8" start="911" end="915" text="made" comment="" pos="VBD" />
+<SELECTOR id="s9" start="933" end="936" text="won" comment="" pos="VBD" />
+<SELECTOR id="s10" start="1027" end="1035" text="involved" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1112" end="1120" text="summoned" comment="" pos="VBD" />
+<SELECTOR id="s12" start="1172" end="1182" text="understood" comment="" pos="VBD" />
+<SELECTOR id="s13" start="1436" end="1449" text="investigating" comment="" pos="VBG" />
+<SELECTOR id="s14" start="1541" end="1547" text="caused" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1785" end="1793" text="released" comment="" pos="VBD" />
+<SELECTOR id="s16" start="1843" end="1849" text="caused" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1988" end="1991" text="had" comment="" pos="VBD" />
+<SELECTOR id="s18" start="2009" end="2020" text="sacrificing" comment="" pos="VBG" />
+<SELECTOR id="s19" start="2043" end="2047" text="make" comment="" pos="VB" />
+<SELECTOR id="s20" start="2064" end="2068" text="have" comment="" pos="VB" />
+<SELECTOR id="s21" start="2203" end="2212" text="accepting" comment="" pos="VBG" />
+<SELECTOR id="s22" start="2251" end="2257" text="having" comment="" pos="VBG" />
+<SELECTOR id="s23" start="2342" end="2348" text="fueled" comment="" pos="VBN" />
+<SELECTOR id="s24" start="2558" end="2562" text="made" comment="" pos="VBD" />
+<SELECTOR id="s25" start="2762" end="2766" text="have" comment="" pos="VBP" />
+<SELECTOR id="s26" start="2863" end="2871" text="undercut" comment="" pos="VBP" />
+<SELECTOR id="s27" start="2920" end="2927" text="accused" comment="" pos="VBN" />
+<SELECTOR id="s28" start="2962" end="2970" text="slashing" comment="" pos="VBG" />
+<SELECTOR id="s29" start="3088" end="3092" text="hurt" comment="" pos="VB" />
+<SELECTOR id="s30" start="3284" end="3287" text="won" comment="" pos="VBD" />
+<SELECTOR id="s31" start="3302" end="3308" text="design" comment="" pos="VB" />
+<SELECTOR id="s32" start="3330" end="3333" text="map" comment="" pos="VB" />
+<SELECTOR id="s33" start="3377" end="3380" text="pay" comment="" pos="VB" />
+<SELECTOR id="s34" start="3452" end="3454" text="do" comment="" pos="VB" />
+<SELECTOR id="s35" start="3503" end="3507" text="made" comment="" pos="VBD" />
+<SELECTOR id="s36" start="3525" end="3528" text="win" comment="" pos="VB" />
+<SELECTOR id="s37" start="3621" end="3624" text="bid" comment="" pos="VBD" />
+<SELECTOR id="s38" start="3639" end="3645" text="design" comment="" pos="VB" />
+<SELECTOR id="s39" start="3716" end="3719" text="bid" comment="" pos="VBD" />
+<SELECTOR id="s40" start="3731" end="3735" text="plan" comment="" pos="VB" />
+<SELECTOR id="s41" start="3828" end="3836" text="withdraw" comment="" pos="VB" />
+<SELECTOR id="s42" start="4145" end="4153" text="approved" comment="" pos="VBN" />
+<SELECTOR id="s43" start="4314" end="4318" text="made" comment="" pos="VBN" />
+<SELECTOR id="s44" start="4515" end="4522" text="covered" comment="" pos="VBN" />
+<NOUN id="n0" start="48" end="52" text="step" comment="" />
+<NOUN id="n1" start="103" end="107" text="bids" comment="" />
+<NOUN id="n2" start="210" end="217" text="apology" comment="" />
+<NOUN id="n3" start="321" end="327" text="makers" comment="" />
+<NOUN id="n4" start="459" end="469" text="equivalent" comment="" />
+<NOUN id="n5" start="632" end="635" text="yen" comment="" />
+<NOUN id="n6" start="804" end="807" text="yen" comment="" />
+<NOUN id="n7" start="883" end="891" text="contract" comment="" />
+<NOUN id="n8" start="925" end="928" text="bid" comment="" />
+<NOUN id="n9" start="952" end="959" text="lottery" comment="" />
+<NOUN id="n10" start="1039" end="1047" text="hardware" comment="" />
+<NOUN id="n11" start="1121" end="1131" text="executives" comment="" />
+<NOUN id="n12" start="1190" end="1197" text="concern" comment="" />
+<NOUN id="n13" start="1454" end="1458" text="bids" comment="" />
+<NOUN id="n14" start="1553" end="1560" text="trouble" comment="" />
+<NOUN id="n15" start="1796" end="1805" text="statement" comment="" />
+<NOUN id="n16" start="1850" end="1857" text="trouble" comment="" />
+<NOUN id="n17" start="1994" end="2004" text="reputation" comment="" />
+<NOUN id="n18" start="2032" end="2039" text="profits" comment="" />
+<NOUN id="n19" start="2050" end="2054" text="sale" comment="" />
+<NOUN id="n20" start="2079" end="2087" text="benefits" comment="" />
+<NOUN id="n21" start="2225" end="2230" text="gifts" comment="" />
+<NOUN id="n22" start="2271" end="2278" text="affairs" comment="" />
+<NOUN id="n23" start="2329" end="2333" text="fire" comment="" />
+<NOUN id="n24" start="2565" end="2568" text="bid" comment="" />
+<NOUN id="n25" start="2775" end="2781" text="access" comment="" />
+<NOUN id="n26" start="2872" end="2876" text="them" comment="" />
+<NOUN id="n27" start="2937" end="2946" text="companies" comment="" />
+<NOUN id="n28" start="2971" end="2977" text="prices" comment="" />
+<NOUN id="n29" start="3104" end="3113" text="relations" comment="" />
+<NOUN id="n30" start="3290" end="3298" text="contract" comment="" />
+<NOUN id="n31" start="3320" end="3326" text="system" comment="" />
+<NOUN id="n32" start="3338" end="3348" text="waterworks" comment="" />
+<NOUN id="n33" start="3398" end="3401" text="yen" comment="" />
+<NOUN id="n34" start="3455" end="3457" text="it" comment="" />
+<NOUN id="n35" start="3518" end="3521" text="bid" comment="" />
+<NOUN id="n36" start="3539" end="3547" text="contract" comment="" />
+<NOUN id="n37" start="3632" end="3635" text="yen" comment="" />
+<NOUN id="n38" start="3648" end="3654" text="system" comment="" />
+<NOUN id="n39" start="3724" end="3727" text="yen" comment="" />
+<NOUN id="n40" start="3759" end="3765" text="system" comment="" />
+<NOUN id="n41" start="3841" end="3845" text="bids" comment="" />
+<NOUN id="n42" start="4158" end="4162" text="bids" comment="" />
+<NOUN id="n43" start="4324" end="4328" text="bids" comment="" />
+<NOUN id="n44" start="4499" end="4504" text="costs" comment="" />
+<QLINK id="q0" fromID="s0" fromText="took" toID="n0" toText="step" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="making" toID="n1" toText="bids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="made" toID="n2" toText="apology" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="rebuked" toID="n3" toText="makers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="bid" toID="n4" toText="equivalent" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="offered" toID="n5" toText="yen" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="bid" toID="n6" toText="yen" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="lost" toID="n7" toText="contract" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="made" toID="n8" toText="bid" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="won" toID="n9" toText="lottery" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="involved" toID="n10" toText="hardware" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="summoned" toID="n11" toText="executives" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="understood" toID="n12" toText="concern" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="investigating" toID="n13" toText="bids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="caused" toID="n14" toText="trouble" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="released" toID="n15" toText="statement" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="caused" toID="n16" toText="trouble" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="had" toID="n17" toText="reputation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="sacrificing" toID="n18" toText="profits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="make" toID="n19" toText="sale" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="have" toID="n20" toText="benefits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="accepting" toID="n21" toText="gifts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="having" toID="n22" toText="affairs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="fueled" toID="n23" toText="fire" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q24" fromID="s24" fromText="made" toID="n24" toText="bid" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="have" toID="n25" toText="access" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="undercut" toID="n26" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="accused" toID="n27" toText="companies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="slashing" toID="n28" toText="prices" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="hurt" toID="n29" toText="relations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="won" toID="n30" toText="contract" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="design" toID="n31" toText="system" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="map" toID="n32" toText="waterworks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="pay" toID="n33" toText="yen" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="do" toID="n34" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="made" toID="n35" toText="bid" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="win" toID="n36" toText="contract" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s37" fromText="bid" toID="n37" toText="yen" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="design" toID="n38" toText="system" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="bid" toID="n39" toText="yen" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="plan" toID="n40" toText="system" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q41" fromID="s41" fromText="withdraw" toID="n41" toText="bids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s42" fromText="approved" toID="n42" toText="bids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s43" fromText="made" toID="n43" toText="bids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q44" fromID="s44" fromText="covered" toID="n44" toText="costs" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+South Korea registered a trade deficit of $ 101 million in October , reflecting the country 's economic sluggishness , according to government figures released Wednesday . 
+Preliminary tallies by the Trade and Industry Ministry showed another trade deficit in October , the fifth monthly setback this year , casting a cloud on South Korea 's export-oriented economy . 
+Exports in October stood at $ 5.29 billion , a mere 0.7 % increase from a year earlier , while imports increased sharply to $ 5.39 billion , up 20 % from last October . 
+South Korea 's economic boom , which began in 1986 , stopped this year because of prolonged labor disputes , trade conflicts and sluggish exports . 
+Government officials said exports at the end of the year would remain under a government target of $ 68 billion . 
+Despite the gloomy forecast , South Korea has recorded a trade surplus of $ 71 million so far this year . 
+From January to October , the nation 's accumulated exports increased 4 % from the same period last year to $ 50.45 billion . 
+Imports were at $ 50.38 billion , up 19 % . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="13" end="23" text="registered" comment="" pos="VBD" />
+<SELECTOR id="s1" start="70" end="80" text="reflecting" comment="" pos="VBG" />
+<SELECTOR id="s2" start="229" end="235" text="showed" comment="" pos="VBD" />
+<SELECTOR id="s3" start="309" end="316" text="casting" comment="" pos="VBG" />
+<SELECTOR id="s4" start="850" end="858" text="recorded" comment="" pos="VBN" />
+<NOUN id="n0" start="32" end="39" text="deficit" comment="" />
+<NOUN id="n1" start="105" end="117" text="sluggishness" comment="" />
+<NOUN id="n2" start="250" end="257" text="deficit" comment="" />
+<NOUN id="n3" start="319" end="324" text="cloud" comment="" />
+<NOUN id="n4" start="867" end="874" text="surplus" comment="" />
+<QLINK id="q0" fromID="s0" fromText="registered" toID="n0" toText="deficit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="reflecting" toID="n1" toText="sluggishness" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="showed" toID="n2" toText="deficit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="casting" toID="n3" toText="cloud" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="recorded" toID="n4" toText="surplus" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

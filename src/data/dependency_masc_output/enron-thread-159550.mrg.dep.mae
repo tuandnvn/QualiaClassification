@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<LU_ANNOTATE> 
+<header> 
+<header_removed> 
+</header> 
+<body> 
+that 's {thats} fine - we ca n't pay them anyway 
+----- Original Message ----- 
+From : Parker , Megan Sent : Wednesday , November 28 , 2001 11:38 AM To : Ward , Kim S ( Houston ) Subject : RE : City of Pasadena 
+I 'll check with Patti later today . 
+On payment ... 
+We are now having to forecast five days out . 
+If I do n't know today , I can not pay Pasadena until next Thursday . 
+Megan 
+----- Original Message ----- 
+Sent : Wednesday , November 28 , 2001 9:03 AM 
+To : Parker , Megan 
+Subject : RE : City of Pasadena 
+Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems . 
+All I know is what fixed priced baseload deals we have . 
+I have no idea what flows . 
+I hope Patti can help you soon . 
+Let me know if you do n't hear from her today . 
+Thanks , Kim 
+----- Original Message ----- 
+From : Parker , Megan Sent : Wednesday , November 28 , 2001 8:56 AM To : Ward , Kim S ( Houston ) Subject : RE : City of Pasadena 
+If I can get all of the information today , I can tell you this afternoon . 
+It does n't take long to create the calc sheets . 
+I understand from Janine that you or Patti can provide me with the detail that I need . 
+If necessary , I can come pick it up . 
+I have sent Patti a list . 
+For payment , we have to forecast the money two days out . 
+So , if I know today , I can pay on Friday . 
+Megan 
+----- Original Message ----- 
+Sent : Wednesday , November 28 , 2001 8:42 AM 
+To : Parker , Megan 
+Subject : RE : City of Pasadena 
+Thanks you so much for working on these as fast as you have - there was a priority in getting them out . 
+However , as you know , the less cash outlay that we have right now the better . 
+Let 's {Lets} wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done . 
+What do you think the time frame is on this ? 
+And when would be the earliest that we would make the payment ? 
+Thanks , Kim 
+----- Original Message ----- 
+From : Parker , Megan Sent : Wednesday , November 28 , 2001 8:38 AM To : Ward , Kim S ( Houston ) Subject : City of Pasadena 
+Kim : I have completed the invoices for April , May and June and we owe Pasadena each month for a total of $ 3,615,910.62 . 
+I am waiting to hear back from Patti on May and June to make sure they are okay with her . 
+Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ? 
+Again , I do not have all of the information for July and August , so I can not give you any numbers . 
+If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $ 1 mil . 
+I need to forecast the money today , so please let me know what you would like to do . 
+FYI - I will be out of the office all next week. 
+Megan 
+</body> 
+</LU_ANNOTATE_WC=?> 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="96" end="99" text="pay" comment="" pos="VB" />
+<SELECTOR id="s1" start="411" end="414" text="pay" comment="" pos="VB" />
+<SELECTOR id="s2" start="657" end="661" text="have" comment="" pos="VB" />
+<SELECTOR id="s3" start="744" end="748" text="have" comment="" pos="VBP" />
+<SELECTOR id="s4" start="754" end="758" text="have" comment="" pos="VBP" />
+<SELECTOR id="s5" start="798" end="802" text="help" comment="" pos="VB" />
+<SELECTOR id="s6" start="1048" end="1051" text="get" comment="" pos="VB" />
+<SELECTOR id="s7" start="1089" end="1093" text="tell" comment="" pos="VB" />
+<SELECTOR id="s8" start="1141" end="1147" text="create" comment="" pos="VB" />
+<SELECTOR id="s9" start="1214" end="1221" text="provide" comment="" pos="VB" />
+<SELECTOR id="s10" start="1248" end="1252" text="need" comment="" pos="VBP" />
+<SELECTOR id="s11" start="1282" end="1286" text="pick" comment="" pos="VB" />
+<SELECTOR id="s12" start="1303" end="1307" text="sent" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1349" end="1357" text="forecast" comment="" pos="VB" />
+<SELECTOR id="s14" start="1568" end="1574" text="Thanks" comment="" pos="VBP" />
+<SELECTOR id="s15" start="1654" end="1661" text="getting" comment="" pos="VBG" />
+<SELECTOR id="s16" start="1727" end="1731" text="have" comment="" pos="VBP" />
+<SELECTOR id="s17" start="1786" end="1792" text="offset" comment="" pos="VB" />
+<SELECTOR id="s18" start="1807" end="1810" text="owe" comment="" pos="VBP" />
+<SELECTOR id="s19" start="1831" end="1834" text="owe" comment="" pos="VBP" />
+<SELECTOR id="s20" start="1984" end="1988" text="make" comment="" pos="VB" />
+<SELECTOR id="s21" start="2187" end="2196" text="completed" comment="" pos="VBN" />
+<SELECTOR id="s22" start="2242" end="2245" text="owe" comment="" pos="VBP" />
+<SELECTOR id="s23" start="2409" end="2412" text="pay" comment="" pos="VB" />
+<SELECTOR id="s24" start="2487" end="2493" text="finish" comment="" pos="VBP" />
+<SELECTOR id="s25" start="2530" end="2534" text="have" comment="" pos="VB" />
+<SELECTOR id="s26" start="2593" end="2597" text="give" comment="" pos="VB" />
+<SELECTOR id="s27" start="2688" end="2691" text="owe" comment="" pos="VB" />
+<SELECTOR id="s28" start="2733" end="2741" text="forecast" comment="" pos="VB" />
+<SELECTOR id="s29" start="2805" end="2807" text="do" comment="" pos="VB" />
+<NOUN id="n0" start="100" end="104" text="them" comment="" />
+<NOUN id="n1" start="415" end="423" text="Pasadena" comment="" />
+<NOUN id="n2" start="662" end="668" text="access" comment="" />
+<NOUN id="n3" start="735" end="740" text="deals" comment="" />
+<NOUN id="n4" start="762" end="766" text="idea" comment="" />
+<NOUN id="n5" start="803" end="806" text="you" comment="" />
+<NOUN id="n6" start="1052" end="1055" text="all" comment="" />
+<NOUN id="n7" start="1094" end="1097" text="you" comment="" />
+<NOUN id="n8" start="1157" end="1163" text="sheets" comment="" />
+<NOUN id="n9" start="1222" end="1224" text="me" comment="" />
+<NOUN id="n10" start="1241" end="1245" text="that" comment="" />
+<NOUN id="n11" start="1287" end="1289" text="it" comment="" />
+<NOUN id="n12" start="1308" end="1313" text="Patti" comment="" />
+<NOUN id="n13" start="1316" end="1320" text="list" comment="" />
+<NOUN id="n14" start="1362" end="1367" text="money" comment="" />
+<NOUN id="n15" start="1575" end="1578" text="you" comment="" />
+<NOUN id="n16" start="1662" end="1666" text="them" comment="" />
+<NOUN id="n17" start="1719" end="1723" text="that" comment="" />
+<NOUN id="n18" start="1797" end="1803" text="amount" comment="" />
+<NOUN id="n19" start="1811" end="1815" text="them" comment="" />
+<NOUN id="n20" start="1821" end="1825" text="what" comment="" />
+<NOUN id="n21" start="1835" end="1837" text="us" comment="" />
+<NOUN id="n22" start="1993" end="2000" text="payment" comment="" />
+<NOUN id="n23" start="2201" end="2209" text="invoices" comment="" />
+<NOUN id="n24" start="2246" end="2254" text="Pasadena" comment="" />
+<NOUN id="n25" start="2413" end="2421" text="Pasadena" comment="" />
+<NOUN id="n26" start="2494" end="2498" text="July" comment="" />
+<NOUN id="n27" start="2535" end="2538" text="all" comment="" />
+<NOUN id="n28" start="2598" end="2601" text="you" comment="" />
+<NOUN id="n29" start="2606" end="2613" text="numbers" comment="" />
+<NOUN id="n30" start="2692" end="2697" text="Enron" comment="" />
+<NOUN id="n31" start="2716" end="2719" text="mil" comment="" />
+<NOUN id="n32" start="2746" end="2751" text="money" comment="" />
+<NOUN id="n33" start="2782" end="2786" text="what" comment="" />
+<QLINK id="q0" fromID="s0" fromText="pay" toID="n0" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="pay" toID="n1" toText="Pasadena" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="have" toID="n2" toText="access" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="have" toID="n3" toText="deals" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="have" toID="n4" toText="idea" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="help" toID="n5" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="get" toID="n6" toText="all" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="tell" toID="n7" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="create" toID="n8" toText="sheets" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="provide" toID="n9" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="need" toID="n10" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="pick" toID="n11" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="sent" toID="n12" toText="Patti" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q13" fromID="s12" fromText="sent" toID="n13" toText="list" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="forecast" toID="n14" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="Thanks" toID="n15" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="getting" toID="n16" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="have" toID="n17" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="offset" toID="n18" toText="amount" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="owe" toID="n19" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="owe" toID="n20" toText="what" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q21" fromID="s19" fromText="owe" toID="n21" toText="us" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s20" fromText="make" toID="n22" toText="payment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s21" fromText="completed" toID="n23" toText="invoices" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s22" fromText="owe" toID="n24" toText="Pasadena" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s23" fromText="pay" toID="n25" toText="Pasadena" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s24" fromText="finish" toID="n26" toText="July" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s25" fromText="have" toID="n27" toText="all" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s26" fromText="give" toID="n28" toText="you" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q29" fromID="s26" fromText="give" toID="n29" toText="numbers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s27" fromText="owe" toID="n30" toText="Enron" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q31" fromID="s27" fromText="owe" toID="n31" toText="mil" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s28" fromText="forecast" toID="n32" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s29" fromText="do" toID="n33" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

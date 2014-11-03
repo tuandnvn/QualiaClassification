@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Name Address City , State , Zip 
+Dear Name , 
+It 's tough growing up today . 
+We know that children do better when they have a network of caring adults to nurture and motivate them . 
+When young people do n't have that support , they need other resources for encouragement to guide them along the way . 
+Big Sisters helps bridge that gap by providing children with the resources they need -- Big Sisters volunteers . 
+Big Sisters are mentors and friends who empower girls to more fully reach their potential , experience life 's opportunities and perhaps begin to dream . 
+The relationships that are formed provide strong foundations from which healthy values and strong self-confidence can grow , helping youth become strong , independent adults of tomorrow . 
+This year we will serve over 1,000 girls through our mentoring programs . 
+This is an impressive number ; 
+but for each girl served , more are left unserved . 
+Over 150 girls are currently waiting for a Big Sister . 
+You can make an impact by supporting Big Sisters Annual Campaign and our $ 200,000 goal . 
+If you are a regular contributor to the Annual Campaign , I encourage you to consider increasing your gift by 10 % . 
+If you have not supported Big Sisters in the past , please join me in doing so by completing and returning the enclosed pledge form . 
+Early adolescence is the most vulnerable age for youth . 
+But caring adults like you can reach out and help . 
+It 's the perfect time to make a world of difference . 
+Sincerely , 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="121" end="125" text="have" comment="" pos="VBP" />
+<SELECTOR id="s1" start="168" end="176" text="motivate" comment="" pos="VB" />
+<SELECTOR id="s2" start="210" end="214" text="have" comment="" pos="VB" />
+<SELECTOR id="s3" start="235" end="239" text="need" comment="" pos="VBP" />
+<SELECTOR id="s4" start="277" end="282" text="guide" comment="" pos="VB" />
+<SELECTOR id="s5" start="323" end="329" text="bridge" comment="" pos="VB" />
+<SELECTOR id="s6" start="342" end="351" text="providing" comment="" pos="VBG" />
+<SELECTOR id="s7" start="459" end="466" text="empower" comment="" pos="VBP" />
+<SELECTOR id="s8" start="487" end="492" text="reach" comment="" pos="VB" />
+<SELECTOR id="s9" start="511" end="521" text="experience" comment="" pos="VB" />
+<SELECTOR id="s10" start="601" end="607" text="formed" comment="" pos="VBN" />
+<SELECTOR id="s11" start="608" end="615" text="provide" comment="" pos="VBP" />
+<SELECTOR id="s12" start="781" end="786" text="serve" comment="" pos="VB" />
+<SELECTOR id="s13" start="906" end="910" text="left" comment="" pos="VBN" />
+<SELECTOR id="s14" start="988" end="992" text="make" comment="" pos="VB" />
+<SELECTOR id="s15" start="1006" end="1016" text="supporting" comment="" pos="VBG" />
+<SELECTOR id="s16" start="1131" end="1140" text="encourage" comment="" pos="VBP" />
+<SELECTOR id="s17" start="1157" end="1167" text="increasing" comment="" pos="VBG" />
+<SELECTOR id="s18" start="1205" end="1214" text="supported" comment="" pos="VBN" />
+<SELECTOR id="s19" start="1248" end="1252" text="join" comment="" pos="VB" />
+<SELECTOR id="s20" start="1286" end="1295" text="returning" comment="" pos="VBG" />
+<SELECTOR id="s21" start="1461" end="1465" text="make" comment="" pos="VB" />
+<NOUN id="n0" start="128" end="135" text="network" comment="" />
+<NOUN id="n1" start="177" end="181" text="them" comment="" />
+<NOUN id="n2" start="220" end="227" text="support" comment="" />
+<NOUN id="n3" start="246" end="255" text="resources" comment="" />
+<NOUN id="n4" start="283" end="287" text="them" comment="" />
+<NOUN id="n5" start="335" end="338" text="gap" comment="" />
+<NOUN id="n6" start="352" end="360" text="children" comment="" />
+<NOUN id="n7" start="467" end="472" text="girls" comment="" />
+<NOUN id="n8" start="499" end="508" text="potential" comment="" />
+<NOUN id="n9" start="530" end="543" text="opportunities" comment="" />
+<NOUN id="n10" start="592" end="596" text="that" comment="" />
+<NOUN id="n11" start="623" end="634" text="foundations" comment="" />
+<NOUN id="n12" start="798" end="803" text="girls" comment="" />
+<NOUN id="n13" start="897" end="901" text="more" comment="" />
+<NOUN id="n14" start="996" end="1002" text="impact" comment="" />
+<NOUN id="n15" start="1036" end="1044" text="Campaign" comment="" />
+<NOUN id="n16" start="1141" end="1144" text="you" comment="" />
+<NOUN id="n17" start="1173" end="1177" text="gift" comment="" />
+<NOUN id="n18" start="1219" end="1226" text="Sisters" comment="" />
+<NOUN id="n19" start="1253" end="1255" text="me" comment="" />
+<NOUN id="n20" start="1316" end="1320" text="form" comment="" />
+<NOUN id="n21" start="1468" end="1473" text="world" comment="" />
+<QLINK id="q0" fromID="s0" fromText="have" toID="n0" toText="network" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="motivate" toID="n1" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="have" toID="n2" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="need" toID="n3" toText="resources" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="guide" toID="n4" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="bridge" toID="n5" toText="gap" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="providing" toID="n6" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="empower" toID="n7" toText="girls" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="reach" toID="n8" toText="potential" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="experience" toID="n9" toText="opportunities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="formed" toID="n10" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s11" fromText="provide" toID="n11" toText="foundations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="serve" toID="n12" toText="girls" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="left" toID="n13" toText="more" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q14" fromID="s14" fromText="make" toID="n14" toText="impact" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="supporting" toID="n15" toText="Campaign" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="encourage" toID="n16" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="increasing" toID="n17" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="supported" toID="n18" toText="Sisters" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="join" toID="n19" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="returning" toID="n20" toText="form" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="make" toID="n21" toText="world" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

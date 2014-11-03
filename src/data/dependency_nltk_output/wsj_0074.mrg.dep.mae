@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Copperweld Corp. , a specialty steelmaker , said 445 workers at a plant in Shelby , Ohio , began a strike after the United Steelworkers Local 3057 rejected a new contract on Tuesday . 
+The previous contract between Copperweld 's Ohio Steel Tube division and the union expired at midnight Tuesday . 
+The union vote to reject the proposed pact was 230-215 . 
+Copperweld said it does n't expect a protracted strike . 
+It said it has taken measures to continue shipments during the work stoppage . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="92" end="97" text="began" comment="" pos="VBD" />
+<SELECTOR id="s1" start="148" end="156" text="rejected" comment="" pos="VBD" />
+<SELECTOR id="s2" start="318" end="324" text="reject" comment="" pos="VB" />
+<SELECTOR id="s3" start="386" end="392" text="expect" comment="" pos="VB" />
+<SELECTOR id="s4" start="431" end="436" text="taken" comment="" pos="VBN" />
+<SELECTOR id="s5" start="449" end="457" text="continue" comment="" pos="VB" />
+<NOUN id="n0" start="100" end="106" text="strike" comment="" />
+<NOUN id="n1" start="163" end="171" text="contract" comment="" />
+<NOUN id="n2" start="338" end="342" text="pact" comment="" />
+<NOUN id="n3" start="406" end="412" text="strike" comment="" />
+<NOUN id="n4" start="437" end="445" text="measures" comment="" />
+<NOUN id="n5" start="458" end="467" text="shipments" comment="" />
+<QLINK id="q0" fromID="s0" fromText="began" toID="n0" toText="strike" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="rejected" toID="n1" toText="contract" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="reject" toID="n2" toText="pact" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="expect" toID="n3" toText="strike" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="taken" toID="n4" toText="measures" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="continue" toID="n5" toText="shipments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

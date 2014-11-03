@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Come one , Come all to the Inaugural Jameson Grill The only fund raising event in the world where you can bring your entire family , other employees , or maybe even your neighbors . 
+Saturday , September 2, 1997 , from 2:00 p. m. until 7:00 p. m. , marks a special day , as Jameson Camp will hold its first ever Jameson Grill . 
+A fund raiser dedicated to you and your family having fun !! 
+For this event , when you purchase a corporate picnic table , you will be able to bring 16 people . 
+( and if you need room for a couple of more , we can swing that too ! ) 
+The Grill will feature enough activities that you and your kids will have a tough time deciding what to do . 
+From basketball , kickball , volleyball , archery , crafts , an egg toss , and even a walk through our creek , you will have plenty to do to get you good and hungry . 
+Hungry , you bet ! 
+We 'll prepare a hog roast and hot dogs for the kids , with all the fixings . 
+In addition , we will have soft drinks and a raffle , so that you can walk home with a great prize ! 
+The Jameson Grill has been designed to be nothing but fun for you , your family , employees , and maybe even your neighbors . 
+Join in this wonderful event and help Jameson Camp continue to provide the year-round support that gives kids a chance to create dreams . 
+Simply fill out the enclosed card , and we will see you at the Grill ! 
+One of our volunteers will be contacting you soon . 
+Questions ? 
+Call Pat Bray at 241-2661 or e-mail , jcfundrzr@aol.com 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="107" end="112" text="bring" comment="" pos="VB" />
+<SELECTOR id="s1" start="250" end="255" text="marks" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="293" end="297" text="hold" comment="" pos="VB" />
+<SELECTOR id="s3" start="377" end="383" text="having" comment="" pos="VBG" />
+<SELECTOR id="s4" start="418" end="426" text="purchase" comment="" pos="VBP" />
+<SELECTOR id="s5" start="474" end="479" text="bring" comment="" pos="VB" />
+<SELECTOR id="s6" start="506" end="510" text="need" comment="" pos="VBP" />
+<SELECTOR id="s7" start="546" end="551" text="swing" comment="" pos="VB" />
+<SELECTOR id="s8" start="581" end="588" text="feature" comment="" pos="VB" />
+<SELECTOR id="s9" start="635" end="639" text="have" comment="" pos="VB" />
+<SELECTOR id="s10" start="670" end="672" text="do" comment="" pos="VB" />
+<SELECTOR id="s11" start="796" end="800" text="have" comment="" pos="VB" />
+<SELECTOR id="s12" start="871" end="878" text="prepare" comment="" pos="VB" />
+<SELECTOR id="s13" start="965" end="969" text="have" comment="" pos="VB" />
+<SELECTOR id="s14" start="1072" end="1080" text="designed" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1235" end="1242" text="provide" comment="" pos="VB" />
+<SELECTOR id="s16" start="1271" end="1276" text="gives" comment="" pos="VBZ" />
+<SELECTOR id="s17" start="1294" end="1300" text="create" comment="" pos="VB" />
+<SELECTOR id="s18" start="1318" end="1322" text="fill" comment="" pos="VB" />
+<SELECTOR id="s19" start="1359" end="1362" text="see" comment="" pos="VB" />
+<SELECTOR id="s20" start="1413" end="1423" text="contacting" comment="" pos="VBG" />
+<SELECTOR id="s21" start="1449" end="1453" text="Call" comment="" pos="VB" />
+<SELECTOR id="s22" start="1478" end="1484" text="e-mail" comment="" pos="VB" />
+<NOUN id="n0" start="125" end="131" text="family" comment="" />
+<NOUN id="n1" start="266" end="269" text="day" comment="" />
+<NOUN id="n2" start="321" end="326" text="Grill" comment="" />
+<NOUN id="n3" start="384" end="387" text="fun" comment="" />
+<NOUN id="n4" start="446" end="451" text="table" comment="" />
+<NOUN id="n5" start="483" end="489" text="people" comment="" />
+<NOUN id="n6" start="511" end="515" text="room" comment="" />
+<NOUN id="n7" start="552" end="556" text="that" comment="" />
+<NOUN id="n8" start="596" end="606" text="activities" comment="" />
+<NOUN id="n9" start="648" end="652" text="time" comment="" />
+<NOUN id="n10" start="662" end="666" text="what" comment="" />
+<NOUN id="n11" start="801" end="807" text="plenty" comment="" />
+<NOUN id="n12" start="885" end="890" text="roast" comment="" />
+<NOUN id="n13" start="975" end="981" text="drinks" comment="" />
+<NOUN id="n14" start="1057" end="1062" text="Grill" comment="" />
+<NOUN id="n15" start="1258" end="1265" text="support" comment="" />
+<NOUN id="n16" start="1277" end="1281" text="kids" comment="" />
+<NOUN id="n17" start="1284" end="1290" text="chance" comment="" />
+<NOUN id="n18" start="1301" end="1307" text="dreams" comment="" />
+<NOUN id="n19" start="1340" end="1344" text="card" comment="" />
+<NOUN id="n20" start="1363" end="1366" text="you" comment="" />
+<NOUN id="n21" start="1424" end="1427" text="you" comment="" />
+<NOUN id="n22" start="1458" end="1462" text="Bray" comment="" />
+<NOUN id="n23" start="1487" end="1504" text="jcfundrzr@aol.com" comment="" />
+<QLINK id="q0" fromID="s0" fromText="bring" toID="n0" toText="family" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="marks" toID="n1" toText="day" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="hold" toID="n2" toText="Grill" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="having" toID="n3" toText="fun" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="purchase" toID="n4" toText="table" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="bring" toID="n5" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="need" toID="n6" toText="room" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="swing" toID="n7" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="feature" toID="n8" toText="activities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="have" toID="n9" toText="time" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="do" toID="n10" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="have" toID="n11" toText="plenty" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="prepare" toID="n12" toText="roast" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="have" toID="n13" toText="drinks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="designed" toID="n14" toText="Grill" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q15" fromID="s15" fromText="provide" toID="n15" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="gives" toID="n16" toText="kids" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q17" fromID="s16" fromText="gives" toID="n17" toText="chance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="create" toID="n18" toText="dreams" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="fill" toID="n19" toText="card" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="see" toID="n20" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="contacting" toID="n21" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="Call" toID="n22" toText="Bray" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="e-mail" toID="n23" toText="jcfundrzr@aol.com" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

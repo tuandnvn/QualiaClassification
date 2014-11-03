@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Magna International Inc. 's chief financial officer , James McAlpine , resigned and its chairman , Frank Stronach , is stepping in to help turn the automotive-parts manufacturer around , the company said . 
+Mr. Stronach will direct an effort to reduce overhead and curb capital spending `` until a more satisfactory level of profit is achieved and maintained , '' Magna said . 
+Stephen Akerfeldt , currently vice president finance , will succeed Mr. McAlpine . 
+An ambitious expansion has left Magna with excess capacity and a heavy debt load as the automotive industry enters a downturn . 
+The company has reported declines in operating profit in each of the past three years , despite steady sales growth . 
+Magna recently cut its quarterly dividend in half and the company 's Class A shares are wallowing far below their 52-week high of 16.125 Canadian dollars ( US$ 13.73 ) . 
+On the Toronto Stock Exchange yesterday , Magna shares closed up 37.5 Canadian cents to C$ 9.625 . 
+Mr. Stronach , founder and controlling shareholder of Magna , resigned as chief executive officer last year to seek , unsuccessfully , a seat in Canada 's Parliament . 
+Analysts said Mr. Stronach wants to resume a more influential role in running the company . 
+They expect him to cut costs throughout the organization . 
+The company said Mr. Stronach will personally direct the restructuring , assisted by Manfred Gingl , president and chief executive . 
+Neither they nor Mr. McAlpine could be reached for comment . 
+Magna said Mr. McAlpine resigned to pursue a consulting career , with Magna as one of his clients . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="140" end="144" text="turn" comment="" pos="VB" />
+<SELECTOR id="s1" start="226" end="232" text="direct" comment="" pos="VB" />
+<SELECTOR id="s2" start="246" end="252" text="reduce" comment="" pos="VB" />
+<SELECTOR id="s3" start="266" end="270" text="curb" comment="" pos="VB" />
+<SELECTOR id="s4" start="336" end="344" text="achieved" comment="" pos="VBN" />
+<SELECTOR id="s5" start="439" end="446" text="succeed" comment="" pos="VB" />
+<SELECTOR id="s6" start="571" end="577" text="enters" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="608" end="616" text="reported" comment="" pos="VBN" />
+<SELECTOR id="s8" start="726" end="729" text="cut" comment="" pos="VBD" />
+<SELECTOR id="s9" start="1093" end="1097" text="seek" comment="" pos="VB" />
+<SELECTOR id="s10" start="1187" end="1193" text="resume" comment="" pos="VB" />
+<SELECTOR id="s11" start="1221" end="1228" text="running" comment="" pos="VBG" />
+<SELECTOR id="s12" start="1263" end="1266" text="cut" comment="" pos="VB" />
+<SELECTOR id="s13" start="1350" end="1356" text="direct" comment="" pos="VB" />
+<SELECTOR id="s14" start="1477" end="1484" text="reached" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1536" end="1542" text="pursue" comment="" pos="VB" />
+<NOUN id="n0" start="166" end="178" text="manufacturer" comment="" />
+<NOUN id="n1" start="236" end="242" text="effort" comment="" />
+<NOUN id="n2" start="253" end="261" text="overhead" comment="" />
+<NOUN id="n3" start="279" end="287" text="spending" comment="" />
+<NOUN id="n4" start="317" end="322" text="level" comment="" />
+<NOUN id="n5" start="451" end="459" text="McAlpine" comment="" />
+<NOUN id="n6" start="580" end="588" text="downturn" comment="" />
+<NOUN id="n7" start="617" end="625" text="declines" comment="" />
+<NOUN id="n8" start="744" end="752" text="dividend" comment="" />
+<NOUN id="n9" start="1119" end="1123" text="seat" comment="" />
+<NOUN id="n10" start="1213" end="1217" text="role" comment="" />
+<NOUN id="n11" start="1233" end="1240" text="company" comment="" />
+<NOUN id="n12" start="1267" end="1272" text="costs" comment="" />
+<NOUN id="n13" start="1361" end="1374" text="restructuring" comment="" />
+<NOUN id="n14" start="1446" end="1450" text="they" comment="" />
+<NOUN id="n15" start="1556" end="1562" text="career" comment="" />
+<QLINK id="q0" fromID="s0" fromText="turn" toID="n0" toText="manufacturer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="direct" toID="n1" toText="effort" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="reduce" toID="n2" toText="overhead" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="curb" toID="n3" toText="spending" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="achieved" toID="n4" toText="level" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="succeed" toID="n5" toText="McAlpine" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="enters" toID="n6" toText="downturn" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="reported" toID="n7" toText="declines" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="cut" toID="n8" toText="dividend" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="seek" toID="n9" toText="seat" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="resume" toID="n10" toText="role" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="running" toID="n11" toText="company" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="cut" toID="n12" toText="costs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="direct" toID="n13" toText="restructuring" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="reached" toID="n14" toText="they" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q15" fromID="s15" fromText="pursue" toID="n15" toText="career" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

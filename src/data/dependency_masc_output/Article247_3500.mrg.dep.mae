@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The Entrepreneur Is the New Madonna 
+Dear Joe , I know what you mean about being a journalist . 
+Almost every assignment is a challenge in a different way and it never seems to get easier . 
+I often feel as if I only get half the story sometimes , so I typically do a massive amount of reporting that is most often much more than I will ever need . 
+I think that is why I welcomed doing a book -- it gives one the ability to use so much of what is left on the cutting room floor of daily journalism . 
+Think of all the good stuff we all collect daily in our reporting that we never add to stories . 
+Most often reporters recount these tales with each other and with their sources rather than share them with the general public . 
+Much of it , of course , using the standards of top newspapers , can not be used since it is largely gossip we are repeating , although it certainly could make for some very good stories . 
+I often wonder when a really great fictional book will be written about this era ( probably decades and decades hence as it is too close ) . 
+In any case , there certainly is no lack of information available about the moguls of technology now as they all become our current pop icons . 
+I would posit that Bill and Michael and Steve and Jerry have become the Madonnas of the current age of stock market mania and celebration of the entrepreneur . 
+So the shift in the image of Gates has been an interesting one for me to watch . 
+The smart - boy technologist is now being painted as the whiny bully . 
+I personally always thought it was a risk to pin the image of Microsoft on just one man -- at AOL , for example , there was a conscious effort to develop other " characters , " for lack of a better word . 
+So there , while you think of Case , you also think of Pittman and Leonsis and increasingly a range of other executives . 
+Steve Ballmer , of course , is now getting a lot more attention at Microsoft , but it still seems to be Bill 's show over there . 
+While I did not attend the trial -- I was lucky to be able to read your highly amusing and informative dispatches , several of which made me spit up my lunch laughing -- it certainly seemed as if the image of Bill Gates took a beating and the insular culture of Microsoft did not look so good . 
+That 's ironic , since I think it was just that insularity that helped them , much in the same way that AOL has benefited from being in the Virginia suburbs rather than in Silicon Valley . 
+AOL would never have existed if it had been founded here , I am sure , since its employees would have been mocked into obscurity by the digerati . 
+Out in the D.C. area , they looked positively exciting next to all the government - oriented contractors . 
+I wonder if that means geography is destiny , and it 's still location , location , location . 
+From where I am sitting , I think the Microsoft trial has been the really obvious turning point between the computer era and the digital age . 
+I think it almost does not matter what the judge does since it 's clear that the balance of power is shifting again , although it is not clear where it will land . 
+Will the strongman of the era be AOL , AT&T , Microsoft , or one of the big media companies ? 
+Or will it be none of them because the Internet allows and encourages a plethora of strong companies and a complex interconnection of businesses where none are allowed to dominate ? 
+I always use two simple words when people tell me that one company -- whether it is AOL or Microsoft or Disney -- is in charge of all our destinies : Babylon was . 
+That incredible empire dominated the world and I imagine it did not seem possible to people living then that anyone could loosen that empire 's grip on humanity . 
+But we all know how that story turned out . 
+Now I am getting way too philosophical , but this is my final missive , so why not ? 
+Perhaps you could hasten a prediction of where this is all going . 
+As for me , I 'll stick with my philosophy of reporting and , I guess , life -- nobody knows . 
+Cheers , Kara 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="18" end="20" text="Is" comment="" pos="VBZ" />
+<SELECTOR id="s1" start="65" end="69" text="mean" comment="" pos="VBP" />
+<SELECTOR id="s2" start="218" end="221" text="get" comment="" pos="VBP" />
+<SELECTOR id="s3" start="264" end="266" text="do" comment="" pos="VBP" />
+<SELECTOR id="s4" start="382" end="387" text="doing" comment="" pos="VBG" />
+<SELECTOR id="s5" start="401" end="406" text="gives" comment="" pos="VBZ" />
+<SELECTOR id="s6" start="426" end="429" text="use" comment="" pos="VB" />
+<SELECTOR id="s7" start="449" end="453" text="left" comment="" pos="VBN" />
+<SELECTOR id="s8" start="583" end="586" text="add" comment="" pos="VBP" />
+<SELECTOR id="s9" start="622" end="629" text="recount" comment="" pos="VBP" />
+<SELECTOR id="s10" start="693" end="698" text="share" comment="" pos="VBP" />
+<SELECTOR id="s11" start="807" end="811" text="used" comment="" pos="VBN" />
+<SELECTOR id="s12" start="756" end="761" text="using" comment="" pos="VBG" />
+<SELECTOR id="s13" start="979" end="986" text="written" comment="" pos="VBN" />
+<SELECTOR id="s14" start="1493" end="1500" text="painted" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1568" end="1571" text="pin" comment="" pos="VB" />
+<SELECTOR id="s16" start="1669" end="1676" text="develop" comment="" pos="VB" />
+<SELECTOR id="s17" start="1887" end="1894" text="getting" comment="" pos="VBG" />
+<SELECTOR id="s18" start="1999" end="2005" text="attend" comment="" pos="VB" />
+<SELECTOR id="s19" start="2045" end="2049" text="read" comment="" pos="VB" />
+<SELECTOR id="s20" start="2124" end="2128" text="spit" comment="" pos="VB" />
+<SELECTOR id="s21" start="2203" end="2207" text="took" comment="" pos="VBD" />
+<SELECTOR id="s22" start="2343" end="2349" text="helped" comment="" pos="VBD" />
+<SELECTOR id="s23" start="2513" end="2520" text="founded" comment="" pos="VBN" />
+<SELECTOR id="s24" start="2576" end="2582" text="mocked" comment="" pos="VBN" />
+<SELECTOR id="s25" start="3014" end="3018" text="does" comment="" pos="VBZ" />
+<SELECTOR id="s26" start="3284" end="3294" text="encourages" comment="" pos="VBZ" />
+<SELECTOR id="s27" start="3385" end="3392" text="allowed" comment="" pos="VBN" />
+<SELECTOR id="s28" start="3417" end="3420" text="use" comment="" pos="VBP" />
+<SELECTOR id="s29" start="3450" end="3454" text="tell" comment="" pos="VBP" />
+<SELECTOR id="s30" start="3596" end="3605" text="dominated" comment="" pos="VBD" />
+<SELECTOR id="s31" start="3695" end="3701" text="loosen" comment="" pos="VB" />
+<SELECTOR id="s32" start="3886" end="3892" text="hasten" comment="" pos="VB" />
+<NOUN id="n0" start="29" end="36" text="Madonna" comment="" />
+<NOUN id="n1" start="56" end="60" text="what" comment="" />
+<NOUN id="n2" start="231" end="236" text="story" comment="" />
+<NOUN id="n3" start="277" end="283" text="amount" comment="" />
+<NOUN id="n4" start="390" end="394" text="book" comment="" />
+<NOUN id="n5" start="407" end="410" text="one" comment="" />
+<NOUN id="n6" start="415" end="422" text="ability" comment="" />
+<NOUN id="n7" start="433" end="437" text="much" comment="" />
+<NOUN id="n8" start="441" end="445" text="what" comment="" />
+<NOUN id="n9" start="569" end="573" text="that" comment="" />
+<NOUN id="n10" start="636" end="641" text="tales" comment="" />
+<NOUN id="n11" start="699" end="703" text="them" comment="" />
+<NOUN id="n12" start="731" end="735" text="Much" comment="" />
+<NOUN id="n13" start="766" end="775" text="standards" comment="" />
+<NOUN id="n14" start="966" end="970" text="book" comment="" />
+<NOUN id="n15" start="1467" end="1479" text="technologist" comment="" />
+<NOUN id="n16" start="1576" end="1581" text="image" comment="" />
+<NOUN id="n17" start="1685" end="1695" text="characters" comment="" />
+<NOUN id="n18" start="1906" end="1915" text="attention" comment="" />
+<NOUN id="n19" start="2010" end="2015" text="trial" comment="" />
+<NOUN id="n20" start="2086" end="2096" text="dispatches" comment="" />
+<NOUN id="n21" start="2135" end="2140" text="lunch" comment="" />
+<NOUN id="n22" start="2210" end="2217" text="beating" comment="" />
+<NOUN id="n23" start="2350" end="2354" text="them" comment="" />
+<NOUN id="n24" start="2501" end="2503" text="it" comment="" />
+<NOUN id="n25" start="2550" end="2559" text="employees" comment="" />
+<NOUN id="n26" start="2999" end="3003" text="what" comment="" />
+<NOUN id="n27" start="3297" end="3305" text="plethora" comment="" />
+<NOUN id="n28" start="3376" end="3380" text="none" comment="" />
+<NOUN id="n29" start="3432" end="3437" text="words" comment="" />
+<NOUN id="n30" start="3455" end="3457" text="me" comment="" />
+<NOUN id="n31" start="3610" end="3615" text="world" comment="" />
+<NOUN id="n32" start="3717" end="3721" text="grip" comment="" />
+<NOUN id="n33" start="3895" end="3905" text="prediction" comment="" />
+<QLINK id="q0" fromID="s0" fromText="Is" toID="n0" toText="Madonna" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="mean" toID="n1" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="get" toID="n2" toText="story" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="do" toID="n3" toText="amount" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="doing" toID="n4" toText="book" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="gives" toID="n5" toText="one" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q6" fromID="s5" fromText="gives" toID="n6" toText="ability" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s6" fromText="use" toID="n7" toText="much" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s7" fromText="left" toID="n8" toText="what" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s8" fromText="add" toID="n9" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="recount" toID="n10" toText="tales" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s10" fromText="share" toID="n11" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="used" toID="n12" toText="Much" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s12" fromText="using" toID="n13" toText="standards" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="written" toID="n14" toText="book" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q15" fromID="s14" fromText="painted" toID="n15" toText="technologist" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q16" fromID="s15" fromText="pin" toID="n16" toText="image" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="develop" toID="n17" toText="characters" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="getting" toID="n18" toText="attention" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="attend" toID="n19" toText="trial" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="read" toID="n20" toText="dispatches" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="spit" toID="n21" toText="lunch" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="took" toID="n22" toText="beating" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="helped" toID="n23" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="founded" toID="n24" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q25" fromID="s24" fromText="mocked" toID="n25" toText="employees" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q26" fromID="s25" fromText="does" toID="n26" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s26" fromText="encourages" toID="n27" toText="plethora" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="allowed" toID="n28" toText="none" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q29" fromID="s28" fromText="use" toID="n29" toText="words" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s29" fromText="tell" toID="n30" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="dominated" toID="n31" toText="world" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s31" fromText="loosen" toID="n32" toText="grip" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s32" fromText="hasten" toID="n33" toText="prediction" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

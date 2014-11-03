@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Newsweek , trying to keep pace with rival Time magazine , announced new advertising rates for 1990 and said it will introduce a new incentive plan for advertisers . 
+The new ad plan from Newsweek , a unit of the Washington Post Co. , is the second incentive plan the magazine has offered advertisers in three years . 
+Plans that give advertisers discounts for maintaining or increasing ad spending have become permanent fixtures at the news weeklies and underscore the fierce competition between Newsweek , Time Warner Inc. 's Time magazine , and Mortimer B. Zuckerman 's U.S. News & World Report . 
+Alan Spoon , recently named Newsweek president , said Newsweek 's ad rates would increase 5 % in January . 
+A full , four-color page in Newsweek will cost $ 100,980 . 
+In mid-October , Time magazine lowered its guaranteed circulation rate base for 1990 while not increasing ad page rates ; with a lower circulation base , Time 's ad rate will be effectively 7.5 % higher per subscriber ; a full page in Time costs about $ 120,000 . 
+U.S. News has yet to announce its 1990 ad rates . 
+Newsweek said it will introduce the Circulation Credit Plan , which awards space credits to advertisers on `` renewal advertising . '' 
+The magazine will reward with `` page bonuses '' advertisers who in 1990 meet or exceed their 1989 spending , as long as they spent $ 325,000 in 1989 and $ 340,000 in 1990 . 
+Mr. Spoon said the plan is not an attempt to shore up a decline in ad pages in the first nine months of 1989 ; Newsweek 's ad pages totaled 1,620 , a drop of 3.2 % from last year , according to Publishers Information Bureau . 
+`` What matters is what advertisers are paying per page , and in that department we are doing fine this fall , '' said Mr. Spoon . 
+Both Newsweek and U.S. News have been gaining circulation in recent years without heavy use of electronic giveaways to subscribers , such as telephones or watches . 
+However , none of the big three weeklies recorded circulation gains recently . 
+According to Audit Bureau of Circulations , Time , the largest newsweekly , had average circulation of 4,393,237 , a decrease of 7.3 % . 
+Newsweek 's circulation for the first six months of 1989 was 3,288,453 , flat from the same period last year . 
+U.S. News ' circulation in the same time was 2,303,328 , down 2.6 % . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="22" end="26" text="keep" comment="" pos="VB" />
+<SELECTOR id="s1" start="59" end="68" text="announced" comment="" pos="VBD" />
+<SELECTOR id="s2" start="117" end="126" text="introduce" comment="" pos="VB" />
+<SELECTOR id="s3" start="281" end="288" text="offered" comment="" pos="VBN" />
+<SELECTOR id="s4" start="330" end="334" text="give" comment="" pos="VBP" />
+<SELECTOR id="s5" start="376" end="386" text="increasing" comment="" pos="VBG" />
+<SELECTOR id="s6" start="455" end="465" text="underscore" comment="" pos="VBP" />
+<SELECTOR id="s7" start="751" end="755" text="cost" comment="" pos="VB" />
+<SELECTOR id="s8" start="800" end="807" text="lowered" comment="" pos="VBD" />
+<SELECTOR id="s9" start="864" end="874" text="increasing" comment="" pos="VBG" />
+<SELECTOR id="s10" start="1009" end="1014" text="costs" comment="" pos="VBZ" />
+<SELECTOR id="s11" start="1055" end="1063" text="announce" comment="" pos="VB" />
+<SELECTOR id="s12" start="1107" end="1116" text="introduce" comment="" pos="VB" />
+<SELECTOR id="s13" start="1153" end="1159" text="awards" comment="" pos="VBZ" />
+<SELECTOR id="s14" start="1239" end="1245" text="reward" comment="" pos="VB" />
+<SELECTOR id="s15" start="1302" end="1308" text="exceed" comment="" pos="VBP" />
+<SELECTOR id="s16" start="1347" end="1352" text="spent" comment="" pos="VBD" />
+<SELECTOR id="s17" start="1441" end="1446" text="shore" comment="" pos="VB" />
+<SELECTOR id="s18" start="1528" end="1535" text="totaled" comment="" pos="VBD" />
+<SELECTOR id="s19" start="1663" end="1669" text="paying" comment="" pos="VBG" />
+<SELECTOR id="s20" start="1793" end="1800" text="gaining" comment="" pos="VBG" />
+<SELECTOR id="s21" start="1962" end="1970" text="recorded" comment="" pos="VBD" />
+<SELECTOR id="s22" start="2077" end="2080" text="had" comment="" pos="VBD" />
+<NOUN id="n0" start="27" end="31" text="pace" comment="" />
+<NOUN id="n1" start="85" end="90" text="rates" comment="" />
+<NOUN id="n2" start="143" end="147" text="plan" comment="" />
+<NOUN id="n3" start="289" end="300" text="advertisers" comment="" />
+<NOUN id="n4" start="335" end="346" text="advertisers" comment="" />
+<NOUN id="n5" start="347" end="356" text="discounts" comment="" />
+<NOUN id="n6" start="390" end="398" text="spending" comment="" />
+<NOUN id="n7" start="477" end="488" text="competition" comment="" />
+<NOUN id="n8" start="758" end="765" text="100,980" comment="" />
+<NOUN id="n9" start="840" end="844" text="base" comment="" />
+<NOUN id="n10" start="883" end="888" text="rates" comment="" />
+<NOUN id="n11" start="1023" end="1030" text="120,000" comment="" />
+<NOUN id="n12" start="1076" end="1081" text="rates" comment="" />
+<NOUN id="n13" start="1140" end="1144" text="Plan" comment="" />
+<NOUN id="n14" start="1166" end="1173" text="credits" comment="" />
+<NOUN id="n15" start="1270" end="1281" text="advertisers" comment="" />
+<NOUN id="n16" start="1320" end="1328" text="spending" comment="" />
+<NOUN id="n17" start="1355" end="1362" text="325,000" comment="" />
+<NOUN id="n18" start="1452" end="1459" text="decline" comment="" />
+<NOUN id="n19" start="1536" end="1541" text="1,620" comment="" />
+<NOUN id="n20" start="1642" end="1646" text="what" comment="" />
+<NOUN id="n21" start="1801" end="1812" text="circulation" comment="" />
+<NOUN id="n22" start="1983" end="1988" text="gains" comment="" />
+<NOUN id="n23" start="2089" end="2100" text="circulation" comment="" />
+<QLINK id="q0" fromID="s0" fromText="keep" toID="n0" toText="pace" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="announced" toID="n1" toText="rates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="introduce" toID="n2" toText="plan" comment="" qType="FORMAL" qType2="AGENTIVE" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="offered" toID="n3" toText="advertisers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="give" toID="n4" toText="advertisers" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q5" fromID="s4" fromText="give" toID="n5" toText="discounts" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s5" fromText="increasing" toID="n6" toText="spending" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s6" fromText="underscore" toID="n7" toText="competition" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s7" fromText="cost" toID="n8" toText="100,980" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s8" fromText="lowered" toID="n9" toText="base" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="increasing" toID="n10" toText="rates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s10" fromText="costs" toID="n11" toText="120,000" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="announce" toID="n12" toText="rates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="introduce" toID="n13" toText="Plan" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="awards" toID="n14" toText="credits" comment="" qType="FORMAL" qType2="AGENTIVE" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="reward" toID="n15" toText="advertisers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="exceed" toID="n16" toText="spending" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="spent" toID="n17" toText="325,000" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="shore" toID="n18" toText="decline" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="totaled" toID="n19" toText="1,620" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="paying" toID="n20" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="gaining" toID="n21" toText="circulation" comment="" qType="FORMAL" qType2="AGENTIVE" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="recorded" toID="n22" toText="gains" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="had" toID="n23" toText="circulation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Investor Harold Simmons and NL Industries Inc. offered to acquire Georgia Gulf Corp. for $ 50 a share , or about $ 1.1 billion , stepping up the pressure on the commodity chemicals concern . 
+The offer follows an earlier proposal by NL and Mr. Simmons to help Georgia Gulf restructure or go private in a transaction that would pay shareholders $ 55 a share . 
+Georgia Gulf rebuffed that offer in September and said it would study other alternatives . 
+However , it has n't yet made any proposals to shareholders . 
+Late yesterday , Georgia Gulf said it reviewed the NL proposal as well as interests from `` third parties '' regarding business combinations . 
+Georgia Gulf said it has n't eliminated any alternatives and that `` discussions are being held with interested parties , and work is also continuing on other various transactions . '' 
+It did n't elaborate . 
+Analysts saw the latest offer as proof that Mr. Simmons , an aggressive and persistent investor , wo n't leave Georgia Gulf alone until some kind of transaction is completed . 
+`` He has clamped on their ankle like a pit bull , '' says Paul Leming , a vice president with Morgan Stanley & Co . 
+`` He appears to be in it for the long haul . '' 
+Mr. Simmons and NL already own a 9.9 % stake in Georgia Gulf . 
+Mr. Simmons owns 88 % of Valhi Inc. , which in turn owns two-thirds of NL . 
+NL is officially making the offer . 
+Mr. Leming was n't surprised by the lower price cited by NL , saying he believes that $ 55 a share is `` the most you can pay for Georgia Gulf before it becomes a bad acquisition . '' 
+Georgia Gulf stock rose $ 1.75 a share yesterday to close at $ 51.25 a share , while NL shares closed unchanged at $ 22.75 and Valhi rose 62.5 cents to $ 15 , all in New York Stock Exchange composite trading . 
+J. Landis Martin , NL president and chief executive officer , said NL and Mr. Simmons cut the price they were proposing for Georgia Gulf because they initially planned a transaction that included about $ 250 million in equity and a substantial amount of high-yield subordinated debt . 
+However , the junk-bond market has collapsed in recent weeks , lessening the likelihood that such a transaction would succeed . 
+Now , he said , the group plans to put in `` several hundred million '' dollars in equity and finance the remainder with bank debt . 
+He also said that the group reduced its offer because it was n't allowed to see Georgia Gulf 's confidential financial information without agreeing that it would n't make an offer unless it had Georgia Gulf 's consent . 
+In a letter to Georgia Gulf President Jerry R. Satrum , Mr. Martin asked Georgia Gulf to answer its offer by Tuesday . 
+It was n't clear how NL and Mr. Simmons would respond if Georgia Gulf spurns them again . 
+Mr. Martin said they have n't yet decided what their next move would be , but he did n't rule out the possibility of a consent solicitation aimed at replacing Georgia Gulf 's board . 
+In other transactions , Mr. Simmons has followed friendly offers with a hostile tender offer . 
+Although Georgia Gulf has n't been eager to negotiate with Mr. Simmons and NL , a specialty chemicals concern , the group apparently believes the company 's management is interested in some kind of transaction . 
+The management group owns about 18 % of the stock , most purchased at nominal prices , and would stand to gain millions of dollars if the company were sold . 
+In the third quarter , Georgia Gulf earned $ 46.1 million , or $ 1.85 a share , down from $ 53 million , or $ 1.85 a share on fewer shares outstanding . 
+Sales fell to $ 251.2 million from $ 278.7 million . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="59" end="66" text="acquire" comment="" pos="VB" />
+<SELECTOR id="s1" start="130" end="138" text="stepping" comment="" pos="VBG" />
+<SELECTOR id="s2" start="203" end="210" text="follows" comment="" pos="VBZ" />
+<SELECTOR id="s3" start="328" end="331" text="pay" comment="" pos="VB" />
+<SELECTOR id="s4" start="374" end="382" text="rebuffed" comment="" pos="VBD" />
+<SELECTOR id="s5" start="425" end="430" text="study" comment="" pos="VB" />
+<SELECTOR id="s6" start="478" end="482" text="made" comment="" pos="VBD" />
+<SELECTOR id="s7" start="554" end="562" text="reviewed" comment="" pos="VBD" />
+<SELECTOR id="s8" start="689" end="699" text="eliminated" comment="" pos="VBN" />
+<SELECTOR id="s9" start="751" end="755" text="held" comment="" pos="VBN" />
+<SELECTOR id="s10" start="879" end="882" text="saw" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1034" end="1043" text="completed" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1242" end="1245" text="own" comment="" pos="VB" />
+<SELECTOR id="s13" start="1291" end="1295" text="owns" comment="" pos="VBZ" />
+<SELECTOR id="s14" start="1331" end="1335" text="owns" comment="" pos="VBZ" />
+<SELECTOR id="s15" start="1373" end="1379" text="making" comment="" pos="VBG" />
+<SELECTOR id="s16" start="1412" end="1421" text="surprised" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1875" end="1878" text="cut" comment="" pos="VBD" />
+<SELECTOR id="s18" start="1949" end="1956" text="planned" comment="" pos="VBD" />
+<SELECTOR id="s19" start="1976" end="1984" text="included" comment="" pos="VBD" />
+<SELECTOR id="s20" start="2138" end="2147" text="lessening" comment="" pos="VBG" />
+<SELECTOR id="s21" start="2239" end="2242" text="put" comment="" pos="VB" />
+<SELECTOR id="s22" start="2298" end="2305" text="finance" comment="" pos="VB" />
+<SELECTOR id="s23" start="2366" end="2373" text="reduced" comment="" pos="VBD" />
+<SELECTOR id="s24" start="2403" end="2410" text="allowed" comment="" pos="VBN" />
+<SELECTOR id="s25" start="2414" end="2417" text="see" comment="" pos="VB" />
+<SELECTOR id="s26" start="2504" end="2508" text="make" comment="" pos="VB" />
+<SELECTOR id="s27" start="2528" end="2531" text="had" comment="" pos="VBD" />
+<SELECTOR id="s28" start="2626" end="2631" text="asked" comment="" pos="VBD" />
+<SELECTOR id="s29" start="2648" end="2654" text="answer" comment="" pos="VB" />
+<SELECTOR id="s30" start="2749" end="2755" text="spurns" comment="" pos="VBZ" />
+<SELECTOR id="s31" start="2859" end="2863" text="rule" comment="" pos="NN" />
+<SELECTOR id="s32" start="2919" end="2928" text="replacing" comment="" pos="VBG" />
+<SELECTOR id="s33" start="2994" end="3002" text="followed" comment="" pos="VBN" />
+<SELECTOR id="s34" start="3221" end="3231" text="interested" comment="" pos="VBN" />
+<SELECTOR id="s35" start="3284" end="3288" text="owns" comment="" pos="VBZ" />
+<SELECTOR id="s36" start="3369" end="3373" text="gain" comment="" pos="VB" />
+<SELECTOR id="s37" start="3414" end="3418" text="sold" comment="" pos="VBN" />
+<SELECTOR id="s38" start="3458" end="3464" text="earned" comment="" pos="VBD" />
+<NOUN id="n0" start="80" end="85" text="Corp." comment="" />
+<NOUN id="n1" start="146" end="154" text="pressure" comment="" />
+<NOUN id="n2" start="222" end="230" text="proposal" comment="" />
+<NOUN id="n3" start="332" end="344" text="shareholders" comment="" />
+<NOUN id="n4" start="347" end="349" text="55" comment="" />
+<NOUN id="n5" start="388" end="393" text="offer" comment="" />
+<NOUN id="n6" start="437" end="449" text="alternatives" comment="" />
+<NOUN id="n7" start="487" end="496" text="proposals" comment="" />
+<NOUN id="n8" start="570" end="578" text="proposal" comment="" />
+<NOUN id="n9" start="704" end="716" text="alternatives" comment="" />
+<NOUN id="n10" start="729" end="740" text="discussions" comment="" />
+<NOUN id="n11" start="894" end="899" text="offer" comment="" />
+<NOUN id="n12" start="1011" end="1015" text="kind" comment="" />
+<NOUN id="n13" start="1254" end="1259" text="stake" comment="" />
+<NOUN id="n14" start="1299" end="1300" text="%" comment="" />
+<NOUN id="n15" start="1336" end="1346" text="two-thirds" comment="" />
+<NOUN id="n16" start="1384" end="1389" text="offer" comment="" />
+<NOUN id="n17" start="1397" end="1403" text="Leming" comment="" />
+<NOUN id="n18" start="1883" end="1888" text="price" comment="" />
+<NOUN id="n19" start="1959" end="1970" text="transaction" comment="" />
+<NOUN id="n20" start="1997" end="2004" text="million" comment="" />
+<NOUN id="n21" start="2152" end="2162" text="likelihood" comment="" />
+<NOUN id="n22" start="2276" end="2283" text="dollars" comment="" />
+<NOUN id="n23" start="2310" end="2319" text="remainder" comment="" />
+<NOUN id="n24" start="2378" end="2383" text="offer" comment="" />
+<NOUN id="n25" start="2392" end="2394" text="it" comment="" />
+<NOUN id="n26" start="2457" end="2468" text="information" comment="" />
+<NOUN id="n27" start="2512" end="2517" text="offer" comment="" />
+<NOUN id="n28" start="2548" end="2555" text="consent" comment="" />
+<NOUN id="n29" start="2640" end="2644" text="Gulf" comment="" />
+<NOUN id="n30" start="2659" end="2664" text="offer" comment="" />
+<NOUN id="n31" start="2756" end="2760" text="them" comment="" />
+<NOUN id="n32" start="2872" end="2883" text="possibility" comment="" />
+<NOUN id="n33" start="2945" end="2950" text="board" comment="" />
+<NOUN id="n34" start="3012" end="3018" text="offers" comment="" />
+<NOUN id="n35" start="3207" end="3217" text="management" comment="" />
+<NOUN id="n36" start="3298" end="3299" text="%" comment="" />
+<NOUN id="n37" start="3374" end="3382" text="millions" comment="" />
+<NOUN id="n38" start="3401" end="3408" text="company" comment="" />
+<NOUN id="n39" start="3472" end="3479" text="million" comment="" />
+<QLINK id="q0" fromID="s0" fromText="acquire" toID="n0" toText="Corp." comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="stepping" toID="n1" toText="pressure" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="follows" toID="n2" toText="proposal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="pay" toID="n3" toText="shareholders" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q4" fromID="s3" fromText="pay" toID="n4" toText="55" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s4" fromText="rebuffed" toID="n5" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s5" fromText="study" toID="n6" toText="alternatives" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s6" fromText="made" toID="n7" toText="proposals" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s7" fromText="reviewed" toID="n8" toText="proposal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s8" fromText="eliminated" toID="n9" toText="alternatives" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="held" toID="n10" toText="discussions" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s10" fromText="saw" toID="n11" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="completed" toID="n12" toText="kind" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s12" fromText="own" toID="n13" toText="stake" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="owns" toID="n14" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="owns" toID="n15" toText="two-thirds" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="making" toID="n16" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="surprised" toID="n17" toText="Leming" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q18" fromID="s17" fromText="cut" toID="n18" toText="price" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="planned" toID="n19" toText="transaction" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="included" toID="n20" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="lessening" toID="n21" toText="likelihood" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="put" toID="n22" toText="dollars" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="finance" toID="n23" toText="remainder" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="reduced" toID="n24" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="allowed" toID="n25" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q26" fromID="s25" fromText="see" toID="n26" toText="information" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s26" fromText="make" toID="n27" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="had" toID="n28" toText="consent" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s28" fromText="asked" toID="n29" toText="Gulf" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s29" fromText="answer" toID="n30" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="spurns" toID="n31" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s31" fromText="rule" toID="n32" toText="possibility" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s32" fromText="replacing" toID="n33" toText="board" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s33" fromText="followed" toID="n34" toText="offers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s34" fromText="interested" toID="n35" toText="management" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q36" fromID="s35" fromText="owns" toID="n36" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s36" fromText="gain" toID="n37" toText="millions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s37" fromText="sold" toID="n38" toText="company" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q39" fromID="s38" fromText="earned" toID="n39" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Beauty Takes Backseat To Safety on Bridges 
+EVERYONE AGREES that most of the nation 's old bridges need to be repaired or replaced . 
+But there 's disagreement over how to do it . 
+Highway officials insist the ornamental railings on older bridges are n't strong enough to prevent vehicles from crashing through . 
+But other people do n't want to lose the bridges ' beautiful , sometimes historic , features . 
+`` The primary purpose of a railing is to contain a vehicle and not to provide a scenic view , '' says Jack White , a planner with the Indiana Highway Department . 
+He and others prefer to install railings such as the `` type F safety shape , '' a four-foot-high concrete slab with no openings . 
+In Richmond , Ind. , the type F railing is being used to replace arched openings on the G Street Bridge . 
+Garret Boone , who teaches art at Earlham College , calls the new structure `` just an ugly bridge '' and one that blocks the view of a new park below . 
+In Hartford , Conn. , the Charter Oak Bridge will soon be replaced , the cast-iron medallions from its railings relegated to a park . 
+Compromises are possible . 
+Citizens in Peninsula , Ohio , upset over changes to a bridge , negotiated a deal : The bottom half of the railing will be type F , while the top half will have the old bridge 's floral pattern . 
+Similarly , highway engineers agreed to keep the old railings on the Key Bridge in Washington , D.C. , as long as they could install a crash barrier between the sidewalk and the road . 
+Tray Bon ? 
+Drink Carrier Competes With Cartons 
+PORTING POTABLES just got easier , or so claims Scypher Corp. , the maker of the Cup-Tote . 
+The Chicago company 's beverage carrier , meant to replace cardboard trays at concession stands and fast-food outlets , resembles the plastic loops used on six-packs of beer , only the loops hang from a web of strings . 
+The new carrier can tote as many as four cups at once . 
+Inventor Claire Marvin says his design virtually eliminates spilling . 
+Lids are n't even needed . 
+He also claims the carrier costs less and takes up less space than most paper carriers . 
+A few fast-food outlets are giving it a try . 
+The company acknowledges some problems . 
+A driver has to find something to hang the carrier on , so the company supplies a window hook . 
+While it breaks down in prolonged sunlight , it is n't recyclable . 
+And unlike some trays , there 's no place for food . 
+Spirit of Perestroika Touches Design World 
+AN EXCHANGE of U.S. and Soviet designers promises change on both sides . 
+An exhibition of American design and architecture opened in September in Moscow and will travel to eight other Soviet cities . 
+The show runs the gamut , from a blender to chairs to a model of the Citicorp building . 
+The event continues into next year and includes an exchange program to swap design teachers at Carnegie-Mellon and Leningrad 's Mutchin Institute . 
+Dan Droz , leader of the Carnegie-Mellon group , sees benefits all around . 
+The Soviets , who normally have few clients other than the state , will get `` exposure to a market system , '' he says . 
+Americans will learn more about making products for the Soviets . 
+Mr. Droz says the Soviets could even help U.S. designers renew their sense of purpose . 
+`` In Moscow , they kept asking us things like , ` Why do you make 15 different corkscrews , when all you need is one good one ? ' '' he says . 
+`` They got us thinking maybe we should be helping U.S. companies improve existing products rather than always developing new ones . '' 
+Seed for Jail Solution Fails to Take Root 
+IT 'S A TWO BIRDS with one stone deal : Eggers Group architects propose using grain elevators to house prisoners . 
+It would ease jail overcrowding while preserving historic structures , the company says . 
+But New York state , which is seeking solutions to its prison cell shortage , says `` no . '' 
+Grain elevators built in the 1920s and '30s have six-inch concrete walls and a tubular shape that would easily contain semicircular cells with a control point in the middle , the New York firm says . 
+Many are far enough from residential areas to pass public muster , yet close enough to permit family visits . 
+Besides , Eggers says , grain elevators are worth preserving for aesthetic reasons -- one famed architect compared them to the pyramids of Egypt . 
+A number of cities -- including Minneapolis , Philadelphia and Houston -- have vacant grain elevators , Eggers says . 
+A medium-sized one in Brooklyn , it says , could be altered to house up to 1,000 inmates at a lower cost than building a new prison in upstate New York . 
+A spokesman for the state , however , calls the idea `` not effective or cost efficient . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="8" end="13" text="Takes" comment="" pos="VBZ" />
+<SELECTOR id="s1" start="173" end="175" text="do" comment="" pos="VB" />
+<SELECTOR id="s2" start="273" end="280" text="prevent" comment="" pos="VB" />
+<SELECTOR id="s3" start="347" end="351" text="lose" comment="" pos="VB" />
+<SELECTOR id="s4" start="453" end="460" text="contain" comment="" pos="VB" />
+<SELECTOR id="s5" start="482" end="489" text="provide" comment="" pos="VB" />
+<SELECTOR id="s6" start="600" end="607" text="install" comment="" pos="VB" />
+<SELECTOR id="s7" start="757" end="761" text="used" comment="" pos="VBN" />
+<SELECTOR id="s8" start="765" end="772" text="replace" comment="" pos="VB" />
+<SELECTOR id="s9" start="834" end="841" text="teaches" comment="" pos="VBZ" />
+<SELECTOR id="s10" start="930" end="936" text="blocks" comment="" pos="VBZ" />
+<SELECTOR id="s11" start="1027" end="1035" text="replaced" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1196" end="1206" text="negotiated" comment="" pos="VBD" />
+<SELECTOR id="s13" start="1288" end="1292" text="have" comment="" pos="VB" />
+<SELECTOR id="s14" start="1369" end="1373" text="keep" comment="" pos="VB" />
+<SELECTOR id="s15" start="1454" end="1461" text="install" comment="" pos="VB" />
+<SELECTOR id="s16" start="1564" end="1571" text="PORTING" comment="" pos="VBG" />
+<SELECTOR id="s17" start="1708" end="1715" text="replace" comment="" pos="VB" />
+<SELECTOR id="s18" start="1777" end="1786" text="resembles" comment="" pos="VBZ" />
+<SELECTOR id="s19" start="1898" end="1902" text="tote" comment="" pos="VB" />
+<SELECTOR id="s20" start="1984" end="1994" text="eliminates" comment="" pos="VBZ" />
+<SELECTOR id="s21" start="2025" end="2031" text="needed" comment="" pos="VBN" />
+<SELECTOR id="s22" start="2077" end="2082" text="takes" comment="" pos="VBZ" />
+<SELECTOR id="s23" start="2153" end="2159" text="giving" comment="" pos="VBG" />
+<SELECTOR id="s24" start="2184" end="2196" text="acknowledges" comment="" pos="VBZ" />
+<SELECTOR id="s25" start="2230" end="2234" text="find" comment="" pos="VB" />
+<SELECTOR id="s26" start="2248" end="2252" text="hang" comment="" pos="VB" />
+<SELECTOR id="s27" start="2285" end="2293" text="supplies" comment="" pos="VBZ" />
+<SELECTOR id="s28" start="2456" end="2463" text="Touches" comment="" pos="VBZ" />
+<SELECTOR id="s29" start="2519" end="2527" text="promises" comment="" pos="VBZ" />
+<SELECTOR id="s30" start="2689" end="2693" text="runs" comment="" pos="VBZ" />
+<SELECTOR id="s31" start="2809" end="2817" text="includes" comment="" pos="VBZ" />
+<SELECTOR id="s32" start="2841" end="2845" text="swap" comment="" pos="VB" />
+<SELECTOR id="s33" start="2968" end="2972" text="sees" comment="" pos="VBZ" />
+<SELECTOR id="s34" start="3023" end="3027" text="have" comment="" pos="VBP" />
+<SELECTOR id="s35" start="3068" end="3071" text="get" comment="" pos="VB" />
+<SELECTOR id="s36" start="3134" end="3139" text="learn" comment="" pos="VB" />
+<SELECTOR id="s37" start="3151" end="3157" text="making" comment="" pos="VBG" />
+<SELECTOR id="s38" start="3243" end="3248" text="renew" comment="" pos="VB" />
+<SELECTOR id="s39" start="3300" end="3306" text="asking" comment="" pos="VBG" />
+<SELECTOR id="s40" start="3337" end="3341" text="make" comment="" pos="VB" />
+<SELECTOR id="s41" start="3486" end="3493" text="improve" comment="" pos="VB" />
+<SELECTOR id="s42" start="3531" end="3541" text="developing" comment="" pos="VBG" />
+<SELECTOR id="s43" start="3589" end="3593" text="Take" comment="" pos="VB" />
+<SELECTOR id="s44" start="3672" end="3677" text="using" comment="" pos="VBG" />
+<SELECTOR id="s45" start="3697" end="3702" text="house" comment="" pos="VB" />
+<SELECTOR id="s46" start="3725" end="3729" text="ease" comment="" pos="VB" />
+<SELECTOR id="s47" start="3754" end="3764" text="preserving" comment="" pos="VBG" />
+<SELECTOR id="s48" start="3837" end="3844" text="seeking" comment="" pos="VBG" />
+<SELECTOR id="s49" start="3946" end="3950" text="have" comment="" pos="VBP" />
+<SELECTOR id="s50" start="4013" end="4020" text="contain" comment="" pos="VB" />
+<SELECTOR id="s51" start="4149" end="4153" text="pass" comment="" pos="VB" />
+<SELECTOR id="s52" start="4190" end="4196" text="permit" comment="" pos="VB" />
+<SELECTOR id="s53" start="4320" end="4328" text="compared" comment="" pos="VBD" />
+<SELECTOR id="s54" start="4436" end="4440" text="have" comment="" pos="VBP" />
+<SELECTOR id="s55" start="4533" end="4540" text="altered" comment="" pos="VBN" />
+<SELECTOR id="s56" start="4544" end="4549" text="house" comment="" pos="VB" />
+<SELECTOR id="s57" start="4591" end="4599" text="building" comment="" pos="VBG" />
+<NOUN id="n0" start="14" end="22" text="Backseat" comment="" />
+<NOUN id="n1" start="176" end="178" text="it" comment="" />
+<NOUN id="n2" start="281" end="289" text="vehicles" comment="" />
+<NOUN id="n3" start="399" end="407" text="features" comment="" />
+<NOUN id="n4" start="463" end="470" text="vehicle" comment="" />
+<NOUN id="n5" start="499" end="503" text="view" comment="" />
+<NOUN id="n6" start="608" end="616" text="railings" comment="" />
+<NOUN id="n7" start="740" end="747" text="railing" comment="" />
+<NOUN id="n8" start="780" end="788" text="openings" comment="" />
+<NOUN id="n9" start="842" end="845" text="art" comment="" />
+<NOUN id="n10" start="941" end="945" text="view" comment="" />
+<NOUN id="n11" start="1007" end="1013" text="Bridge" comment="" />
+<NOUN id="n12" start="1209" end="1213" text="deal" comment="" />
+<NOUN id="n13" start="1318" end="1325" text="pattern" comment="" />
+<NOUN id="n14" start="1382" end="1390" text="railings" comment="" />
+<NOUN id="n15" start="1470" end="1477" text="barrier" comment="" />
+<NOUN id="n16" start="1572" end="1580" text="POTABLES" comment="" />
+<NOUN id="n17" start="1726" end="1731" text="trays" comment="" />
+<NOUN id="n18" start="1799" end="1804" text="loops" comment="" />
+<NOUN id="n19" start="1919" end="1923" text="cups" comment="" />
+<NOUN id="n20" start="1995" end="2003" text="spilling" comment="" />
+<NOUN id="n21" start="2007" end="2011" text="Lids" comment="" />
+<NOUN id="n22" start="2091" end="2096" text="space" comment="" />
+<NOUN id="n23" start="2160" end="2162" text="it" comment="" />
+<NOUN id="n24" start="2165" end="2168" text="try" comment="" />
+<NOUN id="n25" start="2202" end="2210" text="problems" comment="" />
+<NOUN id="n26" start="2235" end="2244" text="something" comment="" />
+<NOUN id="n27" start="2257" end="2264" text="carrier" comment="" />
+<NOUN id="n28" start="2303" end="2307" text="hook" comment="" />
+<NOUN id="n29" start="2471" end="2476" text="World" comment="" />
+<NOUN id="n30" start="2528" end="2534" text="change" comment="" />
+<NOUN id="n31" start="2698" end="2703" text="gamut" comment="" />
+<NOUN id="n32" start="2830" end="2837" text="program" comment="" />
+<NOUN id="n33" start="2853" end="2861" text="teachers" comment="" />
+<NOUN id="n34" start="2973" end="2981" text="benefits" comment="" />
+<NOUN id="n35" start="3032" end="3039" text="clients" comment="" />
+<NOUN id="n36" start="3075" end="3083" text="exposure" comment="" />
+<NOUN id="n37" start="3140" end="3144" text="more" comment="" />
+<NOUN id="n38" start="3158" end="3166" text="products" comment="" />
+<NOUN id="n39" start="3255" end="3260" text="sense" comment="" />
+<NOUN id="n40" start="3307" end="3309" text="us" comment="" />
+<NOUN id="n41" start="3310" end="3316" text="things" comment="" />
+<NOUN id="n42" start="3355" end="3365" text="corkscrews" comment="" />
+<NOUN id="n43" start="3503" end="3511" text="products" comment="" />
+<NOUN id="n44" start="3546" end="3550" text="ones" comment="" />
+<NOUN id="n45" start="3594" end="3598" text="Root" comment="" />
+<NOUN id="n46" start="3684" end="3693" text="elevators" comment="" />
+<NOUN id="n47" start="3703" end="3712" text="prisoners" comment="" />
+<NOUN id="n48" start="3735" end="3747" text="overcrowding" comment="" />
+<NOUN id="n49" start="3774" end="3784" text="structures" comment="" />
+<NOUN id="n50" start="3845" end="3854" text="solutions" comment="" />
+<NOUN id="n51" start="3969" end="3974" text="walls" comment="" />
+<NOUN id="n52" start="4034" end="4039" text="cells" comment="" />
+<NOUN id="n53" start="4161" end="4167" text="muster" comment="" />
+<NOUN id="n54" start="4204" end="4210" text="visits" comment="" />
+<NOUN id="n55" start="4329" end="4333" text="them" comment="" />
+<NOUN id="n56" start="4454" end="4463" text="elevators" comment="" />
+<NOUN id="n57" start="4496" end="4499" text="one" comment="" />
+<NOUN id="n58" start="4562" end="4569" text="inmates" comment="" />
+<NOUN id="n59" start="4606" end="4612" text="prison" comment="" />
+<QLINK id="q0" fromID="s0" fromText="Takes" toID="n0" toText="Backseat" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="do" toID="n1" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="prevent" toID="n2" toText="vehicles" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="lose" toID="n3" toText="features" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="contain" toID="n4" toText="vehicle" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="provide" toID="n5" toText="view" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="install" toID="n6" toText="railings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="used" toID="n7" toText="railing" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q8" fromID="s8" fromText="replace" toID="n8" toText="openings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="teaches" toID="n9" toText="art" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="blocks" toID="n10" toText="view" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="replaced" toID="n11" toText="Bridge" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s12" fromText="negotiated" toID="n12" toText="deal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="have" toID="n13" toText="pattern" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="keep" toID="n14" toText="railings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="install" toID="n15" toText="barrier" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="PORTING" toID="n16" toText="POTABLES" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="replace" toID="n17" toText="trays" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="resembles" toID="n18" toText="loops" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="tote" toID="n19" toText="cups" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="eliminates" toID="n20" toText="spilling" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="needed" toID="n21" toText="Lids" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q22" fromID="s22" fromText="takes" toID="n22" toText="space" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="giving" toID="n23" toText="it" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q24" fromID="s23" fromText="giving" toID="n24" toText="try" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="acknowledges" toID="n25" toText="problems" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s25" fromText="find" toID="n26" toText="something" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s26" fromText="hang" toID="n27" toText="carrier" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="supplies" toID="n28" toText="hook" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s28" fromText="Touches" toID="n29" toText="World" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s29" fromText="promises" toID="n30" toText="change" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="runs" toID="n31" toText="gamut" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s31" fromText="includes" toID="n32" toText="program" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s32" fromText="swap" toID="n33" toText="teachers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s33" fromText="sees" toID="n34" toText="benefits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s34" fromText="have" toID="n35" toText="clients" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s35" fromText="get" toID="n36" toText="exposure" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s36" fromText="learn" toID="n37" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s37" fromText="making" toID="n38" toText="products" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s38" fromText="renew" toID="n39" toText="sense" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s39" fromText="asking" toID="n40" toText="us" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q41" fromID="s39" fromText="asking" toID="n41" toText="things" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s40" fromText="make" toID="n42" toText="corkscrews" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s41" fromText="improve" toID="n43" toText="products" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q44" fromID="s42" fromText="developing" toID="n44" toText="ones" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q45" fromID="s43" fromText="Take" toID="n45" toText="Root" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q46" fromID="s44" fromText="using" toID="n46" toText="elevators" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q47" fromID="s45" fromText="house" toID="n47" toText="prisoners" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q48" fromID="s46" fromText="ease" toID="n48" toText="overcrowding" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q49" fromID="s47" fromText="preserving" toID="n49" toText="structures" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q50" fromID="s48" fromText="seeking" toID="n50" toText="solutions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q51" fromID="s49" fromText="have" toID="n51" toText="walls" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q52" fromID="s50" fromText="contain" toID="n52" toText="cells" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q53" fromID="s51" fromText="pass" toID="n53" toText="muster" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q54" fromID="s52" fromText="permit" toID="n54" toText="visits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q55" fromID="s53" fromText="compared" toID="n55" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q56" fromID="s54" fromText="have" toID="n56" toText="elevators" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q57" fromID="s55" fromText="altered" toID="n57" toText="one" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q58" fromID="s56" fromText="house" toID="n58" toText="inmates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q59" fromID="s57" fromText="building" toID="n59" toText="prison" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

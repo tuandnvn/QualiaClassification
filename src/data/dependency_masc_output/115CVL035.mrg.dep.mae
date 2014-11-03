@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+July 30 , 1999 
+Name Address City , ST Zip 
+Dear Mr. Ratcliff : 
+CCI is a federation of 13 neighborhood - based multi-service centers whose mission is to identify and meet the human service needs of residents throughout Marion County in the most effective , efficient and comprehensive way possible . 
+In 1998 , we served a total of 31,484 low-income individuals through job training and placement assistance , youth and senior programming , family counseling , emergency assistance , and much more . 
+As you can see from the enclosed map , your Target store is located in the heart of four of our service areas . 
+The centers that serve these areas , Mary Rigg Neighborhood Center , Hawthorne Community Center , Southwest Multi-Service Center , and Christamore House , have teamed up to run an exciting job readiness program for 14 and 15 year old area residents called the Summer Enrichment Program . 
+Between June 21 and August 31 , 45 youth will spend 20 hours a week developing life management and work ethic skills , learning the computer , visiting area colleges , and interacting with guest speakers . 
+The end result will be kids who have a better understanding of and vision for their own future , be it college or a career . 
+The Summer Enrichment Program will conclude with a celebration that includes family and friends . 
+We would like to offer our youth a small reward for their participation by presenting them with gift certificates from Target . 
+Therefore , we are asking you to donate 45 , $ 10 gift certificates that can be used toward the purchase of school supplies or clothing , in the total amount of $ 450 . 
+In return , we will recognize Target as a sponsor during our event and in the event program . 
+Target is well known for its support of the community , and we believe that the Summer Enrichment Program represents your interests and concerns quite well . 
+I will be happy to supply any additional information you may need and thank you for your consideration of our request . 
+We look forward to hearing from you . 
+Sincerely , Valery De Long Director of Development 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="168" end="172" text="meet" comment="" pos="VB" />
+<SELECTOR id="s1" start="316" end="322" text="served" comment="" pos="VBD" />
+<SELECTOR id="s2" start="563" end="570" text="located" comment="" pos="VBN" />
+<SELECTOR id="s3" start="633" end="638" text="serve" comment="" pos="VBP" />
+<SELECTOR id="s4" start="789" end="792" text="run" comment="" pos="VB" />
+<SELECTOR id="s5" start="951" end="956" text="spend" comment="" pos="VB" />
+<SELECTOR id="s6" start="973" end="983" text="developing" comment="" pos="VBG" />
+<SELECTOR id="s7" start="1024" end="1032" text="learning" comment="" pos="VBG" />
+<SELECTOR id="s8" start="1048" end="1056" text="visiting" comment="" pos="VBG" />
+<SELECTOR id="s9" start="1144" end="1148" text="have" comment="" pos="VBP" />
+<SELECTOR id="s10" start="1306" end="1314" text="includes" comment="" pos="VBZ" />
+<SELECTOR id="s11" start="1354" end="1359" text="offer" comment="" pos="VB" />
+<SELECTOR id="s12" start="1412" end="1422" text="presenting" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1485" end="1491" text="asking" comment="" pos="VBG" />
+<SELECTOR id="s14" start="1499" end="1505" text="donate" comment="" pos="VB" />
+<SELECTOR id="s15" start="1546" end="1550" text="used" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1656" end="1665" text="recognize" comment="" pos="VB" />
+<SELECTOR id="s17" start="1746" end="1751" text="known" comment="" pos="VBN" />
+<SELECTOR id="s18" start="1837" end="1847" text="represents" comment="" pos="VBZ" />
+<SELECTOR id="s19" start="1960" end="1965" text="thank" comment="" pos="VBP" />
+<NOUN id="n0" start="191" end="196" text="needs" comment="" />
+<NOUN id="n1" start="325" end="330" text="total" comment="" />
+<NOUN id="n2" start="554" end="559" text="store" comment="" />
+<NOUN id="n3" start="645" end="650" text="areas" comment="" />
+<NOUN id="n4" start="819" end="826" text="program" comment="" />
+<NOUN id="n5" start="960" end="965" text="hours" comment="" />
+<NOUN id="n6" start="1015" end="1021" text="skills" comment="" />
+<NOUN id="n7" start="1037" end="1045" text="computer" comment="" />
+<NOUN id="n8" start="1062" end="1070" text="colleges" comment="" />
+<NOUN id="n9" start="1158" end="1171" text="understanding" comment="" />
+<NOUN id="n10" start="1315" end="1321" text="family" comment="" />
+<NOUN id="n11" start="1364" end="1369" text="youth" comment="" />
+<NOUN id="n12" start="1378" end="1384" text="reward" comment="" />
+<NOUN id="n13" start="1423" end="1427" text="them" comment="" />
+<NOUN id="n14" start="1492" end="1495" text="you" comment="" />
+<NOUN id="n15" start="1521" end="1533" text="certificates" comment="" />
+<NOUN id="n16" start="1534" end="1538" text="that" comment="" />
+<NOUN id="n17" start="1666" end="1672" text="Target" comment="" />
+<NOUN id="n18" start="1731" end="1737" text="Target" comment="" />
+<NOUN id="n19" start="1853" end="1862" text="interests" comment="" />
+<NOUN id="n20" start="1966" end="1969" text="you" comment="" />
+<QLINK id="q0" fromID="s0" fromText="meet" toID="n0" toText="needs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="served" toID="n1" toText="total" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="located" toID="n2" toText="store" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="serve" toID="n3" toText="areas" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="run" toID="n4" toText="program" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="spend" toID="n5" toText="hours" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="developing" toID="n6" toText="skills" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="learning" toID="n7" toText="computer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="visiting" toID="n8" toText="colleges" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="have" toID="n9" toText="understanding" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="includes" toID="n10" toText="family" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="offer" toID="n11" toText="youth" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q12" fromID="s11" fromText="offer" toID="n12" toText="reward" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="presenting" toID="n13" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="asking" toID="n14" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="donate" toID="n15" toText="certificates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="used" toID="n16" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q17" fromID="s16" fromText="recognize" toID="n17" toText="Target" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="known" toID="n18" toText="Target" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q19" fromID="s18" fromText="represents" toID="n19" toText="interests" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="thank" toID="n20" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

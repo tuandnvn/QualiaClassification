@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Hudson General Corp. 's president and chief executive officer , Alan J. Stearn , resigned . 
+Mr. Stearn , 46 years old , could n't be reached for comment . 
+A company spokesman declined to elaborate on the departure . 
+Hudson General , which provides maintenance , fueling and other services to airlines and airports , reported a loss for its most recent fiscal year and last month omitted the semiannual dividend on its common shares . 
+Mr. Stearn , who had been with the company more than 20 years and had been president since 1984 , will act as a consultant to Hudson General . 
+His duties as chief executive will be assumed by Chairman Jay B. Langner . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="135" end="142" text="reached" comment="" pos="VBN" />
+<SELECTOR id="s1" start="243" end="251" text="provides" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="320" end="328" text="reported" comment="" pos="VBD" />
+<SELECTOR id="s3" start="383" end="390" text="omitted" comment="" pos="VBD" />
+<SELECTOR id="s4" start="621" end="628" text="assumed" comment="" pos="VBN" />
+<NOUN id="n0" start="98" end="104" text="Stearn" comment="" />
+<NOUN id="n1" start="252" end="263" text="maintenance" comment="" />
+<NOUN id="n2" start="331" end="335" text="loss" comment="" />
+<NOUN id="n3" start="406" end="414" text="dividend" comment="" />
+<NOUN id="n4" start="587" end="593" text="duties" comment="" />
+<QLINK id="q0" fromID="s0" fromText="reached" toID="n0" toText="Stearn" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="provides" toID="n1" toText="maintenance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="reported" toID="n2" toText="loss" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="omitted" toID="n3" toText="dividend" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="assumed" toID="n4" toText="duties" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

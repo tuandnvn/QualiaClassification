@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Program trading is `` a racket , '' complains Edward Egnuss , a White Plains , N.Y. , investor and electronics sales executive , `` and it 's not to the benefit of the small investor , that 's for sure . '' 
+But although he thinks that it is hurting him , he doubts it could be stopped . 
+Mr. Egnuss 's dislike of program trading is echoed by many small investors interviewed by Wall Street Journal reporters across the country . 
+But like Mr. Egnuss , few expect it to be halted entirely , and a surprising number doubt it should be . 
+`` I think program trading is basically unfair to the individual investor , '' says Leo Fields , a Dallas investor . 
+He notes that program traders have a commission cost advantage because of the quantity of their trades , that they have a smaller margin requirement than individual investors do and that they often can figure out earlier where the market is heading . 
+But he blames program trading for only some of the market 's volatility . 
+He also considers the market overvalued and cites the troubles in junk bonds . 
+He adds : `` The market may be giving us another message , that a recession is looming . '' 
+Or , as Dorothy Arighi , an interior decorator in Arnold , Calif. , puts it : `` All kinds of funny things spook the market these days . '' 
+But she believes that `` program trading creates deviant swings . 
+It 's not a sound thing ; there 's no inherent virtue in it . '' 
+She adds that legislation curbing it would be `` a darned good idea . '' 
+At the Charles Schwab & Co. office in Atlanta 's Buckhead district , a group of investors voices skepticism that federal officials would curb program trading . 
+Citing the October 1987 crash , Glenn Miller says , `` It 's like the last crash -- they threatened , but no one did anything . '' 
+A. Donald Anderson , a 59-year-old Los Angeles investor who says the stock market 's `` fluctuations and gyrations give me the heebie-jeebies , '' does n't see much point in outlawing program trading . 
+Those who still want to do it `` will just find some way to get around '' any attempt to curb it . 
+Similarly , Rick Wamre , a 31-year-old asset manager for a Dallas real-estate firm , would like to see program trading disappear because `` I ca n't see that it does anything for the market or the country . '' 
+Yet he is n't in favor of new legislation . 
+`` I think we 've got enough securities laws , '' he says . 
+`` I 'd much rather see them dealing with interest rates and the deficit . '' 
+Peter Anthony , who runs an employment agency in New York , decries program trading as `` limiting the game to a few , '' but he also is n't sure it should be more strictly regulated . 
+`` I do n't want to denounce it because denouncing it would be like denouncing capitalism , '' he explains . 
+And surprising numbers of small investors seem to be adapting to greater stock market volatility and say they can live with program trading . 
+Glenn Britta , a 25-year-old New York financial analyst who plays options for his personal account , says he is `` factoring '' the market 's volatility `` into investment decisions . '' 
+He adds that program trading `` increases liquidity in the market . 
+You ca n't hold back technology . '' 
+And the practice should n't be stopped , he says , because `` even big players are n't immune to the rigors of program trading . '' 
+Also in New York , Israel Silverman , an insurance-company lawyer , comments that program trading `` increases volatility , but I do n't think it should be banned . 
+There 's no culprit here . 
+The market is just becoming more efficient . '' 
+Arbitraging on differences between spot and futures prices is an important part of many financial markets , he says . 
+He adds that his shares in a company savings plan are invested in a mutual fund , and volatility , on a given day , may hurt the fund . 
+But `` I 'm a long-term investor , '' he says . 
+`` If you were a short-term investor , you might be more leery about program trading . '' 
+Jim Enzor of Atlanta defends program trading because he believes that it can bring the market back up after a plunge . 
+`` If we have a real bad day , the program would say , ` Buy , ' '' he explains . 
+`` If you could get the rhythm of the program trading , you could take advantage of it . '' 
+What else can a small investor do ? 
+Scott Taccetta , a Chicago accountant , is going into money-market funds . 
+Mr. Taccetta says he had just recouped the $ 5,000 he lost in the 1987 crash when he lost more money last Oct. 13 . 
+Now , he plans to sell all his stocks by the first quarter of 1990 . 
+In October , before the market dropped , Mrs. Arighi of Arnold , Calif. , moved to sell the `` speculative stocks '' in her family trust `` so we will be able to withstand all this flim-flammery '' caused by program trading . 
+She believes that the only answer for individuals is to `` buy stocks that 'll weather any storm . '' 
+Lucille Gorman , an 84-year-old Chicago housewife , has become amazingly immune to stock-market jolts . 
+Mrs. Gorman took advantage of low prices after the 1987 crash to buy stocks and has hunted for other bargains since the Oct. 13 plunge . 
+`` My stocks are all blue chips , '' she says . 
+`` If the market goes down , I figure it 's paper profits I 'm losing . 
+On the other hand , if it goes way sky high , I always sell . 
+You do n't want to get yourself too upset about these things . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="243" end="250" text="hurting" comment="" pos="VBG" />
+<SELECTOR id="s1" start="279" end="286" text="stopped" comment="" pos="VBN" />
+<SELECTOR id="s2" start="334" end="340" text="echoed" comment="" pos="VBN" />
+<SELECTOR id="s3" start="474" end="480" text="halted" comment="" pos="VBN" />
+<SELECTOR id="s4" start="686" end="690" text="have" comment="" pos="VBP" />
+<SELECTOR id="s5" start="771" end="775" text="have" comment="" pos="VBP" />
+<SELECTOR id="s6" start="915" end="921" text="blames" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="1027" end="1032" text="cites" comment="" pos="VBZ" />
+<SELECTOR id="s8" start="1094" end="1100" text="giving" comment="" pos="VBG" />
+<SELECTOR id="s9" start="1224" end="1228" text="puts" comment="" pos="VBZ" />
+<SELECTOR id="s10" start="1263" end="1268" text="spook" comment="" pos="VBP" />
+<SELECTOR id="s11" start="1338" end="1345" text="creates" comment="" pos="VBZ" />
+<SELECTOR id="s12" start="1456" end="1463" text="curbing" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1594" end="1600" text="voices" comment="" pos="NNS" />
+<SELECTOR id="s14" start="1641" end="1645" text="curb" comment="" pos="VB" />
+<SELECTOR id="s15" start="1665" end="1671" text="Citing" comment="" pos="VBG" />
+<SELECTOR id="s16" start="1778" end="1781" text="did" comment="" pos="VBD" />
+<SELECTOR id="s17" start="1912" end="1916" text="give" comment="" pos="VBP" />
+<SELECTOR id="s18" start="1953" end="1956" text="see" comment="" pos="VB" />
+<SELECTOR id="s19" start="1971" end="1980" text="outlawing" comment="" pos="VBG" />
+<SELECTOR id="s20" start="2024" end="2026" text="do" comment="" pos="VB" />
+<SELECTOR id="s21" start="2043" end="2047" text="find" comment="" pos="VB" />
+<SELECTOR id="s22" start="2089" end="2093" text="curb" comment="" pos="VB" />
+<SELECTOR id="s23" start="2261" end="2265" text="does" comment="" pos="VBZ" />
+<SELECTOR id="s24" start="2374" end="2377" text="got" comment="" pos="VBN" />
+<SELECTOR id="s25" start="2516" end="2520" text="runs" comment="" pos="VBZ" />
+<SELECTOR id="s26" start="2556" end="2563" text="decries" comment="" pos="VBZ" />
+<SELECTOR id="s27" start="2586" end="2594" text="limiting" comment="" pos="VBG" />
+<SELECTOR id="s28" start="2669" end="2678" text="regulated" comment="" pos="VBN" />
+<SELECTOR id="s29" start="2702" end="2710" text="denounce" comment="" pos="VB" />
+<SELECTOR id="s30" start="2722" end="2732" text="denouncing" comment="" pos="VBG" />
+<SELECTOR id="s31" start="2750" end="2760" text="denouncing" comment="" pos="VBG" />
+<SELECTOR id="s32" start="2995" end="3000" text="plays" comment="" pos="VBZ" />
+<SELECTOR id="s33" start="3050" end="3059" text="factoring" comment="" pos="VBG" />
+<SELECTOR id="s34" start="3155" end="3164" text="increases" comment="" pos="VBZ" />
+<SELECTOR id="s35" start="3203" end="3207" text="hold" comment="" pos="VB" />
+<SELECTOR id="s36" start="3261" end="3268" text="stopped" comment="" pos="VBN" />
+<SELECTOR id="s37" start="3464" end="3473" text="increases" comment="" pos="VBZ" />
+<SELECTOR id="s38" start="3519" end="3525" text="banned" comment="" pos="VBN" />
+<SELECTOR id="s39" start="3779" end="3787" text="invested" comment="" pos="VBN" />
+<SELECTOR id="s40" start="3845" end="3849" text="hurt" comment="" pos="VB" />
+<SELECTOR id="s41" start="4023" end="4030" text="defends" comment="" pos="VBZ" />
+<SELECTOR id="s42" start="4079" end="4084" text="bring" comment="" pos="VB" />
+<SELECTOR id="s43" start="4131" end="4135" text="have" comment="" pos="VBP" />
+<SELECTOR id="s44" start="4221" end="4224" text="get" comment="" pos="VB" />
+<SELECTOR id="s45" start="4271" end="4275" text="take" comment="" pos="VB" />
+<SELECTOR id="s46" start="4329" end="4331" text="do" comment="" pos="VB" />
+<SELECTOR id="s47" start="4441" end="4449" text="recouped" comment="" pos="VBN" />
+<SELECTOR id="s48" start="4496" end="4500" text="lost" comment="" pos="VBD" />
+<SELECTOR id="s49" start="4546" end="4550" text="sell" comment="" pos="VB" />
+<SELECTOR id="s50" start="4681" end="4685" text="sell" comment="" pos="VB" />
+<SELECTOR id="s51" start="4760" end="4769" text="withstand" comment="" pos="VB" />
+<SELECTOR id="s52" start="4884" end="4887" text="buy" comment="" pos="VB" />
+<SELECTOR id="s53" start="4904" end="4911" text="weather" comment="" pos="VB" />
+<SELECTOR id="s54" start="5045" end="5049" text="took" comment="" pos="VBD" />
+<SELECTOR id="s55" start="5098" end="5101" text="buy" comment="" pos="VB" />
+<NOUN id="n0" start="251" end="254" text="him" comment="" />
+<NOUN id="n1" start="267" end="269" text="it" comment="" />
+<NOUN id="n2" start="304" end="311" text="dislike" comment="" />
+<NOUN id="n3" start="465" end="467" text="it" comment="" />
+<NOUN id="n4" start="709" end="718" text="advantage" comment="" />
+<NOUN id="n5" start="793" end="804" text="requirement" comment="" />
+<NOUN id="n6" start="930" end="937" text="trading" comment="" />
+<NOUN id="n7" start="1037" end="1045" text="troubles" comment="" />
+<NOUN id="n8" start="1101" end="1103" text="us" comment="" />
+<NOUN id="n9" start="1112" end="1119" text="message" comment="" />
+<NOUN id="n10" start="1229" end="1231" text="it" comment="" />
+<NOUN id="n11" start="1273" end="1279" text="market" comment="" />
+<NOUN id="n12" start="1354" end="1360" text="swings" comment="" />
+<NOUN id="n13" start="1464" end="1466" text="it" comment="" />
+<NOUN id="n14" start="1601" end="1611" text="skepticism" comment="" />
+<NOUN id="n15" start="1654" end="1661" text="trading" comment="" />
+<NOUN id="n16" start="1689" end="1694" text="crash" comment="" />
+<NOUN id="n17" start="1782" end="1790" text="anything" comment="" />
+<NOUN id="n18" start="1917" end="1919" text="me" comment="" />
+<NOUN id="n19" start="1924" end="1938" text="heebie-jeebies" comment="" />
+<NOUN id="n20" start="1962" end="1967" text="point" comment="" />
+<NOUN id="n21" start="1989" end="1996" text="trading" comment="" />
+<NOUN id="n22" start="2027" end="2029" text="it" comment="" />
+<NOUN id="n23" start="2053" end="2056" text="way" comment="" />
+<NOUN id="n24" start="2094" end="2096" text="it" comment="" />
+<NOUN id="n25" start="2266" end="2274" text="anything" comment="" />
+<NOUN id="n26" start="2396" end="2400" text="laws" comment="" />
+<NOUN id="n27" start="2535" end="2541" text="agency" comment="" />
+<NOUN id="n28" start="2572" end="2579" text="trading" comment="" />
+<NOUN id="n29" start="2599" end="2603" text="game" comment="" />
+<NOUN id="n30" start="2642" end="2644" text="it" comment="" />
+<NOUN id="n31" start="2711" end="2713" text="it" comment="" />
+<NOUN id="n32" start="2733" end="2735" text="it" comment="" />
+<NOUN id="n33" start="2761" end="2771" text="capitalism" comment="" />
+<NOUN id="n34" start="3001" end="3008" text="options" comment="" />
+<NOUN id="n35" start="3077" end="3087" text="volatility" comment="" />
+<NOUN id="n36" start="3165" end="3174" text="liquidity" comment="" />
+<NOUN id="n37" start="3213" end="3223" text="technology" comment="" />
+<NOUN id="n38" start="3238" end="3246" text="practice" comment="" />
+<NOUN id="n39" start="3474" end="3484" text="volatility" comment="" />
+<NOUN id="n40" start="3506" end="3508" text="it" comment="" />
+<NOUN id="n41" start="3742" end="3748" text="shares" comment="" />
+<NOUN id="n42" start="3854" end="3858" text="fund" comment="" />
+<NOUN id="n43" start="4039" end="4046" text="trading" comment="" />
+<NOUN id="n44" start="4089" end="4095" text="market" comment="" />
+<NOUN id="n45" start="4147" end="4150" text="day" comment="" />
+<NOUN id="n46" start="4229" end="4235" text="rhythm" comment="" />
+<NOUN id="n47" start="4276" end="4285" text="advantage" comment="" />
+<NOUN id="n48" start="4298" end="4302" text="What" comment="" />
+<NOUN id="n49" start="4456" end="4461" text="5,000" comment="" />
+<NOUN id="n50" start="4506" end="4511" text="money" comment="" />
+<NOUN id="n51" start="4559" end="4565" text="stocks" comment="" />
+<NOUN id="n52" start="4705" end="4711" text="stocks" comment="" />
+<NOUN id="n53" start="4779" end="4792" text="flim-flammery" comment="" />
+<NOUN id="n54" start="4888" end="4894" text="stocks" comment="" />
+<NOUN id="n55" start="4916" end="4921" text="storm" comment="" />
+<NOUN id="n56" start="5050" end="5059" text="advantage" comment="" />
+<NOUN id="n57" start="5102" end="5108" text="stocks" comment="" />
+<QLINK id="q0" fromID="s0" fromText="hurting" toID="n0" toText="him" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="stopped" toID="n1" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="echoed" toID="n2" toText="dislike" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="halted" toID="n3" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="have" toID="n4" toText="advantage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="have" toID="n5" toText="requirement" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="blames" toID="n6" toText="trading" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="cites" toID="n7" toText="troubles" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="giving" toID="n8" toText="us" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q9" fromID="s8" fromText="giving" toID="n9" toText="message" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="puts" toID="n10" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s10" fromText="spook" toID="n11" toText="market" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="creates" toID="n12" toText="swings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="curbing" toID="n13" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="voices" toID="n14" toText="skepticism" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="curb" toID="n15" toText="trading" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="Citing" toID="n16" toText="crash" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="did" toID="n17" toText="anything" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="give" toID="n18" toText="me" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q19" fromID="s17" fromText="give" toID="n19" toText="heebie-jeebies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s18" fromText="see" toID="n20" toText="point" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s19" fromText="outlawing" toID="n21" toText="trading" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s20" fromText="do" toID="n22" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s21" fromText="find" toID="n23" toText="way" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s22" fromText="curb" toID="n24" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s23" fromText="does" toID="n25" toText="anything" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s24" fromText="got" toID="n26" toText="laws" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s25" fromText="runs" toID="n27" toText="agency" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s26" fromText="decries" toID="n28" toText="trading" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s27" fromText="limiting" toID="n29" toText="game" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s28" fromText="regulated" toID="n30" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q31" fromID="s29" fromText="denounce" toID="n31" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s30" fromText="denouncing" toID="n32" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s31" fromText="denouncing" toID="n33" toText="capitalism" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s32" fromText="plays" toID="n34" toText="options" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s33" fromText="factoring" toID="n35" toText="volatility" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s34" fromText="increases" toID="n36" toText="liquidity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s35" fromText="hold" toID="n37" toText="technology" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s36" fromText="stopped" toID="n38" toText="practice" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q39" fromID="s37" fromText="increases" toID="n39" toText="volatility" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s38" fromText="banned" toID="n40" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q41" fromID="s39" fromText="invested" toID="n41" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q42" fromID="s40" fromText="hurt" toID="n42" toText="fund" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s41" fromText="defends" toID="n43" toText="trading" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q44" fromID="s42" fromText="bring" toID="n44" toText="market" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q45" fromID="s43" fromText="have" toID="n45" toText="day" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q46" fromID="s44" fromText="get" toID="n46" toText="rhythm" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q47" fromID="s45" fromText="take" toID="n47" toText="advantage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q48" fromID="s46" fromText="do" toID="n48" toText="What" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q49" fromID="s47" fromText="recouped" toID="n49" toText="5,000" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q50" fromID="s48" fromText="lost" toID="n50" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q51" fromID="s49" fromText="sell" toID="n51" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q52" fromID="s50" fromText="sell" toID="n52" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q53" fromID="s51" fromText="withstand" toID="n53" toText="flim-flammery" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q54" fromID="s52" fromText="buy" toID="n54" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q55" fromID="s53" fromText="weather" toID="n55" toText="storm" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q56" fromID="s54" fromText="took" toID="n56" toText="advantage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q57" fromID="s55" fromText="buy" toID="n57" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+In reference to your Oct. 9 page-one article `` Barbara Bush Earns Even Higher Ratings Than the President , '' it is regrettable that you must continually define blacks by our negatives : `` Among liberals , 60 % have positive views of her , while 50 % approve of the president 's job performance . 
+In part , this may reflect the fact that ` she speaks a more progressive language ' than her husband , as Columbia 's Prof . { Ethel } Klein puts it . 
+Among professionals , 76 % have a favorable opinion of her , compared to 62 % who approve of her husband 's performance . 
+While a quarter of black voters disapprove of Mr. Bush 's handling of his job , only 15 % have a negative view of his spouse . '' 
+The statistics imply that three-quarters of blacks approve of Mr. Bush 's job performance and 85 % of blacks approve of Mrs. Bush . 
+If the assumption is that it is surprising that so few blacks find Mr. and Mrs. Bush distasteful , the positive view is even more newsworthy . 
+Such an editorial point of view perpetuates an insidious , stereotyped perspective . 
+Why are we blacks continually defined by our minority and the lowest common denominator . 
+Preston G. Foster Birmingham , Ala . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="62" end="67" text="Earns" comment="" pos="VBZ" />
+<SELECTOR id="s1" start="156" end="162" text="define" comment="" pos="VB" />
+<SELECTOR id="s2" start="214" end="218" text="have" comment="" pos="VBP" />
+<SELECTOR id="s3" start="320" end="327" text="reflect" comment="" pos="VB" />
+<SELECTOR id="s4" start="348" end="354" text="speaks" comment="" pos="VBZ" />
+<SELECTOR id="s5" start="442" end="446" text="puts" comment="" pos="VBZ" />
+<SELECTOR id="s6" start="480" end="484" text="have" comment="" pos="VBP" />
+<SELECTOR id="s7" start="666" end="670" text="have" comment="" pos="VBP" />
+<SELECTOR id="s8" start="1016" end="1027" text="perpetuates" comment="" pos="VBZ" />
+<SELECTOR id="s9" start="1100" end="1107" text="defined" comment="" pos="VBN" />
+<NOUN id="n0" start="80" end="87" text="Ratings" comment="" />
+<NOUN id="n1" start="163" end="169" text="blacks" comment="" />
+<NOUN id="n2" start="228" end="233" text="views" comment="" />
+<NOUN id="n3" start="332" end="336" text="fact" comment="" />
+<NOUN id="n4" start="374" end="382" text="language" comment="" />
+<NOUN id="n5" start="447" end="449" text="it" comment="" />
+<NOUN id="n6" start="497" end="504" text="opinion" comment="" />
+<NOUN id="n7" start="682" end="686" text="view" comment="" />
+<NOUN id="n8" start="1055" end="1066" text="perspective" comment="" />
+<NOUN id="n9" start="1078" end="1080" text="we" comment="" />
+<QLINK id="q0" fromID="s0" fromText="Earns" toID="n0" toText="Ratings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="define" toID="n1" toText="blacks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="have" toID="n2" toText="views" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="reflect" toID="n3" toText="fact" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="speaks" toID="n4" toText="language" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="puts" toID="n5" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="have" toID="n6" toText="opinion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="have" toID="n7" toText="view" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="perpetuates" toID="n8" toText="perspective" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="defined" toID="n9" toText="we" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

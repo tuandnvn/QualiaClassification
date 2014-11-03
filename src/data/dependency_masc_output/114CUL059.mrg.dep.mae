@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+July 25 , 1997 
+Dear Name , 
+What a Summer ! 
+And we 're just getting started ! 
+I hope you 'll consider continuing your support of Jameson 's special campers by renewing your last gift of $ xxx . 
+I can tell you we need your help now as much as ever before . 
+All of our Six summer camping sessions are booked to capacity ( and , truth be told , with maybe one our two extra returning campers squeezed in ) and we have a waiting list of 60 children who are hoping to come if a spot should open . 
+Many more camper referrals are coming from new organizations such as school social-workers and family counseling agencies . 
+It seems summer options are n't readily available for troubled kids whose families have limited incomes , so we 're doing all we can to make Jameson available . 
+That " we " includes the Youth Leadership teens . 
+These 60 or so campers have taken on a fund raiser with a goal of raising $ 16,000 for camperships . 
+Two of them told me yesterday that as a group they decided they had to earn the right to ask others for help by accomplishing something real to help themselves . 
+And that 's from kids many people see as a problem . 
+Even after the summer sessions come to a close , Jameson campers will take part in year-round programs designed to keep that positive contact with peers and role models alive and important . 
+We 've scheduled more than 15 follow-up camper weekends beginning in September and going around till next summer 's camping season . 
+Please , consider renewing your support of these great kids today . 
+Sincerely , Julie Marsh Executive Director 
+P.S. 
+We know our follow-up weekends are going to be better attended than ever this fall and winter . 
+If you can give a little more to help meet this increased expense we would appreciate your support . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="106" end="116" text="continuing" comment="" pos="VBG" />
+<SELECTOR id="s1" start="163" end="171" text="renewing" comment="" pos="VBG" />
+<SELECTOR id="s2" start="205" end="209" text="tell" comment="" pos="VB" />
+<SELECTOR id="s3" start="217" end="221" text="need" comment="" pos="VBP" />
+<SELECTOR id="s4" start="305" end="311" text="booked" comment="" pos="VBN" />
+<SELECTOR id="s5" start="341" end="345" text="told" comment="" pos="VBN" />
+<SELECTOR id="s6" start="416" end="420" text="have" comment="" pos="VBP" />
+<SELECTOR id="s7" start="707" end="711" text="have" comment="" pos="VBP" />
+<SELECTOR id="s8" start="740" end="745" text="doing" comment="" pos="VBG" />
+<SELECTOR id="s9" start="798" end="806" text="includes" comment="" pos="VBZ" />
+<SELECTOR id="s10" start="865" end="870" text="taken" comment="" pos="VBN" />
+<SELECTOR id="s11" start="903" end="910" text="raising" comment="" pos="VBG" />
+<SELECTOR id="s12" start="951" end="955" text="told" comment="" pos="VBD" />
+<SELECTOR id="s13" start="1010" end="1014" text="earn" comment="" pos="VB" />
+<SELECTOR id="s14" start="1028" end="1031" text="ask" comment="" pos="VB" />
+<SELECTOR id="s15" start="1051" end="1064" text="accomplishing" comment="" pos="VBG" />
+<SELECTOR id="s16" start="1083" end="1087" text="help" comment="" pos="VB" />
+<SELECTOR id="s17" start="1226" end="1230" text="take" comment="" pos="VB" />
+<SELECTOR id="s18" start="1271" end="1275" text="keep" comment="" pos="VB" />
+<SELECTOR id="s19" start="1355" end="1364" text="scheduled" comment="" pos="VBN" />
+<SELECTOR id="s20" start="1500" end="1508" text="renewing" comment="" pos="VBG" />
+<SELECTOR id="s21" start="1709" end="1713" text="give" comment="" pos="VB" />
+<SELECTOR id="s22" start="1736" end="1740" text="meet" comment="" pos="VB" />
+<SELECTOR id="s23" start="1773" end="1783" text="appreciate" comment="" pos="VB" />
+<NOUN id="n0" start="122" end="129" text="support" comment="" />
+<NOUN id="n1" start="182" end="186" text="gift" comment="" />
+<NOUN id="n2" start="210" end="213" text="you" comment="" />
+<NOUN id="n3" start="227" end="231" text="help" comment="" />
+<NOUN id="n4" start="262" end="265" text="All" comment="" />
+<NOUN id="n5" start="332" end="337" text="truth" comment="" />
+<NOUN id="n6" start="431" end="435" text="list" comment="" />
+<NOUN id="n7" start="720" end="727" text="incomes" comment="" />
+<NOUN id="n8" start="746" end="749" text="all" comment="" />
+<NOUN id="n9" start="828" end="833" text="teens" comment="" />
+<NOUN id="n10" start="881" end="887" text="raiser" comment="" />
+<NOUN id="n11" start="913" end="919" text="16,000" comment="" />
+<NOUN id="n12" start="956" end="958" text="me" comment="" />
+<NOUN id="n13" start="1019" end="1024" text="right" comment="" />
+<NOUN id="n14" start="1032" end="1038" text="others" comment="" />
+<NOUN id="n15" start="1065" end="1074" text="something" comment="" />
+<NOUN id="n16" start="1088" end="1098" text="themselves" comment="" />
+<NOUN id="n17" start="1231" end="1235" text="part" comment="" />
+<NOUN id="n18" start="1290" end="1297" text="contact" comment="" />
+<NOUN id="n19" start="1395" end="1403" text="weekends" comment="" />
+<NOUN id="n20" start="1514" end="1521" text="support" comment="" />
+<NOUN id="n21" start="1723" end="1727" text="more" comment="" />
+<NOUN id="n22" start="1756" end="1763" text="expense" comment="" />
+<NOUN id="n23" start="1789" end="1796" text="support" comment="" />
+<QLINK id="q0" fromID="s0" fromText="continuing" toID="n0" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="renewing" toID="n1" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="tell" toID="n2" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="need" toID="n3" toText="help" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="booked" toID="n4" toText="All" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="told" toID="n5" toText="truth" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="have" toID="n6" toText="list" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="have" toID="n7" toText="incomes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="doing" toID="n8" toText="all" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="includes" toID="n9" toText="teens" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="taken" toID="n10" toText="raiser" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="raising" toID="n11" toText="16,000" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="told" toID="n12" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="earn" toID="n13" toText="right" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="ask" toID="n14" toText="others" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="accomplishing" toID="n15" toText="something" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="help" toID="n16" toText="themselves" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="take" toID="n17" toText="part" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="keep" toID="n18" toText="contact" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="scheduled" toID="n19" toText="weekends" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="renewing" toID="n20" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="give" toID="n21" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="meet" toID="n22" toText="expense" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="appreciate" toID="n23" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

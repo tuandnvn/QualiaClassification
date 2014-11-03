@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+LTV Corp. said a federal bankruptcy court judge agreed to extend until March 8 , 1990 , the period in which the steel , aerospace and energy products company has the exclusive right to file a reorganization plan . 
+The company is operating under Chapter 11 of the federal Bankruptcy Code , giving it court protection from creditors ' lawsuits while it attempts to work out a plan to pay its debts . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="59" end="65" text="extend" comment="" pos="VB" />
+<SELECTOR id="s1" start="159" end="162" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="186" end="190" text="file" comment="" pos="VB" />
+<SELECTOR id="s3" start="291" end="297" text="giving" comment="" pos="VBG" />
+<SELECTOR id="s4" start="365" end="369" text="work" comment="" pos="VB" />
+<SELECTOR id="s5" start="384" end="387" text="pay" comment="" pos="VB" />
+<NOUN id="n0" start="93" end="99" text="period" comment="" />
+<NOUN id="n1" start="177" end="182" text="right" comment="" />
+<NOUN id="n2" start="208" end="212" text="plan" comment="" />
+<NOUN id="n3" start="298" end="300" text="it" comment="" />
+<NOUN id="n4" start="307" end="317" text="protection" comment="" />
+<NOUN id="n5" start="376" end="380" text="plan" comment="" />
+<NOUN id="n6" start="392" end="397" text="debts" comment="" />
+<QLINK id="q0" fromID="s0" fromText="extend" toID="n0" toText="period" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="has" toID="n1" toText="right" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="file" toID="n2" toText="plan" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="giving" toID="n3" toText="it" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q4" fromID="s3" fromText="giving" toID="n4" toText="protection" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s4" fromText="work" toID="n5" toText="plan" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s5" fromText="pay" toID="n6" toText="debts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The White House said President Bush has approved duty-free treatment for imports of certain types of watches that are n't produced in `` significant quantities '' in the U.S. , the Virgin Islands and other U.S. possessions . 
+The action came in response to a petition filed by Timex Inc. for changes in the U.S. Generalized System of Preferences for imports from developing nations . 
+Previously , watch imports were denied such duty-free treatment . 
+Timex had requested duty-free treatment for many types of watches , covered by 58 different U.S. tariff classifications . 
+The White House said Mr. Bush decided to grant duty-free status for 18 categories , but turned down such treatment for other types of watches `` because of the potential for material injury to watch producers located in the U.S. and the Virgin Islands . '' 
+Timex is a major U.S. producer and seller of watches , including low-priced battery-operated watches assembled in the Philippines and other developing nations covered by the U.S. tariff preferences . 
+U.S. trade officials said the Philippines and Thailand would be the main beneficiaries of the president 's action . 
+Imports of the types of watches that now will be eligible for duty-free treatment totaled about $ 37.3 million in 1988 , a relatively small share of the $ 1.5 billion in U.S. watch imports that year , according to an aide to U.S. Trade Representative Carla Hills . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="41" end="49" text="approved" comment="" pos="VBN" />
+<SELECTOR id="s1" start="123" end="131" text="produced" comment="" pos="VBN" />
+<SELECTOR id="s2" start="418" end="424" text="denied" comment="" pos="VBN" />
+<SELECTOR id="s3" start="463" end="472" text="requested" comment="" pos="VBN" />
+<SELECTOR id="s4" start="617" end="622" text="grant" comment="" pos="VB" />
+<SELECTOR id="s5" start="664" end="670" text="turned" comment="" pos="VBD" />
+<SELECTOR id="s6" start="1234" end="1241" text="totaled" comment="" pos="VBD" />
+<NOUN id="n0" start="60" end="69" text="treatment" comment="" />
+<NOUN id="n1" start="110" end="114" text="that" comment="" />
+<NOUN id="n2" start="405" end="412" text="imports" comment="" />
+<NOUN id="n3" start="440" end="449" text="treatment" comment="" />
+<NOUN id="n4" start="483" end="492" text="treatment" comment="" />
+<NOUN id="n5" start="633" end="639" text="status" comment="" />
+<NOUN id="n6" start="681" end="690" text="treatment" comment="" />
+<NOUN id="n7" start="1255" end="1262" text="million" comment="" />
+<QLINK id="q0" fromID="s0" fromText="approved" toID="n0" toText="treatment" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="produced" toID="n1" toText="that" comment="" qType="AGENTIVE" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="denied" toID="n2" toText="imports" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s2" fromText="denied" toID="n3" toText="treatment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s3" fromText="requested" toID="n4" toText="treatment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s4" fromText="grant" toID="n5" toText="status" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s5" fromText="turned" toID="n6" toText="treatment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s6" fromText="totaled" toID="n7" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

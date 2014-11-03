@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Troubled NBI Inc. said it fired more than half its work force and is discontinuing its hardware business to focus on its software and service operations . 
+The ailing company , which has reported net losses for 16 consecutive quarters , said it wo n't manufacture network computer systems any more and will greatly reduce its costly direct sales force . 
+Altogether , NBI said it will eliminate 266 jobs at its Boulder headquarters , 176 field sales jobs and 50 jobs at its Canadian and United Kingdom headquarters . 
+The company 's work force will fall to about 400 people . 
+Stephen G. Jerritts , president and chief executive officer , said customers were n't willing to commit to an expensive NBI hardware systems because of the company 's financial troubles . 
+Further , he said , the company does n't have the capital needed to build the business over the next year or two . 
+`` We flat ran out of financing resources , '' Mr. Jerritts said . 
+`` We had to do something structurally and radically different . '' 
+As a result , he said NBI will focus on servicing its installed base of systems , trying to provide maintenance for other manufacturers and expanding its software business , using some of the applications it developed for its hardware . 
+The company currently offers a word-processing package for personal computers called Legend . 
+The company , which recently said it lacked the profits and capital to pay dividends on its Series A convertible preferred stock , said it has hired an investment banker to help it raise additional cash . 
+In New York Stock Exchange composite trading yesterday , NBI common closed at 93 cents a share , up 31 cents . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="27" end="32" text="fired" comment="" pos="VBD" />
+<SELECTOR id="s1" start="70" end="83" text="discontinuing" comment="" pos="VBG" />
+<SELECTOR id="s2" start="188" end="196" text="reported" comment="" pos="VBN" />
+<SELECTOR id="s3" start="253" end="264" text="manufacture" comment="" pos="VB" />
+<SELECTOR id="s4" start="316" end="322" text="reduce" comment="" pos="VB" />
+<SELECTOR id="s5" start="386" end="395" text="eliminate" comment="" pos="VB" />
+<SELECTOR id="s6" start="808" end="812" text="have" comment="" pos="VB" />
+<SELECTOR id="s7" start="835" end="840" text="build" comment="" pos="VB" />
+<SELECTOR id="s8" start="964" end="966" text="do" comment="" pos="VB" />
+<SELECTOR id="s9" start="1060" end="1069" text="servicing" comment="" pos="VBG" />
+<SELECTOR id="s10" start="1112" end="1119" text="provide" comment="" pos="VB" />
+<SELECTOR id="s11" start="1160" end="1169" text="expanding" comment="" pos="VBG" />
+<SELECTOR id="s12" start="1194" end="1199" text="using" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1280" end="1286" text="offers" comment="" pos="VBZ" />
+<SELECTOR id="s14" start="1390" end="1396" text="lacked" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1424" end="1427" text="pay" comment="" pos="VB" />
+<SELECTOR id="s16" start="1496" end="1501" text="hired" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1534" end="1539" text="raise" comment="" pos="VB" />
+<NOUN id="n0" start="57" end="62" text="force" comment="" />
+<NOUN id="n1" start="97" end="105" text="business" comment="" />
+<NOUN id="n2" start="201" end="207" text="losses" comment="" />
+<NOUN id="n3" start="282" end="289" text="systems" comment="" />
+<NOUN id="n4" start="347" end="352" text="force" comment="" />
+<NOUN id="n5" start="400" end="404" text="jobs" comment="" />
+<NOUN id="n6" start="817" end="824" text="capital" comment="" />
+<NOUN id="n7" start="845" end="853" text="business" comment="" />
+<NOUN id="n8" start="967" end="976" text="something" comment="" />
+<NOUN id="n9" start="1084" end="1088" text="base" comment="" />
+<NOUN id="n10" start="1120" end="1131" text="maintenance" comment="" />
+<NOUN id="n11" start="1183" end="1191" text="business" comment="" />
+<NOUN id="n12" start="1200" end="1204" text="some" comment="" />
+<NOUN id="n13" start="1305" end="1312" text="package" comment="" />
+<NOUN id="n14" start="1401" end="1408" text="profits" comment="" />
+<NOUN id="n15" start="1428" end="1437" text="dividends" comment="" />
+<NOUN id="n16" start="1516" end="1522" text="banker" comment="" />
+<NOUN id="n17" start="1551" end="1555" text="cash" comment="" />
+<QLINK id="q0" fromID="s0" fromText="fired" toID="n0" toText="force" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="discontinuing" toID="n1" toText="business" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="reported" toID="n2" toText="losses" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="manufacture" toID="n3" toText="systems" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="reduce" toID="n4" toText="force" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="eliminate" toID="n5" toText="jobs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="have" toID="n6" toText="capital" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="build" toID="n7" toText="business" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="do" toID="n8" toText="something" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="servicing" toID="n9" toText="base" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="provide" toID="n10" toText="maintenance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="expanding" toID="n11" toText="business" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="using" toID="n12" toText="some" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="offers" toID="n13" toText="package" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="lacked" toID="n14" toText="profits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="pay" toID="n15" toText="dividends" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="hired" toID="n16" toText="banker" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="raise" toID="n17" toText="cash" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

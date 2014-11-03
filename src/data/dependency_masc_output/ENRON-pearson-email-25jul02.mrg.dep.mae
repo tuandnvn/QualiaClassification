@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<LU_ANNOTATE> 
+HOWDY , WHAT 'S BEEN GOING ON AMIGO . 
+I HAVE NOT TALKED TO YOU IN A WHILE . 
+GIVE YOU THE SCOPE OF WHAT {WHATS} 'S BEEN GOING ON WITH ME . 
+I LEFT OILSTATES BACK IN MARCH WITH ANOTHER COMPANY . 
+DID A LOT OF TRAVELING AND THEY ( OILSTATES ) MADE ME A SWEET OFFER TO COME BACK . 
+SO I AM BACK . 
+WHO 'S GETTING MARRIED ? 
+SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY . 
+GIVE ME A CALL SOMETIME 
+CELL : 713 991-5621 . 
+ROB 
+</LU_ANNOTATE_WC=91> 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="37" end="42" text="GOING" comment="" pos="VBG" />
+<SELECTOR id="s1" start="94" end="98" text="GIVE" comment="" pos="VB" />
+<SELECTOR id="s2" start="137" end="142" text="GOING" comment="" pos="VBG" />
+<SELECTOR id="s3" start="159" end="163" text="LEFT" comment="" pos="VBD" />
+<SELECTOR id="s4" start="212" end="215" text="DID" comment="" pos="VBD" />
+<SELECTOR id="s5" start="258" end="262" text="MADE" comment="" pos="VBD" />
+<SELECTOR id="s6" start="327" end="334" text="MARRIED" comment="" pos="VBN" />
+<SELECTOR id="s7" start="396" end="400" text="GIVE" comment="" pos="VB" />
+<NOUN id="n0" start="24" end="28" text="WHAT" comment="" />
+<NOUN id="n1" start="99" end="102" text="YOU" comment="" />
+<NOUN id="n2" start="107" end="112" text="SCOPE" comment="" />
+<NOUN id="n3" start="116" end="120" text="WHAT" comment="" />
+<NOUN id="n4" start="164" end="173" text="OILSTATES" comment="" />
+<NOUN id="n5" start="218" end="221" text="LOT" comment="" />
+<NOUN id="n6" start="263" end="265" text="ME" comment="" />
+<NOUN id="n7" start="274" end="279" text="OFFER" comment="" />
+<NOUN id="n8" start="312" end="315" text="WHO" comment="" />
+<NOUN id="n9" start="401" end="403" text="ME" comment="" />
+<NOUN id="n10" start="406" end="410" text="CALL" comment="" />
+<QLINK id="q0" fromID="s0" fromText="GOING" toID="n0" toText="WHAT" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="GIVE" toID="n1" toText="YOU" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q2" fromID="s1" fromText="GIVE" toID="n2" toText="SCOPE" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s2" fromText="GOING" toID="n3" toText="WHAT" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s3" fromText="LEFT" toID="n4" toText="OILSTATES" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s4" fromText="DID" toID="n5" toText="LOT" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s5" fromText="MADE" toID="n6" toText="ME" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q7" fromID="s5" fromText="MADE" toID="n7" toText="OFFER" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s6" fromText="MARRIED" toID="n8" toText="WHO" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s7" fromText="GIVE" toID="n9" toText="ME" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q10" fromID="s7" fromText="GIVE" toID="n10" toText="CALL" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

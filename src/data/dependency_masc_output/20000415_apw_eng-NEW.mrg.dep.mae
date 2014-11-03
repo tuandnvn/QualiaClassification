@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Ohio Congressman Arrives in Jordan 
+<LU_ANNOTATE> 
+AMMAN , Jordan ( AP ) 
+U. S. Representative Tony Hall arrived in Jordan on Saturday en route to Iraq , where he is expected to look into the plight of Iraqis after nearly 10 years of U. N. trade sanctions . 
+Hall , an Ohio Democrat and one of very few U. S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12 - hour overland trip to the Iraqi capital , Baghdad . 
+He did not speak to reporters in Jordan , but he told The Associated Press before leaving the United States that he hopes to " separate the humanitarian work from the political issues . " 
+During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition . 
+He said he would pay particular attention to what happens to food and medicine entering the country under the U. N. oil - for - food program . 
+If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether " Iraq needs to get out of the way and let us do the job . " 
+</LU_ANNOTATE_WC=_196> 
+The Iraqi government blames the embargo for the malnutrition , infant mortality and other hardships . 
+The sanctions can not be lifted until U. N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them . 
+Iraq says it has done so and has barred inspectors since late 1998 . 
+At least one other congressman has visited Iraq . 
+Energy Secretary Bill Richardson went to Baghdad in 1995 while a representative for New Mexico . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="167" end="175" text="expected" comment="" pos="VBN" />
+<SELECTOR id="s1" start="377" end="386" text="scheduled" comment="" pos="VBN" />
+<SELECTOR id="s2" start="325" end="330" text="visit" comment="" pos="VB" />
+<SELECTOR id="s3" start="390" end="396" text="embark" comment="" pos="VB" />
+<SELECTOR id="s4" start="515" end="519" text="told" comment="" pos="VBD" />
+<SELECTOR id="s5" start="548" end="555" text="leaving" comment="" pos="VBG" />
+<SELECTOR id="s6" start="593" end="601" text="separate" comment="" pos="VB" />
+<SELECTOR id="s7" start="709" end="720" text="investigate" comment="" pos="VB" />
+<SELECTOR id="s8" start="846" end="849" text="pay" comment="" pos="VB" />
+<SELECTOR id="s9" start="908" end="916" text="entering" comment="" pos="VBG" />
+<SELECTOR id="s10" start="993" end="1001" text="reaching" comment="" pos="VBG" />
+<SELECTOR id="s11" start="1017" end="1021" text="need" comment="" pos="VBP" />
+<SELECTOR id="s12" start="1119" end="1125" text="handle" comment="" pos="VB" />
+<SELECTOR id="s13" start="1204" end="1206" text="do" comment="" pos="VB" />
+<SELECTOR id="s14" start="1265" end="1271" text="blames" comment="" pos="VBZ" />
+<SELECTOR id="s15" start="1372" end="1378" text="lifted" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1424" end="1434" text="eliminated" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1484" end="1491" text="produce" comment="" pos="VB" />
+<SELECTOR id="s18" start="1533" end="1539" text="barred" comment="" pos="VBN" />
+<SELECTOR id="s19" start="1605" end="1612" text="visited" comment="" pos="VBN" />
+<NOUN id="n0" start="161" end="163" text="he" comment="" />
+<NOUN id="n1" start="260" end="264" text="Hall" comment="" />
+<NOUN id="n2" start="331" end="335" text="Iraq" comment="" />
+<NOUN id="n3" start="427" end="431" text="trip" comment="" />
+<NOUN id="n4" start="535" end="540" text="Press" comment="" />
+<NOUN id="n5" start="567" end="573" text="States" comment="" />
+<NOUN id="n6" start="619" end="623" text="work" comment="" />
+<NOUN id="n7" start="721" end="728" text="reports" comment="" />
+<NOUN id="n8" start="861" end="870" text="attention" comment="" />
+<NOUN id="n9" start="921" end="928" text="country" comment="" />
+<NOUN id="n10" start="1006" end="1012" text="people" comment="" />
+<NOUN id="n11" start="1022" end="1026" text="them" comment="" />
+<NOUN id="n12" start="1126" end="1132" text="things" comment="" />
+<NOUN id="n13" start="1211" end="1214" text="job" comment="" />
+<NOUN id="n14" start="1276" end="1283" text="embargo" comment="" />
+<NOUN id="n15" start="1351" end="1360" text="sanctions" comment="" />
+<NOUN id="n16" start="1439" end="1446" text="weapons" comment="" />
+<NOUN id="n17" start="1492" end="1496" text="them" comment="" />
+<NOUN id="n18" start="1540" end="1550" text="inspectors" comment="" />
+<NOUN id="n19" start="1613" end="1617" text="Iraq" comment="" />
+<QLINK id="q0" fromID="s0" fromText="expected" toID="n0" toText="he" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="scheduled" toID="n1" toText="Hall" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="visit" toID="n2" toText="Iraq" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="embark" toID="n3" toText="trip" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="told" toID="n4" toText="Press" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="leaving" toID="n5" toText="States" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="separate" toID="n6" toText="work" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="investigate" toID="n7" toText="reports" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="pay" toID="n8" toText="attention" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="entering" toID="n9" toText="country" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="reaching" toID="n10" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="need" toID="n11" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="handle" toID="n12" toText="things" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="do" toID="n13" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="blames" toID="n14" toText="embargo" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="lifted" toID="n15" toText="sanctions" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q16" fromID="s16" fromText="eliminated" toID="n16" toText="weapons" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="produce" toID="n17" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="barred" toID="n18" toText="inspectors" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="visited" toID="n19" toText="Iraq" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

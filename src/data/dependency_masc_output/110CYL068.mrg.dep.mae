@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Dear , 
+A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help . 
+Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli . 
+She tells me that the 3,366 people we helped find jobs in 1998 earned approximately $ 49 million dollars . 
+In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million . 
+Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work . 
+What kind of work does Goodwill do ? 
+Goodwill finds jobs for people with mental and physical disabilities . 
+After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society . 
+Remember what she said in my last letter ? 
+" If I was n't working here ... I would be sad ... " 
+Goodwill helps people get off of public assistance . 
+Sherry learned through our Future Works class that she could rise out of the mire of the welfare system and support her family . 
+At Goodwill she gained in self-confidence , in her vision of her future and in the job skills she needed to find and keep a good job . 
+" Coming to Goodwill was the first step toward my becoming totally independent . 
+I am now ... totally off of welfare . " 
+Goodwill prepares people for life - long employment . 
+Cornell found a number of employment options that he never dreamed existed after a work-site injury forced him out of his job at a foundry . 
+He trained in desktop publishing and combined his enthusiastic work ethic with new - found skills in a burgeoning industry . 
+" I 've got more than a job ; I 've got a career . " 
+Goodwill provides jobs at Goodwill . 
+After a lifetime of trials , Donna not only earned her GED at Goodwill , she earned a job here . 
+" I rode a bike to Goodwill in the rain and snow . 
+I wanted to be there ... I had my second chance to change my life . " 
+Your gift to Goodwill will help the many people who want to tell their own stories of success . 
+Your support will help them go to work . 
+Please use the enclosed envelope to give a generous gift to Goodwill today ! 
+Sincerely , William A Carter , Chairman Goodwill Industries Foundation 
+P.S. 
+Your gift is a wise investment in the community . 
+For every dollar donated to Goodwill in 1998 , we helped our " graduates " earn an estimated $ 102 . 
+That money was then spent in a variety of ways , adding fuel to our thriving economy . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="30" end="38" text="received" comment="" pos="VBD" />
+<SELECTOR id="s1" start="56" end="63" text="telling" comment="" pos="VBG" />
+<SELECTOR id="s2" start="98" end="101" text="got" comment="" pos="VBD" />
+<SELECTOR id="s3" start="249" end="254" text="tells" comment="" pos="VBZ" />
+<SELECTOR id="s4" start="290" end="294" text="find" comment="" pos="VB" />
+<SELECTOR id="s5" start="308" end="314" text="earned" comment="" pos="VBD" />
+<SELECTOR id="s6" start="391" end="395" text="find" comment="" pos="VB" />
+<SELECTOR id="s7" start="412" end="419" text="reduced" comment="" pos="VBD" />
+<SELECTOR id="s8" start="518" end="520" text="do" comment="" pos="VB" />
+<SELECTOR id="s9" start="567" end="571" text="used" comment="" pos="VBN" />
+<SELECTOR id="s10" start="584" end="591" text="support" comment="" pos="VB" />
+<SELECTOR id="s11" start="636" end="638" text="do" comment="" pos="VB" />
+<SELECTOR id="s12" start="651" end="656" text="finds" comment="" pos="VBZ" />
+<SELECTOR id="s13" start="741" end="747" text="taught" comment="" pos="VBD" />
+<SELECTOR id="s14" start="759" end="761" text="do" comment="" pos="VB" />
+<SELECTOR id="s15" start="898" end="902" text="find" comment="" pos="VB" />
+<SELECTOR id="s16" start="976" end="980" text="said" comment="" pos="VBD" />
+<SELECTOR id="s17" start="1218" end="1225" text="support" comment="" pos="VB" />
+<SELECTOR id="s18" start="1357" end="1361" text="keep" comment="" pos="VB" />
+<SELECTOR id="s19" start="1508" end="1516" text="prepares" comment="" pos="VBZ" />
+<SELECTOR id="s20" start="1562" end="1567" text="found" comment="" pos="VBD" />
+<SELECTOR id="s21" start="1654" end="1660" text="forced" comment="" pos="VBD" />
+<SELECTOR id="s22" start="1733" end="1741" text="combined" comment="" pos="VBD" />
+<SELECTOR id="s23" start="1830" end="1833" text="got" comment="" pos="VBD" />
+<SELECTOR id="s24" start="1858" end="1861" text="got" comment="" pos="VBD" />
+<SELECTOR id="s25" start="1885" end="1893" text="provides" comment="" pos="VBZ" />
+<SELECTOR id="s26" start="1958" end="1964" text="earned" comment="" pos="VBD" />
+<SELECTOR id="s27" start="1991" end="1997" text="earned" comment="" pos="VBD" />
+<SELECTOR id="s28" start="2016" end="2020" text="rode" comment="" pos="VBD" />
+<SELECTOR id="s29" start="2091" end="2094" text="had" comment="" pos="VBD" />
+<SELECTOR id="s30" start="2115" end="2121" text="change" comment="" pos="VB" />
+<SELECTOR id="s31" start="2162" end="2166" text="help" comment="" pos="VB" />
+<SELECTOR id="s32" start="2195" end="2199" text="tell" comment="" pos="VB" />
+<SELECTOR id="s33" start="2281" end="2284" text="use" comment="" pos="VB" />
+<SELECTOR id="s34" start="2310" end="2314" text="give" comment="" pos="VB" />
+<SELECTOR id="s35" start="2556" end="2560" text="earn" comment="" pos="VB" />
+<SELECTOR id="s36" start="2603" end="2608" text="spent" comment="" pos="VBN" />
+<SELECTOR id="s37" start="2632" end="2638" text="adding" comment="" pos="VBG" />
+<NOUN id="n0" start="41" end="47" text="letter" comment="" />
+<NOUN id="n1" start="76" end="83" text="stories" comment="" />
+<NOUN id="n2" start="102" end="106" text="jobs" comment="" />
+<NOUN id="n3" start="255" end="257" text="me" comment="" />
+<NOUN id="n4" start="295" end="299" text="jobs" comment="" />
+<NOUN id="n5" start="342" end="349" text="dollars" comment="" />
+<NOUN id="n6" start="396" end="400" text="jobs" comment="" />
+<NOUN id="n7" start="448" end="451" text="tab" comment="" />
+<NOUN id="n8" start="526" end="530" text="more" comment="" />
+<NOUN id="n9" start="554" end="558" text="gift" comment="" />
+<NOUN id="n10" start="596" end="600" text="work" comment="" />
+<NOUN id="n11" start="609" end="613" text="kind" comment="" />
+<NOUN id="n12" start="657" end="661" text="jobs" comment="" />
+<NOUN id="n13" start="748" end="751" text="her" comment="" />
+<NOUN id="n14" start="766" end="769" text="job" comment="" />
+<NOUN id="n15" start="916" end="919" text="job" comment="" />
+<NOUN id="n16" start="967" end="971" text="what" comment="" />
+<NOUN id="n17" start="1230" end="1236" text="family" comment="" />
+<NOUN id="n18" start="1369" end="1372" text="job" comment="" />
+<NOUN id="n19" start="1517" end="1523" text="people" comment="" />
+<NOUN id="n20" start="1570" end="1576" text="number" comment="" />
+<NOUN id="n21" start="1661" end="1664" text="him" comment="" />
+<NOUN id="n22" start="1764" end="1769" text="ethic" comment="" />
+<NOUN id="n23" start="1834" end="1838" text="more" comment="" />
+<NOUN id="n24" start="1864" end="1870" text="career" comment="" />
+<NOUN id="n25" start="1894" end="1898" text="jobs" comment="" />
+<NOUN id="n26" start="1969" end="1972" text="GED" comment="" />
+<NOUN id="n27" start="2000" end="2003" text="job" comment="" />
+<NOUN id="n28" start="2023" end="2027" text="bike" comment="" />
+<NOUN id="n29" start="2105" end="2111" text="chance" comment="" />
+<NOUN id="n30" start="2125" end="2129" text="life" comment="" />
+<NOUN id="n31" start="2176" end="2182" text="people" comment="" />
+<NOUN id="n32" start="2210" end="2217" text="stories" comment="" />
+<NOUN id="n33" start="2298" end="2306" text="envelope" comment="" />
+<NOUN id="n34" start="2326" end="2330" text="gift" comment="" />
+<NOUN id="n35" start="2576" end="2579" text="102" comment="" />
+<NOUN id="n36" start="2588" end="2593" text="money" comment="" />
+<NOUN id="n37" start="2639" end="2643" text="fuel" comment="" />
+<QLINK id="q0" fromID="s0" fromText="received" toID="n0" toText="letter" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="telling" toID="n1" toText="stories" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="got" toID="n2" toText="jobs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="tells" toID="n3" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="find" toID="n4" toText="jobs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="earned" toID="n5" toText="dollars" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="find" toID="n6" toText="jobs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="reduced" toID="n7" toText="tab" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="do" toID="n8" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="used" toID="n9" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="support" toID="n10" toText="work" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="do" toID="n11" toText="kind" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="finds" toID="n12" toText="jobs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="taught" toID="n13" toText="her" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="do" toID="n14" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="find" toID="n15" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="said" toID="n16" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="support" toID="n17" toText="family" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="keep" toID="n18" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="prepares" toID="n19" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="found" toID="n20" toText="number" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="forced" toID="n21" toText="him" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="combined" toID="n22" toText="ethic" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="got" toID="n23" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="got" toID="n24" toText="career" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="provides" toID="n25" toText="jobs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="earned" toID="n26" toText="GED" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="earned" toID="n27" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="rode" toID="n28" toText="bike" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="had" toID="n29" toText="chance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="change" toID="n30" toText="life" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="help" toID="n31" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="tell" toID="n32" toText="stories" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="use" toID="n33" toText="envelope" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="give" toID="n34" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="earn" toID="n35" toText="102" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="spent" toID="n36" toText="money" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q37" fromID="s37" fromText="adding" toID="n37" toText="fuel" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

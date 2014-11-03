@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+March 29 , 1999 
+Name Address City , ST Zip 
+Dear Name : 
+The 1999 Invest in Youth Campaign is in full swing . 
+As a former board member , the success of the YMCA is still important to me . 
+We must be able to reach all youth and families interested in values - based programs . 
+The Invest in Youth campaign helps insure this . 
+New initiatives in the inner - city are taking hold . 
+The Urban Mission Branch is reaching out to middle school youth with programs based on caring , honesty , respect and responsibility for themselves and others . 
+For some , these are very different messages from the ones heard in the street . 
+They are learning to make positive choices concerning alcohol , tobacco and other drugs and to support each other when those choices are challenged . 
+You have shared in the vision and the leadership of the YMCA of Greater Indianapolis . 
+I now invite you to continue to support the mission and the message that is so important to building strong kids , strong families and strong communities . 
+Please consider joining the Chairman 's Roundtable with a gift of $ 1,000 . 
+I have enclosed a pledge card for your convenience . 
+We would like to announce the success of this year 's campaign at the Annual Meeting on April 27 , so please return your pledge or gift within the next 30 days . 
+Thank you . 
+Sincerely , Richard H. Gilbert , Jr. Past Board Member YMCA of Greater Indianapolis 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="211" end="216" text="reach" comment="" pos="VB" />
+<SELECTOR id="s1" start="316" end="322" text="insure" comment="" pos="VB" />
+<SELECTOR id="s2" start="371" end="377" text="taking" comment="" pos="VBG" />
+<SELECTOR id="s3" start="565" end="568" text="are" comment="" pos="VBP" />
+<SELECTOR id="s4" start="651" end="655" text="make" comment="" pos="VB" />
+<SELECTOR id="s5" start="673" end="683" text="concerning" comment="" pos="VBG" />
+<SELECTOR id="s6" start="725" end="732" text="support" comment="" pos="VB" />
+<SELECTOR id="s7" start="767" end="777" text="challenged" comment="" pos="VBN" />
+<SELECTOR id="s8" start="875" end="881" text="invite" comment="" pos="VBP" />
+<SELECTOR id="s9" start="901" end="908" text="support" comment="" pos="VB" />
+<SELECTOR id="s10" start="961" end="969" text="building" comment="" pos="VBG" />
+<SELECTOR id="s11" start="1042" end="1049" text="joining" comment="" pos="VBG" />
+<SELECTOR id="s12" start="1110" end="1118" text="enclosed" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1174" end="1182" text="announce" comment="" pos="VB" />
+<SELECTOR id="s14" start="1266" end="1272" text="return" comment="" pos="VB" />
+<SELECTOR id="s15" start="1320" end="1325" text="Thank" comment="" pos="VBP" />
+<NOUN id="n0" start="221" end="226" text="youth" comment="" />
+<NOUN id="n1" start="323" end="327" text="this" comment="" />
+<NOUN id="n2" start="378" end="382" text="hold" comment="" />
+<NOUN id="n3" start="584" end="592" text="messages" comment="" />
+<NOUN id="n4" start="665" end="672" text="choices" comment="" />
+<NOUN id="n5" start="684" end="691" text="alcohol" comment="" />
+<NOUN id="n6" start="738" end="743" text="other" comment="" />
+<NOUN id="n7" start="755" end="762" text="choices" comment="" />
+<NOUN id="n8" start="882" end="885" text="you" comment="" />
+<NOUN id="n9" start="913" end="920" text="mission" comment="" />
+<NOUN id="n10" start="977" end="981" text="kids" comment="" />
+<NOUN id="n11" start="1066" end="1076" text="Roundtable" comment="" />
+<NOUN id="n12" start="1128" end="1132" text="card" comment="" />
+<NOUN id="n13" start="1187" end="1194" text="success" comment="" />
+<NOUN id="n14" start="1278" end="1284" text="pledge" comment="" />
+<NOUN id="n15" start="1326" end="1329" text="you" comment="" />
+<QLINK id="q0" fromID="s0" fromText="reach" toID="n0" toText="youth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="insure" toID="n1" toText="this" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="taking" toID="n2" toText="hold" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="are" toID="n3" toText="messages" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="make" toID="n4" toText="choices" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="concerning" toID="n5" toText="alcohol" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="support" toID="n6" toText="other" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="challenged" toID="n7" toText="choices" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q8" fromID="s8" fromText="invite" toID="n8" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="support" toID="n9" toText="mission" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="building" toID="n10" toText="kids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="joining" toID="n11" toText="Roundtable" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="enclosed" toID="n12" toText="card" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="announce" toID="n13" toText="success" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="return" toID="n14" toText="pledge" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="Thank" toID="n15" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

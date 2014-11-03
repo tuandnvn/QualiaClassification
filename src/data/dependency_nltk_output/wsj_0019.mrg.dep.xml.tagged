@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+John R. Stevens , 49 years old , was named senior executive vice president and chief operating officer , both new positions . 
+He will continue to report to Donald Pardus , president and chief executive officer . 
+Mr. Stevens was executive vice president of this electric-utility holding company . 
+Arthur A. Hatch , 59 , was named executive vice president of the company . 
+He was previously president of the company 's Eastern Edison Co. unit . 
+John D. Carney , 45 , was named to succeed Mr. Hatch as president of Eastern Edison . 
+Previously he was vice president of Eastern Edison . 
+Robert P. Tassinari , 63 , was named senior vice president of Eastern Utilities . 
+He was previously vice president . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="38" end="43" text="named" comment="" pos="VBN" />
+<SELECTOR id="s1" start="327" end="332" text="named" comment="" pos="VBN" />
+<SELECTOR id="s2" start="475" end="480" text="named" comment="" pos="VBN" />
+<SELECTOR id="s3" start="484" end="491" text="succeed" comment="" pos="VB" />
+<SELECTOR id="s4" start="621" end="626" text="named" comment="" pos="VBN" />
+<NOUN id="n0" start="9" end="16" text="Stevens" comment="" />
+<NOUN id="n1" start="310" end="315" text="Hatch" comment="" />
+<NOUN id="n2" start="457" end="463" text="Carney" comment="" />
+<NOUN id="n3" start="496" end="501" text="Hatch" comment="" />
+<NOUN id="n4" start="600" end="609" text="Tassinari" comment="" />
+<QLINK id="q0" fromID="s0" fromText="named" toID="n0" toText="Stevens" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="named" toID="n1" toText="Hatch" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="named" toID="n2" toText="Carney" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="succeed" toID="n3" toText="Hatch" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="named" toID="n4" toText="Tassinari" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

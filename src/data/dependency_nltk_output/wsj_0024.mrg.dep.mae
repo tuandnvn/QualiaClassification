@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Oil production from Australia 's Bass Strait fields will be raised by 11,000 barrels a day to about 321,000 barrels with the launch of the Whiting field , the first of five small fields scheduled to be brought into production before the end of 1990 . 
+Esso Australia Ltd. , a unit of New York-based Exxon Corp. , and Broken Hill Pty. operate the fields in a joint venture . 
+Esso said the Whiting field started production Tuesday . 
+Output will be gradually increased until it reaches about 11,000 barrels a day . 
+The field has reserves of 21 million barrels . 
+Reserves for the five new fields total 50 million barrels . 
+The Perch and Dolphin fields are expected to start producing early next year , and the Seahorse and Tarwhine fields later next year . 
+Esso said the fields were developed after the Australian government decided in 1987 to make the first 30 million barrels from new fields free of excise tax . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="61" end="67" text="raised" comment="" pos="VBN" />
+<SELECTOR id="s1" start="335" end="342" text="operate" comment="" pos="VBP" />
+<SELECTOR id="s2" start="404" end="411" text="started" comment="" pos="VBD" />
+<SELECTOR id="s3" start="459" end="468" text="increased" comment="" pos="VBN" />
+<SELECTOR id="s4" start="478" end="485" text="reaches" comment="" pos="VBZ" />
+<SELECTOR id="s5" start="526" end="529" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s6" start="597" end="602" text="total" comment="" pos="VBP" />
+<SELECTOR id="s7" start="658" end="666" text="expected" comment="" pos="VBN" />
+<SELECTOR id="s8" start="786" end="795" text="developed" comment="" pos="VBN" />
+<SELECTOR id="s9" start="847" end="851" text="make" comment="" pos="VB" />
+<NOUN id="n0" start="5" end="15" text="production" comment="" />
+<NOUN id="n1" start="347" end="353" text="fields" comment="" />
+<NOUN id="n2" start="412" end="422" text="production" comment="" />
+<NOUN id="n3" start="434" end="440" text="Output" comment="" />
+<NOUN id="n4" start="499" end="506" text="barrels" comment="" />
+<NOUN id="n5" start="530" end="538" text="reserves" comment="" />
+<NOUN id="n6" start="614" end="621" text="barrels" comment="" />
+<NOUN id="n7" start="629" end="634" text="Perch" comment="" />
+<NOUN id="n8" start="774" end="780" text="fields" comment="" />
+<NOUN id="n9" start="873" end="880" text="barrels" comment="" />
+<QLINK id="q0" fromID="s0" fromText="raised" toID="n0" toText="production" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="operate" toID="n1" toText="fields" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="started" toID="n2" toText="production" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="increased" toID="n3" toText="Output" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="reaches" toID="n4" toText="barrels" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="has" toID="n5" toText="reserves" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="total" toID="n6" toText="barrels" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="expected" toID="n7" toText="Perch" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q8" fromID="s8" fromText="developed" toID="n8" toText="fields" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="make" toID="n9" toText="barrels" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

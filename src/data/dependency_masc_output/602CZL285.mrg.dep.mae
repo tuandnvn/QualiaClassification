@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<LU_ANNOTATE> 
+June 6 , 2000 
+Name Address City , ST Zip 
+Dear Name : Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) . 
+The SCS brochure I am enclosing will give you the historic significance of SCS , as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level . 
+Your Georgia O'Keeffe membership , please note , includes free admission to all art - related activities of the IMA 's Young Friends of Art group . 
+Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs . 
+These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J. K. Lilly estate - Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting . 
+( please see The New York Times article I have included . ) 
+With thousands of trees and flowers in bloom , we are having a beautiful Spring ! 
+Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women . 
+In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community . 
+A Second Century Society response card and return envelope are enclosed . 
+Should you have questions or if I can be of assistance in any way , please call me : 317.923.1331 , ext. 248 . 
+Sincerely , ARLETTA B. NEWTON Donor Relations Coordinator 
+Enclosures / 
+P.S. 
+Both our Barefoot in the Grass family picnic ( July 23 2000 ) and the annual SCS Founders Day celebration ( October 11 2000 ) are free for Georgia O 'Keeffe members . 
+Mark your calendars ! 
+</LU_ANNOTATE_WC=300> 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="84" end="89" text="asked" comment="" pos="VBD" />
+<SELECTOR id="s1" start="96" end="100" text="send" comment="" pos="VB" />
+<SELECTOR id="s2" start="118" end="126" text="inviting" comment="" pos="VBG" />
+<SELECTOR id="s3" start="134" end="138" text="join" comment="" pos="VB" />
+<SELECTOR id="s4" start="275" end="279" text="give" comment="" pos="VB" />
+<SELECTOR id="s5" start="330" end="337" text="listing" comment="" pos="VBG" />
+<SELECTOR id="s6" start="471" end="479" text="includes" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="591" end="598" text="sending" comment="" pos="VBG" />
+<SELECTOR id="s8" start="697" end="706" text="detailing" comment="" pos="VBG" />
+<SELECTOR id="s9" start="927" end="935" text="restored" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1063" end="1066" text="see" comment="" pos="VB" />
+<SELECTOR id="s11" start="1169" end="1175" text="having" comment="" pos="VBG" />
+<SELECTOR id="s12" start="1382" end="1389" text="joining" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1400" end="1404" text="join" comment="" pos="VBP" />
+<SELECTOR id="s14" start="1441" end="1449" text="bringing" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1623" end="1631" text="enclosed" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1646" end="1650" text="have" comment="" pos="VB" />
+<SELECTOR id="s17" start="1710" end="1714" text="call" comment="" pos="VB" />
+<SELECTOR id="s18" start="1994" end="1998" text="Mark" comment="" pos="VB" />
+<NOUN id="n0" start="90" end="92" text="me" comment="" />
+<NOUN id="n1" start="106" end="117" text="information" comment="" />
+<NOUN id="n2" start="127" end="130" text="you" comment="" />
+<NOUN id="n3" start="160" end="166" text="Circle" comment="" />
+<NOUN id="n4" start="280" end="283" text="you" comment="" />
+<NOUN id="n5" start="297" end="309" text="significance" comment="" />
+<NOUN id="n6" start="338" end="348" text="activities" comment="" />
+<NOUN id="n7" start="485" end="494" text="admission" comment="" />
+<NOUN id="n8" start="622" end="631" text="materials" comment="" />
+<NOUN id="n9" start="716" end="722" text="events" comment="" />
+<NOUN id="n10" start="911" end="917" text="Garden" comment="" />
+<NOUN id="n11" start="1086" end="1093" text="article" comment="" />
+<NOUN id="n12" start="1188" end="1194" text="Spring" comment="" />
+<NOUN id="n13" start="1390" end="1393" text="SCS" comment="" />
+<NOUN id="n14" start="1409" end="1414" text="ranks" comment="" />
+<NOUN id="n15" start="1450" end="1453" text="art" comment="" />
+<NOUN id="n16" start="1594" end="1598" text="card" comment="" />
+<NOUN id="n17" start="1651" end="1660" text="questions" comment="" />
+<NOUN id="n18" start="1715" end="1717" text="me" comment="" />
+<NOUN id="n19" start="2004" end="2013" text="calendars" comment="" />
+<QLINK id="q0" fromID="s0" fromText="asked" toID="n0" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="send" toID="n1" toText="information" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="inviting" toID="n2" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="join" toID="n3" toText="Circle" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="give" toID="n4" toText="you" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q5" fromID="s4" fromText="give" toID="n5" toText="significance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s5" fromText="listing" toID="n6" toText="activities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s6" fromText="includes" toID="n7" toText="admission" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s7" fromText="sending" toID="n8" toText="materials" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s8" fromText="detailing" toID="n9" toText="events" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="restored" toID="n10" toText="Garden" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s10" fromText="see" toID="n11" toText="article" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="having" toID="n12" toText="Spring" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="joining" toID="n13" toText="SCS" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="join" toID="n14" toText="ranks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="bringing" toID="n15" toText="art" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="enclosed" toID="n16" toText="card" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q17" fromID="s16" fromText="have" toID="n17" toText="questions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="call" toID="n18" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="Mark" toID="n19" toText="calendars" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

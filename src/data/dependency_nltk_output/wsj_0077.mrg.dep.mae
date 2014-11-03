@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Investors took advantage of Tuesday 's stock rally to book some profits yesterday , leaving stocks up fractionally . 
+Bond prices and the dollar both gained modestly . 
+The Dow Jones Industrial Average finished less than a point higher to close at 2645.90 in moderate trading . 
+But advancing issues on the New York Stock Exchange were tidily ahead of declining stocks , 847 to 644 . 
+Long-term bond prices rose despite prospects of a huge new supply of Treasury debt this month . 
+Continuing demand for dollars from Japanese investors boosted the U.S. currency . 
+Analysts were disappointed that the enthusiasm investors showed for stocks in the wake of Georgia-Pacific 's $ 3.18 billion bid for Great Northern Nekoosa evaporated so quickly . 
+The industrial average jumped more than 41 points Tuesday as speculators rushed to buy shares of potential takeover targets . 
+But with the end of the year in sight , money managers are eager to take profits and cut their risks of losing what for many have been exceptionally good returns in 
+Economic news had little effect on financial markets . 
+As expected , a national purchasing managers ' report indicated the nation 's manufacturing sector continues to contract modestly . 
+The Federal Reserve 's Beige Book , a summary of economic conditions across the country , indicated that the overall economy remains in a pattern of sluggish growth . 
+In major market activity : 
+Stock prices rose fractionally in moderate trading . 
+Big Board volume totaled 154.2 million shares . 
+Bond prices were up . 
+The Treasury 's benchmark 30-year bond gained about a quarter of a point , or $ 2.50 for each $ 1,000 of face amount . 
+The yield fell to 7.88 % . 
+The dollar rose . 
+In late afternoon New York trading the currency was at 1.8500 marks and 143.80 yen compared with 1.8415 marks and 142.85 yen . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="11" end="15" text="took" comment="" pos="VBD" />
+<SELECTOR id="s1" start="55" end="59" text="book" comment="" pos="VB" />
+<SELECTOR id="s2" start="537" end="544" text="boosted" comment="" pos="VBD" />
+<SELECTOR id="s3" start="580" end="592" text="disappointed" comment="" pos="VBN" />
+<SELECTOR id="s4" start="829" end="832" text="buy" comment="" pos="VB" />
+<SELECTOR id="s5" start="941" end="945" text="take" comment="" pos="VB" />
+<SELECTOR id="s6" start="958" end="961" text="cut" comment="" pos="VB" />
+<SELECTOR id="s7" start="1053" end="1056" text="had" comment="" pos="VBD" />
+<SELECTOR id="s8" start="1495" end="1502" text="totaled" comment="" pos="VBD" />
+<SELECTOR id="s9" start="1589" end="1595" text="gained" comment="" pos="VBD" />
+<NOUN id="n0" start="16" end="25" text="advantage" comment="" />
+<NOUN id="n1" start="65" end="72" text="profits" comment="" />
+<NOUN id="n2" start="554" end="562" text="currency" comment="" />
+<NOUN id="n3" start="566" end="574" text="Analysts" comment="" />
+<NOUN id="n4" start="833" end="839" text="shares" comment="" />
+<NOUN id="n5" start="946" end="953" text="profits" comment="" />
+<NOUN id="n6" start="968" end="973" text="risks" comment="" />
+<NOUN id="n7" start="1064" end="1070" text="effect" comment="" />
+<NOUN id="n8" start="1517" end="1523" text="shares" comment="" />
+<NOUN id="n9" start="1604" end="1611" text="quarter" comment="" />
+<QLINK id="q0" fromID="s0" fromText="took" toID="n0" toText="advantage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="book" toID="n1" toText="profits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="boosted" toID="n2" toText="currency" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="disappointed" toID="n3" toText="Analysts" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="buy" toID="n4" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="take" toID="n5" toText="profits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="cut" toID="n6" toText="risks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="had" toID="n7" toText="effect" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="totaled" toID="n8" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="gained" toID="n9" toText="quarter" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

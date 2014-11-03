@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The U.S. and Soviet Union are holding technical talks about possible repayment by Moscow of $ 188 million in pre-Communist Russian debts owed to the U.S. government , the State Department said . 
+If the debts are repaid , it could clear the way for Soviet bonds to be sold in the U.S. . 
+However , after two meetings with the Soviets , a State Department spokesman said that it 's `` too early to say '' whether that will happen . 
+Coincident with the talks , the State Department said it has permitted a Soviet bank to open a New York branch . 
+The branch of the Bank for Foreign Economic Affairs was approved last spring and opened in July . 
+But a Soviet bank here would be crippled unless Moscow found a way to settle the $ 188 million debt , which was lent to the country 's short-lived democratic Kerensky government before the Communists seized power in 1917 . 
+Under a 1934 law , the Johnson Debt Default Act , as amended , it 's illegal for Americans to extend credit to countries in default to the U.S. government , unless they are members of the World Bank and International Monetary Fund . 
+The U.S.S.R. belongs to neither organization . 
+Moscow has settled pre-1917 debts with other countries in recent years at less than face value . 
+The State Department stressed the pre-1933 debts as the key to satisfying the Johnson Act . 
+But the Soviets might still face legal obstacles to raising money in the U.S. until they settle hundreds of millions of dollars in additional debt still outstanding from the World War II lend-lease program . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="31" end="38" text="holding" comment="" pos="VBG" />
+<SELECTOR id="s1" start="214" end="220" text="repaid" comment="" pos="VBN" />
+<SELECTOR id="s2" start="232" end="237" text="clear" comment="" pos="VB" />
+<SELECTOR id="s3" start="269" end="273" text="sold" comment="" pos="VBN" />
+<SELECTOR id="s4" start="521" end="525" text="open" comment="" pos="VB" />
+<SELECTOR id="s5" start="603" end="611" text="approved" comment="" pos="VBN" />
+<SELECTOR id="s6" start="678" end="686" text="crippled" comment="" pos="VBN" />
+<SELECTOR id="s7" start="701" end="706" text="found" comment="" pos="VBD" />
+<SELECTOR id="s8" start="716" end="722" text="settle" comment="" pos="VB" />
+<SELECTOR id="s9" start="758" end="762" text="lent" comment="" pos="VBN" />
+<SELECTOR id="s10" start="846" end="852" text="seized" comment="" pos="VBD" />
+<SELECTOR id="s11" start="964" end="970" text="extend" comment="" pos="VB" />
+<SELECTOR id="s12" start="1163" end="1170" text="settled" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1271" end="1279" text="stressed" comment="" pos="VBD" />
+<SELECTOR id="s14" start="1313" end="1323" text="satisfying" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1371" end="1375" text="face" comment="" pos="VB" />
+<SELECTOR id="s16" start="1395" end="1402" text="raising" comment="" pos="VBG" />
+<SELECTOR id="s17" start="1432" end="1438" text="settle" comment="" pos="VBP" />
+<NOUN id="n0" start="49" end="54" text="talks" comment="" />
+<NOUN id="n1" start="204" end="209" text="debts" comment="" />
+<NOUN id="n2" start="242" end="245" text="way" comment="" />
+<NOUN id="n3" start="257" end="262" text="bonds" comment="" />
+<NOUN id="n4" start="537" end="543" text="branch" comment="" />
+<NOUN id="n5" start="551" end="557" text="branch" comment="" />
+<NOUN id="n6" start="659" end="663" text="bank" comment="" />
+<NOUN id="n7" start="709" end="712" text="way" comment="" />
+<NOUN id="n8" start="741" end="745" text="debt" comment="" />
+<NOUN id="n9" start="748" end="753" text="which" comment="" />
+<NOUN id="n10" start="853" end="858" text="power" comment="" />
+<NOUN id="n11" start="971" end="977" text="credit" comment="" />
+<NOUN id="n12" start="1180" end="1185" text="debts" comment="" />
+<NOUN id="n13" start="1293" end="1298" text="debts" comment="" />
+<NOUN id="n14" start="1336" end="1339" text="Act" comment="" />
+<NOUN id="n15" start="1382" end="1391" text="obstacles" comment="" />
+<NOUN id="n16" start="1403" end="1408" text="money" comment="" />
+<NOUN id="n17" start="1439" end="1447" text="hundreds" comment="" />
+<QLINK id="q0" fromID="s0" fromText="holding" toID="n0" toText="talks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="repaid" toID="n1" toText="debts" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="clear" toID="n2" toText="way" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="sold" toID="n3" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="open" toID="n4" toText="branch" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="approved" toID="n5" toText="branch" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="crippled" toID="n6" toText="bank" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s7" fromText="found" toID="n7" toText="way" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="settle" toID="n8" toText="debt" comment="" qType="FORMAL" qType2="AGENTIVE" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="lent" toID="n9" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="seized" toID="n10" toText="power" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="extend" toID="n11" toText="credit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="settled" toID="n12" toText="debts" comment="" qType="FORMAL" qType2="AGENTIVE" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="stressed" toID="n13" toText="debts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="satisfying" toID="n14" toText="Act" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="face" toID="n15" toText="obstacles" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="raising" toID="n16" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="settle" toID="n17" toText="hundreds" comment="" qType="FORMAL" qType2="AGENTIVE" gramRel="dobj" />
+</TAGS>
+</PartML>

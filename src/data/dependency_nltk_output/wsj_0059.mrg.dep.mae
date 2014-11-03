@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The dollar posted gains against all major currencies yesterday , buoyed by persistent Japanese demand for U.S. bond issues . 
+While market sentiment remains cautiously bearish on the dollar based on sluggish U.S. economic indicators , dealers note that Japanese demand has helped underpin the dollar against the yen and has kept the U.S. currency from plunging below key levels against the mark . 
+At the same time , dealers said the U.S. unit has been locked into a relatively narrow range in recent weeks , in part because the hefty Japanese demand for dollars has been offset by the mark 's strength , resulting in a stalemate . 
+Jay Goldinger , with Capital Insight Inc. , reasons that while the mark has posted significant gains against the yen as well -- the mark climbed to 77.70 yen from 77.56 yen late Tuesday in New York -- the strength of the U.S. bond market compared to its foreign counterparts has helped lure investors to dollar-denominated bonds , rather than mark bonds . 
+`` Dollar-yen { trade } is the driving force in the market , '' said Tom Trettien , a vice president with Banque Paribas in New York , `` but I 'm not convinced it will continue . 
+Who knows what will happen down the road , in three to six months , if foreign investment starts to erode ? '' 
+In late New York trading yesterday , the dollar was quoted at 1.8500 marks , up from 1.8415 marks late Tuesday , and at 143.80 yen , up from 142.85 yen late Tuesday . 
+Sterling was quoted at $ 1.5755 , down from $ 1.5805 late Tuesday . 
+In Tokyo Thursday , the U.S. currency opened for trading at 143.93 yen , up from Wednesday 's Tokyo close of 143.08 yen . 
+Douglas Madison , a corporate trader with Bank of America in Los Angeles , traced the dollar 's recent solid performance against the yen to purchases of securities by Japanese insurance companies and trust banks and the sense that another wave of investment is waiting in the wings . 
+He contends that the perception in Japan of a vitriolic U.S. response to Sony Corp. 's announcement of its purchase of Columbia Pictures Entertainment Inc. has been temporarily mollified . 
+He cites the recent deal between the Mitsubishi Estate Co. and the Rockefeller Group , as well as the possible white knight role of an undisclosed Japanese company in the Georgia-Pacific Corp. takeover bid for Great Northern Nekoosa Corp. as evidence . 
+The forthcoming maturity in November of a 10-year Japanese government yen-denominated bond issue valued at about $ 16 billion has prompted speculation in the market that investors redeeming the bonds will diversify into dollar-denominated instruments , according to Mr. Madison . 
+It remains unclear whether the bond issue will be rolled over . 
+Meanwhile , traders in Tokyo say that the prospect of lower U.S. interest rates has spurred dollar buying by Japanese institutions . 
+They point out that these institutions want to lock in returns on high-yield U.S. Treasury debt and suggest demand for the U.S. unit will continue unabated until rates in the U.S. recede . 
+The market again showed little interest in further evidence of a slowing U.S. economy , and traders note that the market in recent weeks has taken its cues more from Wall Street than U.S. economic indicators . 
+Dealers said the dollar merely drifted lower following the release Wednesday of the U.S. purchasing managers ' report . 
+The managers ' index , which measures the health of the manufacturing sector , stood at 47.6 % in October , above September 's 46 % , and also above average forecasts for the index of 45.3 % . 
+Some dealers said the dollar was pressured slightly because a number of market participants had boosted their expectations in the past day and were looking for an index above 50 , which indicates an expanding manufacturing economy . 
+But most said the index had no more than a minimal effect on trade . 
+On the Commodity Exchange in New York , gold for current delivery settled at $ 374.20 an ounce , down 50 cents . 
+Estimated volume was a moderate 3.5 million ounces . 
+In early trading in Hong Kong Thursday , gold was quoted at $ 374.19 an ounce . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="12" end="18" text="posted" comment="" pos="VBD" />
+<SELECTOR id="s1" start="281" end="289" text="underpin" comment="" pos="VB" />
+<SELECTOR id="s2" start="325" end="329" text="kept" comment="" pos="VBN" />
+<SELECTOR id="s3" start="454" end="460" text="locked" comment="" pos="VBN" />
+<SELECTOR id="s4" start="573" end="579" text="offset" comment="" pos="VBN" />
+<SELECTOR id="s5" start="710" end="716" text="posted" comment="" pos="VBN" />
+<SELECTOR id="s6" start="920" end="924" text="lure" comment="" pos="NN" />
+<SELECTOR id="s7" start="1142" end="1151" text="convinced" comment="" pos="VBN" />
+<SELECTOR id="s8" start="1336" end="1342" text="quoted" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1465" end="1471" text="quoted" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1719" end="1725" text="traced" comment="" pos="VBD" />
+<SELECTOR id="s11" start="2106" end="2115" text="mollified" comment="" pos="VBN" />
+<SELECTOR id="s12" start="2122" end="2127" text="cites" comment="" pos="VBZ" />
+<SELECTOR id="s13" start="2503" end="2511" text="prompted" comment="" pos="VBN" />
+<SELECTOR id="s14" start="2553" end="2562" text="redeeming" comment="" pos="VBG" />
+<SELECTOR id="s15" start="2704" end="2710" text="rolled" comment="" pos="VBN" />
+<SELECTOR id="s16" start="2803" end="2810" text="spurred" comment="" pos="VBN" />
+<SELECTOR id="s17" start="2900" end="2904" text="lock" comment="" pos="VB" />
+<SELECTOR id="s18" start="3060" end="3066" text="showed" comment="" pos="VBD" />
+<SELECTOR id="s19" start="3184" end="3189" text="taken" comment="" pos="VBN" />
+<SELECTOR id="s20" start="3404" end="3412" text="measures" comment="" pos="VBZ" />
+<SELECTOR id="s21" start="3665" end="3672" text="boosted" comment="" pos="VBN" />
+<SELECTOR id="s22" start="3755" end="3764" text="indicates" comment="" pos="VBZ" />
+<SELECTOR id="s23" start="3827" end="3830" text="had" comment="" pos="VBD" />
+<SELECTOR id="s24" start="4091" end="4097" text="quoted" comment="" pos="VBN" />
+<NOUN id="n0" start="19" end="24" text="gains" comment="" />
+<NOUN id="n1" start="294" end="300" text="dollar" comment="" />
+<NOUN id="n2" start="339" end="347" text="currency" comment="" />
+<NOUN id="n3" start="440" end="444" text="unit" comment="" />
+<NOUN id="n4" start="545" end="551" text="demand" comment="" />
+<NOUN id="n5" start="729" end="734" text="gains" comment="" />
+<NOUN id="n6" start="925" end="934" text="investors" comment="" />
+<NOUN id="n7" start="1133" end="1134" text="I" comment="" />
+<NOUN id="n8" start="1325" end="1331" text="dollar" comment="" />
+<NOUN id="n9" start="1452" end="1460" text="Sterling" comment="" />
+<NOUN id="n10" start="1753" end="1764" text="performance" comment="" />
+<NOUN id="n11" start="1950" end="1960" text="perception" comment="" />
+<NOUN id="n12" start="2139" end="2143" text="deal" comment="" />
+<NOUN id="n13" start="2512" end="2523" text="speculation" comment="" />
+<NOUN id="n14" start="2567" end="2572" text="bonds" comment="" />
+<NOUN id="n15" start="2690" end="2695" text="issue" comment="" />
+<NOUN id="n16" start="2811" end="2817" text="dollar" comment="" />
+<NOUN id="n17" start="2908" end="2915" text="returns" comment="" />
+<NOUN id="n18" start="3074" end="3082" text="interest" comment="" />
+<NOUN id="n19" start="3194" end="3198" text="cues" comment="" />
+<NOUN id="n20" start="3417" end="3423" text="health" comment="" />
+<NOUN id="n21" start="3679" end="3691" text="expectations" comment="" />
+<NOUN id="n22" start="3792" end="3799" text="economy" comment="" />
+<NOUN id="n23" start="3834" end="3838" text="more" comment="" />
+<NOUN id="n24" start="4082" end="4086" text="gold" comment="" />
+<QLINK id="q0" fromID="s0" fromText="posted" toID="n0" toText="gains" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="underpin" toID="n1" toText="dollar" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="kept" toID="n2" toText="currency" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="locked" toID="n3" toText="unit" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="offset" toID="n4" toText="demand" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="posted" toID="n5" toText="gains" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="lure" toID="n6" toText="investors" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="convinced" toID="n7" toText="I" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q8" fromID="s8" fromText="quoted" toID="n8" toText="dollar" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="quoted" toID="n9" toText="Sterling" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="traced" toID="n10" toText="performance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="mollified" toID="n11" toText="perception" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s12" fromText="cites" toID="n12" toText="deal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="prompted" toID="n13" toText="speculation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="redeeming" toID="n14" toText="bonds" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="rolled" toID="n15" toText="issue" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q16" fromID="s16" fromText="spurred" toID="n16" toText="dollar" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="lock" toID="n17" toText="returns" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="showed" toID="n18" toText="interest" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="taken" toID="n19" toText="cues" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="measures" toID="n20" toText="health" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="boosted" toID="n21" toText="expectations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="indicates" toID="n22" toText="economy" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="had" toID="n23" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="quoted" toID="n24" toText="gold" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

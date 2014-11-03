@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Iraq clears visit by Ohio official 
+By Scott Montgomery 
+Washington 
+<LU_ANNOTATE> 
+The Iraqi government has agreed to let U. S. Rep. Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday . 
+The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems . 
+Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign . 
+The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization . 
+In 1996 the WHO found that much of the population existed in a state of `` semi starvation . '' 
+Hall will be only the second member of Congress to travel in Iraq since the war , according to Hall 's office . 
+The last visitor was then - U. S. Rep. Bill Richardson of New Mexico , who went to help a pair of U. S. oilmen in diplomatic trouble . 
+</LU_ANNOTATE_WC=_181> 
+Hall flies to Amman , Jordan , on Friday , where he 'll spend the night before driving to Iraq . 
+Flights are not permitted into Iraq . 
+Hall is to return to Washington on April 22 . 
+Story Filed By Cox Newspapers 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="6" end="12" text="clears" comment="" pos="VBZ" />
+<SELECTOR id="s1" start="145" end="150" text="visit" comment="" pos="VB" />
+<SELECTOR id="s2" start="176" end="182" text="assess" comment="" pos="VB" />
+<SELECTOR id="s3" start="407" end="415" text="visiting" comment="" pos="VBG" />
+<SELECTOR id="s4" start="450" end="454" text="seek" comment="" pos="VB" />
+<SELECTOR id="s5" start="501" end="509" text="stemming" comment="" pos="VBG" />
+<SELECTOR id="s6" start="636" end="644" text="thwarted" comment="" pos="VBN" />
+<SELECTOR id="s7" start="748" end="757" text="destroyed" comment="" pos="VBD" />
+<SELECTOR id="s8" start="1157" end="1161" text="help" comment="" pos="VB" />
+<SELECTOR id="s9" start="1290" end="1295" text="spend" comment="" pos="VB" />
+<SELECTOR id="s10" start="1348" end="1357" text="permitted" comment="" pos="VBN" />
+<NOUN id="n0" start="13" end="18" text="visit" comment="" />
+<NOUN id="n1" start="155" end="162" text="country" comment="" />
+<NOUN id="n2" start="198" end="204" text="crisis" comment="" />
+<NOUN id="n3" start="416" end="425" text="hospitals" comment="" />
+<NOUN id="n4" start="455" end="468" text="understanding" comment="" />
+<NOUN id="n5" start="510" end="524" text="malnourishment" comment="" />
+<NOUN id="n6" start="660" end="667" text="ability" comment="" />
+<NOUN id="n7" start="758" end="762" text="much" comment="" />
+<NOUN id="n8" start="1164" end="1168" text="pair" comment="" />
+<NOUN id="n9" start="1300" end="1305" text="night" comment="" />
+<NOUN id="n10" start="1332" end="1339" text="Flights" comment="" />
+<QLINK id="q0" fromID="s0" fromText="clears" toID="n0" toText="visit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="visit" toID="n1" toText="country" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="assess" toID="n2" toText="crisis" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="visiting" toID="n3" toText="hospitals" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="seek" toID="n4" toText="understanding" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="stemming" toID="n5" toText="malnourishment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="thwarted" toID="n6" toText="ability" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="destroyed" toID="n7" toText="much" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="help" toID="n8" toText="pair" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="spend" toID="n9" toText="night" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="permitted" toID="n10" toText="Flights" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

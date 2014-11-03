@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+A form of asbestos once used to make Kent cigarette filters has caused a high percentage of cancer deaths among a group of workers exposed to it more than 30 years ago , researchers reported . 
+The asbestos fiber , crocidolite , is unusually resilient once it enters the lungs , with even brief exposures to it causing symptoms that show up decades later , researchers said . 
+Lorillard Inc. , the unit of New York-based Loews Corp. that makes Kent cigarettes , stopped using crocidolite in its Micronite cigarette filters in 1956 . 
+Although preliminary findings were reported more than a year ago , the latest results appear in today 's New England Journal of Medicine , a forum likely to bring new attention to the problem . 
+A Lorillard spokewoman said , `` This is an old story . 
+We 're talking about years ago before anyone heard of asbestos having any questionable properties . 
+There is no asbestos in our products now . '' 
+Neither Lorillard nor the researchers who studied the workers were aware of any research on smokers of the Kent cigarettes . 
+`` We have no useful information on whether users are at risk , '' said James A. Talcott of Boston 's Dana-Farber Cancer Institute . 
+Dr. Talcott led a team of researchers from the National Cancer Institute and the medical schools of Harvard University and Boston University . 
+The Lorillard spokeswoman said asbestos was used in `` very modest amounts '' in making paper for the filters in the early 1950s and replaced with a different type of filter in 1956 . 
+From 1953 to 1955 , 9.8 billion Kent cigarettes with the filters were sold , the company said . 
+Among 33 men who worked closely with the substance , 28 have died -- more than three times the expected number . 
+Four of the five surviving workers have asbestos-related diseases , including three with recently diagnosed cancer . 
+The total of 18 deaths from malignant mesothelioma , lung cancer and asbestosis was far higher than expected , the researchers said . 
+`` The morbidity rate is a striking finding among those of us who study asbestos-related diseases , '' said Dr. Talcott . 
+The percentage of lung cancer deaths among the workers at the West Groton , Mass. , paper factory appears to be the highest for any asbestos workers studied in Western industrialized countries , he said . 
+The plant , which is owned by Hollingsworth & Vose Co. , was under contract with Lorillard to make the cigarette filters . 
+The finding probably will support those who argue that the U.S. should regulate the class of asbestos including crocidolite more stringently than the common kind of asbestos , chrysotile , found in most schools and other buildings , Dr. Talcott said . 
+The U.S. is one of the few industrialized nations that does n't have a higher standard of regulation for the smooth , needle-like fibers such as crocidolite that are classified as amphobiles , according to Brooke T. Mossman , a professor of pathlogy at the University of Vermont College of Medicine . 
+More common chrysotile fibers are curly and are more easily rejected by the body , Dr. Mossman explained . 
+In July , the Environmental Protection Agency imposed a gradual ban on virtually all uses of asbestos . 
+By 1997 , almost all remaining uses of cancer-causing asbestos will be outlawed . 
+About 160 workers at a factory that made paper for the Kent filters were exposed to asbestos in the 1950s . 
+Areas of the factory were particularly dusty where the crocidolite was used . 
+Workers dumped large burlap sacks of the imported material into a huge bin , poured in cotton and acetate fibers and mechanically mixed the dry fibers in a process used to make filters . 
+Workers described `` clouds of blue dust '' that hung over parts of the factory , even though exhaust fans ventilated the area . 
+`` There 's no question that some of those workers and managers contracted asbestos-related diseases , '' said Darrell Phillips , vice president of human resources for Hollingsworth & Vose . 
+`` But you have to recognize that these events took place 35 years ago . 
+It has no bearing on our work force today . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="33" end="37" text="make" comment="" pos="VB" />
+<SELECTOR id="s1" start="65" end="71" text="caused" comment="" pos="VBN" />
+<SELECTOR id="s2" start="261" end="267" text="enters" comment="" pos="VBZ" />
+<SELECTOR id="s3" start="312" end="319" text="causing" comment="" pos="VBG" />
+<SELECTOR id="s4" start="439" end="444" text="makes" comment="" pos="VBZ" />
+<SELECTOR id="s5" start="471" end="476" text="using" comment="" pos="VBG" />
+<SELECTOR id="s6" start="570" end="578" text="reported" comment="" pos="VBN" />
+<SELECTOR id="s7" start="692" end="697" text="bring" comment="" pos="VB" />
+<SELECTOR id="s8" start="850" end="856" text="having" comment="" pos="VBG" />
+<SELECTOR id="s9" start="977" end="984" text="studied" comment="" pos="VBD" />
+<SELECTOR id="s10" start="1067" end="1071" text="have" comment="" pos="VBP" />
+<SELECTOR id="s11" start="1207" end="1210" text="led" comment="" pos="VBD" />
+<SELECTOR id="s12" start="1383" end="1387" text="used" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1420" end="1426" text="making" comment="" pos="VBG" />
+<SELECTOR id="s14" start="1594" end="1598" text="sold" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1770" end="1774" text="have" comment="" pos="VBP" />
+<SELECTOR id="s16" start="2054" end="2059" text="study" comment="" pos="VBP" />
+<SELECTOR id="s17" start="2338" end="2343" text="owned" comment="" pos="VBN" />
+<SELECTOR id="s18" start="2411" end="2415" text="make" comment="" pos="VB" />
+<SELECTOR id="s19" start="2467" end="2474" text="support" comment="" pos="VB" />
+<SELECTOR id="s20" start="2512" end="2520" text="regulate" comment="" pos="VB" />
+<SELECTOR id="s21" start="2758" end="2762" text="have" comment="" pos="VB" />
+<SELECTOR id="s22" start="2860" end="2870" text="classified" comment="" pos="VBN" />
+<SELECTOR id="s23" start="3150" end="3157" text="imposed" comment="" pos="VBD" />
+<SELECTOR id="s24" start="3280" end="3288" text="outlawed" comment="" pos="VBN" />
+<SELECTOR id="s25" start="3365" end="3372" text="exposed" comment="" pos="VBN" />
+<SELECTOR id="s26" start="3328" end="3332" text="made" comment="" pos="VBD" />
+<SELECTOR id="s27" start="3472" end="3476" text="used" comment="" pos="VBN" />
+<SELECTOR id="s28" start="3488" end="3494" text="dumped" comment="" pos="VBD" />
+<SELECTOR id="s29" start="3557" end="3563" text="poured" comment="" pos="VBD" />
+<SELECTOR id="s30" start="3610" end="3615" text="mixed" comment="" pos="VBD" />
+<SELECTOR id="s31" start="3652" end="3656" text="make" comment="" pos="VB" />
+<SELECTOR id="s32" start="3676" end="3685" text="described" comment="" pos="VBD" />
+<SELECTOR id="s33" start="3775" end="3785" text="ventilated" comment="" pos="VBD" />
+<SELECTOR id="s34" start="3862" end="3872" text="contracted" comment="" pos="VBD" />
+<SELECTOR id="s35" start="4037" end="4041" text="took" comment="" pos="VBD" />
+<SELECTOR id="s36" start="4067" end="4070" text="has" comment="" pos="VBZ" />
+<NOUN id="n0" start="53" end="60" text="filters" comment="" />
+<NOUN id="n1" start="79" end="89" text="percentage" comment="" />
+<NOUN id="n2" start="272" end="277" text="lungs" comment="" />
+<NOUN id="n3" start="320" end="328" text="symptoms" comment="" />
+<NOUN id="n4" start="450" end="460" text="cigarettes" comment="" />
+<NOUN id="n5" start="477" end="488" text="crocidolite" comment="" />
+<NOUN id="n6" start="556" end="564" text="findings" comment="" />
+<NOUN id="n7" start="702" end="711" text="attention" comment="" />
+<NOUN id="n8" start="874" end="884" text="properties" comment="" />
+<NOUN id="n9" start="989" end="996" text="workers" comment="" />
+<NOUN id="n10" start="1082" end="1093" text="information" comment="" />
+<NOUN id="n11" start="1213" end="1217" text="team" comment="" />
+<NOUN id="n12" start="1370" end="1378" text="asbestos" comment="" />
+<NOUN id="n13" start="1427" end="1432" text="paper" comment="" />
+<NOUN id="n14" start="1561" end="1571" text="cigarettes" comment="" />
+<NOUN id="n15" start="1792" end="1800" text="diseases" comment="" />
+<NOUN id="n16" start="2077" end="2085" text="diseases" comment="" />
+<NOUN id="n17" start="2329" end="2334" text="which" comment="" />
+<NOUN id="n18" start="2430" end="2437" text="filters" comment="" />
+<NOUN id="n19" start="2475" end="2480" text="those" comment="" />
+<NOUN id="n20" start="2525" end="2530" text="class" comment="" />
+<NOUN id="n21" start="2772" end="2780" text="standard" comment="" />
+<NOUN id="n22" start="2851" end="2855" text="that" comment="" />
+<NOUN id="n23" start="3168" end="3171" text="ban" comment="" />
+<NOUN id="n24" start="3240" end="3244" text="uses" comment="" />
+<NOUN id="n25" start="3302" end="3309" text="workers" comment="" />
+<NOUN id="n26" start="3333" end="3338" text="paper" comment="" />
+<NOUN id="n27" start="3456" end="3467" text="crocidolite" comment="" />
+<NOUN id="n28" start="3508" end="3513" text="sacks" comment="" />
+<NOUN id="n29" start="3567" end="3573" text="cotton" comment="" />
+<NOUN id="n30" start="3624" end="3630" text="fibers" comment="" />
+<NOUN id="n31" start="3657" end="3664" text="filters" comment="" />
+<NOUN id="n32" start="3689" end="3695" text="clouds" comment="" />
+<NOUN id="n33" start="3790" end="3794" text="area" comment="" />
+<NOUN id="n34" start="3890" end="3898" text="diseases" comment="" />
+<NOUN id="n35" start="4042" end="4047" text="place" comment="" />
+<NOUN id="n36" start="4074" end="4081" text="bearing" comment="" />
+<QLINK id="q0" fromID="s0" fromText="make" toID="n0" toText="filters" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="caused" toID="n1" toText="percentage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="enters" toID="n2" toText="lungs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="causing" toID="n3" toText="symptoms" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="makes" toID="n4" toText="cigarettes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="using" toID="n5" toText="crocidolite" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="reported" toID="n6" toText="findings" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s7" fromText="bring" toID="n7" toText="attention" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="having" toID="n8" toText="properties" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="studied" toID="n9" toText="workers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="have" toID="n10" toText="information" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="led" toID="n11" toText="team" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="used" toID="n12" toText="asbestos" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s13" fromText="making" toID="n13" toText="paper" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="sold" toID="n14" toText="cigarettes" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q15" fromID="s15" fromText="have" toID="n15" toText="diseases" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="study" toID="n16" toText="diseases" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="owned" toID="n17" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q18" fromID="s18" fromText="make" toID="n18" toText="filters" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="support" toID="n19" toText="those" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="regulate" toID="n20" toText="class" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="have" toID="n21" toText="standard" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="classified" toID="n22" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q23" fromID="s23" fromText="imposed" toID="n23" toText="ban" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="outlawed" toID="n24" toText="uses" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q25" fromID="s25" fromText="exposed" toID="n25" toText="workers" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q26" fromID="s26" fromText="made" toID="n26" toText="paper" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="used" toID="n27" toText="crocidolite" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q28" fromID="s28" fromText="dumped" toID="n28" toText="sacks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="poured" toID="n29" toText="cotton" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="mixed" toID="n30" toText="fibers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="make" toID="n31" toText="filters" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="described" toID="n32" toText="clouds" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="ventilated" toID="n33" toText="area" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="contracted" toID="n34" toText="diseases" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="took" toID="n35" toText="place" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="has" toID="n36" toText="bearing" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+After years of struggling , the Los Angeles Herald Examiner will publish its last edition today , shut down by its parent , Hearst Corp. , following unsuccessful efforts to sell the venerable newspaper . 
+The demise of the 238,000-circulation Herald , once the nation 's largest afternoon newspaper with circulation exceeding 700,000 , turns the country 's second-largest city into a one-newspaper town , at least in some senses . 
+The Los Angeles Times , with a circulation of more than 1.1 million , dominates the region . 
+But it faces stiff competition in Orange County from the Orange County Register , which sells more than 300,000 copies a day , and in the San Fernando Valley from the Los Angeles Daily News , which sells more than 170,000 . 
+Nearby cities such as Pasadena and Long Beach also have large dailies . 
+In July , closely held Hearst , based in New York , put the paper on the block . 
+Speculation had it that the company was asking $ 100 million for an operation said to be losing about $ 20 million a year , but others said Hearst might have virtually given the paper away . 
+An attempted buy-out led by John J. McCabe , chief operating officer , never materialized , and a stream of what one staff member dismissed as `` tire-kickers and lookee-loos '' had filed through since . 
+The prospective buyers included investor Marvin Davis and the Toronto Sun . 
+The death of the Herald , a newsstand paper in a freeway town , was perhaps inevitable . 
+Los Angeles is a sprawling , balkanized newspaper market , and advertisers seemed to feel they could buy space in the mammoth Times , then target a particular area with one of the regional dailies . 
+The Herald was left in limbo . 
+Further , the Herald seemed torn editorially between keeping its old-time Hearst readership -- blue-collar and sports-oriented -- and trying to provide a sprightly , upscale alternative to the sometimes staid Times . 
+Hearst had flirted with a conversion to tabloid format for years but never executed the plan . 
+The Herald joins the Baltimore News-American , which folded , and the Boston Herald-American , which was sold , as cornerstones of the old Hearst newspaper empire abandoned by the company in the 1980s . 
+Many felt Hearst kept the paper alive as long as it did , if marginally , because of its place in family history . 
+Its fanciful offices were designed by architect Julia Morgan , who built the Hearst castle at San Simeon . 
+William Randolph Hearst had kept an apartment in the Spanish Renaissance-style building . 
+Analysts said the Herald 's demise does n't necessarily represent the overall condition of the newspaper industry . 
+`` The Herald was a survivor from a bygone age , '' said J. Kendrick Noble , a media analyst with PaineWebber Inc . 
+`` Actually , the long deterioration in daily newspapers shows signs of coming to an end , and the industry looks pretty healthy . '' 
+Founded as the Examiner in 1903 by Mr. Hearst , the Herald was crippled by a bitter , decade-long strike that began in 1967 and cut circulation in half . 
+Financially , it never recovered ; editorially , it had its moments . 
+In 1979 , Hearst hired editor James Bellows , who brightened the editorial product considerably . 
+He and his successor , Mary Anne Dolan , restored respect for the editorial product , and though in recent years the paper had been limping along on limited resources , its accomplishments were notable . 
+For example , the Herald consistently beat its much-larger rival on disclosures about Los Angeles Mayor Tom Bradley 's financial dealings . 
+The Herald 's sports coverage and arts criticism were also highly regarded . 
+Robert J. Danzig , vice president and general manager of Hearst Newspapers , stood up in the paper 's newsroom yesterday and announced that no buyers had stepped forward and that the paper would fold , putting more than 730 full-time employees out of work . 
+Hearst said it would provide employees with a placement service and pay them for 60 days . 
+Some long-tenured employees will receive additional benefits , the company said . 
+Hours after the announcement , representatives of the Orange County Register were in a bar across the street recruiting . 
+The reaction in the newsroom was emotional . 
+`` I 've never seen so many people crying in one place at one time , '' said Bill Johnson , an assistant city editor . 
+`` So Long , L.A. '' was chosen as the paper 's final headline . 
+`` I 'm doing the main story , and I 'm already two beers drunk , '' said reporter Andy Furillo , whom the Times hired away several years ago but who returned to the Herald out of preference . 
+His wife also works for the paper , as did his father . 
+Outside , a young pressman filling a news box with an extra edition headlined `` Herald Examiner Closes '' refused to take a reader 's quarter . 
+`` Forget it , '' he said as he handed her a paper . 
+`` It does n't make any difference now . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="66" end="73" text="publish" comment="" pos="VB" />
+<SELECTOR id="s1" start="174" end="178" text="sell" comment="" pos="VB" />
+<SELECTOR id="s2" start="317" end="326" text="exceeding" comment="" pos="VBG" />
+<SELECTOR id="s3" start="337" end="342" text="turns" comment="" pos="VBZ" />
+<SELECTOR id="s4" start="503" end="512" text="dominates" comment="" pos="VBZ" />
+<SELECTOR id="s5" start="534" end="539" text="faces" comment="" pos="VBZ" />
+<SELECTOR id="s6" start="615" end="620" text="sells" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="725" end="730" text="sells" comment="" pos="VBZ" />
+<SELECTOR id="s8" start="803" end="807" text="have" comment="" pos="VBP" />
+<SELECTOR id="s9" start="877" end="880" text="put" comment="" pos="VBD" />
+<SELECTOR id="s10" start="919" end="922" text="had" comment="" pos="VBD" />
+<SELECTOR id="s11" start="947" end="953" text="asking" comment="" pos="VBG" />
+<SELECTOR id="s12" start="996" end="1002" text="losing" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1075" end="1080" text="given" comment="" pos="VBN" />
+<SELECTOR id="s14" start="1229" end="1238" text="dismissed" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1327" end="1335" text="included" comment="" pos="VBD" />
+<SELECTOR id="s16" start="1572" end="1575" text="buy" comment="" pos="VB" />
+<SELECTOR id="s17" start="1610" end="1616" text="target" comment="" pos="VB" />
+<SELECTOR id="s18" start="1686" end="1690" text="left" comment="" pos="VBN" />
+<SELECTOR id="s19" start="1756" end="1763" text="keeping" comment="" pos="VBG" />
+<SELECTOR id="s20" start="1847" end="1854" text="provide" comment="" pos="VB" />
+<SELECTOR id="s21" start="1996" end="2004" text="executed" comment="" pos="VBN" />
+<SELECTOR id="s22" start="2028" end="2033" text="joins" comment="" pos="VBZ" />
+<SELECTOR id="s23" start="2122" end="2126" text="sold" comment="" pos="VBN" />
+<SELECTOR id="s24" start="2363" end="2371" text="designed" comment="" pos="VBN" />
+<SELECTOR id="s25" start="2404" end="2409" text="built" comment="" pos="VBD" />
+<SELECTOR id="s26" start="2473" end="2477" text="kept" comment="" pos="VBN" />
+<SELECTOR id="s27" start="2592" end="2601" text="represent" comment="" pos="VB" />
+<SELECTOR id="s28" start="2827" end="2832" text="shows" comment="" pos="VBZ" />
+<SELECTOR id="s29" start="2968" end="2976" text="crippled" comment="" pos="VBN" />
+<SELECTOR id="s30" start="3033" end="3036" text="cut" comment="" pos="VBD" />
+<SELECTOR id="s31" start="3112" end="3115" text="had" comment="" pos="VBD" />
+<SELECTOR id="s32" start="3148" end="3153" text="hired" comment="" pos="VBD" />
+<SELECTOR id="s33" start="3181" end="3191" text="brightened" comment="" pos="VBD" />
+<SELECTOR id="s34" start="3271" end="3279" text="restored" comment="" pos="VBD" />
+<SELECTOR id="s35" start="3473" end="3477" text="beat" comment="" pos="VBD" />
+<SELECTOR id="s36" start="3856" end="3863" text="putting" comment="" pos="VBG" />
+<SELECTOR id="s37" start="3934" end="3941" text="provide" comment="" pos="VB" />
+<SELECTOR id="s38" start="3981" end="3984" text="pay" comment="" pos="VB" />
+<SELECTOR id="s39" start="4038" end="4045" text="receive" comment="" pos="VB" />
+<SELECTOR id="s40" start="4402" end="4408" text="chosen" comment="" pos="VBN" />
+<SELECTOR id="s41" start="4451" end="4456" text="doing" comment="" pos="VBG" />
+<SELECTOR id="s42" start="4556" end="4561" text="hired" comment="" pos="VBD" />
+<SELECTOR id="s43" start="4721" end="4728" text="filling" comment="" pos="VBG" />
+<SELECTOR id="s44" start="4812" end="4816" text="take" comment="" pos="VB" />
+<SELECTOR id="s45" start="4843" end="4849" text="Forget" comment="" pos="VB" />
+<SELECTOR id="s46" start="4872" end="4878" text="handed" comment="" pos="VBD" />
+<SELECTOR id="s47" start="4909" end="4913" text="make" comment="" pos="VB" />
+<NOUN id="n0" start="83" end="90" text="edition" comment="" />
+<NOUN id="n1" start="193" end="202" text="newspaper" comment="" />
+<NOUN id="n2" start="327" end="334" text="700,000" comment="" />
+<NOUN id="n3" start="373" end="377" text="city" comment="" />
+<NOUN id="n4" start="517" end="523" text="region" comment="" />
+<NOUN id="n5" start="546" end="557" text="competition" comment="" />
+<NOUN id="n6" start="639" end="645" text="copies" comment="" />
+<NOUN id="n7" start="741" end="748" text="170,000" comment="" />
+<NOUN id="n8" start="814" end="821" text="dailies" comment="" />
+<NOUN id="n9" start="885" end="890" text="paper" comment="" />
+<NOUN id="n10" start="923" end="925" text="it" comment="" />
+<NOUN id="n11" start="960" end="967" text="million" comment="" />
+<NOUN id="n12" start="1014" end="1021" text="million" comment="" />
+<NOUN id="n13" start="1085" end="1090" text="paper" comment="" />
+<NOUN id="n14" start="1207" end="1211" text="what" comment="" />
+<NOUN id="n15" start="1352" end="1357" text="Davis" comment="" />
+<NOUN id="n16" start="1576" end="1581" text="space" comment="" />
+<NOUN id="n17" start="1630" end="1634" text="area" comment="" />
+<NOUN id="n18" start="1675" end="1681" text="Herald" comment="" />
+<NOUN id="n19" start="1784" end="1794" text="readership" comment="" />
+<NOUN id="n20" start="1877" end="1888" text="alternative" comment="" />
+<NOUN id="n21" start="2009" end="2013" text="plan" comment="" />
+<NOUN id="n22" start="2048" end="2061" text="News-American" comment="" />
+<NOUN id="n23" start="2112" end="2117" text="which" comment="" />
+<NOUN id="n24" start="2350" end="2357" text="offices" comment="" />
+<NOUN id="n25" start="2421" end="2427" text="castle" comment="" />
+<NOUN id="n26" start="2481" end="2490" text="apartment" comment="" />
+<NOUN id="n27" start="2614" end="2623" text="condition" comment="" />
+<NOUN id="n28" start="2833" end="2838" text="signs" comment="" />
+<NOUN id="n29" start="2957" end="2963" text="Herald" comment="" />
+<NOUN id="n30" start="3037" end="3048" text="circulation" comment="" />
+<NOUN id="n31" start="3120" end="3127" text="moments" comment="" />
+<NOUN id="n32" start="3167" end="3174" text="Bellows" comment="" />
+<NOUN id="n33" start="3206" end="3213" text="product" comment="" />
+<NOUN id="n34" start="3280" end="3287" text="respect" comment="" />
+<NOUN id="n35" start="3494" end="3499" text="rival" comment="" />
+<NOUN id="n36" start="3888" end="3897" text="employees" comment="" />
+<NOUN id="n37" start="3942" end="3951" text="employees" comment="" />
+<NOUN id="n38" start="3985" end="3989" text="them" comment="" />
+<NOUN id="n39" start="4057" end="4065" text="benefits" comment="" />
+<NOUN id="n40" start="4380" end="4382" text="So" comment="" />
+<NOUN id="n41" start="4466" end="4471" text="story" comment="" />
+<NOUN id="n42" start="4541" end="4545" text="whom" comment="" />
+<NOUN id="n43" start="4736" end="4739" text="box" comment="" />
+<NOUN id="n44" start="4829" end="4836" text="quarter" comment="" />
+<NOUN id="n45" start="4850" end="4852" text="it" comment="" />
+<NOUN id="n46" start="4879" end="4882" text="her" comment="" />
+<NOUN id="n47" start="4885" end="4890" text="paper" comment="" />
+<NOUN id="n48" start="4918" end="4928" text="difference" comment="" />
+<QLINK id="q0" fromID="s0" fromText="publish" toID="n0" toText="edition" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="sell" toID="n1" toText="newspaper" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="exceeding" toID="n2" toText="700,000" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="turns" toID="n3" toText="city" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="dominates" toID="n4" toText="region" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="faces" toID="n5" toText="competition" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="sells" toID="n6" toText="copies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="sells" toID="n7" toText="170,000" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="have" toID="n8" toText="dailies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="put" toID="n9" toText="paper" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="had" toID="n10" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="asking" toID="n11" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="losing" toID="n12" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="given" toID="n13" toText="paper" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="dismissed" toID="n14" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="included" toID="n15" toText="Davis" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="buy" toID="n16" toText="space" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="target" toID="n17" toText="area" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="left" toID="n18" toText="Herald" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q19" fromID="s19" fromText="keeping" toID="n19" toText="readership" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="provide" toID="n20" toText="alternative" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="executed" toID="n21" toText="plan" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="joins" toID="n22" toText="News-American" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="sold" toID="n23" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q24" fromID="s24" fromText="designed" toID="n24" toText="offices" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q25" fromID="s25" fromText="built" toID="n25" toText="castle" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="kept" toID="n26" toText="apartment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="represent" toID="n27" toText="condition" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="shows" toID="n28" toText="signs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="crippled" toID="n29" toText="Herald" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q30" fromID="s30" fromText="cut" toID="n30" toText="circulation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="had" toID="n31" toText="moments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="hired" toID="n32" toText="Bellows" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="brightened" toID="n33" toText="product" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="restored" toID="n34" toText="respect" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="beat" toID="n35" toText="rival" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="putting" toID="n36" toText="employees" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s37" fromText="provide" toID="n37" toText="employees" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="pay" toID="n38" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="receive" toID="n39" toText="benefits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="chosen" toID="n40" toText="So" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q41" fromID="s41" fromText="doing" toID="n41" toText="story" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s42" fromText="hired" toID="n42" toText="whom" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s43" fromText="filling" toID="n43" toText="box" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q44" fromID="s44" fromText="take" toID="n44" toText="quarter" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q45" fromID="s45" fromText="Forget" toID="n45" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q46" fromID="s46" fromText="handed" toID="n46" toText="her" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q47" fromID="s46" fromText="handed" toID="n47" toText="paper" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q48" fromID="s47" fromText="make" toID="n48" toText="difference" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

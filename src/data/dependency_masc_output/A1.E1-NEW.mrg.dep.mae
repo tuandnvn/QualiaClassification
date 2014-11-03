@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<DOC_docid="artb_004"_sysid="ahd"> 
+<hl> 
+<seg_id=1> 
+Inauguration of free zone in Dubai for e-commerce 
+</seg> 
+</hl> 
+<p> 
+<seg_id=2> 
+Dubai 10 - 28 ( FP ) - 
+Dubai 's Crown Prince Sheikh Mohamed Bin Rashid Al Maktoum inaugurated a free zone for e-commerce today , called Dubai Internet City . 
+</seg> 
+</p> 
+<p> 
+<seg_id=3> 
+The preliminary stages of the project , the only one of its kind according to its designers , are estimated at $ 200 million . 
+</seg> 
+</p> 
+<LU_ANNOTATE> 
+<p> 
+<seg_id=4> 
+Sheikh Mohamed , who is also the Defense Minister of the United Arab Emirates , announced at the inauguration ceremony that " we want to make Dubai a new trading center . " 
+</seg> 
+</p> 
+<p> 
+<seg_id=5> 
+The minister , who has his own website , also said : " I want Dubai to be the best place in the world for state - of - the - art technology companies . " 
+</seg> 
+</p> 
+<p> 
+<seg_id=6> 
+He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully - owned foreign companies . 
+</seg> 
+</p> 
+</LU_ANNOTATE_WC=_78> 
+<p> 
+<seg_id=7> 
+The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit . 
+</seg> 
+</p> 
+<p> 
+<seg_id=8> 
+The inauguration of Dubai Internet City coincides with the opening of an annual IT show in Dubai , the Gulf Information Technology Exhibition ( Gitex ) , the biggest in the Middle East . 
+</seg> 
+</p> 
+</DOC> 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="221" end="232" text="inaugurated" comment="" pos="VBD" />
+<SELECTOR id="s1" start="427" end="436" text="estimated" comment="" pos="VBN" />
+<SELECTOR id="s2" start="727" end="730" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s3" start="951" end="954" text="set" comment="" pos="VB" />
+<SELECTOR id="s4" start="968" end="974" text="employ" comment="" pos="VB" />
+<SELECTOR id="s5" start="985" end="988" text="own" comment="" pos="VB" />
+<SELECTOR id="s6" start="1145" end="1153" text="situated" comment="" pos="VBN" />
+<NOUN id="n0" start="240" end="244" text="zone" comment="" />
+<NOUN id="n1" start="345" end="351" text="stages" comment="" />
+<NOUN id="n2" start="739" end="746" text="website" comment="" />
+<NOUN id="n3" start="958" end="965" text="offices" comment="" />
+<NOUN id="n4" start="975" end="980" text="staff" comment="" />
+<NOUN id="n5" start="989" end="998" text="equipment" comment="" />
+<NOUN id="n6" start="1137" end="1141" text="zone" comment="" />
+<QLINK id="q0" fromID="s0" fromText="inaugurated" toID="n0" toText="zone" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="estimated" toID="n1" toText="stages" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="has" toID="n2" toText="website" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="set" toID="n3" toText="offices" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="employ" toID="n4" toText="staff" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="own" toID="n5" toText="equipment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="situated" toID="n6" toText="zone" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

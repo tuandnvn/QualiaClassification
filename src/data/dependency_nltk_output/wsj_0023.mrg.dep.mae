@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+F.H. Faulding & Co. , an Australian pharmaceuticals company , said its Moleculon Inc. affiliate acquired Kalipharma Inc. for $ 23 million . 
+Kalipharma is a New Jersey-based pharmaceuticals concern that sells products under the Purepac label . 
+Faulding said it owns 33 % of Moleculon 's voting stock and has an agreement to acquire an additional 19 % . 
+That stake , together with its convertible preferred stock holdings , gives Faulding the right to increase its interest to 70 % of Moleculon 's voting stock . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="97" end="105" text="acquired" comment="" pos="VBD" />
+<SELECTOR id="s1" start="204" end="209" text="sells" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="263" end="267" text="owns" comment="" pos="VBZ" />
+<SELECTOR id="s3" start="306" end="309" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s4" start="326" end="333" text="acquire" comment="" pos="VB" />
+<SELECTOR id="s5" start="426" end="431" text="gives" comment="" pos="VBZ" />
+<SELECTOR id="s6" start="454" end="462" text="increase" comment="" pos="VB" />
+<NOUN id="n0" start="117" end="121" text="Inc." comment="" />
+<NOUN id="n1" start="210" end="218" text="products" comment="" />
+<NOUN id="n2" start="271" end="272" text="%" comment="" />
+<NOUN id="n3" start="313" end="322" text="agreement" comment="" />
+<NOUN id="n4" start="351" end="352" text="%" comment="" />
+<NOUN id="n5" start="432" end="440" text="Faulding" comment="" />
+<NOUN id="n6" start="445" end="450" text="right" comment="" />
+<NOUN id="n7" start="467" end="475" text="interest" comment="" />
+<QLINK id="q0" fromID="s0" fromText="acquired" toID="n0" toText="Inc." comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="sells" toID="n1" toText="products" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="owns" toID="n2" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="has" toID="n3" toText="agreement" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="acquire" toID="n4" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="gives" toID="n5" toText="Faulding" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q6" fromID="s5" fromText="gives" toID="n6" toText="right" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s6" fromText="increase" toID="n7" toText="interest" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The limits to legal absurdity stretched another notch this week when the Supreme Court refused to hear an appeal from a case that says corporate defendants must pay damages even after proving that they could not possibly have caused the harm . 
+We can understand and share the compassion that makes judges sometimes wish to offer a kind of Solomonic aid to those who 've been hurt . 
+But this case is a stark lesson in how the failures of the traditional policy-making process have left the courts as the only forum this country has to debate risk , technology and innovation . 
+Too often now , a single court decision becomes the precedent for other , less compelling cases . 
+From the 1940s until 1971 , some two million women took the synthetic hormone diethylstilbestrol ( DES ) to prevent miscarriages and morning sickness . 
+The drug was approved by the Food and Drug Administration and marketed by some 300 pharmaceutical companies , often under generic labels . 
+In the 1970s , scientists reported cancer cases among the daughters of DES users . 
+The cases quickly went to court , but the mothers of several thousand DES plaintiffs could n't recall whose brand they used . 
+Beginning in 1980 , courts in several states including California and New York decided to suspend the common-law rule that plaintiffs must prove that the defendants are the ones who are liable . 
+Courts made the assumption that all DES pills were essentially the same , and created a market-share test so that damages would be assessed against drug makers in the proportion of their share of the original sales . 
+This has some logic . 
+Drug makers should n't be able to duck liability because people could n't identify precisely which identical drug was used . 
+But courts quickly tumbled down a slippery slope . 
+Just as all plaintiffs are not alike , it turns out that DES defendants marketed the drugs differently and may have offered different warranties . 
+The ultimate result came in Hymowitz v. Lilly , where the highest New York court expanded the market-share approach for the first time to say that drug makers that could prove Mindy Hymowitz 's mother did n't use their pill must still pay their share of any damages . 
+But as Duke University law professor William Van Alstyne notes , by this reasoning a defendant could be held liable in New York for a bad apple even if he sold all his apples in California . 
+Despite the Supreme Court 's refusal to hear the case , there are serious constitutional issues of due process and uncompensated takings from the defendants . 
+The big problem , however , is that there 's no guarantee that this reasoning will be limited to DES or to drugs . 
+The problem here goes well beyond twisting legal doctrine . 
+The California Supreme Court last year reversed direction to make it much harder to win DES cases because the justices saw how all the pharmaceutical litigation has chilled the introduction of new drugs . 
+The court rejected strict liability for prescription drugs , citing the huge , hidden social costs . 
+`` Public policy favors the development and marketing of beneficial new drugs , even though some risks , perhaps serious ones , might accompany their introduction because drugs can save lives and reduce pain and suffering , '' the unanimous court said . 
+The California justices noted that the fear of litigation already forced the only remaining anti-morning-sickness drug , Bendectin , off the U.S. market . 
+This raises the key issue : What to do about people who suffer serious injuries from beneficial drugs ? 
+We now know that holding drug makers liable where there 's no evidence that they or anyone else knew of any risks only means the drugs wo n't be available to anyone . 
+As liability expert Peter Huber tells us , after the Hymowitz case , if any drug maker introduces an anti-miscarriage drug `` it 's time to sell that company 's stock short . '' 
+We also know that the tort system is a lousy way to compensate victims anyway ; some win the legal lottery , others get much less and contingency-fee lawyers take a big cut either way . 
+DES daughters and other victims of drugs would be better off if their cases were taken out of the courts . 
+Congress could create a compensation program to help such victims while protecting the national interest in encouraging new drugs . 
+But a 1986 law that supposedly replaced lawsuits over children 's vaccines with a compensation fund has predictably led to even more litigation . 
+Everyone by now understands that Congress is utterly incapable of writing legislation to help deserving people without its becoming some billion-dollar morass . 
+We have no doubt this is one reason judges in New York and justices on the Supreme Court are willing to trash the law in the DES cases . 
+They must figure that justice has to get done by somebody , but know it wo n't be done by Congress . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="99" end="103" text="hear" comment="" pos="VB" />
+<SELECTOR id="s1" start="162" end="165" text="pay" comment="" pos="VB" />
+<SELECTOR id="s2" start="227" end="233" text="caused" comment="" pos="VBN" />
+<SELECTOR id="s3" start="268" end="273" text="share" comment="" pos="VB" />
+<SELECTOR id="s4" start="325" end="330" text="offer" comment="" pos="VB" />
+<SELECTOR id="s5" start="377" end="381" text="hurt" comment="" pos="VBN" />
+<SELECTOR id="s6" start="483" end="487" text="left" comment="" pos="VBN" />
+<SELECTOR id="s7" start="537" end="543" text="debate" comment="" pos="VB" />
+<SELECTOR id="s8" start="730" end="734" text="took" comment="" pos="VBD" />
+<SELECTOR id="s9" start="787" end="794" text="prevent" comment="" pos="VB" />
+<SELECTOR id="s10" start="845" end="853" text="approved" comment="" pos="VBN" />
+<SELECTOR id="s11" start="998" end="1006" text="reported" comment="" pos="VBD" />
+<SELECTOR id="s12" start="1175" end="1179" text="used" comment="" pos="VBD" />
+<SELECTOR id="s13" start="1273" end="1280" text="suspend" comment="" pos="VB" />
+<SELECTOR id="s14" start="1386" end="1390" text="made" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1457" end="1464" text="created" comment="" pos="VBD" />
+<SELECTOR id="s16" start="1510" end="1518" text="assessed" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1602" end="1605" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s18" start="1654" end="1658" text="duck" comment="" pos="VB" />
+<SELECTOR id="s19" start="1738" end="1742" text="used" comment="" pos="VBN" />
+<SELECTOR id="s20" start="1870" end="1878" text="marketed" comment="" pos="VBD" />
+<SELECTOR id="s21" start="1914" end="1921" text="offered" comment="" pos="VBN" />
+<SELECTOR id="s22" start="2027" end="2035" text="expanded" comment="" pos="VBD" />
+<SELECTOR id="s23" start="2155" end="2158" text="use" comment="" pos="VB" />
+<SELECTOR id="s24" start="2181" end="2184" text="pay" comment="" pos="VB" />
+<SELECTOR id="s25" start="2319" end="2323" text="held" comment="" pos="VBN" />
+<SELECTOR id="s26" start="2370" end="2374" text="sold" comment="" pos="VBD" />
+<SELECTOR id="s27" start="2447" end="2451" text="hear" comment="" pos="VB" />
+<SELECTOR id="s28" start="2653" end="2660" text="limited" comment="" pos="VBN" />
+<SELECTOR id="s29" start="2717" end="2725" text="twisting" comment="" pos="VBG" />
+<SELECTOR id="s30" start="2783" end="2791" text="reversed" comment="" pos="VBD" />
+<SELECTOR id="s31" start="2828" end="2831" text="win" comment="" pos="VB" />
+<SELECTOR id="s32" start="2909" end="2916" text="chilled" comment="" pos="VBN" />
+<SELECTOR id="s33" start="2960" end="2968" text="rejected" comment="" pos="VBD" />
+<SELECTOR id="s34" start="3011" end="3017" text="citing" comment="" pos="VBG" />
+<SELECTOR id="s35" start="3069" end="3075" text="favors" comment="" pos="VBZ" />
+<SELECTOR id="s36" start="3186" end="3195" text="accompany" comment="" pos="VB" />
+<SELECTOR id="s37" start="3233" end="3237" text="save" comment="" pos="VB" />
+<SELECTOR id="s38" start="3248" end="3254" text="reduce" comment="" pos="VB" />
+<SELECTOR id="s39" start="3373" end="3379" text="forced" comment="" pos="VBD" />
+<SELECTOR id="s40" start="3468" end="3474" text="raises" comment="" pos="VBZ" />
+<SELECTOR id="s41" start="3499" end="3501" text="do" comment="" pos="VB" />
+<SELECTOR id="s42" start="3519" end="3525" text="suffer" comment="" pos="VBP" />
+<SELECTOR id="s43" start="3768" end="3773" text="tells" comment="" pos="VBZ" />
+<SELECTOR id="s44" start="3823" end="3833" text="introduces" comment="" pos="VBZ" />
+<SELECTOR id="s45" start="3876" end="3880" text="sell" comment="" pos="VB" />
+<SELECTOR id="s46" start="3967" end="3977" text="compensate" comment="" pos="VB" />
+<SELECTOR id="s47" start="4000" end="4003" text="win" comment="" pos="VBP" />
+<SELECTOR id="s48" start="4031" end="4034" text="get" comment="" pos="VBP" />
+<SELECTOR id="s49" start="4073" end="4077" text="take" comment="" pos="VBP" />
+<SELECTOR id="s50" start="4183" end="4188" text="taken" comment="" pos="VBN" />
+<SELECTOR id="s51" start="4225" end="4231" text="create" comment="" pos="VB" />
+<SELECTOR id="s52" start="4258" end="4262" text="help" comment="" pos="VB" />
+<SELECTOR id="s53" start="4282" end="4292" text="protecting" comment="" pos="VBG" />
+<SELECTOR id="s54" start="4318" end="4329" text="encouraging" comment="" pos="VBG" />
+<SELECTOR id="s55" start="4374" end="4382" text="replaced" comment="" pos="VBD" />
+<SELECTOR id="s56" start="4556" end="4563" text="writing" comment="" pos="VBG" />
+<SELECTOR id="s57" start="4579" end="4583" text="help" comment="" pos="VB" />
+<SELECTOR id="s58" start="4655" end="4659" text="have" comment="" pos="VBP" />
+<SELECTOR id="s59" start="4756" end="4761" text="trash" comment="" pos="VB" />
+<SELECTOR id="s60" start="4872" end="4876" text="done" comment="" pos="VBN" />
+<NOUN id="n0" start="107" end="113" text="appeal" comment="" />
+<NOUN id="n1" start="166" end="173" text="damages" comment="" />
+<NOUN id="n2" start="238" end="242" text="harm" comment="" />
+<NOUN id="n3" start="278" end="288" text="compassion" comment="" />
+<NOUN id="n4" start="333" end="337" text="kind" comment="" />
+<NOUN id="n5" start="364" end="367" text="who" comment="" />
+<NOUN id="n6" start="492" end="498" text="courts" comment="" />
+<NOUN id="n7" start="544" end="548" text="risk" comment="" />
+<NOUN id="n8" start="757" end="775" text="diethylstilbestrol" comment="" />
+<NOUN id="n9" start="795" end="807" text="miscarriages" comment="" />
+<NOUN id="n10" start="836" end="840" text="drug" comment="" />
+<NOUN id="n11" start="1014" end="1019" text="cases" comment="" />
+<NOUN id="n12" start="1164" end="1169" text="brand" comment="" />
+<NOUN id="n13" start="1296" end="1300" text="rule" comment="" />
+<NOUN id="n14" start="1395" end="1405" text="assumption" comment="" />
+<NOUN id="n15" start="1480" end="1484" text="test" comment="" />
+<NOUN id="n16" start="1493" end="1500" text="damages" comment="" />
+<NOUN id="n17" start="1611" end="1616" text="logic" comment="" />
+<NOUN id="n18" start="1659" end="1668" text="liability" comment="" />
+<NOUN id="n19" start="1729" end="1733" text="drug" comment="" />
+<NOUN id="n20" start="1883" end="1888" text="drugs" comment="" />
+<NOUN id="n21" start="1932" end="1942" text="warranties" comment="" />
+<NOUN id="n22" start="2053" end="2061" text="approach" comment="" />
+<NOUN id="n23" start="2165" end="2169" text="pill" comment="" />
+<NOUN id="n24" start="2191" end="2196" text="share" comment="" />
+<NOUN id="n25" start="2300" end="2309" text="defendant" comment="" />
+<NOUN id="n26" start="2383" end="2389" text="apples" comment="" />
+<NOUN id="n27" start="2456" end="2460" text="case" comment="" />
+<NOUN id="n28" start="2635" end="2644" text="reasoning" comment="" />
+<NOUN id="n29" start="2732" end="2740" text="doctrine" comment="" />
+<NOUN id="n30" start="2792" end="2801" text="direction" comment="" />
+<NOUN id="n31" start="2836" end="2841" text="cases" comment="" />
+<NOUN id="n32" start="2921" end="2933" text="introduction" comment="" />
+<NOUN id="n33" start="2976" end="2985" text="liability" comment="" />
+<NOUN id="n34" start="3043" end="3048" text="costs" comment="" />
+<NOUN id="n35" start="3080" end="3091" text="development" comment="" />
+<NOUN id="n36" start="3202" end="3214" text="introduction" comment="" />
+<NOUN id="n37" start="3238" end="3243" text="lives" comment="" />
+<NOUN id="n38" start="3255" end="3259" text="pain" comment="" />
+<NOUN id="n39" start="3421" end="3425" text="drug" comment="" />
+<NOUN id="n40" start="3483" end="3488" text="issue" comment="" />
+<NOUN id="n41" start="3491" end="3495" text="What" comment="" />
+<NOUN id="n42" start="3534" end="3542" text="injuries" comment="" />
+<NOUN id="n43" start="3774" end="3776" text="us" comment="" />
+<NOUN id="n44" start="3854" end="3858" text="drug" comment="" />
+<NOUN id="n45" start="3897" end="3902" text="stock" comment="" />
+<NOUN id="n46" start="3978" end="3985" text="victims" comment="" />
+<NOUN id="n47" start="4014" end="4021" text="lottery" comment="" />
+<NOUN id="n48" start="4040" end="4044" text="less" comment="" />
+<NOUN id="n49" start="4084" end="4087" text="cut" comment="" />
+<NOUN id="n50" start="4172" end="4177" text="cases" comment="" />
+<NOUN id="n51" start="4247" end="4254" text="program" comment="" />
+<NOUN id="n52" start="4268" end="4275" text="victims" comment="" />
+<NOUN id="n53" start="4306" end="4314" text="interest" comment="" />
+<NOUN id="n54" start="4334" end="4339" text="drugs" comment="" />
+<NOUN id="n55" start="4383" end="4391" text="lawsuits" comment="" />
+<NOUN id="n56" start="4564" end="4575" text="legislation" comment="" />
+<NOUN id="n57" start="4594" end="4600" text="people" comment="" />
+<NOUN id="n58" start="4663" end="4668" text="doubt" comment="" />
+<NOUN id="n59" start="4766" end="4769" text="law" comment="" />
+<NOUN id="n60" start="4859" end="4861" text="it" comment="" />
+<QLINK id="q0" fromID="s0" fromText="hear" toID="n0" toText="appeal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="pay" toID="n1" toText="damages" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="caused" toID="n2" toText="harm" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="share" toID="n3" toText="compassion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="offer" toID="n4" toText="kind" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="hurt" toID="n5" toText="who" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="left" toID="n6" toText="courts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="debate" toID="n7" toText="risk" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="took" toID="n8" toText="diethylstilbestrol" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="prevent" toID="n9" toText="miscarriages" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="approved" toID="n10" toText="drug" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s11" fromText="reported" toID="n11" toText="cases" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="used" toID="n12" toText="brand" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="suspend" toID="n13" toText="rule" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="made" toID="n14" toText="assumption" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="created" toID="n15" toText="test" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="assessed" toID="n16" toText="damages" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q17" fromID="s17" fromText="has" toID="n17" toText="logic" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="duck" toID="n18" toText="liability" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="used" toID="n19" toText="drug" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q20" fromID="s20" fromText="marketed" toID="n20" toText="drugs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="offered" toID="n21" toText="warranties" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="expanded" toID="n22" toText="approach" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="use" toID="n23" toText="pill" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="pay" toID="n24" toText="share" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="held" toID="n25" toText="defendant" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q26" fromID="s26" fromText="sold" toID="n26" toText="apples" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="hear" toID="n27" toText="case" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="limited" toID="n28" toText="reasoning" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q29" fromID="s29" fromText="twisting" toID="n29" toText="doctrine" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="reversed" toID="n30" toText="direction" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="win" toID="n31" toText="cases" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="chilled" toID="n32" toText="introduction" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="rejected" toID="n33" toText="liability" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="citing" toID="n34" toText="costs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="favors" toID="n35" toText="development" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="accompany" toID="n36" toText="introduction" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s37" fromText="save" toID="n37" toText="lives" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="reduce" toID="n38" toText="pain" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="forced" toID="n39" toText="drug" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="raises" toID="n40" toText="issue" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q41" fromID="s41" fromText="do" toID="n41" toText="What" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s42" fromText="suffer" toID="n42" toText="injuries" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s43" fromText="tells" toID="n43" toText="us" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q44" fromID="s44" fromText="introduces" toID="n44" toText="drug" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q45" fromID="s45" fromText="sell" toID="n45" toText="stock" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q46" fromID="s46" fromText="compensate" toID="n46" toText="victims" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q47" fromID="s47" fromText="win" toID="n47" toText="lottery" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q48" fromID="s48" fromText="get" toID="n48" toText="less" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q49" fromID="s49" fromText="take" toID="n49" toText="cut" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q50" fromID="s50" fromText="taken" toID="n50" toText="cases" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q51" fromID="s51" fromText="create" toID="n51" toText="program" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q52" fromID="s52" fromText="help" toID="n52" toText="victims" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q53" fromID="s53" fromText="protecting" toID="n53" toText="interest" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q54" fromID="s54" fromText="encouraging" toID="n54" toText="drugs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q55" fromID="s55" fromText="replaced" toID="n55" toText="lawsuits" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q56" fromID="s56" fromText="writing" toID="n56" toText="legislation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q57" fromID="s57" fromText="help" toID="n57" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q58" fromID="s58" fromText="have" toID="n58" toText="doubt" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q59" fromID="s59" fromText="trash" toID="n59" toText="law" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q60" fromID="s60" fromText="done" toID="n60" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

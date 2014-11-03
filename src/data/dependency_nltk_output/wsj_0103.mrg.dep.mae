@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The Labor Department cited USX Corp. for numerous health and safety violations at two Pennsylvania plants , and proposed $ 7.3 million in fines , the largest penalty ever proposed for alleged workplace violations by an employer . 
+The department 's Occupational Safety and Health Administration proposed fines of $ 6.1 million for alleged violations at the company 's Fairless Hills , Pa. , steel mill ; that was a record for proposed penalties at any single facility . 
+OSHA cited nearly 1,500 alleged violations of federal electrical , crane-safety , record-keeping and other requirements . 
+A second citation covering the company 's Clairton , Pa. , coke works involved more than 200 alleged violations of electrical-safety and other requirements , for which OSHA proposed $ 1.2 million in fines . 
+Labor Secretary Elizabeth Dole said , `` The magnitude of these penalties and citations is matched only by the magnitude of the hazards to workers which resulted from corporate indifference to worker safety and health , and severe cutbacks in the maintenance and repair programs needed to remove those hazards . '' 
+OSHA said there have been three worker fatalities at the two plants in the past two years and 17 deaths since 1972 . 
+Gerard Scannell , the head of OSHA , said USX managers have known about many of the safety and health deficiencies at the plants for years , `` yet have failed to take necessary action to counteract the hazards . '' 
+`` Particularly flagrant , '' Mrs. Dole said , `` are the company 's numerous failures to properly record injuries at its Fairless works , in spite of the firm promise it had made in an earlier corporate-wide settlement agreement to correct such discrepancies . '' 
+That settlement was in April 1987 . 
+A USX spokesman said the company had n't yet received any documents from OSHA regarding the penalty or fine . 
+`` Once we do , they will receive very serious evaluation , '' the spokesman said . 
+`` No consideration is more important than the health and safety of our employees . '' 
+USX said it has been cooperating with OSHA since the agency began investigating the Clairton and Fairless works . 
+He said that , if and when safety problems were identified , they were corrected . 
+The USX citations represented the first sizable enforcement action taken by OSHA under Mr. Scannell . 
+He has promised stiffer fines , though the size of penalties sought by OSHA have been rising in recent years even before he took office this year . 
+`` The big problem is that USX management has proved unwilling to devote the necessary resources and manpower to removing hazards and to safeguarding safety and health in the plants , '' said Linda Anku , OSHA regional administrator in Philadelphia . 
+USX has 15 working days to contest the citations and proposed penalties , before the independent Occupational Safety and Health Review Commission . 
+Before the USX case , OSHA 's largest proposed fine for one employer was $ 4.3 million for alleged safety violations at John Morrell & Co. , a meatpacking subsidiary of United Brands Co. , Cincinnati . 
+The company is contesting the fine . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="22" end="27" text="cited" comment="" pos="VBD" />
+<SELECTOR id="s1" start="113" end="121" text="proposed" comment="" pos="VBD" />
+<SELECTOR id="s2" start="296" end="304" text="proposed" comment="" pos="VBD" />
+<SELECTOR id="s3" start="477" end="482" text="cited" comment="" pos="VBD" />
+<SELECTOR id="s4" start="613" end="621" text="covering" comment="" pos="VBG" />
+<SELECTOR id="s5" start="665" end="673" text="involved" comment="" pos="VBD" />
+<SELECTOR id="s6" start="768" end="776" text="proposed" comment="" pos="VBD" />
+<SELECTOR id="s7" start="894" end="901" text="matched" comment="" pos="VBN" />
+<SELECTOR id="s8" start="1092" end="1098" text="remove" comment="" pos="VB" />
+<SELECTOR id="s9" start="1400" end="1404" text="take" comment="" pos="VB" />
+<SELECTOR id="s10" start="1425" end="1435" text="counteract" comment="" pos="VB" />
+<SELECTOR id="s11" start="1553" end="1559" text="record" comment="" pos="VB" />
+<SELECTOR id="s12" start="1687" end="1694" text="correct" comment="" pos="VB" />
+<SELECTOR id="s13" start="1802" end="1810" text="received" comment="" pos="VBN" />
+<SELECTOR id="s14" start="1835" end="1844" text="regarding" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1894" end="1901" text="receive" comment="" pos="VB" />
+<SELECTOR id="s16" start="2107" end="2120" text="investigating" comment="" pos="VBG" />
+<SELECTOR id="s17" start="2204" end="2214" text="identified" comment="" pos="VBN" />
+<SELECTOR id="s18" start="2227" end="2236" text="corrected" comment="" pos="VBN" />
+<SELECTOR id="s19" start="2258" end="2269" text="represented" comment="" pos="VBD" />
+<SELECTOR id="s20" start="2350" end="2358" text="promised" comment="" pos="VBN" />
+<SELECTOR id="s21" start="2467" end="2471" text="took" comment="" pos="VBD" />
+<SELECTOR id="s22" start="2558" end="2564" text="devote" comment="" pos="VB" />
+<SELECTOR id="s23" start="2605" end="2613" text="removing" comment="" pos="VBG" />
+<SELECTOR id="s24" start="2629" end="2641" text="safeguarding" comment="" pos="VBG" />
+<SELECTOR id="s25" start="2748" end="2751" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s26" start="2771" end="2778" text="contest" comment="" pos="VB" />
+<SELECTOR id="s27" start="3111" end="3121" text="contesting" comment="" pos="VBG" />
+<NOUN id="n0" start="32" end="37" text="Corp." comment="" />
+<NOUN id="n1" start="128" end="135" text="million" comment="" />
+<NOUN id="n2" start="305" end="310" text="fines" comment="" />
+<NOUN id="n3" start="504" end="514" text="violations" comment="" />
+<NOUN id="n4" start="659" end="664" text="works" comment="" />
+<NOUN id="n5" start="696" end="706" text="violations" comment="" />
+<NOUN id="n6" start="783" end="790" text="million" comment="" />
+<NOUN id="n7" start="848" end="857" text="magnitude" comment="" />
+<NOUN id="n8" start="1105" end="1112" text="hazards" comment="" />
+<NOUN id="n9" start="1415" end="1421" text="action" comment="" />
+<NOUN id="n10" start="1440" end="1447" text="hazards" comment="" />
+<NOUN id="n11" start="1560" end="1568" text="injuries" comment="" />
+<NOUN id="n12" start="1700" end="1713" text="discrepancies" comment="" />
+<NOUN id="n13" start="1815" end="1824" text="documents" comment="" />
+<NOUN id="n14" start="1849" end="1856" text="penalty" comment="" />
+<NOUN id="n15" start="1915" end="1925" text="evaluation" comment="" />
+<NOUN id="n16" start="2125" end="2133" text="Clairton" comment="" />
+<NOUN id="n17" start="2190" end="2198" text="problems" comment="" />
+<NOUN id="n18" start="2217" end="2221" text="they" comment="" />
+<NOUN id="n19" start="2300" end="2306" text="action" comment="" />
+<NOUN id="n20" start="2367" end="2372" text="fines" comment="" />
+<NOUN id="n21" start="2472" end="2478" text="office" comment="" />
+<NOUN id="n22" start="2579" end="2588" text="resources" comment="" />
+<NOUN id="n23" start="2614" end="2621" text="hazards" comment="" />
+<NOUN id="n24" start="2642" end="2648" text="safety" comment="" />
+<NOUN id="n25" start="2763" end="2767" text="days" comment="" />
+<NOUN id="n26" start="2783" end="2792" text="citations" comment="" />
+<NOUN id="n27" start="3126" end="3130" text="fine" comment="" />
+<QLINK id="q0" fromID="s0" fromText="cited" toID="n0" toText="Corp." comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="proposed" toID="n1" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="proposed" toID="n2" toText="fines" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="cited" toID="n3" toText="violations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="covering" toID="n4" toText="works" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="involved" toID="n5" toText="violations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="proposed" toID="n6" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="matched" toID="n7" toText="magnitude" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q8" fromID="s8" fromText="remove" toID="n8" toText="hazards" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="take" toID="n9" toText="action" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="counteract" toID="n10" toText="hazards" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="record" toID="n11" toText="injuries" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="correct" toID="n12" toText="discrepancies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="received" toID="n13" toText="documents" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="regarding" toID="n14" toText="penalty" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="receive" toID="n15" toText="evaluation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="investigating" toID="n16" toText="Clairton" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="identified" toID="n17" toText="problems" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q18" fromID="s18" fromText="corrected" toID="n18" toText="they" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q19" fromID="s19" fromText="represented" toID="n19" toText="action" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="promised" toID="n20" toText="fines" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="took" toID="n21" toText="office" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="devote" toID="n22" toText="resources" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="removing" toID="n23" toText="hazards" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="safeguarding" toID="n24" toText="safety" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="has" toID="n25" toText="days" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="contest" toID="n26" toText="citations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="contesting" toID="n27" toText="fine" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<LU_ANNOTATE> 
+Iraq Lodges Protest with United Nations Concerning British and American Raids 
+Baghdad 8 - 15 ( AFP ) - 
+Iraq protested strongly to the United Nations against American and British air raids which targeted civilian installations in southern Iraq , killing two people and injuring 23 others according to a report by the official Iraqi news agency today , Tuesday . 
+According to Baghdad , two civilians were killed and 23 others injured during two attacks by American and British planes on Friday and Saturday against civilian installations in the town of Samawa in southern Iraq . 
+Al-Sahaf added : " These two regimes are directly involved in the attack against Iraq through their support of air raids by American and British planes and by allowing these planes to fly from air bases in Saudi Arabia and Kuwait . " 
+Aziz said : " The continuous falsehoods spread by Kuwait 's rulers are aimed at manufacturing an artificial crisis to give the Americans and British a pretext to continue their attacks on Iraq and keep the sanctions against its people in place . " 
+Since late 1998 , almost daily skirmishes have taken place between Iraq and American and British planes patrolling the no-fly zones in northern and southern Iraq . 
+Baghdad does not recognize these no-fly zones for which no international resolution has been passed . 
+According to a count prepared by Agence France Press , based on official Iraqi statements , American and British raids inside Iraq have resulted in 302 deaths and 900 injuries since 1998 . 
+</LU_ANNOTATE_WC=_264> 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="21" end="27" text="Lodges" comment="" pos="VBZ" />
+<SELECTOR id="s1" start="212" end="220" text="targeted" comment="" pos="VBD" />
+<SELECTOR id="s2" start="263" end="270" text="killing" comment="" pos="VBG" />
+<SELECTOR id="s3" start="286" end="294" text="injuring" comment="" pos="VBG" />
+<SELECTOR id="s4" start="422" end="428" text="killed" comment="" pos="VBN" />
+<SELECTOR id="s5" start="647" end="655" text="involved" comment="" pos="VBN" />
+<SELECTOR id="s6" start="903" end="908" text="aimed" comment="" pos="VBN" />
+<SELECTOR id="s7" start="912" end="925" text="manufacturing" comment="" pos="VBG" />
+<SELECTOR id="s8" start="950" end="954" text="give" comment="" pos="VB" />
+<SELECTOR id="s9" start="994" end="1002" text="continue" comment="" pos="VB" />
+<SELECTOR id="s10" start="1029" end="1033" text="keep" comment="" pos="VB" />
+<SELECTOR id="s11" start="1128" end="1133" text="taken" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1185" end="1195" text="patrolling" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1263" end="1272" text="recognize" comment="" pos="VB" />
+<SELECTOR id="s14" start="1339" end="1345" text="passed" comment="" pos="VBN" />
+<NOUN id="n0" start="28" end="35" text="Protest" comment="" />
+<NOUN id="n1" start="230" end="243" text="installations" comment="" />
+<NOUN id="n2" start="275" end="281" text="people" comment="" />
+<NOUN id="n3" start="298" end="304" text="others" comment="" />
+<NOUN id="n4" start="407" end="416" text="civilians" comment="" />
+<NOUN id="n5" start="626" end="633" text="regimes" comment="" />
+<NOUN id="n6" start="861" end="871" text="falsehoods" comment="" />
+<NOUN id="n7" start="940" end="946" text="crisis" comment="" />
+<NOUN id="n8" start="959" end="968" text="Americans" comment="" />
+<NOUN id="n9" start="983" end="990" text="pretext" comment="" />
+<NOUN id="n10" start="1009" end="1016" text="attacks" comment="" />
+<NOUN id="n11" start="1038" end="1047" text="sanctions" comment="" />
+<NOUN id="n12" start="1134" end="1139" text="place" comment="" />
+<NOUN id="n13" start="1207" end="1212" text="zones" comment="" />
+<NOUN id="n14" start="1286" end="1291" text="zones" comment="" />
+<NOUN id="n15" start="1319" end="1329" text="resolution" comment="" />
+<QLINK id="q0" fromID="s0" fromText="Lodges" toID="n0" toText="Protest" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="targeted" toID="n1" toText="installations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="killing" toID="n2" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="injuring" toID="n3" toText="others" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="killed" toID="n4" toText="civilians" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="involved" toID="n5" toText="regimes" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="aimed" toID="n6" toText="falsehoods" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s7" fromText="manufacturing" toID="n7" toText="crisis" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="give" toID="n8" toText="Americans" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q9" fromID="s8" fromText="give" toID="n9" toText="pretext" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="continue" toID="n10" toText="attacks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s10" fromText="keep" toID="n11" toText="sanctions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="taken" toID="n12" toText="place" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="patrolling" toID="n13" toText="zones" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="recognize" toID="n14" toText="zones" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="passed" toID="n15" toText="resolution" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

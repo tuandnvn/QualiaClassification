@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+IRAQ - POVERTY 
+( Washington ) 
+<LU_ANNOTATE> 
+Rep. Tony Hall , D - Ohio , urges the United Nations to allow a freer flow of food and medicine into Iraq . 
+Hall , who recently returned from a trip to Iraq , said U. N. economic sanctions have hurt millions of civilians there . 
+By AUSTIN ZALKIN . 
+</LU_ANNOTATE_WC=_41> 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="76" end="81" text="urges" comment="" pos="VBZ" />
+<SELECTOR id="s1" start="104" end="109" text="allow" comment="" pos="VB" />
+<SELECTOR id="s2" start="243" end="247" text="hurt" comment="" pos="VBN" />
+<NOUN id="n0" start="93" end="100" text="Nations" comment="" />
+<NOUN id="n1" start="118" end="122" text="flow" comment="" />
+<NOUN id="n2" start="248" end="256" text="millions" comment="" />
+<QLINK id="q0" fromID="s0" fromText="urges" toID="n0" toText="Nations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="allow" toID="n1" toText="flow" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="hurt" toID="n2" toText="millions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

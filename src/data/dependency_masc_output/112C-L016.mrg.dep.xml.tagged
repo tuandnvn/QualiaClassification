@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+It 's hard to believe that the holiday season is only two months away . 
+At Pleasant Run , Inc. we are making plans and arrangements for our children and families . 
+Every year we seek companies , organizations and individuals to sponsor one or more of our families . 
+These families are participants in our community - based programs . 
+These programs focus on keeping the family together by providing counseling and other services to the entire family . 
+After our caseworkers meet with these families and their children they often find they lack even the basic necessities such as cooking utensils , beds , cleaning supplies , etc . 
+We meet these needs immediately . 
+But , the holiday season is a particularly difficult time for these families . 
+They do not have the resources necessary to purchase gifts or food for a holiday meal . 
+We are asking you to consider sponsoring one of our families for this holiday season . 
+If you are interested and would like more information , please contact Lisa Lusk or Marcia Whited at 693-9222 . 
+We would like to have families matched with sponsors no later than xxxx . 
+Thank you for considering this opportunity to make this a memorable holiday season for a family in need . 
+Sincerely , 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="104" end="110" text="making" comment="" pos="VBG" />
+<SELECTOR id="s1" start="181" end="185" text="seek" comment="" pos="VBP" />
+<SELECTOR id="s2" start="363" end="370" text="keeping" comment="" pos="VBG" />
+<SELECTOR id="s3" start="394" end="403" text="providing" comment="" pos="VBG" />
+<SELECTOR id="s4" start="545" end="549" text="lack" comment="" pos="VBP" />
+<SELECTOR id="s5" start="641" end="645" text="meet" comment="" pos="VBP" />
+<SELECTOR id="s6" start="765" end="769" text="have" comment="" pos="VB" />
+<SELECTOR id="s7" start="797" end="805" text="purchase" comment="" pos="VB" />
+<SELECTOR id="s8" start="849" end="855" text="asking" comment="" pos="VBG" />
+<SELECTOR id="s9" start="872" end="882" text="sponsoring" comment="" pos="VBG" />
+<SELECTOR id="s10" start="962" end="966" text="like" comment="" pos="VB" />
+<SELECTOR id="s11" start="993" end="1000" text="contact" comment="" pos="VB" />
+<SELECTOR id="s12" start="1118" end="1123" text="Thank" comment="" pos="VBP" />
+<SELECTOR id="s13" start="1132" end="1143" text="considering" comment="" pos="VBG" />
+<NOUN id="n0" start="111" end="116" text="plans" comment="" />
+<NOUN id="n1" start="186" end="195" text="companies" comment="" />
+<NOUN id="n2" start="375" end="381" text="family" comment="" />
+<NOUN id="n3" start="404" end="414" text="counseling" comment="" />
+<NOUN id="n4" start="565" end="576" text="necessities" comment="" />
+<NOUN id="n5" start="652" end="657" text="needs" comment="" />
+<NOUN id="n6" start="774" end="783" text="resources" comment="" />
+<NOUN id="n7" start="806" end="811" text="gifts" comment="" />
+<NOUN id="n8" start="856" end="859" text="you" comment="" />
+<NOUN id="n9" start="883" end="886" text="one" comment="" />
+<NOUN id="n10" start="972" end="983" text="information" comment="" />
+<NOUN id="n11" start="1006" end="1010" text="Lusk" comment="" />
+<NOUN id="n12" start="1124" end="1127" text="you" comment="" />
+<NOUN id="n13" start="1149" end="1160" text="opportunity" comment="" />
+<QLINK id="q0" fromID="s0" fromText="making" toID="n0" toText="plans" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="seek" toID="n1" toText="companies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="keeping" toID="n2" toText="family" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="providing" toID="n3" toText="counseling" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="lack" toID="n4" toText="necessities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="meet" toID="n5" toText="needs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="have" toID="n6" toText="resources" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="purchase" toID="n7" toText="gifts" comment="" qType="FORMAL" qType2="TELIC" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="asking" toID="n8" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="sponsoring" toID="n9" toText="one" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="like" toID="n10" toText="information" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="contact" toID="n11" toText="Lusk" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="Thank" toID="n12" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="considering" toID="n13" toText="opportunity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

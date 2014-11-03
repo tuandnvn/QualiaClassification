@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<TURN> 
+My name is Bonnie Rindner / 
+and I was born in San Antonio , TX , / 
+and the story I 'm going to tell is about my mother . / 
+Um , a little background first . / 
+<disfluency> Her </disfluency> , let 's see , her mother 's family were wealthy people at one time . / 
+They owned car dealerships and extensive land . / 
+Um , I do n't know if they were farmers or not , / 
+but I know they were land owners , um , many acres / 
+and , um , her grandmother was raised in wealth . / 
+Uh , then the Depression came / 
+and apparently everyone lost all their money . / 
+Um , she was raised in MO , / 
+and she married a man , / 
+this is my grandmother I 'm talking about . / 
+And they were very poor by this point , / 
+and they had , I think , seven children . / 
+And one particular Christmas , things were very , very difficult . / 
+There was no money to buy any presents at all , um , for the children , / 
+and my grandfather , who was killed when my mother was 16 , this was , of course , way before that , um , he must have been a very positive person because what he did with the situation was <disfluency> he </disfluency> , he told the children that there were no presents this Christmas because they had given them all to Santa to take the poor children / 
+and this made the children feel happy and proud of themselves / 
+and it gave them a good feeling that they had done something very nice for someone less fortunate than themselves . / 
+Um , I felt like that was a way to face that situation with such hope and with joy and with love . / 
+And although I never met my grandfather , I have never forgotten that story / 
+and when I hear of him I think what a wonderful , wonderful person he must have been . / 
+<TURN> 
+And how long have you lived in Charlotte ? / 
+<TURN> 
+Oh , I have lived in Charlotte , um , for a year . / 
+Um , I lived in Charlotte for five years . / 
+We came here in 1986 , / 
+we lived here for five years , / 
+then we moved to Raleigh for seven years / 
+and now we 've been back one year . / 
+<TURN> 
+Well , good . / 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="48" end="52" text="born" comment="" pos="VBN" />
+<SELECTOR id="s1" start="280" end="285" text="owned" comment="" pos="VBD" />
+<SELECTOR id="s2" start="463" end="469" text="raised" comment="" pos="VBN" />
+<SELECTOR id="s3" start="542" end="546" text="lost" comment="" pos="VBD" />
+<SELECTOR id="s4" start="581" end="587" text="raised" comment="" pos="VBN" />
+<SELECTOR id="s5" start="607" end="614" text="married" comment="" pos="VBD" />
+<SELECTOR id="s6" start="725" end="728" text="had" comment="" pos="VBD" />
+<SELECTOR id="s7" start="853" end="856" text="buy" comment="" pos="VB" />
+<SELECTOR id="s8" start="935" end="941" text="killed" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1069" end="1072" text="did" comment="" pos="VBD" />
+<SELECTOR id="s10" start="1131" end="1135" text="told" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1209" end="1214" text="given" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1236" end="1240" text="take" comment="" pos="VB" />
+<SELECTOR id="s13" start="1334" end="1338" text="gave" comment="" pos="VBD" />
+<SELECTOR id="s14" start="1373" end="1377" text="done" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1481" end="1485" text="face" comment="" pos="VB" />
+<SELECTOR id="s16" start="1569" end="1572" text="met" comment="" pos="VBD" />
+<SELECTOR id="s17" start="1603" end="1612" text="forgotten" comment="" pos="VBN" />
+<NOUN id="n0" start="42" end="43" text="I" comment="" />
+<NOUN id="n1" start="290" end="301" text="dealerships" comment="" />
+<NOUN id="n2" start="447" end="458" text="grandmother" comment="" />
+<NOUN id="n3" start="557" end="562" text="money" comment="" />
+<NOUN id="n4" start="573" end="576" text="she" comment="" />
+<NOUN id="n5" start="617" end="620" text="man" comment="" />
+<NOUN id="n6" start="747" end="755" text="children" comment="" />
+<NOUN id="n7" start="861" end="869" text="presents" comment="" />
+<NOUN id="n8" start="927" end="930" text="who" comment="" />
+<NOUN id="n9" start="1061" end="1065" text="what" comment="" />
+<NOUN id="n10" start="1140" end="1148" text="children" comment="" />
+<NOUN id="n11" start="1215" end="1219" text="them" comment="" />
+<NOUN id="n12" start="1250" end="1258" text="children" comment="" />
+<NOUN id="n13" start="1339" end="1343" text="them" comment="" />
+<NOUN id="n14" start="1351" end="1358" text="feeling" comment="" />
+<NOUN id="n15" start="1378" end="1387" text="something" comment="" />
+<NOUN id="n16" start="1491" end="1500" text="situation" comment="" />
+<NOUN id="n17" start="1576" end="1587" text="grandfather" comment="" />
+<NOUN id="n18" start="1618" end="1623" text="story" comment="" />
+<QLINK id="q0" fromID="s0" fromText="born" toID="n0" toText="I" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="owned" toID="n1" toText="dealerships" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="raised" toID="n2" toText="grandmother" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="lost" toID="n3" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="raised" toID="n4" toText="she" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="married" toID="n5" toText="man" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="had" toID="n6" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="buy" toID="n7" toText="presents" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="killed" toID="n8" toText="who" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="did" toID="n9" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="told" toID="n10" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="given" toID="n11" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="take" toID="n12" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="gave" toID="n13" toText="them" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q14" fromID="s13" fromText="gave" toID="n14" toText="feeling" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="done" toID="n15" toText="something" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="face" toID="n16" toText="situation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="met" toID="n17" toText="grandfather" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="forgotten" toID="n18" toText="story" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

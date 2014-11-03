@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+In another reflection that the growth of the economy is leveling off , the government said that orders for manufactured goods and spending on construction failed to rise in September . 
+Meanwhile , the National Association of Purchasing Management said its latest survey indicated that the manufacturing economy contracted in October for the sixth consecutive month . 
+Its index inched up to 47.6 % in October from 46 % in September . 
+Any reading below 50 % suggests the manufacturing sector is generally declining . 
+The purchasing managers , however , also said that orders turned up in October after four months of decline . 
+Factories booked $ 236.74 billion in orders in September , nearly the same as the $ 236.79 billion in August , the Commerce Department said . 
+If not for a 59.6 % surge in orders for capital goods by defense contractors , factory orders would have fallen 2.1 % . 
+In a separate report , the department said construction spending ran at an annual rate of $ 415.6 billion , not significantly different from the $ 415.8 billion reported for August . 
+Private construction spending was down , but government building activity was up . 
+The figures in both reports were adjusted to remove the effects of usual seasonal patterns , but were n't adjusted for inflation . 
+Kenneth Mayland , economist for Society Corp. , a Cleveland bank , said demand for exports of factory goods is beginning to taper off . 
+At the same time , the drop in interest rates since the spring has failed to revive the residential construction industry . 
+`` What sector is stepping forward to pick up the slack ? '' he asked . 
+`` I draw a blank . '' 
+By most measures , the nation 's industrial sector is now growing very slowly -- if at all . 
+Factory payrolls fell in September . 
+So did the Federal Reserve Board 's industrial-production index . 
+Yet many economists are n't predicting that the economy is about to slip into recession . 
+They cite a lack of `` imbalances '' that provide early warning signals of a downturn . 
+Inventories are closely watched for such clues , for instance . 
+Economists say a buildup in inventories can provoke cutbacks in production that can lead to a recession . 
+But yesterday 's factory orders report had good news on that front : it said factory inventories fell 0.1 % in September , the first decline since February 1987 . 
+`` This conforms to the ` soft landing ' scenario , '' said Elliott Platt , an economist at Donaldson , Lufkin & Jenrette Securities Corp . 
+`` I do n't see any signs that inventories are excessive . '' 
+A soft landing is an economic slowdown that eases inflation without leading to a recession . 
+The department said orders for nondurable goods -- those intended to last fewer than three years -- fell 0.3 % in September to $ 109.73 billion after climbing 0.9 % the month before . 
+Orders for durable goods were up 0.2 % to $ 127.03 billion after rising 3.9 % the month before . 
+The department previously estimated that durable-goods orders fell 0.1 % in September . 
+Factory shipments fell 1.6 % to $ 234.4 billion after rising 5.4 % in August . 
+Shipments have been relatively level since January , the Commerce Department noted . 
+Manufacturers ' backlogs of unfilled orders rose 0.5 % in September to $ 497.34 billion , helped by strength in the defense capital goods sector . 
+Excluding these orders , backlogs declined 0.3 % . 
+In its construction spending report , the Commerce Department said residential construction , which accounts for nearly half of all construction spending , was off 0.9 % in September to an annual rate of $ 191.9 billion . 
+David Berson , economist for the Mortgage Bankers Association , predicted the drop in interest rates eventually will boost spending on single-family homes , but probably not until early next year . 
+Spending on private , nonresidential construction was off 2.6 % to an annual rate of $ 99.1 billion with no sector showing strength . 
+Government construction spending rose 4.3 % to $ 88 billion . 
+After adjusting for inflation , the Commerce Department said construction spending did n't change in September . 
+For the first nine months of the year , total construction spending ran about 2 % above last year 's level . 
+The government 's construction spending figures contrast with a report issued earlier in the week by McGraw-Hill Inc. 's F.W. Dodge Group . 
+Dodge reported an 8 % increase in construction contracts awarded in September . 
+The goverment counts money as it is spent ; Dodge counts contracts when they are awarded . 
+The government includes money spent on residential renovation ; Dodge does n't . 
+Although the purchasing managers ' index continues to indicate a slowing economy , it is n't signaling an imminent recession , said Robert Bretz , chairman of the association 's survey committee and director of materials management at Pitney Bowes Inc. , Stamford , Conn . 
+He said the index would have to be in the low 40 % range for several months to be considered a forecast of recession . 
+The report offered new evidence that the nation 's export growth , though still continuing , may be slowing . 
+Only 19 % of the purchasing managers reported better export orders in October , down from 27 % in September . 
+And 8 % said export orders were down last month , compared with 6 % the month before . 
+The purhasing managers ' report also added evidence that inflation is under control . 
+For the fifth consecutive month , purchasing managers said prices for the goods they purchased fell . 
+The decline was even steeper than in September . 
+They also said that vendors were delivering goods more quickly in October than they had for each of the five previous months . 
+Economists consider that a sign that inflationary pressures are abating . 
+When demand is stronger than suppliers can handle and delivery times lengthen , prices tend to rise . 
+The purchasing managers ' report is based on data provided by more than 250 purchasing executives . 
+Each of the survey 's indicators gauges the difference between the number of purchasers reporting improvement in a particular area and the number reporting a worsening . 
+For the first time , the October survey polled members on imports . 
+It found that of the 73 % who import , 10 % said they imported more in October and 12 % said they imported less than the previous month . 
+While acknowledging one month 's figures do n't prove a trend , Mr. Bretz said , `` It does lead you to suspect imports are going down , or at least not increasing that much . '' 
+Items listed as being in short supply numbered only about a dozen , but they included one newcomer : milk and milk powder . 
+`` It 's an odd thing to put on the list , '' Mr. Bretz noted . 
+He said that for the second month in a row , food processors reported a shortage of nonfat dry milk . 
+They blamed increased demand for dairy products at a time of exceptionally high U.S. exports of dry milk , coupled with very low import quotas . 
+Pamela Sebastian in New York contributed to this article . 
+Here are the Commerce Department 's figures for construction spending in billions of dollars at seasonally adjusted annual rates . 
+Here are the Commerce Department 's latest figures for manufacturers in billions of dollars , seasonally adjusted . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="641" end="647" text="booked" comment="" pos="VBD" />
+<SELECTOR id="s1" start="1196" end="1204" text="adjusted" comment="" pos="VBN" />
+<SELECTOR id="s2" start="1208" end="1214" text="remove" comment="" pos="VB" />
+<SELECTOR id="s3" start="1509" end="1515" text="revive" comment="" pos="VB" />
+<SELECTOR id="s4" start="1595" end="1599" text="pick" comment="" pos="VB" />
+<SELECTOR id="s5" start="1635" end="1639" text="draw" comment="" pos="VBP" />
+<SELECTOR id="s6" start="1949" end="1953" text="cite" comment="" pos="VBP" />
+<SELECTOR id="s7" start="1986" end="1993" text="provide" comment="" pos="VBP" />
+<SELECTOR id="s8" start="2057" end="2064" text="watched" comment="" pos="VBN" />
+<SELECTOR id="s9" start="2142" end="2149" text="provoke" comment="" pos="VB" />
+<SELECTOR id="s10" start="2244" end="2247" text="had" comment="" pos="VBD" />
+<SELECTOR id="s11" start="2302" end="2306" text="fell" comment="" pos="VBD" />
+<SELECTOR id="s12" start="2522" end="2525" text="see" comment="" pos="VB" />
+<SELECTOR id="s13" start="2617" end="2622" text="eases" comment="" pos="VBZ" />
+<SELECTOR id="s14" start="2736" end="2740" text="last" comment="" pos="VB" />
+<SELECTOR id="s15" start="3745" end="3750" text="boost" comment="" pos="VB" />
+<SELECTOR id="s16" start="3942" end="3949" text="showing" comment="" pos="VBG" />
+<SELECTOR id="s17" start="4396" end="4404" text="reported" comment="" pos="VBD" />
+<SELECTOR id="s18" start="4485" end="4491" text="counts" comment="" pos="VBZ" />
+<SELECTOR id="s19" start="4507" end="4512" text="spent" comment="" pos="VBN" />
+<SELECTOR id="s20" start="4521" end="4527" text="counts" comment="" pos="VBZ" />
+<SELECTOR id="s21" start="4552" end="4559" text="awarded" comment="" pos="VBN" />
+<SELECTOR id="s22" start="4578" end="4586" text="includes" comment="" pos="VBZ" />
+<SELECTOR id="s23" start="4699" end="4707" text="indicate" comment="" pos="VB" />
+<SELECTOR id="s24" start="4738" end="4747" text="signaling" comment="" pos="VBG" />
+<SELECTOR id="s25" start="5050" end="5057" text="offered" comment="" pos="VBD" />
+<SELECTOR id="s26" start="5187" end="5195" text="reported" comment="" pos="VBD" />
+<SELECTOR id="s27" start="5386" end="5391" text="added" comment="" pos="VBD" />
+<SELECTOR id="s28" start="5622" end="5632" text="delivering" comment="" pos="VBG" />
+<SELECTOR id="s29" start="5931" end="5936" text="based" comment="" pos="VBN" />
+<SELECTOR id="s30" start="6029" end="6035" text="gauges" comment="" pos="VBZ" />
+<SELECTOR id="s31" start="6084" end="6093" text="reporting" comment="" pos="VBG" />
+<SELECTOR id="s32" start="6142" end="6151" text="reporting" comment="" pos="VBG" />
+<SELECTOR id="s33" start="6207" end="6213" text="polled" comment="" pos="VBD" />
+<SELECTOR id="s34" start="6290" end="6298" text="imported" comment="" pos="VBD" />
+<SELECTOR id="s35" start="6334" end="6342" text="imported" comment="" pos="VBD" />
+<SELECTOR id="s36" start="6423" end="6428" text="prove" comment="" pos="VB" />
+<SELECTOR id="s37" start="6593" end="6601" text="numbered" comment="" pos="VBD" />
+<SELECTOR id="s38" start="6632" end="6640" text="included" comment="" pos="VBD" />
+<SELECTOR id="s39" start="6806" end="6814" text="reported" comment="" pos="VBD" />
+<SELECTOR id="s40" start="6853" end="6859" text="blamed" comment="" pos="VBD" />
+<NOUN id="n0" start="657" end="664" text="billion" comment="" />
+<NOUN id="n1" start="1167" end="1174" text="figures" comment="" />
+<NOUN id="n2" start="1219" end="1226" text="effects" comment="" />
+<NOUN id="n3" start="1545" end="1553" text="industry" comment="" />
+<NOUN id="n4" start="1607" end="1612" text="slack" comment="" />
+<NOUN id="n5" start="1642" end="1647" text="blank" comment="" />
+<NOUN id="n6" start="1956" end="1960" text="lack" comment="" />
+<NOUN id="n7" start="2008" end="2015" text="signals" comment="" />
+<NOUN id="n8" start="2033" end="2044" text="Inventories" comment="" />
+<NOUN id="n9" start="2150" end="2158" text="cutbacks" comment="" />
+<NOUN id="n10" start="2253" end="2257" text="news" comment="" />
+<NOUN id="n11" start="2338" end="2345" text="decline" comment="" />
+<NOUN id="n12" start="2530" end="2535" text="signs" comment="" />
+<NOUN id="n13" start="2623" end="2632" text="inflation" comment="" />
+<NOUN id="n14" start="2758" end="2763" text="years" comment="" />
+<NOUN id="n15" start="3751" end="3759" text="spending" comment="" />
+<NOUN id="n16" start="3950" end="3958" text="strength" comment="" />
+<NOUN id="n17" start="4412" end="4420" text="increase" comment="" />
+<NOUN id="n18" start="4492" end="4497" text="money" comment="" />
+<NOUN id="n19" start="4501" end="4503" text="it" comment="" />
+<NOUN id="n20" start="4528" end="4537" text="contracts" comment="" />
+<NOUN id="n21" start="4543" end="4547" text="they" comment="" />
+<NOUN id="n22" start="4587" end="4592" text="money" comment="" />
+<NOUN id="n23" start="4718" end="4725" text="economy" comment="" />
+<NOUN id="n24" start="4760" end="4769" text="recession" comment="" />
+<NOUN id="n25" start="5062" end="5070" text="evidence" comment="" />
+<NOUN id="n26" start="5210" end="5216" text="orders" comment="" />
+<NOUN id="n27" start="5392" end="5400" text="evidence" comment="" />
+<NOUN id="n28" start="5633" end="5638" text="goods" comment="" />
+<NOUN id="n29" start="5921" end="5927" text="report" comment="" />
+<NOUN id="n30" start="6040" end="6050" text="difference" comment="" />
+<NOUN id="n31" start="6094" end="6105" text="improvement" comment="" />
+<NOUN id="n32" start="6154" end="6163" text="worsening" comment="" />
+<NOUN id="n33" start="6214" end="6221" text="members" comment="" />
+<NOUN id="n34" start="6299" end="6303" text="more" comment="" />
+<NOUN id="n35" start="6343" end="6347" text="less" comment="" />
+<NOUN id="n36" start="6431" end="6436" text="trend" comment="" />
+<NOUN id="n37" start="6615" end="6620" text="dozen" comment="" />
+<NOUN id="n38" start="6645" end="6653" text="newcomer" comment="" />
+<NOUN id="n39" start="6817" end="6825" text="shortage" comment="" />
+<NOUN id="n40" start="6870" end="6876" text="demand" comment="" />
+<QLINK id="q0" fromID="s0" fromText="booked" toID="n0" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="adjusted" toID="n1" toText="figures" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="remove" toID="n2" toText="effects" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="revive" toID="n3" toText="industry" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="pick" toID="n4" toText="slack" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="draw" toID="n5" toText="blank" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="cite" toID="n6" toText="lack" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="provide" toID="n7" toText="signals" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="watched" toID="n8" toText="Inventories" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="provoke" toID="n9" toText="cutbacks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="had" toID="n10" toText="news" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="fell" toID="n11" toText="decline" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="see" toID="n12" toText="signs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="eases" toID="n13" toText="inflation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="last" toID="n14" toText="years" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="boost" toID="n15" toText="spending" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="showing" toID="n16" toText="strength" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="reported" toID="n17" toText="increase" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="counts" toID="n18" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="spent" toID="n19" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q20" fromID="s20" fromText="counts" toID="n20" toText="contracts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="awarded" toID="n21" toText="they" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q22" fromID="s22" fromText="includes" toID="n22" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="indicate" toID="n23" toText="economy" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="signaling" toID="n24" toText="recession" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="offered" toID="n25" toText="evidence" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="reported" toID="n26" toText="orders" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="added" toID="n27" toText="evidence" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="delivering" toID="n28" toText="goods" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="based" toID="n29" toText="report" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q30" fromID="s30" fromText="gauges" toID="n30" toText="difference" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="reporting" toID="n31" toText="improvement" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="reporting" toID="n32" toText="worsening" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="polled" toID="n33" toText="members" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="imported" toID="n34" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s35" fromText="imported" toID="n35" toText="less" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="prove" toID="n36" toText="trend" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s37" fromText="numbered" toID="n37" toText="dozen" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="included" toID="n38" toText="newcomer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="reported" toID="n39" toText="shortage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="blamed" toID="n40" toText="demand" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

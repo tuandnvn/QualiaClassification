@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Despite one of the most devastating droughts on record , net cash income in the Farm Belt rose to a new high of $ 59.9 billion last year . 
+The previous record was $ 57.7 billion in 1987 , according to the Agriculture Department . 
+Net cash income -- the amount left in farmers ' pockets after deducting expenses from gross cash income -- increased in 33 states in 1988 , as the drought cut into crop yields and drove up commodity prices , the department 's Economic Research Service reported yesterday . 
+Most of those states set farm income records . 
+The worst crop damage occurred in the Midwestern Corn Belt and the northern Great Plains . 
+What saved many farmers from a bad year was the opportunity to reclaim large quantities of grain and other crops that they had `` mortgaged '' to the government under price-support loan programs . 
+With prices soaring , they were able to sell the reclaimed commodities at `` considerable profit , '' the agency 's 240-page report said . 
+In less parched areas , meanwhile , farmers who had little or no loss of production profited greatly from the higher prices . 
+To the surprise of some analysts , net cash income rose in some of the hardest-hit states , including Indiana , Illinois , Nebraska and the Dakotas . 
+Analysts attributed the increases partly to the $ 4 billion disaster-assistance package enacted by Congress . 
+Last year 's record net cash income confirms the farm sector 's rebound from the agricultural depression of the early 1980s . 
+It also helps explain the reluctance of the major farm lobbies and many lawmakers to make any significant changes in the 1985 farm program next year . 
+Commodity prices have been rising in recent years , with the farm price index hitting record peaks earlier this year , as the government curtailed production with land-idling programs to reduce price-depressing surpluses . 
+At the same time , export demand for U.S. wheat , corn and other commodities strengthened , said Keith Collins , a department analyst . 
+Farmers also benefited from strong livestock prices , as the nation 's cattle inventory dropped close to a 30-year low . 
+`` All of these forces came together in 1988 to benefit agriculture , '' Mr. Collins said . 
+California led the nation with $ 6.5 billion in net cash income last year , followed by Texas , $ 3.9 billion ; Iowa , $ 3.4 billion ; Florida , $ 3.1 billion ; and Minnesota , $ 2.7 billion . 
+Iowa and Minnesota were among the few major farm states to log a decline in net cash income . 
+Despite federal disaster relief , the drought of 1988 was a severe financial setback for an estimated 10,000 to 15,000 farmers , according to the department . 
+Many lost their farms . 
+Department economists do n't expect 1989 to be as good a year as 1988 was . 
+Indeed , net cash income is likely to fall this year as farm expenses rise and government payments to farmers decline . 
+At the same time , an increase of land under cultivation after the drought has boosted production of corn , soybeans and other commodities , causing a fall in prices that has been only partly cushioned by heavy grain buying by the Soviets . 
+Last year , government payments to farmers slipped to less than $ 14.5 billion from a record $ 16.7 billion in 1987 . 
+Payments are expected to range between $ 9 billion and $ 12 billion this year . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="295" end="304" text="deducting" comment="" pos="VBG" />
+<SELECTOR id="s1" start="413" end="418" text="drove" comment="" pos="VBD" />
+<SELECTOR id="s2" start="528" end="531" text="set" comment="" pos="VBP" />
+<SELECTOR id="s3" start="652" end="657" text="saved" comment="" pos="VBD" />
+<SELECTOR id="s4" start="710" end="717" text="reclaim" comment="" pos="VB" />
+<SELECTOR id="s5" start="777" end="786" text="mortgaged" comment="" pos="VBN" />
+<SELECTOR id="s6" start="885" end="889" text="sell" comment="" pos="VB" />
+<SELECTOR id="s7" start="1033" end="1036" text="had" comment="" pos="VBD" />
+<SELECTOR id="s8" start="1272" end="1282" text="attributed" comment="" pos="VBD" />
+<SELECTOR id="s9" start="1410" end="1418" text="confirms" comment="" pos="VBZ" />
+<SELECTOR id="s10" start="1515" end="1522" text="explain" comment="" pos="VB" />
+<SELECTOR id="s11" start="1586" end="1590" text="make" comment="" pos="VB" />
+<SELECTOR id="s12" start="1731" end="1738" text="hitting" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1790" end="1799" text="curtailed" comment="" pos="VBD" />
+<SELECTOR id="s14" start="1840" end="1846" text="reduce" comment="" pos="VB" />
+<SELECTOR id="s15" start="2184" end="2191" text="benefit" comment="" pos="VB" />
+<SELECTOR id="s16" start="2240" end="2243" text="led" comment="" pos="VBD" />
+<SELECTOR id="s17" start="2482" end="2485" text="log" comment="" pos="VB" />
+<SELECTOR id="s18" start="2683" end="2687" text="lost" comment="" pos="VBD" />
+<SELECTOR id="s19" start="2980" end="2987" text="boosted" comment="" pos="VBN" />
+<SELECTOR id="s20" start="3042" end="3049" text="causing" comment="" pos="VBG" />
+<SELECTOR id="s21" start="3093" end="3102" text="cushioned" comment="" pos="VBN" />
+<SELECTOR id="s22" start="3275" end="3283" text="expected" comment="" pos="VBN" />
+<NOUN id="n0" start="305" end="313" text="expenses" comment="" />
+<NOUN id="n1" start="432" end="438" text="prices" comment="" />
+<NOUN id="n2" start="544" end="551" text="records" comment="" />
+<NOUN id="n3" start="663" end="670" text="farmers" comment="" />
+<NOUN id="n4" start="724" end="734" text="quantities" comment="" />
+<NOUN id="n5" start="760" end="764" text="that" comment="" />
+<NOUN id="n6" start="904" end="915" text="commodities" comment="" />
+<NOUN id="n7" start="1050" end="1054" text="loss" comment="" />
+<NOUN id="n8" start="1287" end="1296" text="increases" comment="" />
+<NOUN id="n9" start="1438" end="1445" text="rebound" comment="" />
+<NOUN id="n10" start="1527" end="1537" text="reluctance" comment="" />
+<NOUN id="n11" start="1607" end="1614" text="changes" comment="" />
+<NOUN id="n12" start="1746" end="1751" text="peaks" comment="" />
+<NOUN id="n13" start="1800" end="1810" text="production" comment="" />
+<NOUN id="n14" start="1864" end="1873" text="surpluses" comment="" />
+<NOUN id="n15" start="2192" end="2203" text="agriculture" comment="" />
+<NOUN id="n16" start="2248" end="2254" text="nation" comment="" />
+<NOUN id="n17" start="2488" end="2495" text="decline" comment="" />
+<NOUN id="n18" start="2694" end="2699" text="farms" comment="" />
+<NOUN id="n19" start="2988" end="2998" text="production" comment="" />
+<NOUN id="n20" start="3052" end="3056" text="fall" comment="" />
+<NOUN id="n21" start="3067" end="3071" text="that" comment="" />
+<NOUN id="n22" start="3262" end="3270" text="Payments" comment="" />
+<QLINK id="q0" fromID="s0" fromText="deducting" toID="n0" toText="expenses" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="drove" toID="n1" toText="prices" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="set" toID="n2" toText="records" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="saved" toID="n3" toText="farmers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="reclaim" toID="n4" toText="quantities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="mortgaged" toID="n5" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="sell" toID="n6" toText="commodities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="had" toID="n7" toText="loss" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="attributed" toID="n8" toText="increases" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="confirms" toID="n9" toText="rebound" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="explain" toID="n10" toText="reluctance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="make" toID="n11" toText="changes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="hitting" toID="n12" toText="peaks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="curtailed" toID="n13" toText="production" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="reduce" toID="n14" toText="surpluses" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="benefit" toID="n15" toText="agriculture" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="led" toID="n16" toText="nation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="log" toID="n17" toText="decline" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="lost" toID="n18" toText="farms" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="boosted" toID="n19" toText="production" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="causing" toID="n20" toText="fall" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="cushioned" toID="n21" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q22" fromID="s22" fromText="expected" toID="n22" toText="Payments" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

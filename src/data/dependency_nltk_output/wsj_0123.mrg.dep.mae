@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Researchers at American Telephone & Telegraph Co. 's Bell Laboratories reported they raised the electrical current-carrying capacity of new superconductor crystals by a factor of 100 , moving the materials closer to commercial use . 
+The scientists said they created small changes in the crystal-lattice structures of the superconductors to raise the amount of current that single crystals could carry to 600,000 amps per square centimeter in a moderately strong magnetic field . 
+The scientists said they made the advance with yttrium-containing superconductors cooled to liquid-nitrogen temperature , or minus 321 degrees Fahrenheit . 
+Their report appears in today 's issue of the journal Nature . 
+The finding marks a significant step in research on `` bulk '' superconductors , which are aimed at use in wires for motors , magnets , generators and other applications . 
+Scientists had obtained even higher current-carrying capacity in thin films of the new superconductors , but have had problems increasing the amount of current that bulk crystals could carry . 
+Superconductors conduct electricity without resistance when cooled . 
+A family of ceramic superconductors discovered during the past three years promise new technologies such as cheaper electrical generation -- but only if their current-carrying capacity can be raised . 
+The AT&T advance shows how one aspect of the current-carrying problem can be overcome . 
+But `` it wo n't lead to imminent use '' of new superconductors , cautioned Robert B. van Dover , one of the AT&T researchers . 
+He added that the current-carrying capacity of multi-crystal samples of superconductors remains too low for most practical uses because of so-called weak links between crystals . 
+Such multi-crystal materials will probably be needed for commercial applications . 
+Mr. van Dover said the AT&T team created the desired crystal changes by bombarding superconductor samples with neutrons , a process that creates some radioactivity in the samples and may not be feasible for large-scale commercial use . 
+Still , scientists breathed a collective sigh of relief about the finding , because it demonstrates how to overcome the `` flux pinning '' problem that earlier this year was widely publicized as undercutting new superconductors ' potential . 
+The problem involves the motion of small magnetic fields within superconductor crystals , limiting their current-carrying capacity . 
+Mr. van Dover said the crystal changes his team introduced apparently pins the magnetic fields in place , preventing them from lowering current-carrying capacity . 
+Mr. van Dover added that researchers are trying to determine precisely what crystal changes solved the problem . 
+Determining that may enable them to develop better ways to introduce the needed crystal-lattice patterns . 
+The AT&T team also is trying to combine their latest superconductor process with `` melt-textured growth , '' a process discovered earlier at Bell Laboratories . 
+The combined processes may significantly raise the current-carrying capacity of multi-crystal samples . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="86" end="92" text="raised" comment="" pos="VBD" />
+<SELECTOR id="s1" start="186" end="192" text="moving" comment="" pos="VBG" />
+<SELECTOR id="s2" start="260" end="267" text="created" comment="" pos="VBD" />
+<SELECTOR id="s3" start="342" end="347" text="raise" comment="" pos="VB" />
+<SELECTOR id="s4" start="397" end="402" text="carry" comment="" pos="VB" />
+<SELECTOR id="s5" start="507" end="511" text="made" comment="" pos="VBD" />
+<SELECTOR id="s6" start="715" end="720" text="marks" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="794" end="799" text="aimed" comment="" pos="VBN" />
+<SELECTOR id="s8" start="891" end="899" text="obtained" comment="" pos="VBN" />
+<SELECTOR id="s9" start="990" end="993" text="had" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1003" end="1013" text="increasing" comment="" pos="VBG" />
+<SELECTOR id="s11" start="1061" end="1066" text="carry" comment="" pos="VB" />
+<SELECTOR id="s12" start="1086" end="1093" text="conduct" comment="" pos="VBP" />
+<SELECTOR id="s13" start="1215" end="1222" text="promise" comment="" pos="VBP" />
+<SELECTOR id="s14" start="1332" end="1338" text="raised" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1419" end="1427" text="overcome" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1786" end="1792" text="needed" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1857" end="1864" text="created" comment="" pos="VBD" />
+<SELECTOR id="s18" start="1896" end="1906" text="bombarding" comment="" pos="VBG" />
+<SELECTOR id="s19" start="1961" end="1968" text="creates" comment="" pos="VBZ" />
+<SELECTOR id="s20" start="2080" end="2088" text="breathed" comment="" pos="VBD" />
+<SELECTOR id="s21" start="2168" end="2176" text="overcome" comment="" pos="VB" />
+<SELECTOR id="s22" start="2242" end="2252" text="publicized" comment="" pos="VBN" />
+<SELECTOR id="s23" start="2256" end="2268" text="undercutting" comment="" pos="VBG" />
+<SELECTOR id="s24" start="2316" end="2324" text="involves" comment="" pos="VBZ" />
+<SELECTOR id="s25" start="2394" end="2402" text="limiting" comment="" pos="VBG" />
+<SELECTOR id="s26" start="2508" end="2512" text="pins" comment="" pos="VBZ" />
+<SELECTOR id="s27" start="2544" end="2554" text="preventing" comment="" pos="VBG" />
+<SELECTOR id="s28" start="2565" end="2573" text="lowering" comment="" pos="VBG" />
+<SELECTOR id="s29" start="2695" end="2701" text="solved" comment="" pos="VBD" />
+<SELECTOR id="s30" start="2717" end="2728" text="Determining" comment="" pos="VBG" />
+<SELECTOR id="s31" start="2753" end="2760" text="develop" comment="" pos="VB" />
+<SELECTOR id="s32" start="2776" end="2785" text="introduce" comment="" pos="VB" />
+<SELECTOR id="s33" start="2857" end="2864" text="combine" comment="" pos="VB" />
+<SELECTOR id="s34" start="3029" end="3034" text="raise" comment="" pos="VB" />
+<NOUN id="n0" start="125" end="133" text="capacity" comment="" />
+<NOUN id="n1" start="197" end="206" text="materials" comment="" />
+<NOUN id="n2" start="274" end="281" text="changes" comment="" />
+<NOUN id="n3" start="352" end="358" text="amount" comment="" />
+<NOUN id="n4" start="370" end="374" text="that" comment="" />
+<NOUN id="n5" start="516" end="523" text="advance" comment="" />
+<NOUN id="n6" start="735" end="739" text="step" comment="" />
+<NOUN id="n7" start="784" end="789" text="which" comment="" />
+<NOUN id="n8" start="929" end="937" text="capacity" comment="" />
+<NOUN id="n9" start="994" end="1002" text="problems" comment="" />
+<NOUN id="n10" start="1018" end="1024" text="amount" comment="" />
+<NOUN id="n11" start="1036" end="1040" text="that" comment="" />
+<NOUN id="n12" start="1094" end="1105" text="electricity" comment="" />
+<NOUN id="n13" start="1227" end="1239" text="technologies" comment="" />
+<NOUN id="n14" start="1316" end="1324" text="capacity" comment="" />
+<NOUN id="n15" start="1373" end="1379" text="aspect" comment="" />
+<NOUN id="n16" start="1759" end="1768" text="materials" comment="" />
+<NOUN id="n17" start="1885" end="1892" text="changes" comment="" />
+<NOUN id="n18" start="1922" end="1929" text="samples" comment="" />
+<NOUN id="n19" start="1974" end="1987" text="radioactivity" comment="" />
+<NOUN id="n20" start="2102" end="2106" text="sigh" comment="" />
+<NOUN id="n21" start="2200" end="2207" text="problem" comment="" />
+<NOUN id="n22" start="2208" end="2212" text="that" comment="" />
+<NOUN id="n23" start="2291" end="2300" text="potential" comment="" />
+<NOUN id="n24" start="2329" end="2335" text="motion" comment="" />
+<NOUN id="n25" start="2426" end="2434" text="capacity" comment="" />
+<NOUN id="n26" start="2526" end="2532" text="fields" comment="" />
+<NOUN id="n27" start="2555" end="2559" text="them" comment="" />
+<NOUN id="n28" start="2591" end="2599" text="capacity" comment="" />
+<NOUN id="n29" start="2706" end="2713" text="problem" comment="" />
+<NOUN id="n30" start="2729" end="2733" text="that" comment="" />
+<NOUN id="n31" start="2768" end="2772" text="ways" comment="" />
+<NOUN id="n32" start="2813" end="2821" text="patterns" comment="" />
+<NOUN id="n33" start="2893" end="2900" text="process" comment="" />
+<NOUN id="n34" start="3056" end="3064" text="capacity" comment="" />
+<QLINK id="q0" fromID="s0" fromText="raised" toID="n0" toText="capacity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="moving" toID="n1" toText="materials" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="created" toID="n2" toText="changes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="raise" toID="n3" toText="amount" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="carry" toID="n4" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="made" toID="n5" toText="advance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="marks" toID="n6" toText="step" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="aimed" toID="n7" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q8" fromID="s8" fromText="obtained" toID="n8" toText="capacity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="had" toID="n9" toText="problems" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="increasing" toID="n10" toText="amount" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="carry" toID="n11" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="conduct" toID="n12" toText="electricity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="promise" toID="n13" toText="technologies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="raised" toID="n14" toText="capacity" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q15" fromID="s15" fromText="overcome" toID="n15" toText="aspect" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q16" fromID="s16" fromText="needed" toID="n16" toText="materials" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q17" fromID="s17" fromText="created" toID="n17" toText="changes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="bombarding" toID="n18" toText="samples" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="creates" toID="n19" toText="radioactivity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="breathed" toID="n20" toText="sigh" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="overcome" toID="n21" toText="problem" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="publicized" toID="n22" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q23" fromID="s23" fromText="undercutting" toID="n23" toText="potential" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="involves" toID="n24" toText="motion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="limiting" toID="n25" toText="capacity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="pins" toID="n26" toText="fields" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="preventing" toID="n27" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="lowering" toID="n28" toText="capacity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="solved" toID="n29" toText="problem" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="Determining" toID="n30" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s31" fromText="develop" toID="n31" toText="ways" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="introduce" toID="n32" toText="patterns" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="combine" toID="n33" toText="process" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="raise" toID="n34" toText="capacity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

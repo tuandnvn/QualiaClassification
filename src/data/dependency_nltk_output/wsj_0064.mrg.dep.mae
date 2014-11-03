@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The Transportation Department , responding to pressure from safety advocates , took further steps to impose on light trucks and vans the safety requirements used for automobiles . 
+The department proposed requiring stronger roofs for light trucks and minivans , beginning with 1992 models . 
+It also issued a final rule requiring auto makers to equip light trucks and minivans with lap-shoulder belts for rear seats beginning in the 1992 model year . 
+Such belts already are required for the vehicles ' front seats . 
+`` Today 's action , '' Transportation Secretary Samuel Skinner said , `` represents another milestone in the ongoing program to promote vehicle occupant safety in light trucks and minivans through its extension of passenger car standards . '' 
+In September , the department had said it will require trucks and minivans to be equipped with the same front-seat headrests that have long been required on passenger cars . 
+The Big Three auto makers said the rule changes were n't surprising because Bush administration officials have long said they planned to impose car safety standards on light trucks and vans . 
+Safety advocates , including some members of Congress , have been urging the department for years to extend car-safety requirements to light trucks and vans , which now account for almost one-third of all vehicle sales in the U.S. . 
+They say that many vehicles classed as commercial light trucks actually carry more people than cargo and therefore should have the same safety features as cars . 
+They did n't have much luck during the Reagan administration . 
+`` But now , there seems to be a fairly systematic effort to address the problem , '' said Chuck Hurley , vice president of communications for the Insurance Institute for Highway Safety . 
+`` We 're in a very different regulatory environment . '' 
+Sen. John Danforth ( R. , Mo . ) praised the department 's actions , noting that rollover crashes account for almost half of all light-truck deaths . 
+`` We could prevent many of these fatalities with minimum roof-crush standards , '' he said . 
+Sen. Danforth and others also want the department to require additional safety equipment in light trucks and minivans , including air bags or automatic seat belts in front seats and improved side-crash protection . 
+The department 's roof-crush proposal would apply to vehicles weighing 10,000 pounds or less . 
+The roofs would be required to withstand a force of 1.5 times the unloaded weight of the vehicle . 
+During the test , the roof could n't be depressed more than five inches . 
+In Detroit , a Chrysler Corp. official said the company currently has no rear-seat lap and shoulder belts in its light trucks , but plans to begin phasing them in by the end of the 1990 model year . 
+He said Chrysler fully expects to have them installed across its light-truck line by the Sept. 1 , 1991 , deadline . 
+Chrysler said its trucks and vans already meet the roof-crush resistance standard for cars . 
+John Leinonen , executive engineer of Ford Motor Co. 's auto-safety office , said Ford trucks have met car standards for roof-crush resistance since 1982 . 
+Ford began installing the rear-seat belts in trucks with its F-series Crew Cab pickups in the 1989 model year . 
+The new Explorer sport-utility vehicle , set for introduction next spring , will also have the rear-seat belts . 
+Mr. Leinonen said he expects Ford to meet the deadline easily . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="80" end="84" text="took" comment="" pos="VBD" />
+<SELECTOR id="s1" start="102" end="108" text="impose" comment="" pos="VB" />
+<SELECTOR id="s2" start="206" end="215" text="requiring" comment="" pos="VBG" />
+<SELECTOR id="s3" start="301" end="307" text="issued" comment="" pos="VBD" />
+<SELECTOR id="s4" start="346" end="351" text="equip" comment="" pos="VB" />
+<SELECTOR id="s5" start="476" end="484" text="required" comment="" pos="VBN" />
+<SELECTOR id="s6" start="593" end="603" text="represents" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="648" end="655" text="promote" comment="" pos="VB" />
+<SELECTOR id="s8" start="845" end="853" text="equipped" comment="" pos="VBN" />
+<SELECTOR id="s9" start="909" end="917" text="required" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1076" end="1082" text="impose" comment="" pos="VB" />
+<SELECTOR id="s11" start="1198" end="1204" text="urging" comment="" pos="VBG" />
+<SELECTOR id="s12" start="1233" end="1239" text="extend" comment="" pos="VB" />
+<SELECTOR id="s13" start="1438" end="1443" text="carry" comment="" pos="VBP" />
+<SELECTOR id="s14" start="1488" end="1492" text="have" comment="" pos="VB" />
+<SELECTOR id="s15" start="1542" end="1546" text="have" comment="" pos="VB" />
+<SELECTOR id="s16" start="1654" end="1661" text="address" comment="" pos="VB" />
+<SELECTOR id="s17" start="1874" end="1881" text="praised" comment="" pos="VBD" />
+<SELECTOR id="s18" start="2004" end="2011" text="prevent" comment="" pos="VB" />
+<SELECTOR id="s19" start="2140" end="2147" text="require" comment="" pos="VB" />
+<SELECTOR id="s20" start="2365" end="2373" text="weighing" comment="" pos="VBG" />
+<SELECTOR id="s21" start="2418" end="2426" text="required" comment="" pos="VBN" />
+<SELECTOR id="s22" start="2430" end="2439" text="withstand" comment="" pos="VB" />
+<SELECTOR id="s23" start="2539" end="2548" text="depressed" comment="" pos="VBN" />
+<SELECTOR id="s24" start="2640" end="2643" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s25" start="2721" end="2728" text="phasing" comment="" pos="VBG" />
+<SELECTOR id="s26" start="2934" end="2938" text="meet" comment="" pos="VBP" />
+<SELECTOR id="s27" start="3085" end="3088" text="met" comment="" pos="VBN" />
+<SELECTOR id="s28" start="3154" end="3164" text="installing" comment="" pos="VBG" />
+<SELECTOR id="s29" start="3342" end="3346" text="have" comment="" pos="VB" />
+<SELECTOR id="s30" start="3407" end="3411" text="meet" comment="" pos="VB" />
+<NOUN id="n0" start="93" end="98" text="steps" comment="" />
+<NOUN id="n1" start="145" end="157" text="requirements" comment="" />
+<NOUN id="n2" start="225" end="230" text="roofs" comment="" />
+<NOUN id="n3" start="316" end="320" text="rule" comment="" />
+<NOUN id="n4" start="358" end="364" text="trucks" comment="" />
+<NOUN id="n5" start="458" end="463" text="belts" comment="" />
+<NOUN id="n6" start="612" end="621" text="milestone" comment="" />
+<NOUN id="n7" start="673" end="679" text="safety" comment="" />
+<NOUN id="n8" start="819" end="825" text="trucks" comment="" />
+<NOUN id="n9" start="889" end="893" text="that" comment="" />
+<NOUN id="n10" start="1094" end="1103" text="standards" comment="" />
+<NOUN id="n11" start="1209" end="1219" text="department" comment="" />
+<NOUN id="n12" start="1251" end="1263" text="requirements" comment="" />
+<NOUN id="n13" start="1449" end="1455" text="people" comment="" />
+<NOUN id="n14" start="1509" end="1517" text="features" comment="" />
+<NOUN id="n15" start="1552" end="1556" text="luck" comment="" />
+<NOUN id="n16" start="1666" end="1673" text="problem" comment="" />
+<NOUN id="n17" start="1900" end="1907" text="actions" comment="" />
+<NOUN id="n18" start="2012" end="2016" text="many" comment="" />
+<NOUN id="n19" start="2166" end="2175" text="equipment" comment="" />
+<NOUN id="n20" start="2381" end="2387" text="pounds" comment="" />
+<NOUN id="n21" start="2403" end="2408" text="roofs" comment="" />
+<NOUN id="n22" start="2442" end="2447" text="force" comment="" />
+<NOUN id="n23" start="2521" end="2525" text="roof" comment="" />
+<NOUN id="n24" start="2657" end="2660" text="lap" comment="" />
+<NOUN id="n25" start="2729" end="2733" text="them" comment="" />
+<NOUN id="n26" start="2965" end="2973" text="standard" comment="" />
+<NOUN id="n27" start="3093" end="3102" text="standards" comment="" />
+<NOUN id="n28" start="3179" end="3184" text="belts" comment="" />
+<NOUN id="n29" start="3361" end="3366" text="belts" comment="" />
+<NOUN id="n30" start="3416" end="3424" text="deadline" comment="" />
+<QLINK id="q0" fromID="s0" fromText="took" toID="n0" toText="steps" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="impose" toID="n1" toText="requirements" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="requiring" toID="n2" toText="roofs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="issued" toID="n3" toText="rule" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="equip" toID="n4" toText="trucks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="required" toID="n5" toText="belts" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="represents" toID="n6" toText="milestone" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="promote" toID="n7" toText="safety" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="equipped" toID="n8" toText="trucks" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="required" toID="n9" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="impose" toID="n10" toText="standards" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="urging" toID="n11" toText="department" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="extend" toID="n12" toText="requirements" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="carry" toID="n13" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="have" toID="n14" toText="features" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="have" toID="n15" toText="luck" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="address" toID="n16" toText="problem" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="praised" toID="n17" toText="actions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="prevent" toID="n18" toText="many" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="require" toID="n19" toText="equipment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="weighing" toID="n20" toText="pounds" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="required" toID="n21" toText="roofs" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q22" fromID="s22" fromText="withstand" toID="n22" toText="force" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="depressed" toID="n23" toText="roof" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q24" fromID="s24" fromText="has" toID="n24" toText="lap" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="phasing" toID="n25" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="meet" toID="n26" toText="standard" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="met" toID="n27" toText="standards" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="installing" toID="n28" toText="belts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="have" toID="n29" toText="belts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="meet" toID="n30" toText="deadline" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

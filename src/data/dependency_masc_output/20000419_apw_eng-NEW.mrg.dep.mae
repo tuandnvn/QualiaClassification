@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Lawmaker Appeals for Innocent Iraqis 
+By HASSAN ABDULWAHAB , Associated Press Writer 
+<LU_ANNOTATE> 
+BASRA , Iraq ( AP ) 
+A U. S. lawmaker assessing the impact of U. N. sanctions on Iraq said Wednesday it is important not only to force Baghdad to give up its weapons of mass destruction but also to do more to ease the hardships on ordinary Iraqis . 
+Rep. Tony Hall , D - Ohio , did not call for a lifting of sanctions imposed on Iraq for its 1990 invasion of Kuwait , but said the United Nations should make sure that sanctions do not hurt innocent Iraqis . 
+" It was very , very important " to compel Iraq to rid itself of weapons of mass destruction so that " it can not use or export them to other countries , " he told Associated Press Television News . 
+But he insisted the international community can do a much better job in helping Iraq deal with its economic and health problems . 
+One way would be to speed up the flow of health supplies and other urgent commodities to the country under a U. N. humanitarian program , he said . 
+</LU_ANNOTATE_WC=_161> 
+Iraq says the United States and Britain hold up delivery of needed supplies , using their clout in the United Nations . 
+The U. S. government says it wants to ensure that Iraq is not buying items that appear to be humanitarian in nature but that could be used for making weapons . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="140" end="149" text="assessing" comment="" pos="VBG" />
+<SELECTOR id="s1" start="231" end="236" text="force" comment="" pos="VB" />
+<SELECTOR id="s2" start="248" end="252" text="give" comment="" pos="VB" />
+<SELECTOR id="s3" start="300" end="302" text="do" comment="" pos="VB" />
+<SELECTOR id="s4" start="311" end="315" text="ease" comment="" pos="VB" />
+<SELECTOR id="s5" start="537" end="541" text="hurt" comment="" pos="VB" />
+<SELECTOR id="s6" start="597" end="603" text="compel" comment="" pos="VB" />
+<SELECTOR id="s7" start="612" end="615" text="rid" comment="" pos="VB" />
+<SELECTOR id="s8" start="682" end="688" text="export" comment="" pos="VB" />
+<SELECTOR id="s9" start="720" end="724" text="told" comment="" pos="VBD" />
+<SELECTOR id="s10" start="809" end="811" text="do" comment="" pos="VB" />
+<SELECTOR id="s11" start="912" end="917" text="speed" comment="" pos="VB" />
+<SELECTOR id="s12" start="1105" end="1109" text="hold" comment="" pos="VBP" />
+<SELECTOR id="s13" start="1143" end="1148" text="using" comment="" pos="VBG" />
+<SELECTOR id="s14" start="1248" end="1254" text="buying" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1320" end="1324" text="used" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1329" end="1335" text="making" comment="" pos="VBG" />
+<NOUN id="n0" start="154" end="160" text="impact" comment="" />
+<NOUN id="n1" start="237" end="244" text="Baghdad" comment="" />
+<NOUN id="n2" start="260" end="267" text="weapons" comment="" />
+<NOUN id="n3" start="303" end="307" text="more" comment="" />
+<NOUN id="n4" start="320" end="329" text="hardships" comment="" />
+<NOUN id="n5" start="551" end="557" text="Iraqis" comment="" />
+<NOUN id="n6" start="604" end="608" text="Iraq" comment="" />
+<NOUN id="n7" start="616" end="622" text="itself" comment="" />
+<NOUN id="n8" start="689" end="693" text="them" comment="" />
+<NOUN id="n9" start="753" end="757" text="News" comment="" />
+<NOUN id="n10" start="826" end="829" text="job" comment="" />
+<NOUN id="n11" start="925" end="929" text="flow" comment="" />
+<NOUN id="n12" start="1113" end="1121" text="delivery" comment="" />
+<NOUN id="n13" start="1155" end="1160" text="clout" comment="" />
+<NOUN id="n14" start="1255" end="1260" text="items" comment="" />
+<NOUN id="n15" start="1306" end="1310" text="that" comment="" />
+<NOUN id="n16" start="1336" end="1343" text="weapons" comment="" />
+<QLINK id="q0" fromID="s0" fromText="assessing" toID="n0" toText="impact" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="force" toID="n1" toText="Baghdad" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="give" toID="n2" toText="weapons" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="do" toID="n3" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="ease" toID="n4" toText="hardships" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="hurt" toID="n5" toText="Iraqis" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="compel" toID="n6" toText="Iraq" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="rid" toID="n7" toText="itself" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="export" toID="n8" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="told" toID="n9" toText="News" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="do" toID="n10" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="speed" toID="n11" toText="flow" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="hold" toID="n12" toText="delivery" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="using" toID="n13" toText="clout" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="buying" toID="n14" toText="items" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="used" toID="n15" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q16" fromID="s16" fromText="making" toID="n16" toText="weapons" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

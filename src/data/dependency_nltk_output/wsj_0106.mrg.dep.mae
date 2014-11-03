@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+ROGERS COMMUNICATIONS Inc. said it plans to raise 175 million to 180 million Canadian dollars ( US$ 148.9 million to $ 153.3 million ) through a private placement of perpetual preferred shares . 
+Perpetual preferred shares are n't retractable by the holders , the company said . 
+Rogers said the shares will be convertible into Class B shares , but that the company has the option to redeem the shares before a conversion takes place . 
+A spokesman for the Toronto cable television and telecommunications concern said the coupon rate has n't yet been fixed , but will probably be set at around 8 % . 
+He declined to discuss other terms of the issue . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="45" end="50" text="raise" comment="" pos="VB" />
+<SELECTOR id="s1" start="367" end="370" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="385" end="391" text="redeem" comment="" pos="VB" />
+<SELECTOR id="s3" start="423" end="428" text="takes" comment="" pos="VBZ" />
+<SELECTOR id="s4" start="552" end="557" text="fixed" comment="" pos="VBN" />
+<SELECTOR id="s5" start="617" end="624" text="discuss" comment="" pos="VB" />
+<NOUN id="n0" start="87" end="94" text="dollars" comment="" />
+<NOUN id="n1" start="375" end="381" text="option" comment="" />
+<NOUN id="n2" start="396" end="402" text="shares" comment="" />
+<NOUN id="n3" start="429" end="434" text="place" comment="" />
+<NOUN id="n4" start="530" end="534" text="rate" comment="" />
+<NOUN id="n5" start="631" end="636" text="terms" comment="" />
+<QLINK id="q0" fromID="s0" fromText="raise" toID="n0" toText="dollars" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="has" toID="n1" toText="option" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="redeem" toID="n2" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="takes" toID="n3" toText="place" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="fixed" toID="n4" toText="rate" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="discuss" toID="n5" toText="terms" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

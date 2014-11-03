@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+July 28 , 1999 
+Dear 
+Join us for the " Sale of the Century " at JCC Auction '99 , on Saturday , November 13 , 1999 . 
+The 9th annual JCC Auction will benefit the numerous scholarship programs of the Jewish Community Center of Indianapolis , a United Way agency . 
+Because you are an organization that cares , you are invited to become an integral part of this fabulous event by becoming a corporate sponsor for JCC Auction '99 . 
+The JCC would be very pleased to welcome your organization as a corporate sponsor . 
+We are seeking to build partnerships between businesses and our not-for-profit agency . 
+As a sponsor , you and your guests will have a special evening , knowing that your tax deductible contribution will help support preschool , childcare , senior and resettlement services , as well as quality cultural events in our community . 
+Enclosed is a corporate sponsorship package that includes a sample auction book from last year 's event , JCC market statistics and an overview of the many programs that will be preserved and strengthened through your generous support . 
+One of us will call you to discuss how your company can become an important highly visible partner with the JCC in support of our scholarship programs . 
+If you have any questions , please feel free to call Myrna Weinberger at 251-9467 , ext. 256 . 
+Thank you in advance for your consideration . 
+Sincerely , Judy Laikin , Chair Auction '99 Sponsor Committee 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="152" end="159" text="benefit" comment="" pos="VB" />
+<SELECTOR id="s1" start="319" end="326" text="invited" comment="" pos="VBN" />
+<SELECTOR id="s2" start="465" end="472" text="welcome" comment="" pos="VB" />
+<SELECTOR id="s3" start="535" end="540" text="build" comment="" pos="VB" />
+<SELECTOR id="s4" start="646" end="650" text="have" comment="" pos="VB" />
+<SELECTOR id="s5" start="727" end="734" text="support" comment="" pos="VB" />
+<SELECTOR id="s6" start="849" end="857" text="Enclosed" comment="" pos="VBN" />
+<SELECTOR id="s7" start="898" end="906" text="includes" comment="" pos="VBZ" />
+<SELECTOR id="s8" start="1027" end="1036" text="preserved" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1102" end="1106" text="call" comment="" pos="VB" />
+<SELECTOR id="s10" start="1248" end="1252" text="have" comment="" pos="VBP" />
+<SELECTOR id="s11" start="1289" end="1293" text="call" comment="" pos="VB" />
+<SELECTOR id="s12" start="1337" end="1342" text="Thank" comment="" pos="VBP" />
+<NOUN id="n0" start="185" end="193" text="programs" comment="" />
+<NOUN id="n1" start="311" end="314" text="you" comment="" />
+<NOUN id="n2" start="478" end="490" text="organization" comment="" />
+<NOUN id="n3" start="541" end="553" text="partnerships" comment="" />
+<NOUN id="n4" start="661" end="668" text="evening" comment="" />
+<NOUN id="n5" start="783" end="791" text="services" comment="" />
+<NOUN id="n6" start="885" end="892" text="package" comment="" />
+<NOUN id="n7" start="924" end="928" text="book" comment="" />
+<NOUN id="n8" start="1014" end="1018" text="that" comment="" />
+<NOUN id="n9" start="1107" end="1110" text="you" comment="" />
+<NOUN id="n10" start="1257" end="1266" text="questions" comment="" />
+<NOUN id="n11" start="1300" end="1310" text="Weinberger" comment="" />
+<NOUN id="n12" start="1343" end="1346" text="you" comment="" />
+<QLINK id="q0" fromID="s0" fromText="benefit" toID="n0" toText="programs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="invited" toID="n1" toText="you" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="welcome" toID="n2" toText="organization" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="build" toID="n3" toText="partnerships" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="have" toID="n4" toText="evening" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="support" toID="n5" toText="services" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="Enclosed" toID="n6" toText="package" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s7" fromText="includes" toID="n7" toText="book" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="preserved" toID="n8" toText="that" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="call" toID="n9" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="have" toID="n10" toText="questions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="call" toID="n11" toText="Weinberger" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="Thank" toID="n12" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

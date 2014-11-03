@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The Department of Health and Human Services plans to extend its moratorium on federal funding of research involving fetal-tissue transplants . 
+Medical researchers believe the transplantation of small amounts of fetal tissue into humans could help treat juvenile diabetes and such degenerative diseases as Alzheimer 's , Parkinson 's and Huntington 's . 
+But anti-abortionists oppose such research because they worry that the development of therapies using fetal-tissue transplants could lead to an increase in abortions . 
+James Mason , assistant secretary for health , said the ban on federal funding of fetal-tissue transplant research `` should be continued indefinitely . '' 
+He said the ban wo n't stop privately funded tissue-transplant research or federally funded fetal-tissue research that does n't involve transplants . 
+Department officials say that HHS Secretary Louis Sullivan will support Dr. Mason 's ruling , which will be issued soon in the form of a letter to the acting director of the National Institutes of Health . 
+Both Dr. Mason and Dr. Sullivan oppose federal funding for abortion , as does President Bush , except in cases where a woman 's life is threatened . 
+The controversy began in 1987 when the National Institutes of Health , aware of the policy implications of its research , asked for an HHS review of its plan to implant fetal tissue into the brain of a patient suffering from Parkinson 's disease . 
+The department placed a moratorium on the research , pending a review of scientific , legal and ethical issues . 
+A majority of an NIH-appointed panel recommended late last year that the research continue under carefully controlled conditions , but the issue became embroiled in politics as anti-abortion groups continued to oppose federal funding . 
+The dispute has hampered the administration 's efforts to recruit prominent doctors to fill prestigious posts at the helm of the NIH and the Centers for Disease Control . 
+Several candidates have withdrawn their names from consideration after administration officials asked them for their views on abortion and fetal-tissue transplants . 
+Antonio Novello , whom Mr. Bush nominated to serve as surgeon general , reportedly has assured the administration that she opposes abortion . 
+Dr. Novello is deputy director of the National Institute of Child Health and Human Development . 
+Some researchers have charged that the administration is imposing new ideological tests for top scientific posts . 
+Earlier this week , Dr. Sullivan tried to defuse these charges by stressing that candidates to head the NIH and the CDC will be judged by `` standards of scientific and administrative excellence , '' not politics . 
+But the administration 's handling of the fetal-tissue transplant issue disturbs many scientists . 
+`` When scientific progress moves into uncharted ground , there has to be a role for society to make judgments about its applications , '' says Myron Genel , associate dean of the Yale Medical School . 
+`` The disturbing thing about this abortion issue is that the debate has become polarized , so that no mechanism exists '' for finding a middle ground . 
+Yale is one of the few medical institutions conducting privately funded research on fetal-tissue transplants . 
+But Dr. Genel warns that Dr. Mason 's ruling may discourage private funding . 
+`` The unavailability of federal funds , and the climate in which the decision was made , certainly do n't provide any incentive for one of the more visible foundations to provide support , '' he said . 
+Despite the flap over transplants , federal funding of research involving fetal tissues will continue on a number of fronts . 
+`` Such research may ultimately result in the ability to regenerate damaged tissues or to turn off genes that cause cancer '' or to regulate genes that cause Down 's syndrome , the leading cause of mental retardation , according to an NIH summary . 
+The NIH currently spends about $ 8 million annually on fetal-tissue research out of a total research budget of $ 8 billion . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="54" end="60" text="extend" comment="" pos="VB" />
+<SELECTOR id="s1" start="107" end="116" text="involving" comment="" pos="VBG" />
+<SELECTOR id="s2" start="249" end="254" text="treat" comment="" pos="VB" />
+<SELECTOR id="s3" start="378" end="384" text="oppose" comment="" pos="VBP" />
+<SELECTOR id="s4" start="452" end="457" text="using" comment="" pos="VBG" />
+<SELECTOR id="s5" start="653" end="662" text="continued" comment="" pos="VBN" />
+<SELECTOR id="s6" start="705" end="709" text="stop" comment="" pos="VB" />
+<SELECTOR id="s7" start="810" end="817" text="involve" comment="" pos="VB" />
+<SELECTOR id="s8" start="897" end="904" text="support" comment="" pos="VB" />
+<SELECTOR id="s9" start="941" end="947" text="issued" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1072" end="1078" text="oppose" comment="" pos="VBP" />
+<SELECTOR id="s11" start="1176" end="1186" text="threatened" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1351" end="1358" text="implant" comment="" pos="VB" />
+<SELECTOR id="s13" start="1454" end="1460" text="placed" comment="" pos="VBD" />
+<SELECTOR id="s14" start="1492" end="1499" text="pending" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1705" end="1714" text="embroiled" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1764" end="1770" text="oppose" comment="" pos="VB" />
+<SELECTOR id="s17" start="1806" end="1814" text="hampered" comment="" pos="VBN" />
+<SELECTOR id="s18" start="1848" end="1855" text="recruit" comment="" pos="VB" />
+<SELECTOR id="s19" start="1877" end="1881" text="fill" comment="" pos="VB" />
+<SELECTOR id="s20" start="1986" end="1995" text="withdrawn" comment="" pos="VBN" />
+<SELECTOR id="s21" start="2058" end="2063" text="asked" comment="" pos="VBD" />
+<SELECTOR id="s22" start="2216" end="2223" text="assured" comment="" pos="VBN" />
+<SELECTOR id="s23" start="2252" end="2259" text="opposes" comment="" pos="VBZ" />
+<SELECTOR id="s24" start="2427" end="2435" text="imposing" comment="" pos="VBG" />
+<SELECTOR id="s25" start="2528" end="2534" text="defuse" comment="" pos="VB" />
+<SELECTOR id="s26" start="2614" end="2620" text="judged" comment="" pos="VBN" />
+<SELECTOR id="s27" start="2581" end="2585" text="head" comment="" pos="VB" />
+<SELECTOR id="s28" start="2774" end="2782" text="disturbs" comment="" pos="VBZ" />
+<SELECTOR id="s29" start="2898" end="2902" text="make" comment="" pos="VB" />
+<SELECTOR id="s30" start="3085" end="3094" text="polarized" comment="" pos="VBN" />
+<SELECTOR id="s31" start="3132" end="3139" text="finding" comment="" pos="VBG" />
+<SELECTOR id="s32" start="3203" end="3213" text="conducting" comment="" pos="VBG" />
+<SELECTOR id="s33" start="3320" end="3330" text="discourage" comment="" pos="VB" />
+<SELECTOR id="s34" start="3433" end="3437" text="made" comment="" pos="VBN" />
+<SELECTOR id="s35" start="3457" end="3464" text="provide" comment="" pos="VB" />
+<SELECTOR id="s36" start="3522" end="3529" text="provide" comment="" pos="VB" />
+<SELECTOR id="s37" start="3618" end="3627" text="involving" comment="" pos="VBG" />
+<SELECTOR id="s38" start="3738" end="3748" text="regenerate" comment="" pos="VB" />
+<SELECTOR id="s39" start="3771" end="3775" text="turn" comment="" pos="VB" />
+<SELECTOR id="s40" start="3791" end="3796" text="cause" comment="" pos="VBP" />
+<SELECTOR id="s41" start="3813" end="3821" text="regulate" comment="" pos="VB" />
+<SELECTOR id="s42" start="3833" end="3838" text="cause" comment="" pos="VBP" />
+<SELECTOR id="s43" start="3949" end="3955" text="spends" comment="" pos="VBZ" />
+<NOUN id="n0" start="65" end="75" text="moratorium" comment="" />
+<NOUN id="n1" start="130" end="141" text="transplants" comment="" />
+<NOUN id="n2" start="264" end="272" text="diabetes" comment="" />
+<NOUN id="n3" start="390" end="398" text="research" comment="" />
+<NOUN id="n4" start="471" end="482" text="transplants" comment="" />
+<NOUN id="n5" start="581" end="584" text="ban" comment="" />
+<NOUN id="n6" start="745" end="753" text="research" comment="" />
+<NOUN id="n7" start="818" end="829" text="transplants" comment="" />
+<NOUN id="n8" start="918" end="924" text="ruling" comment="" />
+<NOUN id="n9" start="927" end="932" text="which" comment="" />
+<NOUN id="n10" start="1087" end="1094" text="funding" comment="" />
+<NOUN id="n11" start="1168" end="1172" text="life" comment="" />
+<NOUN id="n12" start="1365" end="1371" text="tissue" comment="" />
+<NOUN id="n13" start="1463" end="1473" text="moratorium" comment="" />
+<NOUN id="n14" start="1502" end="1508" text="review" comment="" />
+<NOUN id="n15" start="1692" end="1697" text="issue" comment="" />
+<NOUN id="n16" start="1779" end="1786" text="funding" comment="" />
+<NOUN id="n17" start="1837" end="1844" text="efforts" comment="" />
+<NOUN id="n18" start="1866" end="1873" text="doctors" comment="" />
+<NOUN id="n19" start="1894" end="1899" text="posts" comment="" />
+<NOUN id="n20" start="2002" end="2007" text="names" comment="" />
+<NOUN id="n21" start="2064" end="2068" text="them" comment="" />
+<NOUN id="n22" start="2228" end="2242" text="administration" comment="" />
+<NOUN id="n23" start="2260" end="2268" text="abortion" comment="" />
+<NOUN id="n24" start="2452" end="2457" text="tests" comment="" />
+<NOUN id="n25" start="2541" end="2548" text="charges" comment="" />
+<NOUN id="n26" start="2567" end="2577" text="candidates" comment="" />
+<NOUN id="n27" start="2590" end="2593" text="NIH" comment="" />
+<NOUN id="n28" start="2788" end="2798" text="scientists" comment="" />
+<NOUN id="n29" start="2903" end="2912" text="judgments" comment="" />
+<NOUN id="n30" start="3067" end="3073" text="debate" comment="" />
+<NOUN id="n31" start="3149" end="3155" text="ground" comment="" />
+<NOUN id="n32" start="3231" end="3239" text="research" comment="" />
+<NOUN id="n33" start="3339" end="3346" text="funding" comment="" />
+<NOUN id="n34" start="3420" end="3428" text="decision" comment="" />
+<NOUN id="n35" start="3469" end="3478" text="incentive" comment="" />
+<NOUN id="n36" start="3530" end="3537" text="support" comment="" />
+<NOUN id="n37" start="3634" end="3641" text="tissues" comment="" />
+<NOUN id="n38" start="3757" end="3764" text="tissues" comment="" />
+<NOUN id="n39" start="3780" end="3785" text="genes" comment="" />
+<NOUN id="n40" start="3797" end="3803" text="cancer" comment="" />
+<NOUN id="n41" start="3822" end="3827" text="genes" comment="" />
+<NOUN id="n42" start="3847" end="3855" text="syndrome" comment="" />
+<NOUN id="n43" start="3966" end="3973" text="million" comment="" />
+<QLINK id="q0" fromID="s0" fromText="extend" toID="n0" toText="moratorium" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="involving" toID="n1" toText="transplants" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="treat" toID="n2" toText="diabetes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="oppose" toID="n3" toText="research" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="using" toID="n4" toText="transplants" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="continued" toID="n5" toText="ban" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="stop" toID="n6" toText="research" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="involve" toID="n7" toText="transplants" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="support" toID="n8" toText="ruling" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="issued" toID="n9" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="oppose" toID="n10" toText="funding" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="threatened" toID="n11" toText="life" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s12" fromText="implant" toID="n12" toText="tissue" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="placed" toID="n13" toText="moratorium" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="pending" toID="n14" toText="review" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="embroiled" toID="n15" toText="issue" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q16" fromID="s16" fromText="oppose" toID="n16" toText="funding" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="hampered" toID="n17" toText="efforts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="recruit" toID="n18" toText="doctors" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="fill" toID="n19" toText="posts" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="withdrawn" toID="n20" toText="names" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="asked" toID="n21" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="assured" toID="n22" toText="administration" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="opposes" toID="n23" toText="abortion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="imposing" toID="n24" toText="tests" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="defuse" toID="n25" toText="charges" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="judged" toID="n26" toText="candidates" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q27" fromID="s27" fromText="head" toID="n27" toText="NIH" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="disturbs" toID="n28" toText="scientists" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s29" fromText="make" toID="n29" toText="judgments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s30" fromText="polarized" toID="n30" toText="debate" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q31" fromID="s31" fromText="finding" toID="n31" toText="ground" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s32" fromText="conducting" toID="n32" toText="research" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s33" fromText="discourage" toID="n33" toText="funding" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s34" fromText="made" toID="n34" toText="decision" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q35" fromID="s35" fromText="provide" toID="n35" toText="incentive" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s36" fromText="provide" toID="n36" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s37" fromText="involving" toID="n37" toText="tissues" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s38" fromText="regenerate" toID="n38" toText="tissues" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s39" fromText="turn" toID="n39" toText="genes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s40" fromText="cause" toID="n40" toText="cancer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q41" fromID="s41" fromText="regulate" toID="n41" toText="genes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s42" fromText="cause" toID="n42" toText="syndrome" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s43" fromText="spends" toID="n43" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

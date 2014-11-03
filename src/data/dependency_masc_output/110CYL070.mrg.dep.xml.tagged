@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+December 10 , 1996 
+Dear Mailhouse donor reminder : 
+You and I have done some important work together . 
+We 've helped people break free of the welfare cycle . 
+We 've found ways for people with disabilities to enter the workforce . 
+We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most . 
+Of course , we 've played different roles . 
+You have helped make Goodwill 's work possible with your previous support . 
+Goodwill has devised the programs that turned your investment into results . 
+Who has benefited from our partnership ? 
+Everyone has . 
+When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer . 
+There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem . 
+And there are a lot of people who face these challenges every day of their lives . 
+So our work must continue . 
+Everyone benefits from the work we do together . 
+Many people need our help . 
+Please continue our important partnership . 
+Support Goodwill with a generous donation today . 
+Sincerely , James M. McClelland President 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="69" end="73" text="done" comment="" pos="VBN" />
+<SELECTOR id="s1" start="169" end="174" text="found" comment="" pos="VBN" />
+<SELECTOR id="s2" start="212" end="217" text="enter" comment="" pos="VB" />
+<SELECTOR id="s3" start="242" end="250" text="expanded" comment="" pos="VBN" />
+<SELECTOR id="s4" start="320" end="326" text="needed" comment="" pos="VBN" />
+<SELECTOR id="s5" start="354" end="360" text="played" comment="" pos="VBN" />
+<SELECTOR id="s6" start="470" end="477" text="devised" comment="" pos="VBN" />
+<SELECTOR id="s7" start="496" end="502" text="turned" comment="" pos="VBD" />
+<SELECTOR id="s8" start="622" end="626" text="find" comment="" pos="VB" />
+<SELECTOR id="s9" start="651" end="656" text="joins" comment="" pos="VBZ" />
+<SELECTOR id="s10" start="705" end="710" text="spent" comment="" pos="VBN" />
+<SELECTOR id="s11" start="747" end="751" text="gain" comment="" pos="VBP" />
+<SELECTOR id="s12" start="805" end="809" text="keep" comment="" pos="VBP" />
+<SELECTOR id="s13" start="971" end="975" text="face" comment="" pos="VBP" />
+<SELECTOR id="s14" start="1112" end="1116" text="need" comment="" pos="VBP" />
+<SELECTOR id="s15" start="1136" end="1144" text="continue" comment="" pos="VB" />
+<SELECTOR id="s16" start="1174" end="1181" text="Support" comment="" pos="VB" />
+<NOUN id="n0" start="89" end="93" text="work" comment="" />
+<NOUN id="n1" start="175" end="179" text="ways" comment="" />
+<NOUN id="n2" start="222" end="231" text="workforce" comment="" />
+<NOUN id="n3" start="270" end="277" text="methods" comment="" />
+<NOUN id="n4" start="311" end="315" text="they" comment="" />
+<NOUN id="n5" start="371" end="376" text="roles" comment="" />
+<NOUN id="n6" start="482" end="490" text="programs" comment="" />
+<NOUN id="n7" start="508" end="518" text="investment" comment="" />
+<NOUN id="n8" start="629" end="632" text="job" comment="" />
+<NOUN id="n9" start="661" end="666" text="ranks" comment="" />
+<NOUN id="n10" start="693" end="700" text="dollars" comment="" />
+<NOUN id="n11" start="760" end="768" text="consumer" comment="" />
+<NOUN id="n12" start="810" end="816" text="people" comment="" />
+<NOUN id="n13" start="982" end="992" text="challenges" comment="" />
+<NOUN id="n14" start="1121" end="1125" text="help" comment="" />
+<NOUN id="n15" start="1159" end="1170" text="partnership" comment="" />
+<NOUN id="n16" start="1182" end="1190" text="Goodwill" comment="" />
+<QLINK id="q0" fromID="s0" fromText="done" toID="n0" toText="work" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="found" toID="n1" toText="ways" comment="" qType="AGENTIVE" qType2="FORMAL" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="enter" toID="n2" toText="workforce" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="expanded" toID="n3" toText="methods" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="needed" toID="n4" toText="they" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="played" toID="n5" toText="roles" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="devised" toID="n6" toText="programs" comment="" qType="AGENTIVE" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="turned" toID="n7" toText="investment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="find" toID="n8" toText="job" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="joins" toID="n9" toText="ranks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="spent" toID="n10" toText="dollars" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s11" fromText="gain" toID="n11" toText="consumer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="keep" toID="n12" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="face" toID="n13" toText="challenges" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="need" toID="n14" toText="help" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="continue" toID="n15" toText="partnership" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="Support" toID="n16" toText="Goodwill" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

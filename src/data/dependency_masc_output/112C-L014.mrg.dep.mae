@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+June 26 , 1995 
+Dear Friend : 
+This is not newsletter . 
+It is a fund - raising appeal . 
+But there 's no reason why we should n't share good news at the same time . 
+Federal , state and local governments are freezing or withdrawing much - needed funding sources for people who are truly in need . 
+In spite of that , Pleasant Run Children 's Homes , with the help of hundreds of volunteers and others who really care , continues to make a significant impact on the futures of families and kids in need of help . 
+We all hear about today 's increases in neglect , abuse and abandonment of those who ca n't fight back : children . 
+Yet few of us hear enough about kids who live through these adversities and do make the grade . 
+The positive side . 
+These are special children . 
+They come into a Pleasant Run program ... whether it 's for therapeutic help in their own homes ( which nurtures whole families ) , through foster care families or in the familial surroundings of our residential homes . 
+For some , it 's a matter of weeks or months ; for others , it 's years . 
+They leave Pleasant Run , generally , ready and able to contribute to society . 
+We 're proud of our children and all that they overcome . 
+We are a not-for-profit , multi-service agency . 
+We would n't exist if the need were n't there . 
+The numbers of children who deserve our services are rising ... as quickly as our programs can grow to serve them . 
+Please help us help them . 
+Pleasant Run Children 's Homes ... " where good kids get better . " 
+Sincerely , Mary Roth Tom Hirschauer 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="132" end="137" text="share" comment="" pos="VB" />
+<SELECTOR id="s1" start="222" end="233" text="withdrawing" comment="" pos="VBG" />
+<SELECTOR id="s2" start="434" end="438" text="make" comment="" pos="VB" />
+<SELECTOR id="s3" start="646" end="650" text="hear" comment="" pos="VBP" />
+<SELECTOR id="s4" start="711" end="715" text="make" comment="" pos="VB" />
+<SELECTOR id="s5" start="884" end="892" text="nurtures" comment="" pos="VBZ" />
+<SELECTOR id="s6" start="1064" end="1066" text="'s" comment="" pos="VBZ" />
+<SELECTOR id="s7" start="1081" end="1086" text="leave" comment="" pos="VBP" />
+<SELECTOR id="s8" start="1204" end="1212" text="overcome" comment="" pos="VBP" />
+<SELECTOR id="s9" start="1343" end="1350" text="deserve" comment="" pos="VBP" />
+<SELECTOR id="s10" start="1418" end="1423" text="serve" comment="" pos="VB" />
+<SELECTOR id="s11" start="1447" end="1451" text="help" comment="" pos="VB" />
+<NOUN id="n0" start="143" end="147" text="news" comment="" />
+<NOUN id="n1" start="256" end="263" text="sources" comment="" />
+<NOUN id="n2" start="453" end="459" text="impact" comment="" />
+<NOUN id="n3" start="651" end="657" text="enough" comment="" />
+<NOUN id="n4" start="720" end="725" text="grade" comment="" />
+<NOUN id="n5" start="899" end="907" text="families" comment="" />
+<NOUN id="n6" start="1067" end="1072" text="years" comment="" />
+<NOUN id="n7" start="1096" end="1099" text="Run" comment="" />
+<NOUN id="n8" start="1194" end="1198" text="that" comment="" />
+<NOUN id="n9" start="1355" end="1363" text="services" comment="" />
+<NOUN id="n10" start="1424" end="1428" text="them" comment="" />
+<NOUN id="n11" start="1452" end="1456" text="them" comment="" />
+<QLINK id="q0" fromID="s0" fromText="share" toID="n0" toText="news" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="withdrawing" toID="n1" toText="sources" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="make" toID="n2" toText="impact" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="hear" toID="n3" toText="enough" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="make" toID="n4" toText="grade" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="nurtures" toID="n5" toText="families" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="'s" toID="n6" toText="years" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="leave" toID="n7" toText="Run" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="overcome" toID="n8" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="deserve" toID="n9" toText="services" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="serve" toID="n10" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="help" toID="n11" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

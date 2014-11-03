@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<DOC_docid="artb_004"_sysid="ahg"> 
+<hl> 
+<seg_id=1> 
+Launching the Electronics Free Trade Zone in Dubai 
+</seg> 
+</hl> 
+<p> 
+<seg_id=2> 
+Dubai 01 - 82 ( AFP ) - 
+Crown Prince of Dubai Al Sheikh Mohammed bin Rashid Al Maktoom crown prince of Dubai launched today , i.e. on Saturday , an electronics free e-trade zone which has been named " Dubai Internet City " 
+</seg> 
+</p> 
+<p> 
+<seg_id=3> 
+The cost in the first stage of this unique project is estimated at 200 million dollars . 
+</seg> 
+</p> 
+<LU_ANNOTATE> 
+<p> 
+<seg_id=4> 
+Sheikh Mohammed , who is also the UAE Defence Minister , said during the launching ceremony " we wish to make Dubai a center of modern economy " . 
+</seg> 
+</p> 
+<p> 
+<seg_id=5> 
+The minister who has a personal website on the internet , further said that he wanted Dubai to become the best place in the world for the advanced ( hitech ) technological companies . 
+</seg> 
+</p> 
+<p> 
+<seg_id=6> 
+He said that it would be possible for the companies working in the electronic trade sector to make Dubai their headquarters , and to establish offices here and provide employment and own machinery in the zone opened to companies fully owned by the foreigners . 
+</seg> 
+</p> 
+</LU_ANNOTATE_WC=_97> 
+<p> 
+<seg_id=7> 
+The electronic trade free trade zone is situated in the north of Dubai , close to the free industrial zone in Jabal Ali Mountain , an area which is considered to be the first in the country , and tenth in the world for transit movement . 
+</seg> 
+</p> 
+<p> 
+<seg_id=8> 
+Launching ' Dubai Internet city ' coincided with the opening of the annual information fair in Dubai which is considered to be the biggest in the Middle East - Gulf Information Technology Getix . ' 
+</seg> 
+</p> 
+</DOC> 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="55" end="64" text="Launching" comment="" pos="VBG" />
+<SELECTOR id="s1" start="249" end="257" text="launched" comment="" pos="VBD" />
+<SELECTOR id="s2" start="333" end="338" text="named" comment="" pos="VBN" />
+<SELECTOR id="s3" start="449" end="458" text="estimated" comment="" pos="VBN" />
+<SELECTOR id="s4" start="727" end="730" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s5" start="1059" end="1068" text="establish" comment="" pos="VB" />
+<SELECTOR id="s6" start="1086" end="1093" text="provide" comment="" pos="VB" />
+<SELECTOR id="s7" start="1109" end="1112" text="own" comment="" pos="VB" />
+<SELECTOR id="s8" start="1282" end="1290" text="situated" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1390" end="1400" text="considered" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1512" end="1521" text="Launching" comment="" pos="VBG" />
+<SELECTOR id="s11" start="1622" end="1632" text="considered" comment="" pos="VBN" />
+<NOUN id="n0" start="92" end="96" text="Zone" comment="" />
+<NOUN id="n1" start="313" end="317" text="zone" comment="" />
+<NOUN id="n2" start="318" end="323" text="which" comment="" />
+<NOUN id="n3" start="399" end="403" text="cost" comment="" />
+<NOUN id="n4" start="742" end="749" text="website" comment="" />
+<NOUN id="n5" start="1069" end="1076" text="offices" comment="" />
+<NOUN id="n6" start="1094" end="1104" text="employment" comment="" />
+<NOUN id="n7" start="1113" end="1122" text="machinery" comment="" />
+<NOUN id="n8" start="1274" end="1278" text="zone" comment="" />
+<NOUN id="n9" start="1381" end="1386" text="which" comment="" />
+<NOUN id="n10" start="1539" end="1543" text="city" comment="" />
+<NOUN id="n11" start="1613" end="1618" text="which" comment="" />
+<QLINK id="q0" fromID="s0" fromText="Launching" toID="n0" toText="Zone" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="launched" toID="n1" toText="zone" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="named" toID="n2" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="estimated" toID="n3" toText="cost" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="has" toID="n4" toText="website" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="establish" toID="n5" toText="offices" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="provide" toID="n6" toText="employment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="own" toID="n7" toText="machinery" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="situated" toID="n8" toText="zone" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="considered" toID="n9" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="Launching" toID="n10" toText="city" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="considered" toID="n11" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

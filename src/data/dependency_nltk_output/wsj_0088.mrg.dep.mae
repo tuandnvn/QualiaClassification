@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The Chicago Mercantile Exchange said it plans to institute an additional `` circuit breaker '' aimed at stemming market slides . 
+Separately , John Phelan told a closed House subcommittee meeting in Washington that he would support Securities and Exchange Commission halts of program trading during market emergencies . 
+But the New York Stock Exchange chairman said he does n't support reinstating a `` collar '' on program trading , arguing that firms could get around such a limit . 
+The Chicago Merc said a new one-hour price limit would take effect in its Standard & Poor 's 500 stock-index futures pit once S&P 500 futures fell 20 index points -- the equivalent of about a 150-point drop in the Dow Jones Industrial Average . 
+If the 20-point limit is triggered after 1:30 p.m . Chicago time , it would remain in effect until the normal close of trading at 3:15 p.m . 
+With the limit in effect , members would be able to execute trades at the limit price or at higher prices , but not below it . 
+The exchange said it decided a new circuit breaker was needed following a review of the tumultuous trading in stocks and stock-index futures on Friday Oct. 13 , when the Dow Jones industrials plunged 190 points and stock-index futures prices skidded as well . 
+Late that afternoon the S&P 500 stock-index futures contract fell a total of 30 index points , hitting a Merc circuit breaker limit that remained in effect for the rest of the trading session . 
+The Merc said that its existing 30-minute , 12-point limit on S&P 500 stock-index futures trading ( equal to about 100 points on the Dow Jones industrials ) , which was triggered Oct. 13 , will remain in effect . 
+Leo Melamed , Merc executive committee chairman , said that the 12-point limit appeared to lessen the selling panic Oct. 13 . 
+But when the contract reopened , the subsequent flood of sell orders that quickly knocked the contract down to the 30-point limit indicated that the intermediate limit of 20 points was needed to help keep stock and stock-index futures prices synchronized . 
+Several traders maintained that the Merc 's 12-point circuit-breaker aggravated the market slide Oct. 13 by directing additional selling pressure to the floor of the New York Stock Exchange . 
+All of the changes require regulatory approval , which is expected shortly . 
+The exchange also said that the 30-point circuit breaker , which currently provides only a one-hour respite during market sell-offs , will become the maximum one-day limit for the S&P 500 stock-index futures contract ; the one-day limit now is 50 index points . 
+A final modification was made to the five-point opening limit for the contract . 
+The Merc said that five-point limit will remain in effect for the first 10 minutes of trading . 
+The limit lapses under current exchange rules if contracts trade above the limit price during the opening 10 minutes of trading . 
+In Washington , House aides said Mr. Phelan told congressmen that the collar , which banned program trades through the Big Board 's computer when the Dow Jones Industrial Average moved 50 points , did n't work well . 
+He said that firms could get around the collar by executing trades manually . 
+In a post-hearing news conference , Mr. Phelan , who has publicly expressed concern about market volatility , said he told the House finance and telecommunications subcommittee that he would support the program-trading halt proposal `` providing the SEC would be comfortable with the language '' in a bill . 
+The program-trading issue is heating up on Capitol Hill as it is on Wall Street , and several legislators want to grant the SEC the power to shut off the programs when trading becomes too volatile . 
+SEC Chairman Richard Breeden has said he would be willing to consider circuit breakers that have preset trigger points , but he does n't want discretionary power to stop programs . 
+A House aide suggested that Mr. Phelan was so `` vague and mushy '' that it was the kind of meeting where people of all viewpoints could `` come out feeling good . '' 
+At one point , Mr. Phelan angered the subcommittee 's chairman , Rep. Edward Markey ( D. , Mass. ) , by not going much beyond what already had been reported in the morning newspapers . 
+`` Markey said we could have done this in public '' because so little sensitive information was disclosed , the aide said . 
+Mr. Phelan then responded that he would have been happy just writing a report to the panel , the aide added . 
+At another point during the hearing , Rep. Markey asked Mr. Phelan what would be discussed at a New York exchange board meeting today . 
+Mr. Phelan said the Big Board is likely to study the program-trading issue . 
+That response annoyed Rep. Markey , House aides said , and the congressman snapped back that there had been enough studies of the issue and that it was time for action on the matter . 
+Fifteen of the 26 subcommittee members attended the hearing , most notably Rep. John Dingell ( D. , Mich. ) , the full House Energy and Commerce Committee chairman , who has been willing to let Mr. Markey carry the legislation in recent months . 
+Mr. Dingell expressed concern , sources said , about jurisdictional problems in regulating program trading , which uses futures to offset stock trades . 
+The futures industry is regulated by the Commodity Futures Trading Commission , which reports to the Agriculture committees in both houses . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="50" end="59" text="institute" comment="" pos="VB" />
+<SELECTOR id="s1" start="105" end="113" text="stemming" comment="" pos="VBG" />
+<SELECTOR id="s2" start="156" end="160" text="told" comment="" pos="VBD" />
+<SELECTOR id="s3" start="225" end="232" text="support" comment="" pos="VB" />
+<SELECTOR id="s4" start="388" end="399" text="reinstating" comment="" pos="VBG" />
+<SELECTOR id="s5" start="543" end="547" text="take" comment="" pos="VB" />
+<SELECTOR id="s6" start="759" end="768" text="triggered" comment="" pos="VBN" />
+<SELECTOR id="s7" start="928" end="935" text="execute" comment="" pos="VB" />
+<SELECTOR id="s8" start="1059" end="1065" text="needed" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1360" end="1367" text="hitting" comment="" pos="VBG" />
+<SELECTOR id="s10" start="1629" end="1638" text="triggered" comment="" pos="VBN" />
+<SELECTOR id="s11" start="1765" end="1771" text="lessen" comment="" pos="VB" />
+<SELECTOR id="s12" start="1883" end="1890" text="knocked" comment="" pos="VBD" />
+<SELECTOR id="s13" start="1986" end="1992" text="needed" comment="" pos="VBN" />
+<SELECTOR id="s14" start="2128" end="2138" text="aggravated" comment="" pos="VBD" />
+<SELECTOR id="s15" start="2167" end="2176" text="directing" comment="" pos="VBG" />
+<SELECTOR id="s16" start="2271" end="2278" text="require" comment="" pos="VBP" />
+<SELECTOR id="s17" start="2310" end="2318" text="expected" comment="" pos="VBN" />
+<SELECTOR id="s18" start="2405" end="2413" text="provides" comment="" pos="VBZ" />
+<SELECTOR id="s19" start="2618" end="2622" text="made" comment="" pos="VBN" />
+<SELECTOR id="s20" start="2947" end="2951" text="told" comment="" pos="VBD" />
+<SELECTOR id="s21" start="2988" end="2994" text="banned" comment="" pos="VBD" />
+<SELECTOR id="s22" start="3171" end="3180" text="executing" comment="" pos="VBG" />
+<SELECTOR id="s23" start="3266" end="3275" text="expressed" comment="" pos="VBN" />
+<SELECTOR id="s24" start="3318" end="3322" text="told" comment="" pos="VBD" />
+<SELECTOR id="s25" start="3391" end="3398" text="support" comment="" pos="VB" />
+<SELECTOR id="s26" start="3623" end="3628" text="grant" comment="" pos="VB" />
+<SELECTOR id="s27" start="3650" end="3654" text="shut" comment="" pos="VB" />
+<SELECTOR id="s28" start="3770" end="3778" text="consider" comment="" pos="VB" />
+<SELECTOR id="s29" start="3801" end="3805" text="have" comment="" pos="VBP" />
+<SELECTOR id="s30" start="3846" end="3850" text="want" comment="" pos="VB" />
+<SELECTOR id="s31" start="3874" end="3878" text="stop" comment="" pos="VB" />
+<SELECTOR id="s32" start="4085" end="4092" text="angered" comment="" pos="VBD" />
+<SELECTOR id="s33" start="4207" end="4215" text="reported" comment="" pos="VBN" />
+<SELECTOR id="s34" start="4274" end="4278" text="done" comment="" pos="VBN" />
+<SELECTOR id="s35" start="4341" end="4350" text="disclosed" comment="" pos="VBN" />
+<SELECTOR id="s36" start="4431" end="4438" text="writing" comment="" pos="VBG" />
+<SELECTOR id="s37" start="4531" end="4536" text="asked" comment="" pos="VBD" />
+<SELECTOR id="s38" start="4562" end="4571" text="discussed" comment="" pos="VBN" />
+<SELECTOR id="s39" start="4661" end="4666" text="study" comment="" pos="VB" />
+<SELECTOR id="s40" start="4710" end="4717" text="annoyed" comment="" pos="VBD" />
+<SELECTOR id="s41" start="4920" end="4928" text="attended" comment="" pos="VBD" />
+<SELECTOR id="s42" start="5086" end="5091" text="carry" comment="" pos="VB" />
+<SELECTOR id="s43" start="5140" end="5149" text="expressed" comment="" pos="VBD" />
+<SELECTOR id="s44" start="5208" end="5218" text="regulating" comment="" pos="VBG" />
+<SELECTOR id="s45" start="5243" end="5247" text="uses" comment="" pos="VBZ" />
+<SELECTOR id="s46" start="5259" end="5265" text="offset" comment="" pos="VB" />
+<SELECTOR id="s47" start="5306" end="5315" text="regulated" comment="" pos="VBN" />
+<NOUN id="n0" start="85" end="92" text="breaker" comment="" />
+<NOUN id="n1" start="121" end="127" text="slides" comment="" />
+<NOUN id="n2" start="189" end="196" text="meeting" comment="" />
+<NOUN id="n3" start="233" end="243" text="Securities" comment="" />
+<NOUN id="n4" start="405" end="411" text="collar" comment="" />
+<NOUN id="n5" start="548" end="554" text="effect" comment="" />
+<NOUN id="n6" start="750" end="755" text="limit" comment="" />
+<NOUN id="n7" start="936" end="942" text="trades" comment="" />
+<NOUN id="n8" start="1047" end="1054" text="breaker" comment="" />
+<NOUN id="n9" start="1391" end="1396" text="limit" comment="" />
+<NOUN id="n10" start="1619" end="1624" text="which" comment="" />
+<NOUN id="n11" start="1784" end="1789" text="panic" comment="" />
+<NOUN id="n12" start="1895" end="1903" text="contract" comment="" />
+<NOUN id="n13" start="1963" end="1968" text="limit" comment="" />
+<NOUN id="n14" start="2150" end="2155" text="slide" comment="" />
+<NOUN id="n15" start="2196" end="2204" text="pressure" comment="" />
+<NOUN id="n16" start="2290" end="2298" text="approval" comment="" />
+<NOUN id="n17" start="2301" end="2306" text="which" comment="" />
+<NOUN id="n18" start="2430" end="2437" text="respite" comment="" />
+<NOUN id="n19" start="2601" end="2613" text="modification" comment="" />
+<NOUN id="n20" start="2952" end="2963" text="congressmen" comment="" />
+<NOUN id="n21" start="3003" end="3009" text="trades" comment="" />
+<NOUN id="n22" start="3181" end="3187" text="trades" comment="" />
+<NOUN id="n23" start="3276" end="3283" text="concern" comment="" />
+<NOUN id="n24" start="3333" end="3340" text="finance" comment="" />
+<NOUN id="n25" start="3424" end="3432" text="proposal" comment="" />
+<NOUN id="n26" start="3633" end="3636" text="SEC" comment="" />
+<NOUN id="n27" start="3641" end="3646" text="power" comment="" />
+<NOUN id="n28" start="3663" end="3671" text="programs" comment="" />
+<NOUN id="n29" start="3787" end="3795" text="breakers" comment="" />
+<NOUN id="n30" start="3821" end="3827" text="points" comment="" />
+<NOUN id="n31" start="3865" end="3870" text="power" comment="" />
+<NOUN id="n32" start="3879" end="3887" text="programs" comment="" />
+<NOUN id="n33" start="4113" end="4121" text="chairman" comment="" />
+<NOUN id="n34" start="4185" end="4189" text="what" comment="" />
+<NOUN id="n35" start="4279" end="4283" text="this" comment="" />
+<NOUN id="n36" start="4325" end="4336" text="information" comment="" />
+<NOUN id="n37" start="4441" end="4447" text="report" comment="" />
+<NOUN id="n38" start="4541" end="4547" text="Phelan" comment="" />
+<NOUN id="n39" start="4548" end="4552" text="what" comment="" />
+<NOUN id="n40" start="4687" end="4692" text="issue" comment="" />
+<NOUN id="n41" start="4723" end="4729" text="Markey" comment="" />
+<NOUN id="n42" start="4933" end="4940" text="hearing" comment="" />
+<NOUN id="n43" start="5096" end="5107" text="legislation" comment="" />
+<NOUN id="n44" start="5150" end="5157" text="concern" comment="" />
+<NOUN id="n45" start="5227" end="5234" text="trading" comment="" />
+<NOUN id="n46" start="5248" end="5255" text="futures" comment="" />
+<NOUN id="n47" start="5272" end="5278" text="trades" comment="" />
+<NOUN id="n48" start="5294" end="5302" text="industry" comment="" />
+<QLINK id="q0" fromID="s0" fromText="institute" toID="n0" toText="breaker" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="stemming" toID="n1" toText="slides" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="told" toID="n2" toText="meeting" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="support" toID="n3" toText="Securities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="reinstating" toID="n4" toText="collar" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="take" toID="n5" toText="effect" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="triggered" toID="n6" toText="limit" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s7" fromText="execute" toID="n7" toText="trades" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="needed" toID="n8" toText="breaker" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="hitting" toID="n9" toText="limit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="triggered" toID="n10" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q11" fromID="s11" fromText="lessen" toID="n11" toText="panic" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="knocked" toID="n12" toText="contract" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="needed" toID="n13" toText="limit" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q14" fromID="s14" fromText="aggravated" toID="n14" toText="slide" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="directing" toID="n15" toText="pressure" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="require" toID="n16" toText="approval" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="expected" toID="n17" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q18" fromID="s18" fromText="provides" toID="n18" toText="respite" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="made" toID="n19" toText="modification" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q20" fromID="s20" fromText="told" toID="n20" toText="congressmen" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="banned" toID="n21" toText="trades" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="executing" toID="n22" toText="trades" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="expressed" toID="n23" toText="concern" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="told" toID="n24" toText="finance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="support" toID="n25" toText="proposal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="grant" toID="n26" toText="SEC" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q27" fromID="s26" fromText="grant" toID="n27" toText="power" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="shut" toID="n28" toText="programs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s28" fromText="consider" toID="n29" toText="breakers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s29" fromText="have" toID="n30" toText="points" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="want" toID="n31" toText="power" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s31" fromText="stop" toID="n32" toText="programs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s32" fromText="angered" toID="n33" toText="chairman" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s33" fromText="reported" toID="n34" toText="what" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q35" fromID="s34" fromText="done" toID="n35" toText="this" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s35" fromText="disclosed" toID="n36" toText="information" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q37" fromID="s36" fromText="writing" toID="n37" toText="report" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s37" fromText="asked" toID="n38" toText="Phelan" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s38" fromText="discussed" toID="n39" toText="what" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q40" fromID="s39" fromText="study" toID="n40" toText="issue" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q41" fromID="s40" fromText="annoyed" toID="n41" toText="Markey" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s41" fromText="attended" toID="n42" toText="hearing" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s42" fromText="carry" toID="n43" toText="legislation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q44" fromID="s43" fromText="expressed" toID="n44" toText="concern" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q45" fromID="s44" fromText="regulating" toID="n45" toText="trading" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q46" fromID="s45" fromText="uses" toID="n46" toText="futures" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q47" fromID="s46" fromText="offset" toID="n47" toText="trades" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q48" fromID="s47" fromText="regulated" toID="n48" toText="industry" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

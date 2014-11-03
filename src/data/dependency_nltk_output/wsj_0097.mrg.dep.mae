@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Program traders are fond of predicting that if they are blocked in the U.S. , they will simply emigrate to foreign stock markets . 
+But in London and Tokyo , where computer-driven trading now plays a small but growing role , traders say a number of hurdles loom . 
+Government officials , especially in Japan , probably would resist any onslaught of program trading by players trying to shrug off the U.S. furor over their activities and marching abroad with their business . 
+Japan is `` very concerned '' about the possible effects of program trading , a senior Japanese official said after the Oct. 13 stock plunge in New York . 
+U.S. stock-index futures are n't even traded in Japan now . 
+And because of the time difference , the Japanese and the U.S. markets ' trading hours do n't overlap . 
+It all adds up to a barrier to American-style index arbitrage , the most popular form of U.S. program trading that seeks to exploit brief differences between prices of stocks in New York and the price of a futures contract in Chicago based on those stocks . 
+About 11.6 % of all program trading by New York Stock Exchange firms in September took place in foreign markets , according to Big Board data . 
+Yet it is difficult to imagine Japan racing to introduce Chicago-style stock-index futures . 
+Japan 's Finance Ministry already is scrutinizing institutional investors ' activity to see whether policy changes are needed to cope with the current level of program trading , said Makato Utsumi , vice minister for international finance . 
+Program trading has taken off in Japan since last year 's introduction of home-market stock-index futures trading on the Tokyo and Osaka stock exchanges . 
+But regulators are wary . 
+They have n't forgotten the leap in share prices last Dec. 7 , when the first bout of foreign-led index arbitrage drove stocks skyward in the last half-hour of trading , startling regulators who thought they had written enough rules to prevent such a swing . 
+Japan 's Finance Ministry had set up mechanisms to limit how far futures prices could fall in a single session and to give market operators the authority to suspend trading in futures at any time . 
+`` Maybe it was n't enough , '' a Finance Ministry official noted after the Dec. 7 surge . 
+Japan 's regulators have since tightened controls on index-related stock purchases . 
+Tokyo 's leading program traders are the big U.S. securities houses , though the Japanese are playing catch-up . 
+Some U.S. firms , notably Salomon Inc. and Morgan Stanley Group Inc. , have reaped a hefty chunk of their Japanese earnings from index arbitrage , both for customers and for their own accounts . 
+( Morgan Stanley last week joined a growing list of U.S. securities firms that have stopped doing index arbitrage for their own accounts . ) 
+Both Deryck C. Maughan , who heads Salomon in Tokyo , and John S. Wadsworth , who heads Morgan Stanley there , ascribe a good part of their firms ' success in Tokyo to their ability to offer sophisticated , futures-related investment strategies to big institutional clients . 
+They do n't have plans to cut back . 
+`` It has not been disruptive in the markets here , '' Mr. Maughan said . 
+`` The real difference seems to be that the cash market here ... is big enough and liquid enough that the futures market is n't having the same impact it does in America . '' 
+The British also are scrutinizing program trades . 
+Index-arbitrage trading is `` something we want to watch closely , '' an official at London 's Stock Exchange said . 
+`` We do n't think there is cause for concern at the moment . '' 
+London serves increasingly as a conduit for program trading of U.S. stocks . 
+Market professionals said London has several attractions . 
+First , the trading is done over the counter and is n't reported on either the U.S. or London stock trading tapes . 
+Second , it can be used to unwind positions before U.S. trading begins , but at prices pegged to the previous session 's Big Board close . 
+In addition to the extra privacy of these trades , the transactions can often be less expensive to execute , because the parties do n't have to pay a floor brokerage fee or a specialist 's fee . 
+Still , `` Much less { index-arbitrage activity } is done over here than in the U.S. '' said Richard Barfield , chief investment manager at Standard Life Assurance Co. , which manages about # 15 billion ( $ 23.72 billion ) in United Kingdom institutional funds . 
+Britain has two main index-arbitrage instruments . 
+A Financial Times-Stock Exchange 100-share index option contract is traded on the London Stock Exchange 's Traded Options Market . 
+And an FT-SE futures contract is traded on the London International Financial Futures Exchange . 
+Both contracts have gained a following since the 1987 global market crash . 
+The average number of FT-SE option contracts traded on the London exchange has surged nearly tenfold since the contract 's launch in 1984 . 
+This year , the average of daily contracts traded totaled 9,118 , up from 4,645 a year earlier and from 917 in 1984 . 
+But a survey early this summer indicated that the volume of index-options trading was only 15 % of the size of the underlying equity market , exchange officials said . 
+This compares with estimates that the U.S. `` derivatives '' market is perhaps four times as large as the underlying domestic market . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="57" end="64" text="blocked" comment="" pos="VBN" />
+<SELECTOR id="s1" start="193" end="198" text="plays" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="326" end="332" text="resist" comment="" pos="VB" />
+<SELECTOR id="s3" start="387" end="392" text="shrug" comment="" pos="VB" />
+<SELECTOR id="s4" start="671" end="677" text="traded" comment="" pos="VBN" />
+<SELECTOR id="s5" start="1140" end="1144" text="took" comment="" pos="VBD" />
+<SELECTOR id="s6" start="1250" end="1259" text="introduce" comment="" pos="VB" />
+<SELECTOR id="s7" start="1334" end="1346" text="scrutinizing" comment="" pos="VBG" />
+<SELECTOR id="s8" start="1416" end="1422" text="needed" comment="" pos="VBN" />
+<SELECTOR id="s9" start="1736" end="1745" text="forgotten" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1836" end="1841" text="drove" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1892" end="1901" text="startling" comment="" pos="JJ" />
+<SELECTOR id="s12" start="1934" end="1941" text="written" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1958" end="1965" text="prevent" comment="" pos="VB" />
+<SELECTOR id="s14" start="2012" end="2015" text="set" comment="" pos="VBN" />
+<SELECTOR id="s15" start="2100" end="2104" text="give" comment="" pos="VB" />
+<SELECTOR id="s16" start="2139" end="2146" text="suspend" comment="" pos="VB" />
+<SELECTOR id="s17" start="2304" end="2313" text="tightened" comment="" pos="VBN" />
+<SELECTOR id="s18" start="2453" end="2460" text="playing" comment="" pos="VBG" />
+<SELECTOR id="s19" start="2549" end="2555" text="reaped" comment="" pos="VBN" />
+<SELECTOR id="s20" start="2696" end="2702" text="joined" comment="" pos="VBD" />
+<SELECTOR id="s21" start="2761" end="2766" text="doing" comment="" pos="VBG" />
+<SELECTOR id="s22" start="2840" end="2845" text="heads" comment="" pos="VBZ" />
+<SELECTOR id="s23" start="2893" end="2898" text="heads" comment="" pos="VBZ" />
+<SELECTOR id="s24" start="2922" end="2929" text="ascribe" comment="" pos="VBP" />
+<SELECTOR id="s25" start="2996" end="3001" text="offer" comment="" pos="VB" />
+<SELECTOR id="s26" start="3100" end="3104" text="have" comment="" pos="VB" />
+<SELECTOR id="s27" start="3329" end="3335" text="having" comment="" pos="VBG" />
+<SELECTOR id="s28" start="3398" end="3410" text="scrutinizing" comment="" pos="VBG" />
+<SELECTOR id="s29" start="3480" end="3485" text="watch" comment="" pos="VB" />
+<SELECTOR id="s30" start="3724" end="3727" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s31" start="3774" end="3778" text="done" comment="" pos="VBN" />
+<SELECTOR id="s32" start="3887" end="3891" text="used" comment="" pos="VBN" />
+<SELECTOR id="s33" start="3895" end="3901" text="unwind" comment="" pos="VB" />
+<SELECTOR id="s34" start="4152" end="4155" text="pay" comment="" pos="VB" />
+<SELECTOR id="s35" start="4257" end="4261" text="done" comment="" pos="VBN" />
+<SELECTOR id="s36" start="4380" end="4387" text="manages" comment="" pos="VBZ" />
+<SELECTOR id="s37" start="4476" end="4479" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s38" start="4588" end="4594" text="traded" comment="" pos="VBN" />
+<SELECTOR id="s39" start="4685" end="4691" text="traded" comment="" pos="VBN" />
+<SELECTOR id="s40" start="4770" end="4776" text="gained" comment="" pos="VBN" />
+<SELECTOR id="s41" start="5018" end="5025" text="totaled" comment="" pos="VBD" />
+<NOUN id="n0" start="48" end="52" text="they" comment="" />
+<NOUN id="n1" start="219" end="223" text="role" comment="" />
+<NOUN id="n2" start="337" end="346" text="onslaught" comment="" />
+<NOUN id="n3" start="406" end="411" text="furor" comment="" />
+<NOUN id="n4" start="650" end="657" text="futures" comment="" />
+<NOUN id="n5" start="1145" end="1150" text="place" comment="" />
+<NOUN id="n6" start="1286" end="1293" text="futures" comment="" />
+<NOUN id="n7" start="1373" end="1381" text="activity" comment="" />
+<NOUN id="n8" start="1404" end="1411" text="changes" comment="" />
+<NOUN id="n9" start="1750" end="1754" text="leap" comment="" />
+<NOUN id="n10" start="1842" end="1848" text="stocks" comment="" />
+<NOUN id="n11" start="1902" end="1912" text="regulators" comment="" />
+<NOUN id="n12" start="1949" end="1954" text="rules" comment="" />
+<NOUN id="n13" start="1973" end="1978" text="swing" comment="" />
+<NOUN id="n14" start="2019" end="2029" text="mechanisms" comment="" />
+<NOUN id="n15" start="2112" end="2121" text="operators" comment="" />
+<NOUN id="n16" start="2126" end="2135" text="authority" comment="" />
+<NOUN id="n17" start="2147" end="2154" text="trading" comment="" />
+<NOUN id="n18" start="2314" end="2322" text="controls" comment="" />
+<NOUN id="n19" start="2461" end="2469" text="catch-up" comment="" />
+<NOUN id="n20" start="2564" end="2569" text="chunk" comment="" />
+<NOUN id="n21" start="2713" end="2717" text="list" comment="" />
+<NOUN id="n22" start="2773" end="2782" text="arbitrage" comment="" />
+<NOUN id="n23" start="2846" end="2853" text="Salomon" comment="" />
+<NOUN id="n24" start="2906" end="2913" text="Stanley" comment="" />
+<NOUN id="n25" start="2937" end="2941" text="part" comment="" />
+<NOUN id="n26" start="3045" end="3055" text="strategies" comment="" />
+<NOUN id="n27" start="3105" end="3110" text="plans" comment="" />
+<NOUN id="n28" start="3345" end="3351" text="impact" comment="" />
+<NOUN id="n29" start="3419" end="3425" text="trades" comment="" />
+<NOUN id="n30" start="3469" end="3471" text="we" comment="" />
+<NOUN id="n31" start="3736" end="3747" text="attractions" comment="" />
+<NOUN id="n32" start="3763" end="3770" text="trading" comment="" />
+<NOUN id="n33" start="3877" end="3879" text="it" comment="" />
+<NOUN id="n34" start="3902" end="3911" text="positions" comment="" />
+<NOUN id="n35" start="4174" end="4177" text="fee" comment="" />
+<NOUN id="n36" start="4243" end="4251" text="activity" comment="" />
+<NOUN id="n37" start="4399" end="4406" text="billion" comment="" />
+<NOUN id="n38" start="4505" end="4516" text="instruments" comment="" />
+<NOUN id="n39" start="4576" end="4584" text="contract" comment="" />
+<NOUN id="n40" start="4673" end="4681" text="contract" comment="" />
+<NOUN id="n41" start="4779" end="4788" text="following" comment="" />
+<NOUN id="n42" start="5026" end="5031" text="9,118" comment="" />
+<QLINK id="q0" fromID="s0" fromText="blocked" toID="n0" toText="they" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q1" fromID="s1" fromText="plays" toID="n1" toText="role" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="resist" toID="n2" toText="onslaught" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="shrug" toID="n3" toText="furor" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="traded" toID="n4" toText="futures" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q5" fromID="s5" fromText="took" toID="n5" toText="place" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="introduce" toID="n6" toText="futures" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="scrutinizing" toID="n7" toText="activity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="needed" toID="n8" toText="changes" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q9" fromID="s9" fromText="forgotten" toID="n9" toText="leap" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="drove" toID="n10" toText="stocks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="startling" toID="n11" toText="regulators" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="written" toID="n12" toText="rules" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="prevent" toID="n13" toText="swing" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="set" toID="n14" toText="mechanisms" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="give" toID="n15" toText="operators" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q16" fromID="s15" fromText="give" toID="n16" toText="authority" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="suspend" toID="n17" toText="trading" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="tightened" toID="n18" toText="controls" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="playing" toID="n19" toText="catch-up" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="reaped" toID="n20" toText="chunk" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="joined" toID="n21" toText="list" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="doing" toID="n22" toText="arbitrage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="heads" toID="n23" toText="Salomon" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="heads" toID="n24" toText="Stanley" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="ascribe" toID="n25" toText="part" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s25" fromText="offer" toID="n26" toText="strategies" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s26" fromText="have" toID="n27" toText="plans" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="having" toID="n28" toText="impact" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s28" fromText="scrutinizing" toID="n29" toText="trades" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s29" fromText="watch" toID="n30" toText="we" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="has" toID="n31" toText="attractions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s31" fromText="done" toID="n32" toText="trading" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q33" fromID="s32" fromText="used" toID="n33" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q34" fromID="s33" fromText="unwind" toID="n34" toText="positions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s34" fromText="pay" toID="n35" toText="fee" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s35" fromText="done" toID="n36" toText="activity" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q37" fromID="s36" fromText="manages" toID="n37" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s37" fromText="has" toID="n38" toText="instruments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s38" fromText="traded" toID="n39" toText="contract" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q40" fromID="s39" fromText="traded" toID="n40" toText="contract" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q41" fromID="s40" fromText="gained" toID="n41" toText="following" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s41" fromText="totaled" toID="n42" toText="9,118" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Signs of a slowing economy are increasing pressure on the Federal Reserve to cut short-term interest rates , but it is n't clear whether the central bank will do so . 
+A survey by the Fed 's 12 district banks shows economic growth has been sluggish in recent weeks , while upward pressures on prices have moderated . 
+`` The economy is clearly slowing , '' says Robert Black , president of the Richmond Federal Reserve Bank . 
+`` If you look at the third quarter as posting roughly 2.5 % growth , I do see some slowing in the fourth quarter , '' agrees Kansas City Fed President Roger Guffey . 
+Nevertheless , both Mr. Guffey and Mr. Black say the slowdown so far is no cause for concern . 
+`` We 're coming closer to achieving the stated objective of slowing the economy to a point where hopefully some downward trend in prices will occur , '' said Mr. Guffey . 
+Bush administration officials are looking to the Fed to bring down rates , and financial markets seem to be expecting easier credit as well . 
+`` I think the market had been expecting the Fed to ease sooner and a little more than it has to date , '' said Robert Johnson , vice president of global markets for Bankers Trust Co . 
+The Fed cut the key federal funds interest rate by about 0.25 percentage point to 8.75 % after the Oct. 13 stock market plunge , but has shown no sign of movement since . 
+The report from the Fed found that manufacturing , in particular , has been weak in recent weeks . 
+The Philadelphia Fed , for instance , reported that manufacturing activity `` continues to decline '' for the fourth month in a row . 
+And in the Chicago district , the report said , `` a manufacturer of capital goods noted slower orders for some types , including defense equipment , petroleum equipment , food packaging machinery and material handling equipment . '' 
+Retail sales also were reported slow in most districts , particularly `` for discretionary , big-ticket items such as furniture , home appliances and consumer electronics . '' 
+And construction also was described as slow in most areas . 
+Despite the economic slowdown , there are few clear signs that growth is coming to a halt . 
+As a result , Fed officials may be divided over whether to ease credit . 
+Several Fed governors in Washington have been pushing for easier credit ; but many of the regional Fed presidents have been resisting such a move . 
+Mr. Black said he is `` pleased '' with the economy 's recent performance , and does n't see `` a lot of excesses out there that would tilt us into recession . '' 
+`` There is always a chance of recession , '' added Mr. Guffey , `` but if you ask me to put a percentage on it , I would think it 's well below a 50 % chance . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="32" end="42" text="increasing" comment="" pos="VBG" />
+<SELECTOR id="s1" start="78" end="81" text="cut" comment="" pos="VB" />
+<SELECTOR id="s2" start="467" end="474" text="posting" comment="" pos="VBG" />
+<SELECTOR id="s3" start="503" end="506" text="see" comment="" pos="VB" />
+<SELECTOR id="s4" start="719" end="728" text="achieving" comment="" pos="VBG" />
+<SELECTOR id="s5" start="753" end="760" text="slowing" comment="" pos="VBG" />
+<SELECTOR id="s6" start="921" end="926" text="bring" comment="" pos="VB" />
+<SELECTOR id="s7" start="973" end="982" text="expecting" comment="" pos="VBG" />
+<SELECTOR id="s8" start="1202" end="1205" text="cut" comment="" pos="VBD" />
+<SELECTOR id="s9" start="1331" end="1336" text="shown" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1684" end="1689" text="noted" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1859" end="1867" text="reported" comment="" pos="VBN" />
+<SELECTOR id="s12" start="2039" end="2048" text="described" comment="" pos="VBN" />
+<SELECTOR id="s13" start="2202" end="2209" text="divided" comment="" pos="VBN" />
+<SELECTOR id="s14" start="2226" end="2230" text="ease" comment="" pos="VB" />
+<SELECTOR id="s15" start="2365" end="2374" text="resisting" comment="" pos="VBG" />
+<SELECTOR id="s16" start="2479" end="2482" text="see" comment="" pos="VB" />
+<SELECTOR id="s17" start="2525" end="2529" text="tilt" comment="" pos="VB" />
+<SELECTOR id="s18" start="2633" end="2636" text="ask" comment="" pos="VBP" />
+<SELECTOR id="s19" start="2643" end="2646" text="put" comment="" pos="VB" />
+<NOUN id="n0" start="43" end="51" text="pressure" comment="" />
+<NOUN id="n1" start="102" end="107" text="rates" comment="" />
+<NOUN id="n2" start="489" end="495" text="growth" comment="" />
+<NOUN id="n3" start="512" end="519" text="slowing" comment="" />
+<NOUN id="n4" start="740" end="749" text="objective" comment="" />
+<NOUN id="n5" start="765" end="772" text="economy" comment="" />
+<NOUN id="n6" start="932" end="937" text="rates" comment="" />
+<NOUN id="n7" start="990" end="996" text="credit" comment="" />
+<NOUN id="n8" start="1237" end="1241" text="rate" comment="" />
+<NOUN id="n9" start="1340" end="1344" text="sign" comment="" />
+<NOUN id="n10" start="1697" end="1703" text="orders" comment="" />
+<NOUN id="n11" start="1843" end="1848" text="sales" comment="" />
+<NOUN id="n12" start="2017" end="2029" text="construction" comment="" />
+<NOUN id="n13" start="2185" end="2194" text="officials" comment="" />
+<NOUN id="n14" start="2231" end="2237" text="credit" comment="" />
+<NOUN id="n15" start="2382" end="2386" text="move" comment="" />
+<NOUN id="n16" start="2488" end="2491" text="lot" comment="" />
+<NOUN id="n17" start="2530" end="2532" text="us" comment="" />
+<NOUN id="n18" start="2637" end="2639" text="me" comment="" />
+<NOUN id="n19" start="2649" end="2659" text="percentage" comment="" />
+<QLINK id="q0" fromID="s0" fromText="increasing" toID="n0" toText="pressure" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="cut" toID="n1" toText="rates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="posting" toID="n2" toText="growth" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="see" toID="n3" toText="slowing" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="achieving" toID="n4" toText="objective" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="slowing" toID="n5" toText="economy" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="bring" toID="n6" toText="rates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="expecting" toID="n7" toText="credit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="cut" toID="n8" toText="rate" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="shown" toID="n9" toText="sign" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="noted" toID="n10" toText="orders" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="reported" toID="n11" toText="sales" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q12" fromID="s12" fromText="described" toID="n12" toText="construction" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s13" fromText="divided" toID="n13" toText="officials" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q14" fromID="s14" fromText="ease" toID="n14" toText="credit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="resisting" toID="n15" toText="move" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="see" toID="n16" toText="lot" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="tilt" toID="n17" toText="us" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="ask" toID="n18" toText="me" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="put" toID="n19" toText="percentage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

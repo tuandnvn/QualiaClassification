@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Yields on money-market mutual funds continued to slide , amid signs that portfolio managers expect further declines in interest rates . 
+The average seven-day compound yield of the 400 taxable funds tracked by IBC 's Money Fund Report eased a fraction of a percentage point to 8.45 % from 8.47 % for the week ended Tuesday . 
+Compound yields assume reinvestment of dividends and that the current yield continues for a year . 
+Average maturity of the funds ' investments lengthened by a day to 41 days , the longest since early August , according to Donoghue 's . 
+Longer maturities are thought to indicate declining interest rates because they permit portfolio managers to retain relatively higher rates for a longer period . 
+Shorter maturities are considered a sign of rising rates because portfolio managers can capture higher rates sooner . 
+The average maturity for funds open only to institutions , considered by some to be a stronger indicator because those managers watch the market closely , reached a high point for the year -- 33 days . 
+Nevertheless , said Brenda Malizia Negus , editor of Money Fund Report , yields `` may blip up again before they blip down '' because of recent rises in short-term interest rates . 
+The yield on six-month Treasury bills sold at Monday 's auction , for example , rose to 8.04 % from 7.90 % . 
+Despite recent declines in yields , investors continue to pour cash into money funds . 
+Assets of the 400 taxable funds grew by $ 1.5 billion during the latest week , to $ 352.7 billion . 
+Typically , money-fund yields beat comparable short-term investments because portfolio managers can vary maturities and go after the highest rates . 
+The top money funds are currently yielding well over 9 % . 
+Dreyfus World-Wide Dollar , the top-yielding fund , had a seven-day compound yield of 9.37 % during the latest week , down from 9.45 % a week earlier . 
+It invests heavily in dollar-denominated securities overseas and is currently waiving management fees , which boosts its yield . 
+The average seven-day simple yield of the 400 funds was 8.12 % , down from 8.14 % . 
+The 30-day simple yield fell to an average 8.19 % from 8.22 % ; the 30-day compound yield slid to an average 8.53 % from 8.56 % . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="93" end="99" text="expect" comment="" pos="VBP" />
+<SELECTOR id="s1" start="343" end="349" text="assume" comment="" pos="VBP" />
+<SELECTOR id="s2" start="587" end="594" text="thought" comment="" pos="VBN" />
+<SELECTOR id="s3" start="598" end="606" text="indicate" comment="" pos="VB" />
+<SELECTOR id="s4" start="674" end="680" text="retain" comment="" pos="VB" />
+<SELECTOR id="s5" start="751" end="761" text="considered" comment="" pos="VBN" />
+<SELECTOR id="s6" start="816" end="823" text="capture" comment="" pos="VB" />
+<SELECTOR id="s7" start="975" end="980" text="watch" comment="" pos="VBP" />
+<SELECTOR id="s8" start="1002" end="1009" text="reached" comment="" pos="VBD" />
+<SELECTOR id="s9" start="1400" end="1404" text="pour" comment="" pos="VB" />
+<SELECTOR id="s10" start="1561" end="1565" text="beat" comment="" pos="VBP" />
+<SELECTOR id="s11" start="1631" end="1635" text="vary" comment="" pos="VB" />
+<SELECTOR id="s12" start="1715" end="1723" text="yielding" comment="" pos="VBG" />
+<SELECTOR id="s13" start="1793" end="1796" text="had" comment="" pos="VBD" />
+<SELECTOR id="s14" start="1972" end="1979" text="waiving" comment="" pos="VBG" />
+<SELECTOR id="s15" start="2004" end="2010" text="boosts" comment="" pos="VBZ" />
+<NOUN id="n0" start="108" end="116" text="declines" comment="" />
+<NOUN id="n1" start="350" end="362" text="reinvestment" comment="" />
+<NOUN id="n2" start="572" end="582" text="maturities" comment="" />
+<NOUN id="n3" start="626" end="631" text="rates" comment="" />
+<NOUN id="n4" start="699" end="704" text="rates" comment="" />
+<NOUN id="n5" start="736" end="746" text="maturities" comment="" />
+<NOUN id="n6" start="831" end="836" text="rates" comment="" />
+<NOUN id="n7" start="985" end="991" text="market" comment="" />
+<NOUN id="n8" start="1017" end="1022" text="point" comment="" />
+<NOUN id="n9" start="1405" end="1409" text="cash" comment="" />
+<NOUN id="n10" start="1588" end="1599" text="investments" comment="" />
+<NOUN id="n11" start="1636" end="1646" text="maturities" comment="" />
+<NOUN id="n12" start="1736" end="1737" text="%" comment="" />
+<NOUN id="n13" start="1818" end="1823" text="yield" comment="" />
+<NOUN id="n14" start="1991" end="1995" text="fees" comment="" />
+<NOUN id="n15" start="2015" end="2020" text="yield" comment="" />
+<QLINK id="q0" fromID="s0" fromText="expect" toID="n0" toText="declines" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="assume" toID="n1" toText="reinvestment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="thought" toID="n2" toText="maturities" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="indicate" toID="n3" toText="rates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="retain" toID="n4" toText="rates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="considered" toID="n5" toText="maturities" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="capture" toID="n6" toText="rates" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="watch" toID="n7" toText="market" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="reached" toID="n8" toText="point" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="pour" toID="n9" toText="cash" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="beat" toID="n10" toText="investments" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="vary" toID="n11" toText="maturities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="yielding" toID="n12" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="had" toID="n13" toText="yield" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="waiving" toID="n14" toText="fees" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="boosts" toID="n15" toText="yield" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

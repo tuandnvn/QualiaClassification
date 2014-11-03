@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Argentina said it will ask creditor banks to halve its foreign debt of $ 64 billion -- the third-highest in the developing world . 
+The declaration by Economy Minister Nestor Rapanelli is believed to be the first time such an action has been called for by an Argentine official of such stature . 
+The Latin American nation has paid very little on its debt since early last year . 
+`` Argentina aspires to reach a reduction of 50 % in the value of its external debt , '' Mr. Rapanelli said through his spokesman , Miguel Alurralde . 
+Mr. Rapanelli met in August with U.S. Assistant Treasury Secretary David Mulford . 
+Argentine negotiator Carlos Carballo was in Washington and New York this week to meet with banks . 
+Mr. Rapanelli recently has said the government of President Carlos Menem , who took office July 8 , feels a significant reduction of principal and interest is the only way the debt problem may be solved . 
+But he has not said before that the country wants half the debt forgiven . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="24" end="27" text="ask" comment="" pos="VB" />
+<SELECTOR id="s1" start="46" end="51" text="halve" comment="" pos="VB" />
+<SELECTOR id="s2" start="189" end="197" text="believed" comment="" pos="VBN" />
+<SELECTOR id="s3" start="243" end="249" text="called" comment="" pos="VBN" />
+<SELECTOR id="s4" start="328" end="332" text="paid" comment="" pos="VBN" />
+<SELECTOR id="s5" start="406" end="411" text="reach" comment="" pos="VB" />
+<SELECTOR id="s6" start="797" end="801" text="took" comment="" pos="VBD" />
+<SELECTOR id="s7" start="914" end="920" text="solved" comment="" pos="VBN" />
+<NOUN id="n0" start="37" end="42" text="banks" comment="" />
+<NOUN id="n1" start="64" end="68" text="debt" comment="" />
+<NOUN id="n2" start="137" end="148" text="declaration" comment="" />
+<NOUN id="n3" start="227" end="233" text="action" comment="" />
+<NOUN id="n4" start="338" end="344" text="little" comment="" />
+<NOUN id="n5" start="414" end="423" text="reduction" comment="" />
+<NOUN id="n6" start="802" end="808" text="office" comment="" />
+<NOUN id="n7" start="899" end="906" text="problem" comment="" />
+<QLINK id="q0" fromID="s0" fromText="ask" toID="n0" toText="banks" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="halve" toID="n1" toText="debt" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="believed" toID="n2" toText="declaration" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="called" toID="n3" toText="action" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q4" fromID="s4" fromText="paid" toID="n4" toText="little" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="reach" toID="n5" toText="reduction" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="took" toID="n6" toText="office" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="solved" toID="n7" toText="problem" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+</TAGS>
+</PartML>

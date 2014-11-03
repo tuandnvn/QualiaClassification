@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+June 10 , 1997 
+Name Address City , ST Zip 
+Dear Mrs. Name , 
+Confidence . 
+An understanding that , above anything else , success requires genuine effort , a willingness to set challenging goals . 
+Caring about others . 
+These are the attributes we want all children to have . 
+You help Jameson campers reach for them . 
+If these special children are to become the adults we all need them to be , we have to lead them in the right direction right now . 
+Jameson points the way for children who need that extra hand and I hope you 'll continue your support this year . 
+Your last gift of $ 50.00 helped make it possible for us to provide guidance , encouragement and fun to nearly 400 Indianapolis area children . 
+And not just during the summer , but throughout the year . 
+What has your support of our campers meant to them and what have they been able to accomplish because you care ? 
+The best indicator I can give you of the positive effect our year-round contact has is the growth in and deeds of the Youth Leadership teens . 
+In just the past few years this program has grown from a few kids and a few extra activities to a team of almost 60 young adults taking on real projects . 
+YL teens will make J.C. juniors happen again this year for 7 and 8 year old campers . 
+A five day camp , J.C. juniors introduces at-risk children to Jameson two years earlier than we could previously reach them . 
+That means we now have the opportunity to be a stable , positive and important part of each child 's life for an entire decade . 
+The teens have also decided to raise money to provide camperships for other campers because they know what Jameson has meant to them . 
+And their activities are n't isolated to Jameson . 
+The teens have undertaken a volunteer project to regularly visit with sick children at a local hospital . 
+Please consider renewing your gift today . 
+The kids need your leadership now more than ever . 
+If you can increase your last donation , we would appreciate that show of support for the campers and their efforts to overcome obstacles and create successful lives . 
+Thank you again for helping point the way . 
+Sincerely , Julie Marsh , Executive Director 
+P.S. 
+You make it possible for us to help special kids with learning disabilities , behavior problems and economic disadvantages to gain the confidence required to put genuine effort into achieving real goals . 
+I hope you 'll continue -- and if possible increase -- your support for these great kids . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="131" end="139" text="requires" comment="" pos="VBZ" />
+<SELECTOR id="s1" start="174" end="177" text="set" comment="" pos="VB" />
+<SELECTOR id="s2" start="409" end="413" text="lead" comment="" pos="VB" />
+<SELECTOR id="s3" start="495" end="499" text="need" comment="" pos="VBP" />
+<SELECTOR id="s4" start="535" end="543" text="continue" comment="" pos="VB" />
+<SELECTOR id="s5" start="630" end="637" text="provide" comment="" pos="VB" />
+<SELECTOR id="s6" start="812" end="817" text="meant" comment="" pos="VBN" />
+<SELECTOR id="s7" start="858" end="868" text="accomplish" comment="" pos="VB" />
+<SELECTOR id="s8" start="914" end="918" text="give" comment="" pos="VB" />
+<SELECTOR id="s9" start="1162" end="1168" text="taking" comment="" pos="VBG" />
+<SELECTOR id="s10" start="1307" end="1317" text="introduces" comment="" pos="VBZ" />
+<SELECTOR id="s11" start="1389" end="1394" text="reach" comment="" pos="VB" />
+<SELECTOR id="s12" start="1421" end="1425" text="have" comment="" pos="VBP" />
+<SELECTOR id="s13" start="1564" end="1569" text="raise" comment="" pos="VB" />
+<SELECTOR id="s14" start="1579" end="1586" text="provide" comment="" pos="VB" />
+<SELECTOR id="s15" start="1652" end="1657" text="meant" comment="" pos="VBN" />
+<SELECTOR id="s16" start="1736" end="1746" text="undertaken" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1844" end="1852" text="renewing" comment="" pos="VBG" />
+<SELECTOR id="s18" start="1881" end="1885" text="need" comment="" pos="VBP" />
+<SELECTOR id="s19" start="1935" end="1943" text="increase" comment="" pos="VB" />
+<SELECTOR id="s20" start="1974" end="1984" text="appreciate" comment="" pos="VB" />
+<SELECTOR id="s21" start="2043" end="2051" text="overcome" comment="" pos="VB" />
+<SELECTOR id="s22" start="2066" end="2072" text="create" comment="" pos="VB" />
+<SELECTOR id="s23" start="2093" end="2098" text="Thank" comment="" pos="VBP" />
+<SELECTOR id="s24" start="2121" end="2126" text="point" comment="" pos="VB" />
+<SELECTOR id="s25" start="2316" end="2320" text="gain" comment="" pos="VB" />
+<SELECTOR id="s26" start="2348" end="2351" text="put" comment="" pos="VB" />
+<SELECTOR id="s27" start="2372" end="2381" text="achieving" comment="" pos="VBG" />
+<SELECTOR id="s28" start="2439" end="2447" text="increase" comment="" pos="VB" />
+<NOUN id="n0" start="148" end="154" text="effort" comment="" />
+<NOUN id="n1" start="190" end="195" text="goals" comment="" />
+<NOUN id="n2" start="414" end="418" text="them" comment="" />
+<NOUN id="n3" start="511" end="515" text="hand" comment="" />
+<NOUN id="n4" start="549" end="556" text="support" comment="" />
+<NOUN id="n5" start="638" end="646" text="guidance" comment="" />
+<NOUN id="n6" start="775" end="779" text="What" comment="" />
+<NOUN id="n7" start="830" end="834" text="what" comment="" />
+<NOUN id="n8" start="919" end="922" text="you" comment="" />
+<NOUN id="n9" start="1177" end="1185" text="projects" comment="" />
+<NOUN id="n10" start="1326" end="1334" text="children" comment="" />
+<NOUN id="n11" start="1395" end="1399" text="them" comment="" />
+<NOUN id="n12" start="1430" end="1441" text="opportunity" comment="" />
+<NOUN id="n13" start="1570" end="1575" text="money" comment="" />
+<NOUN id="n14" start="1587" end="1598" text="camperships" comment="" />
+<NOUN id="n15" start="1635" end="1639" text="what" comment="" />
+<NOUN id="n16" start="1759" end="1766" text="project" comment="" />
+<NOUN id="n17" start="1858" end="1862" text="gift" comment="" />
+<NOUN id="n18" start="1891" end="1901" text="leadership" comment="" />
+<NOUN id="n19" start="1954" end="1962" text="donation" comment="" />
+<NOUN id="n20" start="1990" end="1994" text="show" comment="" />
+<NOUN id="n21" start="2052" end="2061" text="obstacles" comment="" />
+<NOUN id="n22" start="2084" end="2089" text="lives" comment="" />
+<NOUN id="n23" start="2099" end="2102" text="you" comment="" />
+<NOUN id="n24" start="2131" end="2134" text="way" comment="" />
+<NOUN id="n25" start="2325" end="2335" text="confidence" comment="" />
+<NOUN id="n26" start="2360" end="2366" text="effort" comment="" />
+<NOUN id="n27" start="2387" end="2392" text="goals" comment="" />
+<NOUN id="n28" start="2456" end="2463" text="support" comment="" />
+<QLINK id="q0" fromID="s0" fromText="requires" toID="n0" toText="effort" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="set" toID="n1" toText="goals" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="lead" toID="n2" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="need" toID="n3" toText="hand" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="continue" toID="n4" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="provide" toID="n5" toText="guidance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="meant" toID="n6" toText="What" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="accomplish" toID="n7" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="give" toID="n8" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="taking" toID="n9" toText="projects" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="introduces" toID="n10" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="reach" toID="n11" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="have" toID="n12" toText="opportunity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="raise" toID="n13" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="provide" toID="n14" toText="camperships" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="meant" toID="n15" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="undertaken" toID="n16" toText="project" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="renewing" toID="n17" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="need" toID="n18" toText="leadership" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="increase" toID="n19" toText="donation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="appreciate" toID="n20" toText="show" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="overcome" toID="n21" toText="obstacles" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="create" toID="n22" toText="lives" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s23" fromText="Thank" toID="n23" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s24" fromText="point" toID="n24" toText="way" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s25" fromText="gain" toID="n25" toText="confidence" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s26" fromText="put" toID="n26" toText="effort" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s27" fromText="achieving" toID="n27" toText="goals" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s28" fromText="increase" toID="n28" toText="support" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

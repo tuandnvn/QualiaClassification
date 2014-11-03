@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+Sea Containers Ltd. said it might increase the price of its $ 70-a-share buy-back plan if pressed by Temple Holdings Ltd. , which made an earlier tender offer for Sea Containers . 
+Sea Containers , a Hamilton , Bermuda-based shipping concern , said Tuesday that it would sell $ 1.1 billion of assets and use some of the proceeds to buy about 50 % of its common shares for $ 70 apiece . 
+The move is designed to ward off a hostile takeover attempt by two European shipping concerns , Stena Holding AG and Tiphook PLC . 
+In May , the two companies , through their jointly owned holding company , Temple , offered $ 50 a share , or $ 777 million , for Sea Containers . 
+In August , Temple sweetened the offer to $ 63 a share , or $ 963 million . 
+Yesterday , Sea Containers ' chief executive officer , James Sherwood , said in an interview that , under the asset-sale plan , Sea Containers would end up with a cash surplus of approximately $ 620 million . 
+About $ 490 million of that would be allocated to the buy-back , leaving about $ 130 million , he said . 
+That $ 130 million , Mr. Sherwood said , `` gives us some flexibility in case Temple raises its bid . 
+We are able to increase our price above the $ 70 level if necessary . 
+'' He declined to say , however , how much Sea Containers might raise its price . 
+Mr. Sherwood speculated that the leeway that Sea Containers has means that Temple would have to `` substantially increase their bid if they 're going to top us . '' 
+Temple , however , harshly criticized Sea Containers ' plan yesterday , characterizing it as a `` highly conditional device designed to entrench management , confuse shareholders and prevent them from accepting our superior cash offer . '' 
+A spokesman for Temple estimated that Sea Containers ' plan -- if all the asset sales materialize -- would result in shareholders receiving only $ 36 to $ 45 a share in cash . 
+The lower figures , the spokesman said , would stem from preferred shares being converted to common stock and the possibility that Sea Containers ' subsidiaries might be required to place their shares in the open market . 
+Temple added that Sea Containers is still mired in legal problems in Bermuda , where the Supreme Court has temporarily barred Sea Containers from buying back its own stock in a case brought by Stena and Tiphook . 
+{ The court has indicated it will rule on the case by the end of the month . } 
+Temple also said Sea Containers ' plan raises `` numerous legal , regulatory , financial and fairness issues , '' but did n't elaborate . 
+Mr. Sherwood said reaction to Sea Containers ' proposal has been `` very positive . '' 
+In New York Stock Exchange composite trading yesterday , Sea Containers closed at $ 62.625 , up 62.5 cents . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="35" end="43" text="increase" comment="" pos="VB" />
+<SELECTOR id="s1" start="131" end="135" text="made" comment="" pos="VBD" />
+<SELECTOR id="s2" start="272" end="276" text="sell" comment="" pos="VB" />
+<SELECTOR id="s3" start="305" end="308" text="use" comment="" pos="VB" />
+<SELECTOR id="s4" start="333" end="336" text="buy" comment="" pos="VB" />
+<SELECTOR id="s5" start="400" end="408" text="designed" comment="" pos="VBN" />
+<SELECTOR id="s6" start="412" end="416" text="ward" comment="" pos="VB" />
+<SELECTOR id="s7" start="604" end="611" text="offered" comment="" pos="VBD" />
+<SELECTOR id="s8" start="687" end="696" text="sweetened" comment="" pos="VBD" />
+<SELECTOR id="s9" start="992" end="1001" text="allocated" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1020" end="1027" text="leaving" comment="" pos="VBG" />
+<SELECTOR id="s11" start="1105" end="1110" text="gives" comment="" pos="VBZ" />
+<SELECTOR id="s12" start="1146" end="1152" text="raises" comment="" pos="VBZ" />
+<SELECTOR id="s13" start="1179" end="1187" text="increase" comment="" pos="VB" />
+<SELECTOR id="s14" start="1299" end="1304" text="raise" comment="" pos="VB" />
+<SELECTOR id="s15" start="1378" end="1381" text="has" comment="" pos="VBZ" />
+<SELECTOR id="s16" start="1431" end="1439" text="increase" comment="" pos="VB" />
+<SELECTOR id="s17" start="1471" end="1474" text="top" comment="" pos="VB" />
+<SELECTOR id="s18" start="1511" end="1521" text="criticized" comment="" pos="VBD" />
+<SELECTOR id="s19" start="1556" end="1570" text="characterizing" comment="" pos="VBG" />
+<SELECTOR id="s20" start="1620" end="1628" text="entrench" comment="" pos="VB" />
+<SELECTOR id="s21" start="1642" end="1649" text="confuse" comment="" pos="VB" />
+<SELECTOR id="s22" start="1667" end="1674" text="prevent" comment="" pos="VB" />
+<SELECTOR id="s23" start="1685" end="1694" text="accepting" comment="" pos="VBG" />
+<SELECTOR id="s24" start="1855" end="1864" text="receiving" comment="" pos="VBG" />
+<SELECTOR id="s25" start="1982" end="1991" text="converted" comment="" pos="VBN" />
+<SELECTOR id="s26" start="2072" end="2080" text="required" comment="" pos="VBN" />
+<SELECTOR id="s27" start="2084" end="2089" text="place" comment="" pos="VB" />
+<SELECTOR id="s28" start="2167" end="2172" text="mired" comment="" pos="VBN" />
+<SELECTOR id="s29" start="2244" end="2250" text="barred" comment="" pos="VBN" />
+<SELECTOR id="s30" start="2271" end="2277" text="buying" comment="" pos="VBG" />
+<SELECTOR id="s31" start="2458" end="2464" text="raises" comment="" pos="VBZ" />
+<NOUN id="n0" start="48" end="53" text="price" comment="" />
+<NOUN id="n1" start="154" end="159" text="offer" comment="" />
+<NOUN id="n2" start="283" end="290" text="billion" comment="" />
+<NOUN id="n3" start="309" end="313" text="some" comment="" />
+<NOUN id="n4" start="346" end="347" text="%" comment="" />
+<NOUN id="n5" start="392" end="396" text="move" comment="" />
+<NOUN id="n6" start="440" end="447" text="attempt" comment="" />
+<NOUN id="n7" start="614" end="616" text="50" comment="" />
+<NOUN id="n8" start="701" end="706" text="offer" comment="" />
+<NOUN id="n9" start="967" end="974" text="million" comment="" />
+<NOUN id="n10" start="1040" end="1047" text="million" comment="" />
+<NOUN id="n11" start="1111" end="1113" text="us" comment="" />
+<NOUN id="n12" start="1119" end="1130" text="flexibility" comment="" />
+<NOUN id="n13" start="1157" end="1160" text="bid" comment="" />
+<NOUN id="n14" start="1192" end="1197" text="price" comment="" />
+<NOUN id="n15" start="1309" end="1314" text="price" comment="" />
+<NOUN id="n16" start="1358" end="1362" text="that" comment="" />
+<NOUN id="n17" start="1446" end="1449" text="bid" comment="" />
+<NOUN id="n18" start="1475" end="1477" text="us" comment="" />
+<NOUN id="n19" start="1539" end="1543" text="plan" comment="" />
+<NOUN id="n20" start="1571" end="1573" text="it" comment="" />
+<NOUN id="n21" start="1629" end="1639" text="management" comment="" />
+<NOUN id="n22" start="1650" end="1662" text="shareholders" comment="" />
+<NOUN id="n23" start="1675" end="1679" text="them" comment="" />
+<NOUN id="n24" start="1713" end="1718" text="offer" comment="" />
+<NOUN id="n25" start="1880" end="1882" text="45" comment="" />
+<NOUN id="n26" start="1969" end="1975" text="shares" comment="" />
+<NOUN id="n27" start="2050" end="2062" text="subsidiaries" comment="" />
+<NOUN id="n28" start="2096" end="2102" text="shares" comment="" />
+<NOUN id="n29" start="2147" end="2157" text="Containers" comment="" />
+<NOUN id="n30" start="2255" end="2265" text="Containers" comment="" />
+<NOUN id="n31" start="2291" end="2296" text="stock" comment="" />
+<NOUN id="n32" start="2521" end="2527" text="issues" comment="" />
+<QLINK id="q0" fromID="s0" fromText="increase" toID="n0" toText="price" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="made" toID="n1" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="sell" toID="n2" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="use" toID="n3" toText="some" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="buy" toID="n4" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="designed" toID="n5" toText="move" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="ward" toID="n6" toText="attempt" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="offered" toID="n7" toText="50" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="sweetened" toID="n8" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="allocated" toID="n9" toText="million" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="leaving" toID="n10" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="gives" toID="n11" toText="us" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q12" fromID="s11" fromText="gives" toID="n12" toText="flexibility" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s12" fromText="raises" toID="n13" toText="bid" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="increase" toID="n14" toText="price" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="raise" toID="n15" toText="price" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s15" fromText="has" toID="n16" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s16" fromText="increase" toID="n17" toText="bid" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s17" fromText="top" toID="n18" toText="us" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s18" fromText="criticized" toID="n19" toText="plan" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s19" fromText="characterizing" toID="n20" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s20" fromText="entrench" toID="n21" toText="management" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s21" fromText="confuse" toID="n22" toText="shareholders" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="prevent" toID="n23" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="accepting" toID="n24" toText="offer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s24" fromText="receiving" toID="n25" toText="45" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s25" fromText="converted" toID="n26" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q27" fromID="s26" fromText="required" toID="n27" toText="subsidiaries" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q28" fromID="s27" fromText="place" toID="n28" toText="shares" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s28" fromText="mired" toID="n29" toText="Containers" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q30" fromID="s29" fromText="barred" toID="n30" toText="Containers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="buying" toID="n31" toText="stock" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s31" fromText="raises" toID="n32" toText="issues" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

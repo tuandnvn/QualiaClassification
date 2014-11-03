@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<DOC> 
+<DOCNO> 
+wsj_1640.mrg 
+</DOCNO> 
+<LU_ANNOTATE> 
+Electronic theft by foreign and industrial spies and disgruntled employees is costing U. S. companies billions and eroding their international competitive advantage . 
+That was the message delivered by government and private security experts at an all - day conference on corporate electronic espionage . 
+`` Hostile and even friendly nations routinely steal information from U. S. companies and share it with their own companies , '' said Noel D. Matchett , a former staffer at the federal National Security Agency and now president of Information Security Inc. , Silver Spring , Md . 
+It `` may well be '' that theft of business data is `` as serious a strategic threat to national security '' as it is a threat to the survival of victimized U. S. firms , said Michelle Van Cleave , the White House 's assistant director for National Security Affairs . 
+</LU_ANNOTATE_WC=_141> 
+The conference was jointly sponsored by the New York Institute of Technology School of Management and the Armed Forces Communications and Electronics Association , a joint industry - government trade group . 
+Any secret can be pirated , the experts said , if it is transmitted over the air . 
+Even rank amateurs can do it if they spend a few thousand dollars for a commercially available microwave receiver with amplifier and a VCR recorder . 
+They need only position themselves near a company 's satellite dish and wait . 
+`` You can have a dozen competitors stealing your secrets at the same time , '' Mr. Matchett said , adding : `` It 's a pretty good bet they wo n't get caught . '' 
+The only way to catch an electronic thief , he said , is to set him up with erroneous information . 
+<LU_ANNOTATE> 
+Even though electronic espionage may cost U. S. firms billions of dollars a year , most are n't yet taking precautions , the experts said . 
+By contrast , European firms will spend $ 150 million this year on electronic security , and are expected to spend $ 1 billion by 1992 . 
+Already many foreign firms , especially banks , have their own cryptographers , conference speakers reported . 
+Still , encrypting corporate communications is only a partial remedy . 
+</LU_ANNOTATE_WC=_145> 
+One expert , whose job is so politically sensitive that he spoke on condition that he would n't be named or quoted , said the expected influx of East European refugees over the next few years will greatly increase the chances of computer - maintenance workers , for example , doubling as foreign spies . 
+Moreover , he said , technology now exists for stealing corporate secrets after they 've been `` erased '' from a computer 's memory . 
+He said that Oliver North of Iran - Contra notoriety thought he had erased his computer but that the information was later retrieved for congressional committees to read . 
+No personal computer , not even the one on a chief executive 's desk , is safe , this speaker noted . 
+W. Mark Goode , president of Micronyx Inc. , a Richardson , Texas , firm that makes computer - security products , provided a new definition for Mikhail Gorbachev 's campaign for greater openness , known commonly as glasnost . 
+Under Mr. Gorbachev , Mr. Goode said , the Soviets are openly stealing Western corporate communications . 
+He cited the case of a Swiss oil trader who recently put out bids via telex for an oil tanker to pick up a cargo of crude in the Middle East . 
+Among the responses the Swiss trader got was one from the Soviet national shipping company , which had n't been invited to submit a bid . 
+The Soviets ' eavesdropping paid off , however , because they got the contract . 
+</DOC> 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="134" end="141" text="costing" comment="" pos="VBG" />
+<SELECTOR id="s1" start="171" end="178" text="eroding" comment="" pos="VBG" />
+<SELECTOR id="s2" start="409" end="414" text="steal" comment="" pos="VBP" />
+<SELECTOR id="s3" start="452" end="457" text="share" comment="" pos="VBP" />
+<SELECTOR id="s4" start="963" end="972" text="sponsored" comment="" pos="VBN" />
+<SELECTOR id="s5" start="1163" end="1170" text="pirated" comment="" pos="VBN" />
+<SELECTOR id="s6" start="1201" end="1212" text="transmitted" comment="" pos="VBN" />
+<SELECTOR id="s7" start="1252" end="1254" text="do" comment="" pos="VB" />
+<SELECTOR id="s8" start="1266" end="1271" text="spend" comment="" pos="VBP" />
+<SELECTOR id="s9" start="1395" end="1403" text="position" comment="" pos="VB" />
+<SELECTOR id="s10" start="1496" end="1504" text="stealing" comment="" pos="VBG" />
+<SELECTOR id="s11" start="1612" end="1618" text="caught" comment="" pos="VBN" />
+<SELECTOR id="s12" start="1641" end="1646" text="catch" comment="" pos="VB" />
+<SELECTOR id="s13" start="1685" end="1688" text="set" comment="" pos="VB" />
+<SELECTOR id="s14" start="1778" end="1782" text="cost" comment="" pos="VB" />
+<SELECTOR id="s15" start="1841" end="1847" text="taking" comment="" pos="VBG" />
+<SELECTOR id="s16" start="1916" end="1921" text="spend" comment="" pos="VB" />
+<SELECTOR id="s17" start="1991" end="1996" text="spend" comment="" pos="VB" />
+<SELECTOR id="s18" start="2068" end="2072" text="have" comment="" pos="VBP" />
+<SELECTOR id="s19" start="2140" end="2150" text="encrypting" comment="" pos="VBG" />
+<SELECTOR id="s20" start="2327" end="2332" text="named" comment="" pos="VBN" />
+<SELECTOR id="s21" start="2433" end="2441" text="increase" comment="" pos="VB" />
+<SELECTOR id="s22" start="2580" end="2588" text="stealing" comment="" pos="VBG" />
+<SELECTOR id="s23" start="2737" end="2743" text="erased" comment="" pos="VBN" />
+<SELECTOR id="s24" start="2792" end="2801" text="retrieved" comment="" pos="VBN" />
+<SELECTOR id="s25" start="3023" end="3028" text="makes" comment="" pos="VBZ" />
+<SELECTOR id="s26" start="3060" end="3068" text="provided" comment="" pos="VBD" />
+<SELECTOR id="s27" start="3235" end="3243" text="stealing" comment="" pos="VBG" />
+<SELECTOR id="s28" start="3283" end="3288" text="cited" comment="" pos="VBD" />
+<SELECTOR id="s29" start="3333" end="3336" text="put" comment="" pos="VBD" />
+<SELECTOR id="s30" start="3377" end="3381" text="pick" comment="" pos="VB" />
+<SELECTOR id="s31" start="3536" end="3543" text="invited" comment="" pos="VBN" />
+<SELECTOR id="s32" start="3547" end="3553" text="submit" comment="" pos="VB" />
+<SELECTOR id="s33" start="3625" end="3628" text="got" comment="" pos="VBD" />
+<NOUN id="n0" start="148" end="157" text="companies" comment="" />
+<NOUN id="n1" start="158" end="166" text="billions" comment="" />
+<NOUN id="n2" start="211" end="220" text="advantage" comment="" />
+<NOUN id="n3" start="415" end="426" text="information" comment="" />
+<NOUN id="n4" start="458" end="460" text="it" comment="" />
+<NOUN id="n5" start="940" end="950" text="conference" comment="" />
+<NOUN id="n6" start="1149" end="1155" text="secret" comment="" />
+<NOUN id="n7" start="1195" end="1197" text="it" comment="" />
+<NOUN id="n8" start="1255" end="1257" text="it" comment="" />
+<NOUN id="n9" start="1287" end="1294" text="dollars" comment="" />
+<NOUN id="n10" start="1404" end="1414" text="themselves" comment="" />
+<NOUN id="n11" start="1510" end="1517" text="secrets" comment="" />
+<NOUN id="n12" start="1596" end="1600" text="they" comment="" />
+<NOUN id="n13" start="1661" end="1666" text="thief" comment="" />
+<NOUN id="n14" start="1689" end="1692" text="him" comment="" />
+<NOUN id="n15" start="1789" end="1794" text="firms" comment="" />
+<NOUN id="n16" start="1795" end="1803" text="billions" comment="" />
+<NOUN id="n17" start="1848" end="1859" text="precautions" comment="" />
+<NOUN id="n18" start="1928" end="1935" text="million" comment="" />
+<NOUN id="n19" start="2001" end="2008" text="billion" comment="" />
+<NOUN id="n20" start="2083" end="2097" text="cryptographers" comment="" />
+<NOUN id="n21" start="2161" end="2175" text="communications" comment="" />
+<NOUN id="n22" start="2311" end="2313" text="he" comment="" />
+<NOUN id="n23" start="2446" end="2453" text="chances" comment="" />
+<NOUN id="n24" start="2599" end="2606" text="secrets" comment="" />
+<NOUN id="n25" start="2748" end="2756" text="computer" comment="" />
+<NOUN id="n26" start="2770" end="2781" text="information" comment="" />
+<NOUN id="n27" start="3049" end="3057" text="products" comment="" />
+<NOUN id="n28" start="3075" end="3085" text="definition" comment="" />
+<NOUN id="n29" start="3262" end="3276" text="communications" comment="" />
+<NOUN id="n30" start="3293" end="3297" text="case" comment="" />
+<NOUN id="n31" start="3341" end="3345" text="bids" comment="" />
+<NOUN id="n32" start="3387" end="3392" text="cargo" comment="" />
+<NOUN id="n33" start="3517" end="3522" text="which" comment="" />
+<NOUN id="n34" start="3556" end="3559" text="bid" comment="" />
+<NOUN id="n35" start="3633" end="3641" text="contract" comment="" />
+<QLINK id="q0" fromID="s0" fromText="costing" toID="n0" toText="companies" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q1" fromID="s0" fromText="costing" toID="n1" toText="billions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s1" fromText="eroding" toID="n2" toText="advantage" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s2" fromText="steal" toID="n3" toText="information" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s3" fromText="share" toID="n4" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s4" fromText="sponsored" toID="n5" toText="conference" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s5" fromText="pirated" toID="n6" toText="secret" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q7" fromID="s6" fromText="transmitted" toID="n7" toText="it" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q8" fromID="s7" fromText="do" toID="n8" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s8" fromText="spend" toID="n9" toText="dollars" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s9" fromText="position" toID="n10" toText="themselves" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s10" fromText="stealing" toID="n11" toText="secrets" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s11" fromText="caught" toID="n12" toText="they" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s12" fromText="catch" toID="n13" toText="thief" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s13" fromText="set" toID="n14" toText="him" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s14" fromText="cost" toID="n15" toText="firms" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q16" fromID="s14" fromText="cost" toID="n16" toText="billions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s15" fromText="taking" toID="n17" toText="precautions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s16" fromText="spend" toID="n18" toText="million" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s17" fromText="spend" toID="n19" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s18" fromText="have" toID="n20" toText="cryptographers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s19" fromText="encrypting" toID="n21" toText="communications" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s20" fromText="named" toID="n22" toText="he" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q23" fromID="s21" fromText="increase" toID="n23" toText="chances" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s22" fromText="stealing" toID="n24" toText="secrets" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s23" fromText="erased" toID="n25" toText="computer" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s24" fromText="retrieved" toID="n26" toText="information" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q27" fromID="s25" fromText="makes" toID="n27" toText="products" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s26" fromText="provided" toID="n28" toText="definition" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s27" fromText="stealing" toID="n29" toText="communications" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s28" fromText="cited" toID="n30" toText="case" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s29" fromText="put" toID="n31" toText="bids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s30" fromText="pick" toID="n32" toText="cargo" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s31" fromText="invited" toID="n33" toText="which" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q34" fromID="s32" fromText="submit" toID="n34" toText="bid" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s33" fromText="got" toID="n35" toText="contract" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

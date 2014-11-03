@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+February 26 , 1999 
+Dear , 
+Kids today face overwhelming pressures , everything from trouble at home to gangs and drugs . 
+Youngsters often find themselves feeling alienated and alone . 
+That 's where the Boys & Girls Clubs of Indianapolis come in . 
+We reach out to kids -- especially those from disadvantaged neighborhoods where the risks are highest . 
+We give them a chance to realize their own potential by giving them a place where they can develop a sense of competence , of usefulness , a sense of belonging and of influence . 
+To accomplish this , the five area Boys & Girls Clubs of Indianapolis must be open and available when the kids need them , with the staff and programs the kids need to reach and grow into responsible and caring citizens . 
+This costs money . 
+Money for programs , for equipment , and for repairs and improvements to club facilities . 
+Your contribution last year of helped us get where we are today . 
+We are counting on you now to help us get where we need to be tomorrow . 
+Would you please consider a gift of the same in 1999 ? 
+Please , give generously . 
+The kids are depending on you . 
+Respectfully , James Campbell President of the Board Deputy Chief , Indianapolis Police Department 
+A United Way Agency 
+Please detach and return in the enclosed envelope . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="40" end="44" text="face" comment="" pos="VBP" />
+<SELECTOR id="s1" start="141" end="145" text="find" comment="" pos="VBP" />
+<SELECTOR id="s2" start="360" end="364" text="give" comment="" pos="VBP" />
+<SELECTOR id="s3" start="382" end="389" text="realize" comment="" pos="VB" />
+<SELECTOR id="s4" start="413" end="419" text="giving" comment="" pos="VBG" />
+<SELECTOR id="s5" start="448" end="455" text="develop" comment="" pos="VB" />
+<SELECTOR id="s6" start="540" end="550" text="accomplish" comment="" pos="VB" />
+<SELECTOR id="s7" start="648" end="652" text="need" comment="" pos="VBP" />
+<SELECTOR id="s8" start="765" end="770" text="costs" comment="" pos="VBZ" />
+<SELECTOR id="s9" start="1030" end="1038" text="consider" comment="" pos="VB" />
+<NOUN id="n0" start="58" end="67" text="pressures" comment="" />
+<NOUN id="n1" start="146" end="156" text="themselves" comment="" />
+<NOUN id="n2" start="365" end="369" text="them" comment="" />
+<NOUN id="n3" start="372" end="378" text="chance" comment="" />
+<NOUN id="n4" start="400" end="409" text="potential" comment="" />
+<NOUN id="n5" start="420" end="424" text="them" comment="" />
+<NOUN id="n6" start="427" end="432" text="place" comment="" />
+<NOUN id="n7" start="458" end="463" text="sense" comment="" />
+<NOUN id="n8" start="551" end="555" text="this" comment="" />
+<NOUN id="n9" start="653" end="657" text="them" comment="" />
+<NOUN id="n10" start="771" end="776" text="money" comment="" />
+<NOUN id="n11" start="1041" end="1045" text="gift" comment="" />
+<QLINK id="q0" fromID="s0" fromText="face" toID="n0" toText="pressures" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="find" toID="n1" toText="themselves" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="give" toID="n2" toText="them" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q3" fromID="s2" fromText="give" toID="n3" toText="chance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s3" fromText="realize" toID="n4" toText="potential" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s4" fromText="giving" toID="n5" toText="them" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q6" fromID="s4" fromText="giving" toID="n6" toText="place" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s5" fromText="develop" toID="n7" toText="sense" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s6" fromText="accomplish" toID="n8" toText="this" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s7" fromText="need" toID="n9" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s8" fromText="costs" toID="n10" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s9" fromText="consider" toID="n11" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+August 10 , 1999 
+Mr. Caring Philanthropy 01234 Giving Way Contribution , USA 56789 
+Dear Mr. Philanthropy , 
+" The urgency you feel to make changes is just the extent that change will be made . 
+Do not sit this one out . 
+Do not play it safe . 
+Understand the world and change it where it needs to be changed ... 
+Make our society better . 
+Make a world worthy of the children that your generation will bear . " 
+-- Carl Sagan 
+You can help make positive changes in the lives of at-risk youth in central Indiana . 
+We often hear about economic poverty , but what some of these young people are growing up with is emotional poverty - they have often given up on hope and the possibility of a successful future . 
+With your help , we can change that . 
+Many Little Sisters are preparing to go back to school this fall full of hope and with a positive outlook . 
+Thanks to our Big Sisters volunteers , these young people are self - confident , believe in themselves and are beginning to realize their full potential . 
+A recent study by Public / Private Ventures ( PPV ) showed that girls who had a Big Sister for just one year : reduced first - time drug use by 46 % lowered school absenteeism by 52 % cut violent behavior by 33 % enhanced school performance showed improved peer and family relationships 
+Former Little Sister Amy , now 18 - years old , is a testament to the Big Sisters program . 
+" I was matched with my Big Sister in June of 1992 . 
+Since then , she and I have grown very close and I have been able to experience lots of new things . 
+We go to movies , dinner , concerts , and other stuff like that , but I have also been able to participate in charity events and fundraiser type things . 
+Not only did I have a lot of fun with my Big Sister , but I learned a lot from her too . 
+I have become more open-minded , more responsible , and , most importantly , I have gained a lot more self-confidence . 
+I am very thankful to the Big Sisters program for allowing me this very special opportunity . 
+In 1998 , Big Sisters served 972 young people through its many programs . 
+But the need is still great . 
+Over 170 young people are still waiting for a mentor . 
+You are an important part in making sure these young people are matched with caring adult mentors . 
+Will you make a financial gift to Big Sisters in 1999 that will ensure that more young people receive the guidance they need , that more young people stay in school , stay off drugs and make good choices ? 
+Your contribution will be used to recruit and retain quality volunteers . 
+It will also be used to help maintain the infrastructure that fosters and supports the development of effective relationships , including volunteer orientation and training and ongoing supervision and support by a professional staff . 
+This year your gift can go farther ! 
+Gifts of $ 100 or more will be matched thanks to a special 25th Anniversary $ 100,000 Challenge Grant and will be placed in the Growth For Girls Fund . 
+This fund will support the goal of having 550 mentoring relationships by the end of 1999 and 1,200 by the end of 2004 . 
+If you would like to find out more about the Big Sisters program , please call us , ( 317 ) 634-6102 and ask for Ellen Robinson . 
+Thank you very much for your time , attention and consideration . 
+Sincerely , Andrew T. Burns Patron Relations Chairperson 
+P.S. 
+When you give to Big Sisters , you can get 50 % back ! 
+For a minimum contribution of $ 250 , you become eligible for a 50 % Indiana state tax credit through the Indiana Department of Commerce Neighborhood Assistance Program ( NAP ) . 
+A limited number of credits are available . 
+To receive an application form , check the NAP box on the enclosed pledge card or call us , ( 317 ) 634-6102 , ext. 20 . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="137" end="141" text="make" comment="" pos="VB" />
+<SELECTOR id="s1" start="189" end="193" text="made" comment="" pos="VBN" />
+<SELECTOR id="s2" start="204" end="207" text="sit" comment="" pos="VB" />
+<SELECTOR id="s3" start="231" end="235" text="play" comment="" pos="VB" />
+<SELECTOR id="s4" start="247" end="257" text="Understand" comment="" pos="VB" />
+<SELECTOR id="s5" start="272" end="278" text="change" comment="" pos="VB" />
+<SELECTOR id="s6" start="405" end="409" text="bear" comment="" pos="VB" />
+<SELECTOR id="s7" start="443" end="447" text="make" comment="" pos="VB" />
+<SELECTOR id="s8" start="738" end="744" text="change" comment="" pos="VB" />
+<SELECTOR id="s9" start="986" end="993" text="realize" comment="" pos="VB" />
+<SELECTOR id="s10" start="1092" end="1095" text="had" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1129" end="1136" text="reduced" comment="" pos="VBD" />
+<SELECTOR id="s12" start="1167" end="1174" text="lowered" comment="" pos="VBD" />
+<SELECTOR id="s13" start="1202" end="1205" text="cut" comment="" pos="VBD" />
+<SELECTOR id="s14" start="1231" end="1239" text="enhanced" comment="" pos="VBD" />
+<SELECTOR id="s15" start="1259" end="1265" text="showed" comment="" pos="VBD" />
+<SELECTOR id="s16" start="1407" end="1414" text="matched" comment="" pos="VBN" />
+<SELECTOR id="s17" start="1522" end="1532" text="experience" comment="" pos="VB" />
+<SELECTOR id="s18" start="1725" end="1729" text="have" comment="" pos="VB" />
+<SELECTOR id="s19" start="1770" end="1777" text="learned" comment="" pos="VBD" />
+<SELECTOR id="s20" start="1884" end="1890" text="gained" comment="" pos="VBN" />
+<SELECTOR id="s21" start="1971" end="1979" text="allowing" comment="" pos="VBG" />
+<SELECTOR id="s22" start="2038" end="2044" text="served" comment="" pos="VBD" />
+<SELECTOR id="s23" start="2242" end="2249" text="matched" comment="" pos="VBN" />
+<SELECTOR id="s24" start="2288" end="2292" text="make" comment="" pos="VB" />
+<SELECTOR id="s25" start="2373" end="2380" text="receive" comment="" pos="VBP" />
+<SELECTOR id="s26" start="2446" end="2450" text="stay" comment="" pos="VB" />
+<SELECTOR id="s27" start="2465" end="2469" text="make" comment="" pos="VB" />
+<SELECTOR id="s28" start="2512" end="2516" text="used" comment="" pos="VBN" />
+<SELECTOR id="s29" start="2532" end="2538" text="retain" comment="" pos="VB" />
+<SELECTOR id="s30" start="2577" end="2581" text="used" comment="" pos="VBN" />
+<SELECTOR id="s31" start="2590" end="2598" text="maintain" comment="" pos="VB" />
+<SELECTOR id="s32" start="2635" end="2643" text="supports" comment="" pos="VBZ" />
+<SELECTOR id="s33" start="2866" end="2873" text="matched" comment="" pos="VBN" />
+<SELECTOR id="s34" start="3003" end="3010" text="support" comment="" pos="VB" />
+<SELECTOR id="s35" start="3023" end="3029" text="having" comment="" pos="VBG" />
+<SELECTOR id="s36" start="3130" end="3134" text="find" comment="" pos="VB" />
+<SELECTOR id="s37" start="3183" end="3187" text="call" comment="" pos="VB" />
+<SELECTOR id="s38" start="3240" end="3245" text="Thank" comment="" pos="VBP" />
+<SELECTOR id="s39" start="3410" end="3413" text="get" comment="" pos="VB" />
+<SELECTOR id="s40" start="3655" end="3662" text="receive" comment="" pos="VB" />
+<SELECTOR id="s41" start="3685" end="3690" text="check" comment="" pos="VB" />
+<SELECTOR id="s42" start="3734" end="3738" text="call" comment="" pos="VB" />
+<NOUN id="n0" start="142" end="149" text="changes" comment="" />
+<NOUN id="n1" start="174" end="180" text="change" comment="" />
+<NOUN id="n2" start="213" end="216" text="one" comment="" />
+<NOUN id="n3" start="236" end="238" text="it" comment="" />
+<NOUN id="n4" start="262" end="267" text="world" comment="" />
+<NOUN id="n5" start="279" end="281" text="it" comment="" />
+<NOUN id="n6" start="379" end="383" text="that" comment="" />
+<NOUN id="n7" start="457" end="464" text="changes" comment="" />
+<NOUN id="n8" start="745" end="749" text="that" comment="" />
+<NOUN id="n9" start="1005" end="1014" text="potential" comment="" />
+<NOUN id="n10" start="1102" end="1108" text="Sister" comment="" />
+<NOUN id="n11" start="1155" end="1158" text="use" comment="" />
+<NOUN id="n12" start="1182" end="1193" text="absenteeism" comment="" />
+<NOUN id="n13" start="1214" end="1222" text="behavior" comment="" />
+<NOUN id="n14" start="1247" end="1258" text="performance" comment="" />
+<NOUN id="n15" start="1291" end="1304" text="relationships" comment="" />
+<NOUN id="n16" start="1401" end="1402" text="I" comment="" />
+<NOUN id="n17" start="1533" end="1537" text="lots" comment="" />
+<NOUN id="n18" start="1732" end="1735" text="lot" comment="" />
+<NOUN id="n19" start="1780" end="1783" text="lot" comment="" />
+<NOUN id="n20" start="1902" end="1917" text="self-confidence" comment="" />
+<NOUN id="n21" start="1980" end="1982" text="me" comment="" />
+<NOUN id="n22" start="2001" end="2012" text="opportunity" comment="" />
+<NOUN id="n23" start="2055" end="2061" text="people" comment="" />
+<NOUN id="n24" start="2231" end="2237" text="people" comment="" />
+<NOUN id="n25" start="2305" end="2309" text="gift" comment="" />
+<NOUN id="n26" start="2385" end="2393" text="guidance" comment="" />
+<NOUN id="n27" start="2455" end="2460" text="drugs" comment="" />
+<NOUN id="n28" start="2475" end="2482" text="choices" comment="" />
+<NOUN id="n29" start="2491" end="2503" text="contribution" comment="" />
+<NOUN id="n30" start="2547" end="2557" text="volunteers" comment="" />
+<NOUN id="n31" start="2561" end="2563" text="It" comment="" />
+<NOUN id="n32" start="2603" end="2617" text="infrastructure" comment="" />
+<NOUN id="n33" start="2648" end="2659" text="development" comment="" />
+<NOUN id="n34" start="2835" end="2840" text="Gifts" comment="" />
+<NOUN id="n35" start="3015" end="3019" text="goal" comment="" />
+<NOUN id="n36" start="3044" end="3057" text="relationships" comment="" />
+<NOUN id="n37" start="3139" end="3143" text="more" comment="" />
+<NOUN id="n38" start="3188" end="3190" text="us" comment="" />
+<NOUN id="n39" start="3246" end="3249" text="you" comment="" />
+<NOUN id="n40" start="3417" end="3418" text="%" comment="" />
+<NOUN id="n41" start="3678" end="3682" text="form" comment="" />
+<NOUN id="n42" start="3699" end="3702" text="box" comment="" />
+<NOUN id="n43" start="3739" end="3741" text="us" comment="" />
+<QLINK id="q0" fromID="s0" fromText="make" toID="n0" toText="changes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="made" toID="n1" toText="change" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="sit" toID="n2" toText="one" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="play" toID="n3" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="Understand" toID="n4" toText="world" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="change" toID="n5" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="bear" toID="n6" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="make" toID="n7" toText="changes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="change" toID="n8" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="realize" toID="n9" toText="potential" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="had" toID="n10" toText="Sister" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="reduced" toID="n11" toText="use" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="lowered" toID="n12" toText="absenteeism" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="cut" toID="n13" toText="behavior" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="enhanced" toID="n14" toText="performance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="showed" toID="n15" toText="relationships" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="matched" toID="n16" toText="I" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q17" fromID="s17" fromText="experience" toID="n17" toText="lots" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="have" toID="n18" toText="lot" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="learned" toID="n19" toText="lot" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="gained" toID="n20" toText="self-confidence" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="allowing" toID="n21" toText="me" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q22" fromID="s21" fromText="allowing" toID="n22" toText="opportunity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s22" fromText="served" toID="n23" toText="people" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="matched" toID="n24" toText="people" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q25" fromID="s24" fromText="make" toID="n25" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s25" fromText="receive" toID="n26" toText="guidance" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s26" fromText="stay" toID="n27" toText="drugs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s27" fromText="make" toID="n28" toText="choices" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s28" fromText="used" toID="n29" toText="contribution" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q30" fromID="s29" fromText="retain" toID="n30" toText="volunteers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s30" fromText="used" toID="n31" toText="It" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q32" fromID="s31" fromText="maintain" toID="n32" toText="infrastructure" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s32" fromText="supports" toID="n33" toText="development" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s33" fromText="matched" toID="n34" toText="Gifts" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q35" fromID="s34" fromText="support" toID="n35" toText="goal" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s35" fromText="having" toID="n36" toText="relationships" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s36" fromText="find" toID="n37" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s37" fromText="call" toID="n38" toText="us" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s38" fromText="Thank" toID="n39" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q40" fromID="s39" fromText="get" toID="n40" toText="%" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q41" fromID="s40" fromText="receive" toID="n41" toText="form" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q42" fromID="s41" fromText="check" toID="n42" toText="box" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q43" fromID="s42" fromText="call" toID="n43" toText="us" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

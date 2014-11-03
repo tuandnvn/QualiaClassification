@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+June 1 , 1998 
+BOYS & Girls Club OF INDIANAPOLIS 
+Dear Friend , 
+It 's summertime , so it must be time for CAMP ! 
+Yes , it 's that time of the year -- the start of the Boys & Girls clubs of Indianapolis ' Camp . 
+Six weeks of learning and exploring , sports , arts , and fellowship . 
+A time for a youngster to enjoy the fun and benefits of residential camp living , dedicated staff and instruction , and a chance to make special friends . 
+I know you 're committed to ensuring today 's children have safe , healthy , and positive summer experiences . 
+That 's why I want you to learn more about the Super Summer Safari Camp . 
+At Super Summer Safari Camp , there are daily sports , nature , and arts activities . 
+In addition to the fun stuff , important life-skills such as self-esteem , leadership , and interpersonal cooperation are being developed . 
+Please read the enclosed brochure for more information on the wonderful Super Summer Safari Camp ! 
+It costs $ 225 to send one child to camp . 
+Many members of the Boys & Girls Clubs of Indianapolis ca n't afford to go to camp without financial assistance , and that 's why we need you ! 
+Please make camp possible for all deserving Indianapolis children and send in a tax deductible contribution today in the enclosed envelope . 
+Consider sponsoring 1 , 2 , or 3 children . 
+No matter the size of the donation , please know that your gift will be appreciated and make a difference . 
+Sincerely , Richard Dickinson 
+P.S. 
+You can make a difference in a child 's life . 
+Sponsor a child at the Boys & Girls Clubs of Indianapolis ' summer camp today ! 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="313" end="318" text="enjoy" comment="" pos="VB" />
+<SELECTOR id="s1" start="419" end="423" text="make" comment="" pos="VB" />
+<SELECTOR id="s2" start="458" end="467" text="committed" comment="" pos="VBN" />
+<SELECTOR id="s3" start="498" end="502" text="have" comment="" pos="VBP" />
+<SELECTOR id="s4" start="581" end="586" text="learn" comment="" pos="VB" />
+<SELECTOR id="s5" start="845" end="854" text="developed" comment="" pos="VBN" />
+<SELECTOR id="s6" start="865" end="869" text="read" comment="" pos="VB" />
+<SELECTOR id="s7" start="961" end="966" text="costs" comment="" pos="VBZ" />
+<SELECTOR id="s8" start="976" end="980" text="send" comment="" pos="VB" />
+<SELECTOR id="s9" start="1135" end="1139" text="need" comment="" pos="VBP" />
+<SELECTOR id="s10" start="1217" end="1221" text="send" comment="" pos="VB" />
+<SELECTOR id="s11" start="1298" end="1308" text="sponsoring" comment="" pos="VBG" />
+<SELECTOR id="s12" start="1406" end="1417" text="appreciated" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1422" end="1426" text="make" comment="" pos="VB" />
+<SELECTOR id="s14" start="1488" end="1492" text="make" comment="" pos="VB" />
+<SELECTOR id="s15" start="1528" end="1535" text="Sponsor" comment="" pos="VB" />
+<NOUN id="n0" start="323" end="326" text="fun" comment="" />
+<NOUN id="n1" start="432" end="439" text="friends" comment="" />
+<NOUN id="n2" start="450" end="453" text="you" comment="" />
+<NOUN id="n3" start="540" end="551" text="experiences" comment="" />
+<NOUN id="n4" start="587" end="591" text="more" comment="" />
+<NOUN id="n5" start="758" end="769" text="life-skills" comment="" />
+<NOUN id="n6" start="883" end="891" text="brochure" comment="" />
+<NOUN id="n7" start="969" end="972" text="225" comment="" />
+<NOUN id="n8" start="985" end="990" text="child" comment="" />
+<NOUN id="n9" start="1140" end="1143" text="you" comment="" />
+<NOUN id="n10" start="1242" end="1254" text="contribution" comment="" />
+<NOUN id="n11" start="1322" end="1330" text="children" comment="" />
+<NOUN id="n12" start="1393" end="1397" text="gift" comment="" />
+<NOUN id="n13" start="1429" end="1439" text="difference" comment="" />
+<NOUN id="n14" start="1495" end="1505" text="difference" comment="" />
+<NOUN id="n15" start="1538" end="1543" text="child" comment="" />
+<QLINK id="q0" fromID="s0" fromText="enjoy" toID="n0" toText="fun" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="make" toID="n1" toText="friends" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="committed" toID="n2" toText="you" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="have" toID="n3" toText="experiences" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="learn" toID="n4" toText="more" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="developed" toID="n5" toText="life-skills" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q6" fromID="s6" fromText="read" toID="n6" toText="brochure" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="costs" toID="n7" toText="225" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="send" toID="n8" toText="child" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="need" toID="n9" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="send" toID="n10" toText="contribution" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="sponsoring" toID="n11" toText="children" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="appreciated" toID="n12" toText="gift" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s13" fromText="make" toID="n13" toText="difference" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="make" toID="n14" toText="difference" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="Sponsor" toID="n15" toText="child" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

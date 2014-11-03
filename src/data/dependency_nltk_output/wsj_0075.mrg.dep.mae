@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+The Treasury said it plans to sell $ 30 billion in notes and bonds next week , but said the auctions will be postponed unless Congress acts quickly to lift the federal debt ceiling . 
+Michael Basham , deputy assistant secretary for federal finance , said the Treasury may wait until late Monday or even early Tuesday to announce whether the autions are to be rescheduled . 
+Unless it can raise money in financial markets , Mr. Basham said , the federal government wo n't have the cash to pay off $ 13.8 billion in Treasury bills that mature on Thursday . 
+Without congressional action , the Treasury ca n't sell any new securities -- even savings bonds . 
+But despite partisan bickering over the debt ceiling , which has become entangled in the fight over cutting capital-gains taxes , Congress is almost certain to act in time to avoid default . 
+`` Each day that Congress fails to act ... will cause additional disruption in our borrowing schedule , possibly resulting in higher interest costs to the taxpayer , '' Treasury Secretary Nicholas Brady said in a speech prepared for delivery last night to a group of bankers . 
+`` To avoid these costs , and a possible default , immediate action is imperative . '' 
+The securities to be sold next week will raise about $ 10 billion in cash and redeem $ 20 billion in maturing notes . 
+The new securities , part of the federal government 's regular quarterly refunding , will consist of : 
+-- $ 10 billion of three-year notes , to be auctioned Tuesday and to mature Nov. 15 , 1992 . 
+-- $ 10 billion of 10-year notes , to be auctioned Wednesday and to mature Nov. 15 , 1999 . 
+-- $ 10 billion of 30-year bonds , to be auctioned Thursday and to mature Aug. 15 , 2019 . 
+The Treasury also said it plans to sell $ 10 billion in 36-day cash management bills on Thursday . 
+They will mature Dec. 21 . 
+None of the securities will be eligible for when-issued trading until Congress approves an increase in the debt ceiling , clearing the way for a formal offering , Mr. Basham said . 
+The Treasury said it needs to raise $ 47.5 billion in the current quarter in order to end December with a $ 20 billion cash balance . 
+Auctions held in October and those scheduled for next week will raise a total of $ 25.6 billion . 
+The remaining $ 21.9 billion could be raised through the sale of short-term Treasury bills , two-year notes in November and five-year notes in early December , the Treasury said . 
+In the first three months of 1990 , the Treasury estimates that it will have to raise between $ 45 billion and $ 50 billion , assuming that it decides to aim for a $ 10 billion cash balance at the end of March . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="31" end="35" text="sell" comment="" pos="VB" />
+<SELECTOR id="s1" start="110" end="119" text="postponed" comment="" pos="VBN" />
+<SELECTOR id="s2" start="152" end="156" text="lift" comment="" pos="VB" />
+<SELECTOR id="s3" start="389" end="394" text="raise" comment="" pos="VB" />
+<SELECTOR id="s4" start="472" end="476" text="have" comment="" pos="VB" />
+<SELECTOR id="s5" start="489" end="492" text="pay" comment="" pos="VB" />
+<SELECTOR id="s6" start="608" end="612" text="sell" comment="" pos="VB" />
+<SELECTOR id="s7" start="757" end="764" text="cutting" comment="" pos="VBG" />
+<SELECTOR id="s8" start="832" end="837" text="avoid" comment="" pos="VB" />
+<SELECTOR id="s9" start="897" end="902" text="cause" comment="" pos="VB" />
+<SELECTOR id="s10" start="1133" end="1138" text="avoid" comment="" pos="VB" />
+<SELECTOR id="s11" start="1256" end="1261" text="raise" comment="" pos="VB" />
+<SELECTOR id="s12" start="1293" end="1299" text="redeem" comment="" pos="VB" />
+<SELECTOR id="s13" start="1752" end="1756" text="sell" comment="" pos="VB" />
+<SELECTOR id="s14" start="1924" end="1932" text="approves" comment="" pos="VBZ" />
+<SELECTOR id="s15" start="1967" end="1975" text="clearing" comment="" pos="VBG" />
+<SELECTOR id="s16" start="2057" end="2062" text="raise" comment="" pos="VB" />
+<SELECTOR id="s17" start="2113" end="2116" text="end" comment="" pos="VB" />
+<SELECTOR id="s18" start="2226" end="2231" text="raise" comment="" pos="VB" />
+<SELECTOR id="s19" start="2299" end="2305" text="raised" comment="" pos="VBN" />
+<SELECTOR id="s20" start="2522" end="2527" text="raise" comment="" pos="VB" />
+<NOUN id="n0" start="41" end="48" text="billion" comment="" />
+<NOUN id="n1" start="93" end="101" text="auctions" comment="" />
+<NOUN id="n2" start="174" end="181" text="ceiling" comment="" />
+<NOUN id="n3" start="395" end="400" text="money" comment="" />
+<NOUN id="n4" start="481" end="485" text="cash" comment="" />
+<NOUN id="n5" start="504" end="511" text="billion" comment="" />
+<NOUN id="n6" start="621" end="631" text="securities" comment="" />
+<NOUN id="n7" start="779" end="784" text="taxes" comment="" />
+<NOUN id="n8" start="838" end="845" text="default" comment="" />
+<NOUN id="n9" start="914" end="924" text="disruption" comment="" />
+<NOUN id="n10" start="1145" end="1150" text="costs" comment="" />
+<NOUN id="n11" start="1273" end="1280" text="billion" comment="" />
+<NOUN id="n12" start="1305" end="1312" text="billion" comment="" />
+<NOUN id="n13" start="1762" end="1769" text="billion" comment="" />
+<NOUN id="n14" start="1936" end="1944" text="increase" comment="" />
+<NOUN id="n15" start="1980" end="1983" text="way" comment="" />
+<NOUN id="n16" start="2070" end="2077" text="billion" comment="" />
+<NOUN id="n17" start="2117" end="2125" text="December" comment="" />
+<NOUN id="n18" start="2234" end="2239" text="total" comment="" />
+<NOUN id="n19" start="2282" end="2289" text="billion" comment="" />
+<NOUN id="n20" start="2541" end="2548" text="billion" comment="" />
+<QLINK id="q0" fromID="s0" fromText="sell" toID="n0" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="postponed" toID="n1" toText="auctions" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="lift" toID="n2" toText="ceiling" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="raise" toID="n3" toText="money" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="have" toID="n4" toText="cash" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="pay" toID="n5" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="sell" toID="n6" toText="securities" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="cutting" toID="n7" toText="taxes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="avoid" toID="n8" toText="default" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="cause" toID="n9" toText="disruption" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="avoid" toID="n10" toText="costs" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="raise" toID="n11" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="redeem" toID="n12" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="sell" toID="n13" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="approves" toID="n14" toText="increase" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="clearing" toID="n15" toText="way" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="raise" toID="n16" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="end" toID="n17" toText="December" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="raise" toID="n18" toText="total" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="raised" toID="n19" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q20" fromID="s20" fromText="raise" toID="n20" toText="billion" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

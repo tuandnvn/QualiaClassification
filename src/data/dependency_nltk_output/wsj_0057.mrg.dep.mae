@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+LSI Logic Corp. reported a surprise $ 35.7 million third-quarter net loss , including a special restructuring charge that reflects a continuing industry-wide slowdown in semiconductor demand . 
+In September , the custom-chip maker said excess capacity and lagging billings would result in an estimated $ 2 million to $ 3 million net loss for the third quarter . 
+But company officials said yesterday that they decided to take a $ 43 million pretax charge for the period to cover a restructuring of world-wide manufacturing operations , citing extended weakness in the market as well as a decision to switch to more economical production techniques . 
+`` Over the summer months , there has been a slowing in the rate of new orders from the computer sector , our primary market , '' said Wilfred J. Corrigan , chairman and chief executive officer . 
+`` In addition , recent industry forecasts for 1990 indicate a slow environment , at least until midyear . '' 
+As a result , the company said it decided to phase out its oldest capacity and `` make appropriate reductions '' in operating expenses . 
+The $ 35.7 million net loss equals 86 cents a share . 
+Not counting the extraordinary charge , the company said it would have had a net loss of $ 3.1 million , or seven cents a share . 
+A year earlier , it had profit of $ 7.5 million , or 18 cents a share . 
+Revenue rose 42 % to $ 133.7 million from $ 94 million . 
+The charge partly reflects a switch from older five-inch to more-efficient six-inch silicon wafers with which to fabricate chips . 
+Related to that decision , the company said it was converting its Santa Clara , Calif. , factory to a research and development facility . 
+A spokesman declined to speculate about possible reductions in force . 
+`` This is a company that has invested in capacity additions more aggressively than any other company in the industry and now the industry is growing more slowly and they are suddenly poorly positioned , '' said Michael Stark , chip analyst at Robertson , Stephens & Co . 
+`` I think the stock is dead money for a while . '' 
+Yesterday 's announcement was made after markets closed . 
+U.S. chip makers are facing continued slack demand following a traditionally slow summer . 
+Part of the problem is that chip buyers are keeping inventories low because of jitters about the course of the U.S. economy . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="17" end="25" text="reported" comment="" pos="VBD" />
+<SELECTOR id="s1" start="123" end="131" text="reflects" comment="" pos="VBZ" />
+<SELECTOR id="s2" start="422" end="426" text="take" comment="" pos="VB" />
+<SELECTOR id="s3" start="474" end="479" text="cover" comment="" pos="VB" />
+<SELECTOR id="s4" start="537" end="543" text="citing" comment="" pos="VBG" />
+<SELECTOR id="s5" start="901" end="909" text="indicate" comment="" pos="VBP" />
+<SELECTOR id="s6" start="1005" end="1010" text="phase" comment="" pos="VB" />
+<SELECTOR id="s7" start="1042" end="1046" text="make" comment="" pos="VB" />
+<SELECTOR id="s8" start="1126" end="1132" text="equals" comment="" pos="VBZ" />
+<SELECTOR id="s9" start="1157" end="1165" text="counting" comment="" pos="VBG" />
+<SELECTOR id="s10" start="1224" end="1227" text="had" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1304" end="1307" text="had" comment="" pos="VBD" />
+<SELECTOR id="s12" start="1433" end="1441" text="reflects" comment="" pos="VBZ" />
+<SELECTOR id="s13" start="1528" end="1537" text="fabricate" comment="" pos="VB" />
+<SELECTOR id="s14" start="1598" end="1608" text="converting" comment="" pos="VBG" />
+<SELECTOR id="s15" start="2114" end="2118" text="made" comment="" pos="VBN" />
+<SELECTOR id="s16" start="2164" end="2170" text="facing" comment="" pos="VBG" />
+<NOUN id="n0" start="70" end="74" text="loss" comment="" />
+<NOUN id="n1" start="159" end="167" text="slowdown" comment="" />
+<NOUN id="n2" start="449" end="455" text="charge" comment="" />
+<NOUN id="n3" start="482" end="495" text="restructuring" comment="" />
+<NOUN id="n4" start="553" end="561" text="weakness" comment="" />
+<NOUN id="n5" start="917" end="928" text="environment" comment="" />
+<NOUN id="n6" start="1026" end="1034" text="capacity" comment="" />
+<NOUN id="n7" start="1059" end="1069" text="reductions" comment="" />
+<NOUN id="n8" start="1136" end="1141" text="cents" comment="" />
+<NOUN id="n9" start="1184" end="1190" text="charge" comment="" />
+<NOUN id="n10" start="1234" end="1238" text="loss" comment="" />
+<NOUN id="n11" start="1308" end="1314" text="profit" comment="" />
+<NOUN id="n12" start="1444" end="1450" text="switch" comment="" />
+<NOUN id="n13" start="1538" end="1543" text="chips" comment="" />
+<NOUN id="n14" start="1636" end="1643" text="factory" comment="" />
+<NOUN id="n15" start="2097" end="2109" text="announcement" comment="" />
+<NOUN id="n16" start="2187" end="2193" text="demand" comment="" />
+<QLINK id="q0" fromID="s0" fromText="reported" toID="n0" toText="loss" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="reflects" toID="n1" toText="slowdown" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="take" toID="n2" toText="charge" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="cover" toID="n3" toText="restructuring" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="citing" toID="n4" toText="weakness" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="indicate" toID="n5" toText="environment" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="phase" toID="n6" toText="capacity" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="make" toID="n7" toText="reductions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="equals" toID="n8" toText="cents" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="counting" toID="n9" toText="charge" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s10" fromText="had" toID="n10" toText="loss" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="had" toID="n11" toText="profit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="reflects" toID="n12" toText="switch" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s13" fromText="fabricate" toID="n13" toText="chips" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="converting" toID="n14" toText="factory" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s15" fromText="made" toID="n15" toText="announcement" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q16" fromID="s16" fromText="facing" toID="n16" toText="demand" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

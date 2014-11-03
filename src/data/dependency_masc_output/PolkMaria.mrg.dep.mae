@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+<TURN> 
+Welcome back to our show ! / 
+OK . / 
+This is Maria , / 
+and I do n't know your last name . / 
+<TURN> 
+Polk . / 
+<TURN> 
+Oh that 's good . / 
+From Polkton , Maria Polk . / 
+OK . / 
+And where did you grow up ? / 
+Were you born in this area here ? / 
+<TURN> 
+I was born in Cottonville . Right outside of Norwood in Stanley County . / 
+<TURN> 
+Oh , OK . / 
+When you were little , did your mom read you books , / 
+or did somebody read you books in your house ? / 
+<TURN> 
+My mama read to me and my sister . / 
+<TURN> 
+Uh-huh . / 
+What kind of books were your favorites ? / 
+Do you remember any that were maybe a real favorite of yours ? / 
+<TURN> 
+Mm , I kind of liked them all . / 
+Um , I did n't really have a favorite . / 
+<TURN> 
+No ? / 
+Any particular types , like ones with pictures or . /- 
+Can you think of a story that they told you that you liked for them to read over and over ? 
+<TURN> 
+Um , I think my favorite was like , " Little Red Riding Hood ; " / 
+I loved that book . / 
+<TURN> 
+" Little Red Riding Hood " ? / 
+So when you read to yourself did you read different stories than the ones they would read to you ? / 
+<TURN> 
+Mmm , basically , something different . / 
+<TURN> 
+Did you get to go to the library when you were little ? / 
+<TURN> 
+Uh-huh , all the time . / 
+<TURN> 
+Yeah . / 
+So , you would check books out ? / 
+<TURN> 
+Uh-huh . / 
+Mostly , I liked to spend time reading encyclopedias -- <TURN> Oh , really ? / <TURN> -- when I was little . / 
+<TURN> 
+You like to read encyclopedias . / 
+In your family , do you remember if there was any storyteller ? / 
+<TURN> 
+Well , my uncle was always telling stories / 
+and , uh , we had this house across the street from where I grew up that was old / 
+and he never finished it . / 
+He started it / 
+and he told stories that , um , um , men being in it that house at night and stuff and for us not to go outside at night . / 
+<TURN> 
+Would he scare you ? / 
+<TURN> 
+Yeah . / 
+So <disfluency> we </disfluency> , at a certain time , we were scared to go over there because we 'd always go outside and look at the house across the street . / 
+<TURN> 
+Um , did he tell stories to big groups of people , or just one - on - one ? / 
+<TURN> 
+Just to our cousins and all of us that hung around each other all the time . / 
+<TURN> 
+Uh-huh . / 
+Now , do you have kids at your house ? / 
+<TURN> 
+No . / 
+<disfluency> Only </disfluency> , only on Sunday : my niece and nephew and my cousins . / 
+<TURN> 
+Uh-huh . / 
+Do you like to read to them ? / 
+Do they bring their books over ? / 
+<TURN> 
+I read to my niece . / 
+She likes the pop-out books . / 
+<TURN> 
+Uh-huh . / 
+How old is she ? / 
+<TURN> 
+She 's , ah six . / 
+She likes the pictures that pop out at you . / 
+She likes for me to read them to her . / 
+<TURN> 
+Can she read to herself yet ? / 
+<TURN> 
+Not yet , / 
+but she tries to . / 
+Mostly , she just looks at the pictures . / 
+<TURN> 
+<disfluency> Is she </disfluency> , what grade is she in ? / 
+Do you know ? / 
+<TURN> 
+She 's in kindergarten . / 
+<TURN> 
+She 's in kindergarten ? / 
+OK . / 
+That 's pretty much all I need to know , about how you liked reading and things when you were little . / 
+Is there anything else you 'd like to say about this , that comes to your mind ? / 
+<TURN> 
+No , not so much . / 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="79" end="83" text="know" comment="" pos="VB" />
+<SELECTOR id="s1" start="230" end="234" text="born" comment="" pos="VBN" />
+<SELECTOR id="s2" start="272" end="276" text="born" comment="" pos="VBN" />
+<SELECTOR id="s3" start="399" end="403" text="read" comment="" pos="VB" />
+<SELECTOR id="s4" start="435" end="439" text="read" comment="" pos="VB" />
+<SELECTOR id="s5" start="586" end="594" text="remember" comment="" pos="VB" />
+<SELECTOR id="s6" start="668" end="673" text="liked" comment="" pos="VBD" />
+<SELECTOR id="s7" start="710" end="714" text="have" comment="" pos="VB" />
+<SELECTOR id="s8" start="838" end="842" text="told" comment="" pos="VBD" />
+<SELECTOR id="s9" start="874" end="878" text="read" comment="" pos="VB" />
+<SELECTOR id="s10" start="974" end="979" text="loved" comment="" pos="VBD" />
+<SELECTOR id="s11" start="1072" end="1076" text="read" comment="" pos="VB" />
+<SELECTOR id="s12" start="1323" end="1328" text="check" comment="" pos="VB" />
+<SELECTOR id="s13" start="1384" end="1389" text="spend" comment="" pos="VB" />
+<SELECTOR id="s14" start="1395" end="1402" text="reading" comment="" pos="VBG" />
+<SELECTOR id="s15" start="1496" end="1500" text="read" comment="" pos="VB" />
+<SELECTOR id="s16" start="1622" end="1629" text="telling" comment="" pos="VBG" />
+<SELECTOR id="s17" start="1655" end="1658" text="had" comment="" pos="VBD" />
+<SELECTOR id="s18" start="1738" end="1746" text="finished" comment="" pos="VBD" />
+<SELECTOR id="s19" start="1758" end="1765" text="started" comment="" pos="VBD" />
+<SELECTOR id="s20" start="1779" end="1783" text="told" comment="" pos="VBD" />
+<SELECTOR id="s21" start="1915" end="1920" text="scare" comment="" pos="VB" />
+<SELECTOR id="s22" start="2132" end="2136" text="tell" comment="" pos="VB" />
+<SELECTOR id="s23" start="2320" end="2324" text="have" comment="" pos="VB" />
+<SELECTOR id="s24" start="2517" end="2522" text="bring" comment="" pos="VB" />
+<SELECTOR id="s25" start="2581" end="2586" text="likes" comment="" pos="VBZ" />
+<SELECTOR id="s26" start="2683" end="2688" text="likes" comment="" pos="VBZ" />
+<SELECTOR id="s27" start="2747" end="2751" text="read" comment="" pos="VB" />
+<SELECTOR id="s28" start="3120" end="3125" text="liked" comment="" pos="VBD" />
+<NOUN id="n0" start="94" end="98" text="name" comment="" />
+<NOUN id="n1" start="226" end="229" text="you" comment="" />
+<NOUN id="n2" start="266" end="267" text="I" comment="" />
+<NOUN id="n3" start="404" end="407" text="you" comment="" />
+<NOUN id="n4" start="408" end="413" text="books" comment="" />
+<NOUN id="n5" start="440" end="443" text="you" comment="" />
+<NOUN id="n6" start="444" end="449" text="books" comment="" />
+<NOUN id="n7" start="595" end="598" text="any" comment="" />
+<NOUN id="n8" start="674" end="678" text="them" comment="" />
+<NOUN id="n9" start="717" end="725" text="favorite" comment="" />
+<NOUN id="n10" start="828" end="832" text="that" comment="" />
+<NOUN id="n11" start="843" end="846" text="you" comment="" />
+<NOUN id="n12" start="847" end="851" text="that" comment="" />
+<NOUN id="n13" start="985" end="989" text="book" comment="" />
+<NOUN id="n14" start="1087" end="1094" text="stories" comment="" />
+<NOUN id="n15" start="1329" end="1334" text="books" comment="" />
+<NOUN id="n16" start="1390" end="1394" text="time" comment="" />
+<NOUN id="n17" start="1403" end="1416" text="encyclopedias" comment="" />
+<NOUN id="n18" start="1501" end="1514" text="encyclopedias" comment="" />
+<NOUN id="n19" start="1630" end="1637" text="stories" comment="" />
+<NOUN id="n20" start="1664" end="1669" text="house" comment="" />
+<NOUN id="n21" start="1747" end="1749" text="it" comment="" />
+<NOUN id="n22" start="1766" end="1768" text="it" comment="" />
+<NOUN id="n23" start="1784" end="1791" text="stories" comment="" />
+<NOUN id="n24" start="1921" end="1924" text="you" comment="" />
+<NOUN id="n25" start="2137" end="2144" text="stories" comment="" />
+<NOUN id="n26" start="2325" end="2329" text="kids" comment="" />
+<NOUN id="n27" start="2529" end="2534" text="books" comment="" />
+<NOUN id="n28" start="2599" end="2604" text="books" comment="" />
+<NOUN id="n29" start="2693" end="2701" text="pictures" comment="" />
+<NOUN id="n30" start="2752" end="2756" text="them" comment="" />
+<NOUN id="n31" start="3126" end="3133" text="reading" comment="" />
+<QLINK id="q0" fromID="s0" fromText="know" toID="n0" toText="name" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="born" toID="n1" toText="you" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q2" fromID="s2" fromText="born" toID="n2" toText="I" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q3" fromID="s3" fromText="read" toID="n3" toText="you" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q4" fromID="s3" fromText="read" toID="n4" toText="books" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s4" fromText="read" toID="n5" toText="you" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q6" fromID="s4" fromText="read" toID="n6" toText="books" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s5" fromText="remember" toID="n7" toText="any" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s6" fromText="liked" toID="n8" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s7" fromText="have" toID="n9" toText="favorite" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q10" fromID="s8" fromText="told" toID="n10" toText="that" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q11" fromID="s8" fromText="told" toID="n11" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s9" fromText="read" toID="n12" toText="that" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q13" fromID="s10" fromText="loved" toID="n13" toText="book" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s11" fromText="read" toID="n14" toText="stories" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q15" fromID="s12" fromText="check" toID="n15" toText="books" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s13" fromText="spend" toID="n16" toText="time" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s14" fromText="reading" toID="n17" toText="encyclopedias" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s15" fromText="read" toID="n18" toText="encyclopedias" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s16" fromText="telling" toID="n19" toText="stories" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s17" fromText="had" toID="n20" toText="house" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s18" fromText="finished" toID="n21" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s19" fromText="started" toID="n22" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q23" fromID="s20" fromText="told" toID="n23" toText="stories" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s21" fromText="scare" toID="n24" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q25" fromID="s22" fromText="tell" toID="n25" toText="stories" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s23" fromText="have" toID="n26" toText="kids" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s24" fromText="bring" toID="n27" toText="books" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s25" fromText="likes" toID="n28" toText="books" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s26" fromText="likes" toID="n29" toText="pictures" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s27" fromText="read" toID="n30" toText="them" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s28" fromText="liked" toID="n31" toText="reading" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>

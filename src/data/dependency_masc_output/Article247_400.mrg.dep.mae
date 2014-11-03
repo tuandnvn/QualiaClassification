@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PartML>
+<TEXT><![CDATA[
+No More Kisses 
+In light of Secretary of State Albright 's imminent trip to the middle east , the New York Times , Los Angeles Times and Washington Post emphasize the deteriorating situation there . 
+But USA Today stays with Princess Di . 
+The NYT states that when Albright shows up on Tuesday , she will " read the riot act " to Yassir Arafat about cracking down on terrorism . 
+Her goal will be to get Arafat to come out decisively and publicly for peace with Israel , telling him that there can be no more attempts at co-opting Hamas , and " no more kisses " of its leaders . 
+The Times emphasizes the larger geopolitical context . 
+Given that the troubles on the West Bank have not only frosted relations between Arafat and Israel , but also those between Israel and Egypt and between Israel and Saudi Arabia , the paper states that the U.S. is now facing the prospect that the moderate Arab coalition it built after the Persian Gulf war to contain Iraq and Iran is falling apart . 
+The LAT focuses on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon , dissension fueled when an Israeli commando raid there late last week was ambushed , with twelve deaths the result . 
+Perhaps the most striking indicator of a change of mood inside the government reported by the paper is the news that cabinet member Ariel Sharon , who as Defense Minister in 1982 got Israel entrenched in Lebanon in the first place , is among those urging a reconsideration of the deployment . 
+Several papers have word that H and R Block has finally wriggled out of its controlling stake of Compuserve , but it 's the Post with the news that AOL is set to take it over . 
+The Wall Street Journal " Outlook " observes , " In the U.S. job market , the balance of power is shifting to employees from employers , " and states that " the retention frenzy was triggered in part by previous waves of corporate downsizing , " which left behind survivors who took stock of career options and used Internet job listings and intensified recruiting to land better offers , which in turn led to counter-offers and higher salaries . 
+This has led , says the Journal , to annual compensation rising 5 - 6 percent a year . 
+Much of the continuing Diana coverage is spinning off into the realm of meta - and meta-meta-pieces . 
+The LAT , for instance , examines what it takes to be a new " cuddly - feely " Britain born of the national grief experience . 
+But USAT and the WP also each run pretty newsy Diana pieces as well . 
+Both reveal that Tony Blair had conferred with Diana about a goodwill ambassador job shortly before her death , and USAT reports that Le Figaro says a dying Diana gave two crash witnesses a message for her family and children . 
+Give the NYT credit for getting Mother Teresa back on the front page and a bonus point for including some criticism of her in the story . 
+" Not everyone in Calcutta , or India for that matter , is unanimous in praising the nun , whose organization was able to raise millions of dollars worldwide but made virtually no significant changes in the social structure of this collapsing city 's poor neighborhoods . 
+Salvation -- hers and that of the destitute she rescued from the gutters -- was her aim , not economic or social development as many others understand it , she said . " 
+It 's odd , however , that in repeating this charge , the Times did n't interview the man most closely associated with it , Christopher Hitchens , or refer to the book where he set it out , The Missionary Position . 
+Hmmm , wan na bet there was a copy of the book on somebody 's desk at the Times though ? 
+What 's with the top-of-the-front headline the LAT puts over its picture of Martina Hingis standing next to Venus Williams after beating her at the U.S. Open -- " Venus Brought Back to Earth " ? 
+Does n't that sound like celebrating a defeat rather than celebrating a victory ? 
+How odd -- and a good illustration of how trying to shoe-horn in a " witty " headline can drive you into an idea that does n't fit or is undeserved . 
+Given that Ms. Williams ' parents are rather protective of her and that she is a black in a still pretty - lilly - white sport , do n't be surprised if there 's a bit of a complaint about this . 
+]]></TEXT>
+<TAGS>
+<SELECTOR id="s0" start="154" end="163" text="emphasize" comment="" pos="VBP" />
+<SELECTOR id="s1" start="308" end="312" text="read" comment="" pos="VB" />
+<SELECTOR id="s2" start="472" end="479" text="telling" comment="" pos="VBG" />
+<SELECTOR id="s3" start="522" end="531" text="co-opting" comment="" pos="VBG" />
+<SELECTOR id="s4" start="591" end="601" text="emphasizes" comment="" pos="VBZ" />
+<SELECTOR id="s5" start="692" end="699" text="frosted" comment="" pos="VBN" />
+<SELECTOR id="s6" start="854" end="860" text="facing" comment="" pos="VBG" />
+<SELECTOR id="s7" start="946" end="953" text="contain" comment="" pos="VB" />
+<SELECTOR id="s8" start="1099" end="1107" text="maintain" comment="" pos="VB" />
+<SELECTOR id="s9" start="1210" end="1218" text="ambushed" comment="" pos="VBN" />
+<SELECTOR id="s10" start="1502" end="1508" text="urging" comment="" pos="VBG" />
+<SELECTOR id="s11" start="1563" end="1567" text="have" comment="" pos="VBP" />
+<SELECTOR id="s12" start="1703" end="1706" text="set" comment="" pos="VBN" />
+<SELECTOR id="s13" start="1710" end="1714" text="take" comment="" pos="VB" />
+<SELECTOR id="s14" start="1908" end="1917" text="triggered" comment="" pos="VBN" />
+<SELECTOR id="s15" start="1978" end="1982" text="left" comment="" pos="VBD" />
+<SELECTOR id="s16" start="2004" end="2008" text="took" comment="" pos="VBD" />
+<SELECTOR id="s17" start="2037" end="2041" text="used" comment="" pos="VBD" />
+<SELECTOR id="s18" start="2068" end="2079" text="intensified" comment="" pos="VBD" />
+<SELECTOR id="s19" start="2094" end="2098" text="land" comment="" pos="VB" />
+<SELECTOR id="s20" start="2407" end="2412" text="takes" comment="" pos="VBZ" />
+<SELECTOR id="s21" start="2523" end="2526" text="run" comment="" pos="VBP" />
+<SELECTOR id="s22" start="2727" end="2731" text="gave" comment="" pos="VBD" />
+<SELECTOR id="s23" start="2793" end="2797" text="Give" comment="" pos="VB" />
+<SELECTOR id="s24" start="2817" end="2824" text="getting" comment="" pos="VBG" />
+<SELECTOR id="s25" start="2884" end="2893" text="including" comment="" pos="VBG" />
+<SELECTOR id="s26" start="3004" end="3012" text="praising" comment="" pos="VBG" />
+<SELECTOR id="s27" start="3054" end="3059" text="raise" comment="" pos="VB" />
+<SELECTOR id="s28" start="3094" end="3098" text="made" comment="" pos="VBD" />
+<SELECTOR id="s29" start="3345" end="3355" text="understand" comment="" pos="VBP" />
+<SELECTOR id="s30" start="3405" end="3414" text="repeating" comment="" pos="VBG" />
+<SELECTOR id="s31" start="3447" end="3456" text="interview" comment="" pos="VB" />
+<SELECTOR id="s32" start="3552" end="3555" text="set" comment="" pos="VBD" />
+<SELECTOR id="s33" start="3811" end="3818" text="beating" comment="" pos="VBG" />
+<SELECTOR id="s34" start="3903" end="3914" text="celebrating" comment="" pos="VBG" />
+<SELECTOR id="s35" start="3936" end="3947" text="celebrating" comment="" pos="VBG" />
+<SELECTOR id="s36" start="4013" end="4022" text="shoe-horn" comment="" pos="VB" />
+<SELECTOR id="s37" start="4051" end="4056" text="drive" comment="" pos="VB" />
+<NOUN id="n0" start="182" end="191" text="situation" comment="" />
+<NOUN id="n1" start="322" end="325" text="act" comment="" />
+<NOUN id="n2" start="480" end="483" text="him" comment="" />
+<NOUN id="n3" start="532" end="537" text="Hamas" comment="" />
+<NOUN id="n4" start="626" end="633" text="context" comment="" />
+<NOUN id="n5" start="700" end="709" text="relations" comment="" />
+<NOUN id="n6" start="865" end="873" text="prospect" comment="" />
+<NOUN id="n7" start="954" end="958" text="Iraq" comment="" />
+<NOUN id="n8" start="1108" end="1114" text="forces" comment="" />
+<NOUN id="n9" start="1180" end="1184" text="raid" comment="" />
+<NOUN id="n10" start="1511" end="1526" text="reconsideration" comment="" />
+<NOUN id="n11" start="1568" end="1572" text="word" comment="" />
+<NOUN id="n12" start="1696" end="1699" text="AOL" comment="" />
+<NOUN id="n13" start="1715" end="1717" text="it" comment="" />
+<NOUN id="n14" start="1897" end="1903" text="frenzy" comment="" />
+<NOUN id="n15" start="1990" end="1999" text="survivors" comment="" />
+<NOUN id="n16" start="2009" end="2014" text="stock" comment="" />
+<NOUN id="n17" start="2055" end="2063" text="listings" comment="" />
+<NOUN id="n18" start="2080" end="2090" text="recruiting" comment="" />
+<NOUN id="n19" start="2106" end="2112" text="offers" comment="" />
+<NOUN id="n20" start="2399" end="2403" text="what" comment="" />
+<NOUN id="n21" start="2546" end="2552" text="pieces" comment="" />
+<NOUN id="n22" start="2742" end="2751" text="witnesses" comment="" />
+<NOUN id="n23" start="2754" end="2761" text="message" comment="" />
+<NOUN id="n24" start="2802" end="2805" text="NYT" comment="" />
+<NOUN id="n25" start="2806" end="2812" text="credit" comment="" />
+<NOUN id="n26" start="2832" end="2838" text="Teresa" comment="" />
+<NOUN id="n27" start="2899" end="2908" text="criticism" comment="" />
+<NOUN id="n28" start="3017" end="3020" text="nun" comment="" />
+<NOUN id="n29" start="3060" end="3068" text="millions" comment="" />
+<NOUN id="n30" start="3124" end="3131" text="changes" comment="" />
+<NOUN id="n31" start="3356" end="3358" text="it" comment="" />
+<NOUN id="n32" start="3420" end="3426" text="charge" comment="" />
+<NOUN id="n33" start="3461" end="3464" text="man" comment="" />
+<NOUN id="n34" start="3556" end="3558" text="it" comment="" />
+<NOUN id="n35" start="3819" end="3822" text="her" comment="" />
+<NOUN id="n36" start="3917" end="3923" text="defeat" comment="" />
+<NOUN id="n37" start="3950" end="3957" text="victory" comment="" />
+<NOUN id="n38" start="4038" end="4046" text="headline" comment="" />
+<NOUN id="n39" start="4057" end="4060" text="you" comment="" />
+<QLINK id="q0" fromID="s0" fromText="emphasize" toID="n0" toText="situation" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q1" fromID="s1" fromText="read" toID="n1" toText="act" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q2" fromID="s2" fromText="telling" toID="n2" toText="him" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q3" fromID="s3" fromText="co-opting" toID="n3" toText="Hamas" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q4" fromID="s4" fromText="emphasizes" toID="n4" toText="context" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q5" fromID="s5" fromText="frosted" toID="n5" toText="relations" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q6" fromID="s6" fromText="facing" toID="n6" toText="prospect" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q7" fromID="s7" fromText="contain" toID="n7" toText="Iraq" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q8" fromID="s8" fromText="maintain" toID="n8" toText="forces" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q9" fromID="s9" fromText="ambushed" toID="n9" toText="raid" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q10" fromID="s10" fromText="urging" toID="n10" toText="reconsideration" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q11" fromID="s11" fromText="have" toID="n11" toText="word" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q12" fromID="s12" fromText="set" toID="n12" toText="AOL" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q13" fromID="s13" fromText="take" toID="n13" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q14" fromID="s14" fromText="triggered" toID="n14" toText="frenzy" comment="" qType="FORMAL" qType2="" gramRel="nsubjpass" />
+<QLINK id="q15" fromID="s15" fromText="left" toID="n15" toText="survivors" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q16" fromID="s16" fromText="took" toID="n16" toText="stock" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q17" fromID="s17" fromText="used" toID="n17" toText="listings" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q18" fromID="s18" fromText="intensified" toID="n18" toText="recruiting" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q19" fromID="s19" fromText="land" toID="n19" toText="offers" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q20" fromID="s20" fromText="takes" toID="n20" toText="what" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q21" fromID="s21" fromText="run" toID="n21" toText="pieces" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q22" fromID="s22" fromText="gave" toID="n22" toText="witnesses" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q23" fromID="s22" fromText="gave" toID="n23" toText="message" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q24" fromID="s23" fromText="Give" toID="n24" toText="NYT" comment="" qType="FORMAL" qType2="" gramRel="iobj" />
+<QLINK id="q25" fromID="s23" fromText="Give" toID="n25" toText="credit" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q26" fromID="s24" fromText="getting" toID="n26" toText="Teresa" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q27" fromID="s25" fromText="including" toID="n27" toText="criticism" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q28" fromID="s26" fromText="praising" toID="n28" toText="nun" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q29" fromID="s27" fromText="raise" toID="n29" toText="millions" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q30" fromID="s28" fromText="made" toID="n30" toText="changes" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q31" fromID="s29" fromText="understand" toID="n31" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q32" fromID="s30" fromText="repeating" toID="n32" toText="charge" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q33" fromID="s31" fromText="interview" toID="n33" toText="man" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q34" fromID="s32" fromText="set" toID="n34" toText="it" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q35" fromID="s33" fromText="beating" toID="n35" toText="her" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q36" fromID="s34" fromText="celebrating" toID="n36" toText="defeat" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q37" fromID="s35" fromText="celebrating" toID="n37" toText="victory" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q38" fromID="s36" fromText="shoe-horn" toID="n38" toText="headline" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+<QLINK id="q39" fromID="s37" fromText="drive" toID="n39" toText="you" comment="" qType="FORMAL" qType2="" gramRel="dobj" />
+</TAGS>
+</PartML>
